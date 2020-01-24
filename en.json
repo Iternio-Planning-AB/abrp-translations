@@ -156,6 +156,8 @@
     "current": "Current",
     "to_next_stop": "to next stop",
     "to_destination": "to destination",
+    "set_home_work_title": "Set Home and Work addresses",
+    "set_home_work_description": "To set yout Home or Work address, long press the map or click the options icon next to the directions box. You will get a new page with information about that adress and options to add it as Home or Work address.",
     "set_as_home": "Set as Home",
     "set_as_work": "Set as Work",
     "home": "Home",
@@ -192,5 +194,9 @@
     "must_be_logged_in": "You must be logged in to ABRP to use this function.",
     "goto_login": "Go to ABRP login",
     "previous": "Previous",
-    "next": "Next"
+    "next": "Next",
+    "map_mode": "Map mode",
+    "send_to_tesla": "Send to Tesla",
+    "destination_sent": "Destination sent",
+    "not_set": "Not set"
 }

@@ -174,7 +174,7 @@
     "voltage": "Spänning",
     "location": "Plats",
     "link": "Koppla",
-    "link_tesla": "Länka Tesla",
+    "link_tesla": "Koppla till MyTesla",
     "mytesla_email": "MyTesla email",
     "mytesla_password": "MyTesla lösenord",
     "logout_mytesla": "Logga ut från MyTesla",
@@ -183,7 +183,7 @@
     "quick_select_car": "Välj en fordonsmodell direkt",
     "provide_token_instead": "Ange en token istället",
     "provide_mytesla_instead": "Ange inloggning istället",
-    "link_description": "Koppla ditt fordon till livedata för att enklare planera och följa upp",
+    "link_description": "Koppla ditt fordon till livedata för att enklare planera och följa upp under körning.",
     "select": "Välj",
     "error": "Fel",
     "could_not_login": "Kunde inte logga in - kontrollera inloggningsnamn och lösenord",
@@ -192,5 +192,6 @@
     "must_be_logged_in": "Du måste vara inloggad med ett ABRP-konto för att kunna använda den här funktionen.",
     "goto_login": "Gå till ABRP-inloggning",
     "previous": "Föregående",
-    "next": "Nästa"
+    "next": "Nästa",
+    "map_mode": "Kartläge"
 }
