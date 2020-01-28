@@ -193,5 +193,9 @@
     "goto_login": "Gå till ABRP-inloggning",
     "previous": "Föregående",
     "next": "Nästa",
-    "map_mode": "Kartläge"
+    "map_mode": "Kartläge",
+    "headwind": "motvind",
+    "tailwind": "medvind",
+    "charger_plan_info": "Laddarinformation från planen",
+    "charger_outlets": "Laddkontakter"
 }
