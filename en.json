@@ -217,6 +217,8 @@
     "actions": "Actions",
     "charge_up_to": "Charge up to",
     "change_departure_time": "Depart at",
-    "force_arrival_soc": "Force arrival SoC",
-    "planned_speed": "Planned speed"
+    "planned_speed": "Planned speed",
+    "time": "Time",
+    "charge_to": "Charge to",
+    "charge_at": "Charge at"
 }
