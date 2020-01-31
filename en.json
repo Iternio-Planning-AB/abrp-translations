@@ -220,5 +220,6 @@
     "planned_speed": "Planned speed",
     "time": "Time",
     "charge_to": "Charge to",
-    "charge_at": "Charge at"
+    "charge_at": "Charge at",
+    "must_select_value": "You must select a value"
 }
