@@ -257,5 +257,8 @@
     "reset_calibration": "Reset calibration",
     "reset_calibration_description": "We continuously estimate how your vehicle consumes energy while driving at different speeds. This will reset that estimate to the default consumption model for the car model.",
     "live_data_not_available": "Live data not available",
-    "live_data_not_available_description": "We cannot yet fetch live data for this car model."
+    "live_data_not_available_description": "We cannot yet fetch live data for this car model.",
+    "mytesla_poll_description": "We will poll your Tesla to see if it is active, but we will never wake it up if it is asleep. At most 24 hours after you use the app, we will reduce polling to a minimum to reduce the risk for vampire drain. This is all to provide you with the best possible service.",
+    "select_tesla": "Select your Tesla",
+    "select_tesla_description": "Select the vehicle you want to get live data from"
 }

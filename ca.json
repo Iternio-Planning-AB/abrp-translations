@@ -236,7 +236,6 @@
     "about_3": "Quan estiguis a punt per conduir, utilitza el mode de conducció d'ABRP com una eina de seguiment en temps real i fins i tot com a navegador, replanifica tant com sigui necessari obtenint sempre informació actualitzada sobre el teu trajecte.",
     "about_4": "ABRP és desenvolupat per Iternio, operat per els fundadors d'ABRP. Visita el nostre lloc web per descobrir les APIs per negocis!",
     "about_signature": "Bo i l'equip d'Iternio",
-    "at": "a",
     "could_not_update_vehicle": "No hem pogut actualitzar el vehicle",
     "could_not_logout": "No hem pogut tancar la sessió",
     "could_not_connect_car": "No hem pogut vincular el teu vehicle",
@@ -250,5 +249,13 @@
     "realtime_traffic": "Tràsit en temps real",
     "realtime_traffic_description": "Utilitza trànsit en temps real en les primeres dues parades.",
     "share_abrp_link": "Comparteix l'enllaç a ABRP",
-    "share_external_app": "Comparteix a una app de navegació"
+    "share_external_app": "Comparteix a una app de navegació",
+    "calib_ref_cons": "Consum de referència calibrat",
+    "confirm_deletion": "Confirma la supressió",
+    "confirm_deletion_description": "Estàs segur que vols suprimir aquest vehicle?",
+    "reset": "Restablir",
+    "reset_calibration": "Restablir la calibració",
+    "reset_calibration_description": "Estimem contínuament com el seu vehicle consumeix energia mentre condueix a diferents velocitats. Es restablirà l'estimació al model de consum predeterminat per el seu model de vehicle.",
+    "live_data_not_available": "Dades en temps real no disponibles",
+    "live_data_not_available_description": "Encara no podem obtenir dades en temps real en aquest model de vehicle."
 }

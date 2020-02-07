@@ -257,5 +257,6 @@
     "reset_calibration": "Återställ kalibrering",
     "reset_calibration_description": "Vi estimerar kontinuerligt fordonets förbrukning vid olika hastigheter. Detta återställer förbrukningsmodellen till den ursprungliga för bilmodellen.",
     "live_data_not_available": "Livedata inte tillgänglig",
-    "live_data_not_available_description": "Vi kan inte hämta livedata för den här bilmodellen"
+    "live_data_not_available_description": "Vi kan inte hämta livedata för den här bilmodellen",
+    "mytesla_poll_description": "Vi hämtar data från din Tesla för att se om den är aktiv, men vi väcker den aldrig om den sover. Senast 24h efter att du senast använt appen drar vi ner förfrågningarna till ett minimum för att minimera risken för ökad energiförbrukning i bilen. Allt detta görs för att kunna ge dig en så bra service som möjligt."
 }
