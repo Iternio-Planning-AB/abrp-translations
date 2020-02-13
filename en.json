@@ -145,6 +145,10 @@
     "left": "left",
     "max_speed": "max speed",
     "already_on_saved_plans": "This plan is alreay on you saved plans",
+    "save_new_or_replace": "Save as new or replace existing plan?",
+    "save_as_new_plan": "Save as new plan",
+    "replace_existing_plan": "Replace existing plan",
+    "select_plan_to_replace": "Select plan to replace",
     "plan_saved": "Plan saved",
     "to": "to",
     "edit_saved_plan": "Edit Saved Plan",
@@ -266,12 +270,12 @@
     "set_as": "Set as",
     "avoid_this_charger": "Avoid this charger",
     "prefer_or_avoid": "Prefer or avoid",
+    "how_to_treat": "How would you like to treat {{network}} chargers?",
     "prefer_or_avoid_3": "Use exclusively and prefer",
     "prefer_or_avoid_2": "Use exclusively",
     "prefer_or_avoid_1": "Prefer",
     "prefer_or_avoid_0": "Don't care",
     "prefer_or_avoid_-2": "Never use this network",
-    "update_current_soc": "Update current SoC",
     "display_mode": "Display theme",
     "display_mode_dark": "Dark",
     "display_mode_light": "Light",
@@ -282,5 +286,5 @@
     "no_network_preferences": "You don't have any network preferences",
     "allow_this_charger": "Allow this charger",
     "offline": "Offline",
-    "add_network": "Add network"
+    "charger_url": "Charger website"
 }
