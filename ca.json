@@ -209,7 +209,7 @@
     "eat_here": "Menjar aquí",
     "sleep_here": "Dormir aquí",
     "actions": "Accions",
-    "share_car": "Commpartir vehicle",
+    "share_car": "Compartir vehicle",
     "share_car_description": "Pots compartir el vehicle amb un altre usuari ABRP per tal que pugui utilitzar-lo a l'hora de planificar i veure'l al mapa.",
     "headwind": "vent de cara",
     "tailwind": "vent de cua",
@@ -257,5 +257,6 @@
     "reset_calibration": "Restablir la calibració",
     "reset_calibration_description": "Estimem contínuament com el seu vehicle consumeix energia mentre condueix a diferents velocitats. Es restablirà l'estimació al model de consum predeterminat per el seu model de vehicle.",
     "live_data_not_available": "Dades en temps real no disponibles",
-    "live_data_not_available_description": "Encara no podem obtenir dades en temps real en aquest model de vehicle."
+    "live_data_not_available_description": "Encara no podem obtenir dades en temps real en aquest model de vehicle.",
+    "set_as": "Establir com a"
 }
