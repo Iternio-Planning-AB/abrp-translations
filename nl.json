@@ -126,7 +126,7 @@
     "invalid_addresses": "Ongeldige adressen",
     "error_one_address": "Je kunt geen route plannen met één adres",
     "custom_marker": "Eigen marker",
- *   "elevation": "Hoogte",
+    "elevation": "Hoogte",
     "region": "Regio",
     "zoom_level_to_show_chargers": "Zoom niveau om laadpunten te tonen",
     "type_of_chargers": "Type laders",
@@ -224,7 +224,7 @@
     "charge_to": "Laden tot",
     "charge_at": "Laden op",
     "must_select_value": "Je moet een waarde selecteren",
-     "not_yet": "Nog niet",
+    "not_yet": "Nog niet",
     "sharing_not_yet": "Sharen  is nog niet geïmplementeerd",
     "missing_power": "Vermogen ontbreekt",
     "missing_time_or_battery": "Tijd of accu niveau ontbreekt",
@@ -257,8 +257,8 @@
     "reset_calibration": "Kalibratie Resetten",
     "reset_calibration_description": "We schatten voortdurend in hoe je voertuig energie verbruikt tijdens het rijden met verschillende snelheden. Dit zal die schatting resetten naar het standaard verbruiksmodel voor het voertuigmodel.",
     "live_data_not_available": "Live data niet beschikbaar",
-    "live_data_not_available_description": "We kunnen nog geen live gegevens ophalen voor dit voertuigmodel."
+    "live_data_not_available_description": "We kunnen nog geen live gegevens ophalen voor dit voertuigmodel.",
     "mytesla_poll_description": "We zullen uw Tesla benaderen om te kijken of deze actief is, we zullen het voertuig nooit wakker maken als deze in de slaapstand is . Na maximaal 24 hours na het gebruik van deze app, reduceren we de frequentie waarin we uw voertuig benaderen tot het mininum om het risico van van vampire drain te reduceren. Dit om je de best mogelijk service te geven.",
- 	"select_tesla": "Selecteer je Tesla",
+    "select_tesla": "Selecteer je Tesla",
     "select_tesla_description": "Selecteer het voertuig waarvoor je live data will ontvangen"
 }
