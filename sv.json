@@ -20,7 +20,7 @@
     "battery_and_chargers": "Batteri och laddare",
     "speed": "Hastighet",
     "road_conditions": "Vägförhållanden",
-    "departure_soc": "Batteri vid start",
+    "departure_soc": "SoC vid avfärd",
     "departure_soc_description": "Batteriets laddning (SoC) vid resans början.",
     "reference_consumption": "Referensförbrukning",
     "reference_consumption_description": "Förbrukning på platt mark i vid motorvägshastighet. Du kan justera denna för att passa dig och ditt fordon bättre.",
@@ -283,7 +283,7 @@
     "display_mode_automatic": "Automatisk (dag/natt)",
     "network_preferences": "Laddnätverksinställningar",
     "network_preferences_description": "Undvik, föredra eller använd enskilda laddnätverk",
-    "no_network_preferences": "Du har inga laddnätverksinställninga",
+    "no_network_preferences": "Du har inga laddnätverksinställningar - klicka på en laddare på kartan eller i planen för att lägga till.",
     "allow_this_charger": "Använd den här laddaren igen",
     "offline": "Offline",
     "charger_url": "Laddarens websida"

@@ -258,7 +258,7 @@
     "live_data_not_available": "Dades en temps real no disponibles",
     "live_data_not_available_description": "Encara no podem obtenir dades en temps real en aquest model de vehicle.",
     "set_as": "Establir com a",
-    "save_new_or_replace": "Guardar com una ruta nova o sobreescriure'n una d'existent",
+    "save_new_or_replace": "Guardar com una ruta nova o sobreescriure'n una d'existent?",
     "save_as_new_plan": "Guardar com una nova ruta",
     "replace_existing_plan": "Sobreescriure una ruta existent",
     "select_plan_to_replace": "Selecciona la ruta que vols sobreescriure",

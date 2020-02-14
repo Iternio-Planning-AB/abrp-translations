@@ -257,7 +257,7 @@
     "reset_calibration_description": "Estimamos continuamente cómo su vehículo consume energía mientras conduce a diferentes velocidades. Esto restablecerá esa estimación al modelo de consumo predeterminado para el modelo de vehículo.",
     "live_data_not_available": "Datos en vivo no disponibles",
     "live_data_not_available_description": "Todavía no podemos obtener datos en vivo para este modelo de vehículo.",
-    "save_new_or_replace": "Guardar como nuevo o reemplazar existente",
+    "save_new_or_replace": "¿Guardar como nuevo o reemplazar existente?",
     "save_as_new_plan": "Guardar como una ruta nueva",
     "replace_existing_plan": "Reemplazar una ruta existente",
     "select_plan_to_replace": "Selecciona la ruta que deseas reemplazar",
