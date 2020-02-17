@@ -267,7 +267,7 @@
     "mytesla_poll_description": "Wir fragen Deinen Tesla ab um zu sehen, ob er aktiv ist, aber wir werden ihn nie aufwecken. 24 Stunden nach der letzten App-Nutzung reduzieren wir die Abfragerate auf ein Minimum um das Risko von Vamipr-Drain zu reduzieren. Dies geschieht um Dir den bestmöglichen Service zu bieten.",
     "select_tesla": "Wähle Deinen Tesla aus:",
     "select_tesla_description": "Wähle das Fahrzeug aus, für das Du Live-Daten bekommen willst",
-    "set_as": "Setzen als"",
+    "set_as": "Setzen als",
     "avoid_this_charger": "Diesen Ladepunkt vermeiden",
     "prefer_or_avoid": "Berücksichtigen oder Vermeiden?",
     "how_to_treat": "Wie willst Du das Netzwerk {{network}} berücksichtigen?",
