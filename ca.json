@@ -286,5 +286,9 @@
     "allow_this_charger": "Permetre aquest carregador",
     "offline": "Sense connexió",
     "charger_url": "Lloc web del carregador",
-    "how_to_treat": "Com vols tractar els carregadors de la xarxa {{network}}?"
+    "how_to_treat": "Com vols tractar els carregadors de la xarxa {{network}}?",
+    "content_mode": "Mode de visualizació",
+    "charts": "Gràfics",
+    "speed_limit": "Límit de velocitat",
+    "edit_on_OSM": "Editar a OSM"
 }

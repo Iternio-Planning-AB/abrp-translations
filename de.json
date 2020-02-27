@@ -286,5 +286,9 @@
     "no_network_preferences": "Du hast aktuell keine Netzwerkvorgaben. Einen Ladepunkt auf der Karte oder im Plan anklicken um dies zu ändern.",
     "allow_this_charger": "Diesen Ladepunkt erlauben",
     "offline": "Offline",
-    "charger_url": "Webseite des Ladepunktes"
+    "charger_url": "Webseite des Ladepunktes",
+    "content_mode": "Display mode",
+    "charts": "Charts",
+    "speed_limit": "Speed limit",
+    "edit_on_OSM": "Edit in OSM"
 }

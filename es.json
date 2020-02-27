@@ -286,6 +286,9 @@
     "allow_this_charger": "Permitir este cargador",
     "offline": "Sin conexión",
     "charger_url": "Página web del cargador",
-    "how_to_treat": "¿Cómo quiere tratar los cargadores de la red {{network}}?"
-
+    "how_to_treat": "¿Cómo quiere tratar los cargadores de la red {{network}}?",
+    "content_mode": "Modo de visualización",
+    "charts": "Gráficos",
+    "speed_limit": "Límite de velocidad",
+    "edit_on_OSM": "Editar en OSM"
 }

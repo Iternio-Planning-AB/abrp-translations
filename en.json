@@ -144,7 +144,7 @@
     "use_live_data": "Use live data",
     "left": "left",
     "max_speed": "max speed",
-    "already_on_saved_plans": "This plan is alreay on you saved plans",
+    "already_on_saved_plans": "This plan is already in you saved plans",
     "save_new_or_replace": "Save as new or replace existing plan?",
     "save_as_new_plan": "Save as new plan",
     "replace_existing_plan": "Replace existing plan",
@@ -205,6 +205,7 @@
     "previous": "Previous",
     "next": "Next",
     "map_mode": "Map mode",
+    "content_mode": "Display mode",
     "send_to_tesla": "Send to Tesla",
     "destination_sent": "Destination sent",
     "not_set": "Not set",
@@ -286,5 +287,8 @@
     "no_network_preferences": "You don't have any network preferences. Click a charger on the map or in the plan to change this.",
     "allow_this_charger": "Allow this charger",
     "offline": "Offline",
-    "charger_url": "Charger website"
+    "charger_url": "Charger website",
+    "charts": "Charts",
+    "speed_limit": "Speed limit",
+    "edit_on_OSM": "Edit in OSM"
 }

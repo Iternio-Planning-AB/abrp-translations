@@ -286,5 +286,9 @@
     "no_network_preferences": "U heb geen netwerk voorkeuren. Klik op een oplaadpunt op de kaart of in uw route om voorkeuren in te stellen.",
     "allow_this_charger": "Dit oplaadpunt toestaan",
     "offline": "Offline",
-    "charger_url": "Website oplaadpunt"
+    "charger_url": "Website oplaadpunt",
+    "content_mode": "Display mode",
+    "charts": "Charts",
+    "speed_limit": "Speed limit",
+    "edit_on_OSM": "Edit in OSM"
 }

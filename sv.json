@@ -286,5 +286,9 @@
     "no_network_preferences": "Du har inga laddnätverksinställningar - klicka på en laddare på kartan eller i planen för att lägga till.",
     "allow_this_charger": "Använd den här laddaren igen",
     "offline": "Offline",
-    "charger_url": "Laddarens websida"
+    "charger_url": "Laddarens websida",
+    "content_mode": "Visning",
+    "charts": "Diagram",
+    "speed_limit": "Hastighetsbegränsning",
+    "edit_on_OSM": "Uppdatera OSM"
 }

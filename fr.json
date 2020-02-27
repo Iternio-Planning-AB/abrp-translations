@@ -286,5 +286,9 @@
     "no_network_preferences": "You don't have any network preferences. Click a charger on the map or in the plan to change this.",
     "allow_this_charger": "Allow this charger",
     "offline": "Offline",
-    "charger_url": "Charger website"
+    "charger_url": "Charger website",
+    "content_mode": "Display mode",
+    "charts": "Charts",
+    "speed_limit": "Speed limit",
+    "edit_on_OSM": "Edit in OSM"
 }
