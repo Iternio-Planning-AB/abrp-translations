@@ -275,7 +275,7 @@
     "prefer_or_avoid_1": "Preferir",
     "prefer_or_avoid_0": "Neutral",
     "prefer_or_avoid_-2": "No utilitzar mai aquesta xarxa",
-    "display_mode": "Mode de visulizació",
+    "display_mode": "Mode de visualizació",
     "display_mode_dark": "Fosc",
     "display_mode_light": "Clar",
     "display_mode_phone": "Configuració del dispositiu",
@@ -313,6 +313,8 @@
     "overwrite_car_position": "Sobreescriure la ubicació del vehicle",
     "overwrite_car_position_description": "Utilitza la ubicació del dispositiu en comptes de la del vehicle",
     "sharing_set_end_date_description": "Limita la duració del vincle",
-    "sharing_set_end_date": "Establir data límit"
+    "sharing_set_end_date": "Establir data límit",
+    "route_directions": "Indicacions de ruta",
+    "route_directions_description": "Mostrar indicacions de ruta en el mode de conducció"
 
 }

@@ -311,5 +311,7 @@
     "reset_ref_consumption": "Återställ förbrukning",
     "reset_ref_consumption_description": "Återställ den kalibrerade förbrukningsmodellen till fordonets ursprungsvärde",
     "overwrite_car_position": "Ersätt fordonsposition",
-    "overwrite_car_position_description": "Använd alltid din telefons GPS istället för livedatapositionen"
+    "overwrite_car_position_description": "Använd alltid din telefons GPS istället för livedatapositionen",
+    "route_directions": "Vägvisning",
+    "route_directions_description": "Visa körinstruktioner när du kör"
 }

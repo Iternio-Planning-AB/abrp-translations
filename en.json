@@ -313,5 +313,7 @@
     "sharing_set_end_date_description": "Limit the sharing duration",
     "sharing_set_end_date": "Set end date",
     "overwrite_car_position": "Override car position",
-    "overwrite_car_position_description": "Use your device's location instead of the car live data position"
+    "overwrite_car_position_description": "Use your device's location instead of the car live data position",
+    "route_directions": "Route directions",
+    "route_directions_description": "Show route directions while driving"
 }

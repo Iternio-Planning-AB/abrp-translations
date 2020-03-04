@@ -313,5 +313,7 @@
     "overwrite_car_position": "Sobreescribir ubicación del vehículo",
     "overwrite_car_position_description": "Utiliza la ubicación del dispositivo en vez de la del vehículo",
     "sharing_set_end_date_description": "Limita la duración del vínculo",
-    "sharing_set_end_date": "Establecer fecha límite"
+    "sharing_set_end_date": "Establecer fecha límite",
+    "route_directions": "Indicaciones de ruta",
+    "route_directions_description": "Recibir indicaciones de ruta en el modo de conducción"
 }
