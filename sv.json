@@ -348,5 +348,7 @@
     "best_option": "Bästa val",
     "to_the_charger": "Till laddaren",
     "trip_distance": "Distans",
-    "charge_duration": "Laddtid"
+    "charge_duration": "Laddtid",
+    "odometer": "Mätarställning",
+    "firmware_version": "Mjukvaruversion"
 }

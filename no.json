@@ -312,6 +312,8 @@
     "reset_ref_consumption_description": "Reset the calibrated reference consumption back to the default value",
     "overwrite_car_position": "Override car position",
     "overwrite_car_position_description": "Use your device's location instead of the car live data position",
+    "odometer": "Odometer",
+    "firmware_version": "Firmware version",
     "drives": { "zero": "No drives", "one": "One drive", "other": "{{count}} drives" },
     "add_my_car_description": "Add and save your own car",
     "route_directions": "Route directions",

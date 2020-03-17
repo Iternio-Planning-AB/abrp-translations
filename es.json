@@ -348,5 +348,7 @@
     "to_the_charger": "Hasta el cargador",
     "trip_distance": "Distancia del trayecto",
     "charge_duration": "Duración de la carga",
-    "add_my_car_description": "Añade y guarda tu vehículo"
+    "add_my_car_description": "Añade y guarda tu vehículo",
+    "odometer": "Odómetro",
+    "firmware_version": "Versión de software"
 }

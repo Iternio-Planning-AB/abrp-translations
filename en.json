@@ -352,5 +352,7 @@
     "best_option": "Best option",
     "to_the_charger": "To the charger",
     "trip_distance": "Trip distance",
-    "charge_duration": "Charge duration"
+    "charge_duration": "Charge duration",
+    "odometer": "Odometer",
+    "firmware_version": "Firmware version"
 }
