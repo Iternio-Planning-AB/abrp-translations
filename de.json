@@ -27,7 +27,7 @@
     "reference_consumption_description": "Wenn keine bessere Information vorliegt bitte den Standard verwenden.",
     "fast_chargers": "Schnelllader",
     "slow_chargers": "Langsamlader",
-    "fast_charger_descripton": "Ladeanschlüsse, die bei der Planung berücksichtigt werden sollen.",
+    "fast_charger_description": "Ladeanschlüsse, die bei der Planung berücksichtigt werden sollen.",
     "destination_arrival_soc": "SoC bei Ankunft",
     "destination_arrival_soc_description": "Der erlaubte Minimal-SoC bei Ankunft am Ziel.",
     "charger_arrival_soc": "SoC bei Ankunft an einem Ladepunkt",

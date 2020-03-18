@@ -27,7 +27,7 @@
     "reference_consumption_description": "Het referentieverbruik van het voertuig.",
     "fast_chargers": "Snelladers",
     "slow_chargers": "Langzame laders",
-    "fast_charger_descripton": "Ladertypes te gebruiken in de routeplanning.",
+    "fast_charger_description": "Ladertypes te gebruiken in de routeplanning.",
     "destination_arrival_soc": "SoC bij aankomst",
     "destination_arrival_soc_description": "Minimum SoC  bij aankomst op de eindbestemming.",
     "charger_arrival_soc": " SoC bij laadpunt",

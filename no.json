@@ -26,7 +26,7 @@
     "reference_consumption_description": "Referanseforbruk er kjøretøyets forbruk på flat bakke ved 110 km / t. Du kan justere dette slik at det passer deg og kjøretøyet ditt bedre.",
     "fast_chargers": "Hurtiglader",
     "slow_chargers": "Langsomlader",
-    "fast_charger_descripton": "Ladere som brukes automatisk i planleggingen",
+    "fast_charger_description": "Ladere som brukes automatisk i planleggingen",
     "destination_arrival_soc": "Minimum batterinivå ved ankomst",
     "destination_arrival_soc_description": "Lademargin ved ankomst til destinasjonen",
     "charger_arrival_soc": "Lademargin ved ankomst til destinasjonen",

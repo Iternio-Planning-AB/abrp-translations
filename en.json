@@ -34,7 +34,7 @@
     "reference_consumption_description": "The reference consumption of the car.",
     "fast_chargers": "Fast chargers",
     "slow_chargers": "Slow chargers",
-    "fast_charger_descripton": "Charger types to be used in the route planning.",
+    "fast_charger_description": "Charger types to be used in the route planning.",
     "destination_arrival_soc": "Destination arrival SoC",
     "destination_arrival_soc_description": "Minimum SoC allowed when arriving at the final destination.",
     "charger_arrival_soc": "Charger arrival SoC",

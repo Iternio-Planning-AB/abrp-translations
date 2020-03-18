@@ -27,7 +27,7 @@
     "reference_consumption_description": "Förbrukning på platt mark vid motorvägskörning. Du kan justera denna för att passa dig och ditt fordon bättre.",
     "fast_chargers": "Snabbladdare",
     "slow_chargers": "Destinationsladdare",
-    "fast_charger_descripton": "Laddare som används automatiskt i planeringen",
+    "fast_charger_description": "Laddare som används automatiskt i planeringen",
     "destination_arrival_soc": "Min. batteri vid ankomst",
     "destination_arrival_soc_description": "Laddningsmarginal vid ankomst till målet",
     "charger_arrival_soc": "Min. batteri vid laddare",

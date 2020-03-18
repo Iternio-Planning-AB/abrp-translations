@@ -27,7 +27,7 @@
     "reference_consumption_description": "La consommation de référence de la voiture.",
     "fast_chargers": "Chargeurs rapides",
     "slow_chargers": "Chargeurs lents",
-    "fast_charger_descripton": "Types de chargeurs à utiliser dans la planification de la route.",
+    "fast_charger_description": "Types de chargeurs à utiliser dans la planification de la route.",
     "destination_arrival_soc": "NdC d'arrivée",
     "destination_arrival_soc_description": "Niveau de charge (NdC) minimum autorisé à l'arrivée à la destination finale.",
     "charger_arrival_soc": "NdC d'arrivée chargeur",
