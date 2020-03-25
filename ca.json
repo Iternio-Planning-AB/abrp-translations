@@ -242,7 +242,6 @@
     "unnamed_car": "Vehicle sense nom",
     "no_effect": "Sense efecte",
     "charging_final_destination_instructions": "La càrrega en la destinació final no es tindrà en compte. Recorda que pots canviar el nivell de bateria amb el que arribes a la destinació final des de Configuració -> \"SoC d'arribada a destí\"",
-    "arrival_soc_final_destination_instructions": "Per establir el nivell de bateria amb el que arribes a la destinació final, has de modificar-ho des de Configuració -> \"SoC d'arribada a destí\"",
     "departure_time_destination_instructions": "No pots establir una hora de sortida per la destinació final",
     "need_to_be_onroute": "Has d'estar en una ruta",
     "realtime_traffic": "Trànsit en temps real",
@@ -350,5 +349,21 @@
     "charge_duration": "Duració de la càrrega",
     "add_my_car_description": "Afegeix i guarda el teu vehicle",
     "odometer": "Odometre",
-    "firmware_version": "Versió de software"
+    "firmware_version": "Versió de software",
+    "address_not_found": "No s'ha pogut trobat una o vàries de les adreces.",
+    "address_different_regions": "Les adreces que has proporcionat es troben en diferents regions del món. Si us plau, assegura't que siguin correctes.",
+    "about_classic": "Buscant la versió clàssica d'ABRP? Ara es troba disponible a http://abetterrouteplanner.com/classic.",
+    "cookies_message": "Utilitzant aquest lloc web estàs acceptant que guardem la teva configuració i un número d'identificació anònim en una cookie amb l'objectiu que estiguin disponibles la pròxima vegada que utilitzis ABRP.",
+    "cookies_ok": "OK",
+    "realtime_chargers": "Disponibilitat dels carregadors",
+    "realtime_chargers_description": "Tenir en compte la previsió de disponibilitat dels carregadors, en cas que estigui disponible.",
+    "charger_busy_low": "Disponible",
+    "charger_busy_medium": "Parcialment ocupat",
+    "charger_busy_high": "Molt ocupat",
+    "migrate_tesla_title": "Guarda el teu Tesla",
+    "migrate_tesla_description": "Vols guardar el teu Tesla en la nova versió d'ABRP?",
+    "out_of_order": "Fora de servei",
+    "our_app": "Descarrega l'app!",
+    "crash_message": "Oooops! ABRP ha fallat, però s'ha enviat un informe als desenvolupadors i ho arreglarem tant aviat com sigui possible.\n\nSi us plau, recarrega la pàgina o reinicia completament l'aplicació."
+
 }

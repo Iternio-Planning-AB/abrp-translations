@@ -350,5 +350,21 @@
     "best_option": "Best option",
     "to_the_charger": "To the charger",
     "trip_distance": "Trip distance",
-    "charge_duration": "Charge duration"
+    "charge_duration": "Charge duration",
+    "address_not_found": "One or more addresses could not be found.",
+    "address_different_regions": "The addresses/waypoints given are in different regions of the world. Please review that you selected the correct locations.",
+    "about_classic": "Looking for the classic ABRP web service? It has just moved to a new home, http://abetterrouteplanner.com/classic.",
+    "cookies_message": "By using this site you're accepting that we store your settings and an anonymous ID number in a cookie so that your settings remain until next time you use ABRP.",
+    "cookies_ok": "OK",
+    "cookies_no": "No!",
+    "realtime_chargers": "Charger availability",
+    "realtime_chargers_description": "Use realtime charger availability and forecast in planning, if available.",
+    "charger_busy_low": "Not busy",
+    "charger_busy_medium": "Busy",
+    "charger_busy_high": "Very busy",
+    "migrate_tesla_title": "Migrate your Tesla",
+    "migrate_tesla_description": "Do you want to save your existing Tesla in the new ABRP version?",
+    "out_of_order": "Out of order",
+    "our_app": "Download our app!",
+    "crash_message": "Oooops! ABRP crashed, but a report has been sent to the developers and we will fix it as soon as we can.\n\nPlease reload the page or kill the app."
 }
