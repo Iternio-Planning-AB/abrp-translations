@@ -364,6 +364,8 @@
     "migrate_tesla_description": "Vols guardar el teu Tesla en la nova versió d'ABRP?",
     "out_of_order": "Fora de servei",
     "our_app": "Descarrega l'app!",
-    "crash_message": "Oooops! ABRP ha fallat, però s'ha enviat un informe als desenvolupadors i ho arreglarem tant aviat com sigui possible.\n\nSi us plau, recarrega la pàgina o reinicia completament l'aplicació."
+    "crash_message": "Oooops! ABRP ha fallat, però s'ha enviat un informe als desenvolupadors i ho arreglarem tant aviat com sigui possible.\n\nSi us plau, recarrega la pàgina o reinicia completament l'aplicació.",
+    "no_position": "Sense ubicació",
+    "no_position_description": "No hem pogut accedir a la teva posició actual. Assegura't que has concedit permís de geolocalització o introdueix una adreça específica."
 
 }

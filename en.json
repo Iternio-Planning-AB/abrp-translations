@@ -369,5 +369,7 @@
     "migrate_tesla_description": "Do you want to save your existing Tesla in the new ABRP version?",
     "out_of_order": "Out of order",
     "our_app": "Download our app!",
-    "crash_message": "Oooops! ABRP crashed, but a report has been sent to the developers and we will fix it as soon as we can.\n\nPlease reload the page or kill the app."
+    "crash_message": "Oooops! ABRP crashed, but a report has been sent to the developers and we will fix it as soon as we can.\n\nPlease reload the page or kill the app.",
+    "no_position": "No position",
+    "no_position_description": "We couldn't access your current position. Make sure you allow geolocation permissions or write a specific address."
 }
