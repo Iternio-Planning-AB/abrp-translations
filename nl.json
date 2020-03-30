@@ -314,7 +314,7 @@
     "overwrite_car_position_description": "Gebuik de locatie van uw device in plaats van de live data positie van de auto",
     "odometer": "totale afstand meter",
     "firmware_version": "Firmware versie",
-    "drives": { "nul": "geen ritten", "één": "één rit", "anders": "{{count}} ritten" },
+    "drives": { "zero": "geen ritten", "one": "één rit", "other": "{{count}} ritten" },
     "add_my_car_description": "Voeg uw eigen auto toe en sla op",
     "route_directions": "Route aanwijzingen",
     "route_directions_description": "Toon route aanwijzingen tijden het rijden",
