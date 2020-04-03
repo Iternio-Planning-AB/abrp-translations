@@ -366,6 +366,15 @@
     "our_app": "Descarrega l'app!",
     "crash_message": "Oooops! ABRP ha fallat, però s'ha enviat un informe als desenvolupadors i ho arreglarem tant aviat com sigui possible.\n\nSi us plau, recarrega la pàgina o reinicia completament l'aplicació.",
     "no_position": "Sense ubicació",
-    "no_position_description": "No hem pogut accedir a la teva posició actual. Assegura't que has concedit permís de geolocalització o introdueix una adreça específica."
-
+    "no_position_description": "No hem pogut accedir a la teva posició actual. Assegura't que has concedit permís de geolocalització o introdueix una adreça específica.",
+    "departure": "Sortida",
+    "table_heading": ["Parada", "SoC d'arribada", "SoC de sortida", "Cost", "Duració de la càrrega", "Distància", "Duració de la conducció", "Arribada", "Sortida"],
+    "premium": "Premium",
+    "premium_on_app": "Per ser membre Premium si us plau dirigeixi's al web d'A Better Routeplanner.",
+    "manage_subscriptions": "Gestionar la subscripció d'ABRP",
+    "manage_subscriptions_on_app": "Per gestionar les seves subscripcions si us plau dirigeixi's al web d'A Better Routeplanner.",
+    "export_excel": "Exportar a Excel",
+    "suggest_create_an_account": "Si es registra podrà guardar les rutes i guardar el seu vehícle, d'entre moltes altres funcionalitats.",
+    "abrp_premium_membership": "Subscripció premium d'ABRP",
+    "go_premium_description": "Les funcionalitats bàsiques d'ABRP sempre seran gratuites. Tanmateix, pots treure molt més partir del planificador esdevenint un membre Premium per tant sols 5€/mes."
 }

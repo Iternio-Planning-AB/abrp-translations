@@ -355,7 +355,6 @@
     "about_classic": "Letar du efter den klassiska ABRP? Den har bara flyttat till http://abetterrouteplanner.com/classic.",
     "cookies_message": "Genom att använda den här tjänsten så accepterar du att vi sparar cookies och/eller sessions-ID för att dina inställningar och inloggningar ska finnas kvar.",
     "cookies_ok": "OK",
-    "cookies_no": "No!",
     "realtime_chargers": "Laddarstatus",
     "realtime_chargers_description": "Använd realtids laddarstatus och -prognoser, om tillgängliga.",
     "charger_busy_low": "Många lediga",
@@ -365,5 +364,27 @@
     "migrate_tesla_description": "Vill du föra över din MyTesla-inloggning till nya ABRP?",
     "out_of_order": "Ur funktion",
     "our_app": "Ladda ner vår app!",
-    "crash_message": "Ojdå! ABRP crashade, men vi har loggat vad som hände och kommer fixa det så snart som möjligt.\n\nLadda om sidan eller starta om appen för att fortsätta."
+    "crash_message": "Ojdå! ABRP crashade, men vi har loggat vad som hände och kommer fixa det så snart som möjligt.\n\nLadda om sidan eller starta om appen för att fortsätta.",
+    "departure": "Avfärd",
+    "no_position": "Ingen position",
+    "no_position_description": "Vi kunde inte hitta din position. Se till att ge ABRP rätt att använda din position eller ange en adress.",
+    "table_heading": [
+        "Plats",
+        "Ankomst-SoC",
+        "Avgångs-SoC",
+        "Kostnad",
+        "Laddningstid",
+        "Avstånd",
+        "Körtid",
+        "Ankomst",
+        "Avgång"
+    ],
+    "premium": "Premium",
+    "premium_on_app": "För att bli Premium-medlem i ABRP, gå till vår websida.",
+    "manage_subscriptions": "Hantera ABRP-medlemskap",
+    "manage_subscriptions_on_app": "För att hantera ditt medlemskap, gå till vår websida.",
+    "export_excel": "Exportera till Excel",
+    "suggest_create_an_account": "Om du skapar ett gratis ABRP-konto kommer dina inställningar sparas så att du kommer åt dem från andra enheter.",
+    "abrp_premium_membership": "ABRP Premim-medlemskap",
+    "go_premium_description": "De grundläggande funktionerna i ABRP kommer alltid vara gratis. För att få tillgång till alla fördelar och funktioner behöver du ett Premium-medlemskap, vilket endast kostar €5/månad."
 }

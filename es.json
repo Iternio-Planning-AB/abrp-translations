@@ -366,5 +366,15 @@
     "our_app": "¡Descarga la app!",
     "crash_message": "Oooops! ABRP ha fallado, pero se ha enviado un informe a los desarrolladores y lo arreglaremos lo antes posible.\n\nPor favor, recarga la página o reinicie completamente la app.",
     "no_position": "Sin ubicación",
-    "no_position_description": "No hemos podido acceder a tu ubicación actual. Asegúrate que has concedido permiso de geolocalización o introduce una dirección específica."
+    "no_position_description": "No hemos podido acceder a tu ubicación actual. Asegúrate que has concedido permiso de geolocalización o introduce una dirección específica.",
+    "departure": "Salida",
+    "table_heading": ["Parada", "SoC de llegada", "SoC de salida", "Coste", "Duración de la carga", "Distancia", "Duración de la conducción", "Llegada", "Salida"],
+    "premium": "Premium",
+    "premium_on_app": "Para ser un miembro Premium por favor dirígase a la página web de A Better Routeplanner.",
+    "manage_subscriptions": "Gestionar subscripción ABRP",
+    "manage_subscriptions_on_app": "Para gestionar sus subscripciones por favor dirígese a la página web de A Better Routeplanner.",
+    "export_excel": "Exportar a Excel",
+    "suggest_create_an_account": "Si crea una cuenta podrá guardar sus trayectos, guardar su vehículo y mucho más.",
+    "abrp_premium_membership": "Subscripción ABRP Premium",
+    "go_premium_description": "Las funcionalidades básicas de ABRP siempre serán gratuitas. Sin embargo, puede sacar mucho más partido de ABRP si se convierte en Premium por tan solo 5€/mes."
 }

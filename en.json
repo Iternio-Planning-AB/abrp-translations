@@ -224,6 +224,7 @@
     "charge_here": "Charge here",
     "departure_options": "Departure options",
     "departure_time": "Departure time",
+    "departure": "Departure",
     "arrival_time": "Arrival time",
     "arrival_soc": "Arrival SoC",
     "change_charger": "Change charger",
@@ -359,7 +360,6 @@
     "firmware_version": "Firmware version",
     "cookies_message": "By using this site you're accepting that we store your settings and an anonymous ID number in a cookie so that your settings remain until next time you use ABRP.",
     "cookies_ok": "OK",
-    "cookies_no": "No!",
     "realtime_chargers": "Charger availability",
     "realtime_chargers_description": "Use realtime charger availability and forecast in planning, if available.",
     "charger_busy_low": "Not busy",
@@ -371,5 +371,24 @@
     "our_app": "Download our app!",
     "crash_message": "Oooops! ABRP crashed, but a report has been sent to the developers and we will fix it as soon as we can.\n\nPlease reload the page or kill the app.",
     "no_position": "No position",
-    "no_position_description": "We couldn't access your current position. Make sure you allow geolocation permissions or write a specific address."
+    "no_position_description": "We couldn't access your current position. Make sure you allow geolocation permissions or write a specific address.",
+    "table_heading": [
+        "Waypoint",
+        "Arrival SoC",
+        "Depart SoC",
+        "Cost",
+        "Charge duration",
+        "Distance",
+        "Drive duration",
+        "Arrival",
+        "Departure"
+    ],
+    "premium": "Premium",
+    "premium_on_app": "To become Premium member please go to the A Better Routeplanner website.",
+    "manage_subscriptions": "Manage ABRP membership",
+    "manage_subscriptions_on_app": "To manage your subscriptions please go to the A Better Routeplanner website.",
+    "export_excel": "Export to Excel",
+    "suggest_create_an_account": "If you create an account you'll be able to save your plans, save you car, and much more.",
+    "abrp_premium_membership": "ABRP Premium membership",
+    "go_premium_description": "The basic ABRP features will always be free. However, you can get many more benefits from the planner by upgrading to Premium for as little as $5/month."
 }
