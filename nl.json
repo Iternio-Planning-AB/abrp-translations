@@ -168,6 +168,7 @@
     "vehicle_owner": "Eigenaar van het voertuig",
     "inside_temp": "Binnentemperatuur",
     "outside_temp": "Buitentemperatuur",
+    "batt_temp": "Batterijtemperatuur",
     "range": "Bereik",
     "last_update": "Laaste update",
     "live_data": "Live data",

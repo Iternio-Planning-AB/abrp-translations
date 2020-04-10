@@ -183,6 +183,7 @@
     "vehicle_owner": "Vehicle's owner",
     "inside_temp": "Inside temp",
     "outside_temp": "Outside temp",
+    "batt_temp": "Battery temp",
     "range": "Range",
     "last_update": "Last update",
     "live_data": "Live data",

@@ -166,6 +166,7 @@
     "vehicle_owner": "Propietario del vehículo",
     "inside_temp": "Temperatura int.",
     "outside_temp": "Temperatura ext.",
+    "batt_temp": "Temperatura bat.",
     "range": "Autonomia",
     "last_update": "Última actualización",
     "live_data": "Datos en tiempo real",

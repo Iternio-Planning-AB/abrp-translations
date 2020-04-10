@@ -165,6 +165,7 @@
     "vehicle_owner": "Ägare",
     "inside_temp": "Inomhustemp",
     "outside_temp": "Utomhustemp",
+    "batt_temp": "Batteritemp",
     "range": "Räckvidd",
     "last_update": "Senast updaterad",
     "live_data": "Livedata",
