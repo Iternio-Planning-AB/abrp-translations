@@ -167,6 +167,7 @@
     "inside_temp": "Temperatura int.",
     "outside_temp": "Temperatura ext.",
     "batt_temp": "Temperatura bat.",
+    "degradation": "Degradación",
     "range": "Autonomia",
     "last_update": "Última actualización",
     "live_data": "Datos en tiempo real",

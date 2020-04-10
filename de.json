@@ -165,6 +165,7 @@
     "inside_temp": "Innentemperatur",
     "outside_temp": "Außentemperatur",
     "batt_temp": "Batterietemperatur",
+    "degradation": "Degradation",
     "range": "Reichweite",
     "last_update": "Letzte Aktualisierung",
     "live_data": "Live Daten",

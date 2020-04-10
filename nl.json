@@ -169,6 +169,7 @@
     "inside_temp": "Binnentemperatuur",
     "outside_temp": "Buitentemperatuur",
     "batt_temp": "Batterijtemperatuur",
+    "degradation": "Degradatie",
     "range": "Bereik",
     "last_update": "Laaste update",
     "live_data": "Live data",

@@ -167,6 +167,7 @@
     "inside_temp": "Température intérieure",
     "outside_temp": "Température extérieure",
     "batt_temp": "Température batterie",
+    "degradation": "Dégradation",
     "range": "Autonomie",
     "last_update": "Dernière mise à jour",
     "live_data": "Données temps réel",
