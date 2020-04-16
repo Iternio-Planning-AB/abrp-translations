@@ -370,7 +370,17 @@
     "no_position": "Sin ubicación",
     "no_position_description": "No hemos podido acceder a tu ubicación actual. Asegúrate que has concedido permiso de geolocalización o introduce una dirección específica.",
     "departure": "Salida",
-    "table_heading": ["Parada", "SoC de llegada", "SoC de salida", "Coste", "Duración de la carga", "Distancia", "Duración de la conducción", "Llegada", "Salida"],
+    "table_heading": [
+        "Parada",
+        "SoC de llegada",
+        "SoC de salida",
+        "Coste",
+        "Duración de la carga",
+        "Distancia",
+        "Duración de la conducción",
+        "Llegada",
+        "Salida"
+    ],
     "premium": "Premium",
     "premium_on_app": "Para ser un miembro Premium por favor dirígase a la página web de A Better Routeplanner.",
     "manage_subscriptions": "Gestionar subscripción ABRP",
@@ -381,7 +391,21 @@
     "go_premium_description": "Las funcionalidades básicas de ABRP siempre serán gratuitas. Sin embargo, puede sacar mucho más partido de ABRP si se convierte en Premium por tan solo 5€/mes.",
     "charge": "Carga",
     "drive": "Conducción",
-    "daily_summary_export_header": ["Actividad", "Inicio", "Finalización", "Duración", "Distancia", "Ubicación inicial", "Ubicación final", "SoC inicial", "SoC final", "Energía añadida", "Odómetro inicial", "Odómetro final", "Vehículo"],
+    "daily_summary_export_header": [
+        "Actividad",
+        "Inicio",
+        "Finalización",
+        "Duración",
+        "Distancia",
+        "Ubicación inicial",
+        "Ubicación final",
+        "SoC inicial",
+        "SoC final",
+        "Energía añadida",
+        "Odómetro inicial",
+        "Odómetro final",
+        "Vehículo"
+    ],
     "on_free_trial": "Período de prueba gratuito de ABRP Premium",
     "provide_payment_method_description": "Debes proporcionar un método de pago en menos de {{count}} días.\n\nPuedes hacerlo ahora, no se te cobrará hasta que termine el período de prueba.",
     "provide_payment_method_on_app": "Para proporcionar un método de pago por favor pulse este mismo baner desde wl web de ABRP.",
@@ -413,6 +437,13 @@
     "apple_watch_2": "Vea el nivel de batería o el estado de la carga en su reloj sin tener que lidiar con su teléfono.",
     "abrp_email": "Email cuenta ABRP",
     "share_error": "No hemos podido compartir con ese usuario - puede que no tenga una cuenta ABRP.",
-    "premium_new_member": "¡Bienvenido, miembro Premium! Si no lo has hecho aún, mira todas las ventajas que te esperan:"
-
+    "premium_new_member": "¡Bienvenido, miembro Premium! Si no lo has hecho aún, mira todas las ventajas que te esperan:",
+    "long_break": "Parada larga",
+    "low_speed": "Baja velocidad",
+    "medium_speed": "Velocidad media",
+    "high_speed": "Alta velocidad",
+    "calib_ref_cons_confidence": "Precisión del consumo de referencia calibrado",
+    "calib_ref_cons_confidence_description": "",
+    "not_on_route": "No estás en la ruta",
+    "add_live_data": "Conectar datos del vehículo"
 }

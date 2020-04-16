@@ -437,5 +437,13 @@
     "apple_watch_2": "Se hur laddningen går eller var bilen befinner sig i realtid utan att plocka upp telefonen.",
     "abrp_email": "ABRP-konto (email)",
     "share_error": "Vi kunde inte dela till den emailadressen - kontot kanske inte existerar.",
-    "premium_new_member": "Välkommen som Premiummedlem! Om du inte redan har gjort det, kolla in nedan vad som väntar på dig:"
+    "premium_new_member": "Välkommen som Premiummedlem! Om du inte redan har gjort det, kolla in nedan vad som väntar på dig:",
+    "add_live_data": "Lägg till livedata",
+    "long_break": "Långpaus",
+    "low_speed": "Låg hastighet",
+    "medium_speed": "Medelhastighet",
+    "high_speed": "Hög hastighet",
+    "calib_ref_cons_confidence": "Kalibrerad referensförbrukning - kunskapsnivå",
+    "calib_ref_cons_confidence_description": "Automatisk referensförbukning baseras på data från din bil när du kör. Vi behöver data från långsam, medel och snabb körning för att skapa en säker modell. Ju närmare varje nivå är 100% desto säkrare är modellen.",
+    "not_on_route": "Du är inte på rutten"
 }

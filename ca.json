@@ -370,7 +370,17 @@
     "no_position": "Sense ubicació",
     "no_position_description": "No hem pogut accedir a la teva posició actual. Assegura't que has concedit permís de geolocalització o introdueix una adreça específica.",
     "departure": "Sortida",
-    "table_heading": ["Parada", "SoC d'arribada", "SoC de sortida", "Cost", "Duració de la càrrega", "Distància", "Duració de la conducció", "Arribada", "Sortida"],
+    "table_heading": [
+        "Parada",
+        "SoC d'arribada",
+        "SoC de sortida",
+        "Cost",
+        "Duració de la càrrega",
+        "Distància",
+        "Duració de la conducció",
+        "Arribada",
+        "Sortida"
+    ],
     "premium": "Premium",
     "premium_on_app": "Per ser membre Premium si us plau dirigeixi's al web d'A Better Routeplanner.",
     "manage_subscriptions": "Gestionar la subscripció d'ABRP",
@@ -381,7 +391,21 @@
     "go_premium_description": "Les funcionalitats bàsiques d'ABRP sempre seran gratuites. Tanmateix, pots treure molt més partir del planificador esdevenint un membre Premium per tant sols 5€/mes.",
     "charge": "Càrrega",
     "drive": "Conducció",
-    "daily_summary_export_header": ["Activitat", "Inici", "Final", "Duració", "Distància", "Ubicació inicial", "Ubicació final", "SoC inicial", "SoC final", "Energy added", "Start odometer", "End odometer", "Vehicle"],
+    "daily_summary_export_header": [
+        "Activitat",
+        "Inici",
+        "Final",
+        "Duració",
+        "Distància",
+        "Ubicació inicial",
+        "Ubicació final",
+        "SoC inicial",
+        "SoC final",
+        "Energy added",
+        "Start odometer",
+        "End odometer",
+        "Vehicle"
+    ],
     "on_free_trial": "Període de prova d'ABRP Premium",
     "provide_payment_method_description": "Has de proporcionar un mètode de pagament en un termini de {{count}} dies.\n\nPots fer-ho ara i no se't cobrarà fins que acabi el període de prova.",
     "provide_payment_method_on_app": "Per proporcionar un mètode de pagament, fes clic sobre aquest mateix baner que trobaràs al web d'ABRP.",
@@ -413,6 +437,13 @@
     "apple_watch_2": "Consulta el nivell de bateria o l'estat de la càrrega des del rellotge, sense haver de desbloquejar el telèfon.",
     "abrp_email": "Email compte ABRP",
     "share_error": "No hem pogut compartir amb aquest usuari - pot ser que no tingui un compte d'ABRP.",
-    "premium_new_member": "Benvingut, membre Premium! Si és que no ho has fet encara, dóna un cop d'ull als avantatges que t'estan esperant:"
-
+    "premium_new_member": "Benvingut, membre Premium! Si és que no ho has fet encara, dóna un cop d'ull als avantatges que t'estan esperant:",
+    "long_break": "Parada llarga",
+    "low_speed": "Baixa velocitat",
+    "medium_speed": "Velocitat mitjana",
+    "high_speed": "Alta velocitat",
+    "calib_ref_cons_confidence": "Precisió del consum de referència calibrat",
+    "calib_ref_cons_confidence_description": "",
+    "not_on_route": "No estàs a la ruta",
+    "add_live_data": "Connectar dades del vehicle"
 }

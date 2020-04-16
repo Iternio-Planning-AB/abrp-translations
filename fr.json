@@ -437,5 +437,13 @@
     "apple_watch_2": "See your most up-to-date charge or drive status on your watch without having to fiddle with your phone.",
     "abrp_email": "ABRP account email",
     "share_error": "We could not share with that user - the ABRP account may not exist.",
-    "premium_new_member": "Welcome as a Premium member! If you have not already, have a look below at all the goodies which await you:"
+    "premium_new_member": "Welcome as a Premium member! If you have not already, have a look below at all the goodies which await you:",
+    "add_live_data": "Add live data",
+    "long_break": "Long break",
+    "low_speed": "Low speed",
+    "medium_speed": "Medium speed",
+    "high_speed": "High speed",
+    "calib_ref_cons_confidence": "Calibrated reference consumption confidence",
+    "calib_ref_cons_confidence_description": "The calibration is based what we measure from the car while driving at different conditions. For example, we need a certain amount of low, medium and high speed driving to get a commplete picture of the consumption. The closer the confidence numbers are to 100% the more certain we are of the consumption.",
+    "not_on_route": "You are not on the route"
 }
