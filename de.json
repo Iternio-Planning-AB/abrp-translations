@@ -376,11 +376,11 @@
     "no_position_description": "Wir konnten nicht auf Deine aktuelle Positionsdaten zugreifen. Bitte überprüfen, dass der Zugriff auf Geodaten erlaubt ist oder gib eine genaue Adresse an.",
     "table_heading": [
         "Wegpunkt",
-        "SoC Ankunft",
-        "SoC Abfahrt",
+        "SoC Start",
+        "SoC Ende",
         "Kosten",
         "Ladedauer",
-        "Entfernung",
+        "Distanz",
         "Dauer der Fahrt",
         "Ankunft",
         "Abfahrt"
