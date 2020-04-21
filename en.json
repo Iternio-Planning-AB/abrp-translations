@@ -307,6 +307,7 @@
     "duration": "Duration",
     "distance": "Distance",
     "avg_speed": "Average speed",
+    "avg_voltage": "Average voltage",
     "export": "Export",
     "tag": "Tag",
     "favourite": "Favourite",
