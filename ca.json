@@ -445,5 +445,10 @@
     "calib_ref_cons_confidence": "Precisió del consum de referència calibrat",
     "calib_ref_cons_confidence_description": "",
     "not_on_route": "No estàs a la ruta",
-    "add_live_data": "Connectar dades del vehicle"
+    "add_live_data": "Connectar dades del vehicle",
+    "owned_by": "Propietari:",
+    "reset_settings": "Restablir configuració",
+    "reset_settings_description": "Restablir la configuració als seus valors per defecte",
+    "reset_settings_confirm": "Estàs segur que vols restablir tota la configuració?\n\n Necessitaràs iniciar sessió de nou."
+
 }

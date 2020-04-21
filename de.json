@@ -449,5 +449,9 @@
     "high_speed": "High speed",
     "calib_ref_cons_confidence": "Calibrated reference consumption confidence",
     "calib_ref_cons_confidence_description": "The calibration is based what we measure from the car while driving at different conditions. For example, we need a certain amount of low, medium and high speed driving to get a commplete picture of the consumption. The closer the confidence numbers are to 100% the more certain we are of the consumption.",
-    "not_on_route": "You are not on the route"
+    "not_on_route": "You are not on the route",
+    "owned_by": "Owned by",
+    "reset_settings": "Reset settings",
+    "reset_settings_description": "Reset all settings to the default value.",
+    "reset_settings_confirm": "Are you sure that you want to reset your settings?\n\n You will need to log in again."
 }
