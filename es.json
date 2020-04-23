@@ -168,6 +168,7 @@
     "outside_temp": "Temperatura ext.",
     "batt_temp": "Temperatura bat.",
     "degradation": "Degradación",
+    "battery_capacity": "Capacity",
     "range": "Autonomia",
     "last_update": "Última actualización",
     "live_data": "Datos en tiempo real",

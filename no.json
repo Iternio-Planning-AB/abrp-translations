@@ -166,6 +166,7 @@
     "outside_temp": "Utetemperaturen",
     "batt_temp": "Batteritemp",
     "degradation": "Degradering",
+    "battery_capacity": "Capacity",
     "range": "Rekkevidde",
     "last_update": "Sist oppdatert",
     "live_data": "Livedata",

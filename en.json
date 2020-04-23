@@ -186,6 +186,7 @@
     "outside_temp": "Outside temp",
     "batt_temp": "Battery temp",
     "degradation": "Degradation",
+    "battery_capacity": "Capacity",
     "range": "Range",
     "last_update": "Last update",
     "live_data": "Live data",

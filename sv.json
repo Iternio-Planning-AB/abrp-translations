@@ -167,6 +167,7 @@
     "outside_temp": "Utomhustemp",
     "batt_temp": "Batteritemp",
     "degradation": "Degradering",
+    "battery_capacity": "Capacity",
     "range": "Räckvidd",
     "last_update": "Senast updaterad",
     "live_data": "Livedata",
