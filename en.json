@@ -457,5 +457,8 @@
     "reset_settings_confirm": "Are you sure that you want to reset your settings?\n\n You will need to log in again.",
     "verify_email": "Verify my email",
     "verify_email_sent": "Verification email sent.",
-    "battery_capacity": "Battery capacity"
+    "battery_capacity": "Battery capacity",
+    "new_password": "New password",
+    "old_password": "Old password",
+    "change_password": "Change password"
 }
