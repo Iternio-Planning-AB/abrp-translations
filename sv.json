@@ -450,5 +450,9 @@
     "owned_by": "Ägs av",
     "reset_settings": "Återställ inställningar",
     "reset_settings_description": "Återställ all inställningar till ursprungsvärden.",
-    "reset_settings_confirm": "Är du säker på att du vill återställa inställningarna?\n\nDu kommer behöva logga in på nytt."
+    "reset_settings_confirm": "Är du säker på att du vill återställa inställningarna?\n\nDu kommer behöva logga in på nytt.",
+    "avg_voltage": "Medelspänning",
+    "verify_email": "Verifiera min email",
+    "verify_email_sent": "Verifieringsmail skickat.",
+    "battery_capacity": "Batterikapacitet"
 }

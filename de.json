@@ -454,5 +454,9 @@
     "owned_by": "Owned by",
     "reset_settings": "Reset settings",
     "reset_settings_description": "Reset all settings to the default value.",
-    "reset_settings_confirm": "Are you sure that you want to reset your settings?\n\n You will need to log in again."
+    "reset_settings_confirm": "Are you sure that you want to reset your settings?\n\n You will need to log in again.",
+    "avg_voltage": "Average voltage",
+    "verify_email": "Verify my email",
+    "verify_email_sent": "Verification email sent.",
+    "battery_capacity": "Battery capacity"
 }

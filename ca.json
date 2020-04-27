@@ -450,6 +450,9 @@
     "owned_by": "Propietari:",
     "reset_settings": "Restablir configuració",
     "reset_settings_description": "Restablir la configuració als seus valors per defecte",
-    "reset_settings_confirm": "Estàs segur que vols restablir tota la configuració?\n\n Necessitaràs iniciar sessió de nou."
-
+    "reset_settings_confirm": "Estàs segur que vols restablir tota la configuració?\n\n Necessitaràs iniciar sessió de nou.",
+    "avg_voltage": "Average voltage",
+    "verify_email": "Verify my email",
+    "verify_email_sent": "Verification email sent.",
+    "battery_capacity": "Battery capacity"
 }
