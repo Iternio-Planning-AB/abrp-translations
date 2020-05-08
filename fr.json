@@ -389,7 +389,7 @@
     "export_excel": "Exporter vers Excel",
     "suggest_create_an_account": "Si vous créez un compte, vous pourrez sauvegarder vos plans/trajets, sauvegarder votre véhicule, et bien plus encore.",
     "abrp_premium_membership": "Abonnement ABRP Premium",
-        "go_premium_description": "Les fonctionnalités de base d'ABRP seront toujours gratuites. Cependant, vous pouvez obtenir de nombreux autres avantages de planification en passant en Premium pour 5€/mois.",
+    "go_premium_description": "Les fonctionnalités de base d'ABRP seront toujours gratuites. Cependant, vous pouvez obtenir de nombreux autres avantages de planification en passant en Premium pour 5€/mois.",
     "charge": "Charge",
     "drive": "Trajet",
     "daily_summary_export_header": [
@@ -440,7 +440,7 @@
     "share_error": "Nous n'avons pas pu partager avec cet utilisateur - le compte ABRP n'existe peut-être pas.",
     "premium_new_member": "Bienvenue en tant que membre Premium ! Si vous ne l'avez pas déjà fait, regardez ci-dessous tous les goodies qui vous attendent:",
     "add_live_data": "Ajouter des données en direct",
-    "long_break": "Longue pause", 
+    "long_break": "Longue pause",
     "low_speed": "Vitesse basse",
     "medium_speed": "Vitesse moyenne",
     "high_speed": "Haute vitesse",
