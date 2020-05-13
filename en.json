@@ -499,5 +499,7 @@
     "geofence_notifications_1": "Get notified when your car arrives or leaves certain locations.",
     "geofence_notifications_2": "For example, you home and work address.",
     "full_screen": "Full screen",
-    "full_screen_description": "Hide the status bar"
+    "full_screen_description": "Hide the status bar",
+    "show_setup": "Show live data instructions",
+    "show_setup_description": "Show or hide the cards to re-link your car with A Better Routeplanner"
 }
