@@ -507,5 +507,6 @@
     "save_advanced_settings_description": "Do you want to save the changes you made in advanced settings?",
     "no_use_default": "No, use default settings",
     "link_mytesla": "Do you have a MyTesla Account?",
-    "link_mytesla_description": "If you do, you can link it so we can provide you with a much more precise planning experience"
+    "link_mytesla_description": "If you do, you can link it so we can provide you with a much more precise planning experience",
+    "notify_me": "Notify Me"
 }
