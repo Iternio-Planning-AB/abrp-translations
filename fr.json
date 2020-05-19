@@ -479,7 +479,7 @@
     "slow_chargers_zoom_level_country": "Affichage du niveau de zoom : Pays",
     "slow_chargers_zoom_level_city": "Affichage du niveau de zoom : Ville",
     "slow_chargers_zoom_level_street": "Affichage du niveau de zoom : Rue",
-    "add_ferry_line ": "Ajouter une ligne de ferry ",
+    "add_ferry_line": "Ajouter une ligne de ferry ",
     "share_map_app_picker": "Quelle application souhaitez vous utiliser ?",
     "there_is_a_faster_route": "Il existe un itinéraire plus rapide de {{duration}} ",
     "view_alternatives": "Voir les alternatives",
@@ -498,5 +498,14 @@
     "geofence_notifications_1": "Etre averti quand votre véhicule arrive ou quitte certains endroits.",
     "geofence_notifications_2": "Par exemple, votre adresse personnelle (Domicile) ou professionnelle (Travail).",
     "full_screen": "Plein écran",
-    "full_screen_description": "Cacher la barre d'état"
+    "full_screen_description": "Cacher la barre d'état",
+    "save_advanced_settings": "Keep detailed settings?",
+    "show_setup_description": "Show or hide the cards to re-link your car with A Better Routeplanner",
+    "no_use_default": "No, use default settings",
+    "edit_charger": "Edit in",
+    "link_mytesla": "Do you have a MyTesla Account?",
+    "link_mytesla_description": "If you do, you can link it so we can fetch live data from your car - it makes planning and driving much smoother.",
+    "advanced": "Detailed",
+    "show_setup": "Show live data instructions",
+    "save_advanced_settings_description": "Do you want to keep the changes you made in detailed settings?"
 }

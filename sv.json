@@ -493,6 +493,15 @@
     "charging_notifications_premium_2": "",
     "geofence_notifications": "Geofenceaviseringar",
     "geofence_notifications_1": "Få en avisering när ditt fordon ankommer till eller lämnar vissa platser",
-    "geofence_notifications_2": "Till exempel he eller arbete."
-
+    "geofence_notifications_2": "Till exempel hem eller arbete.",
+    "save_advanced_settings": "Behålla detaljerade inställningar?",
+    "full_screen_description": "Göm statusraden",
+    "show_setup_description": "Visa eller göm beskrivningen om hur du kopplar upp din bil med livedata",
+    "no_use_default": "Nej, använd standardvärden",
+    "link_mytesla": "Har du ett MyTeslakonto till din Tesla?",
+    "link_mytesla_description": "Om du har det kan vi koppla upp oss mot din bil och hämta livedata.",
+    "advanced": "Detaljerad",
+    "full_screen": "Fullskärm",
+    "show_setup": "Visa livedata-instruktioner",
+    "save_advanced_settings_description": "Vill du behålla de detaljerade inställningarna?"
 }
