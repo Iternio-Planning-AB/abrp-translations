@@ -315,6 +315,7 @@
     "pleasure": "Loisir",
     "speed_limit": "Limites de vitesse",
     "edit_on_OSM": "Editer dans OSM",
+    "edit_charger": "Editer",
     "full_calendar": "Calendrier complet",
     "average_consumption": "Consommation moyenne",
     "unknown": "Inconnu",
@@ -498,5 +499,13 @@
     "geofence_notifications_1": "Etre averti quand votre véhicule arrive ou quitte certains endroits.",
     "geofence_notifications_2": "Par exemple, votre adresse personnelle (Domicile) ou professionnelle (Travail).",
     "full_screen": "Plein écran",
-    "full_screen_description": "Cacher la barre d'état"
+    "full_screen_description": "Cacher la barre d'état",
+    "show_setup": "Afficher les instructions d'envoi de données",
+    "show_setup_description": "Afficher ou cacher les fiches de (re)connexion de votre véhicule avec A Better Routeplanner",
+    "advanced": "Detaillé",
+    "save_advanced_settings": "Conserver le paramétrage détaillé ?",
+    "save_advanced_settings_description": "Voulez-vous sauvegarder les modifications faites dans la partie détaillée des paramètres ?",
+    "no_use_default": "Non, utiliser les paramètres par défaut",
+    "link_mytesla": "Avez-vous un compte MyTesla ?",
+    "link_mytesla_description": "Si c'est le cas, vous pouvez le lier afin d'obtenir les données temps réel de votre véhicule - ce qui rendra votre trajet plus serein."
 }
