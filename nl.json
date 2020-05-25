@@ -493,5 +493,15 @@
     "charging_notifications_premium_2": "",
     "geofence_notifications": "Geofence notifications",
     "geofence_notifications_1": "Get notified when your car arrives or leaves certain locations.",
-    "geofence_notifications_2": "For example, you home and work address."
+    "geofence_notifications_2": "For example, you home and work address.",
+    "save_advanced_settings": "Keep detailed settings?",
+    "full_screen_description": "Hide the status bar",
+    "show_setup_description": "Show or hide the cards to re-link your car with A Better Routeplanner",
+    "no_use_default": "No, use default settings",
+    "link_mytesla": "Do you have a MyTesla Account?",
+    "link_mytesla_description": "If you do, you can link it so we can fetch live data from your car - it makes planning and driving much smoother.",
+    "advanced": "Detailed",
+    "full_screen": "Full screen",
+    "show_setup": "Show live data instructions",
+    "save_advanced_settings_description": "Do you want to keep the changes you made in detailed settings?"
 }

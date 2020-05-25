@@ -493,5 +493,15 @@
     "charging_notifications_premium_2": "",
     "geofence_notifications": "Notificaciones de ubicación",
     "geofence_notifications_1": "Recibe avisos cuando tu vehículo llega o sale de determinadas ubicaciones.",
-    "geofence_notifications_2": "Por ejemplo, de casa y del trabajo."
+    "geofence_notifications_2": "Por ejemplo, de casa y del trabajo.",
+    "save_advanced_settings": "Guardar configuración detallada?",
+    "full_screen_description": "Amagar barra de estado",
+    "show_setup_description": "Muesta/Oculta las tarjetas para vincular datos en tiempo real de su vehículo con A Better Routeplanner",
+    "no_use_default": "No, utiliza los ajustes por defecto",
+    "link_mytesla": "¿Tienes una cuenta MyTesla?",
+    "link_mytesla_description": "Si la tienes, puedes conectarla para que podamos leer datos en tiempo real - eso permite un cálculo de rutas y de conducción mucho más acurado.",
+    "advanced": "Detallado",
+    "full_screen": "Pantalla completa",
+    "show_setup": "Muestra intrucciones de tiempo real",
+    "save_advanced_settings_description": "¿Quieres mantener los cambios que has hecho mientras estabas en la configuración detallada?"
 }
