@@ -565,5 +565,9 @@
     "configuration_role": "Activity / role",
     "configuration_other": "Something else",
     "confirm_configuration_deletion": "Are you sure that you want to delete this configuration?",
-    "live_data_notify_me": "Notify me when available"
+    "live_data_notify_me": "Notify me when available",
+    "continue": "Continue",
+    "continue_to_app": "Continue to app",
+    "continue_to_app_description": "Click 'CONTINUE' to finish your login process on the app",
+    "no_name": "No name"
 }
