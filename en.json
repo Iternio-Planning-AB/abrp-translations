@@ -570,5 +570,9 @@
     "continue_to_app": "Continue to app",
     "continue_to_app_description": "Click 'CONTINUE' to finish your login process on the app",
     "no_name": "No name",
-    "add_new_vehicle": "Add a new vehicle to your account?"
+    "add_new_vehicle": "Add a new vehicle to your account?",
+    "multiple_amenities": "Multiple amenities",
+    "multiple_amenities_description": "You have already selected another amenity stop. To handle multiple amenities stops, you first need to plan. Then go back and add other amenity stops.\n\nIf you are trying to update or replace another amenity stop, please remove it first.",
+    "x_left_to_y": "{{x}} left to {{y}}",
+    "charge_for_x_up_to_y_at_z" :"Charge for {{x}} up to {{y}} at {{z}}"
 }

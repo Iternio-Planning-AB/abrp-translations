@@ -567,5 +567,9 @@
     "continue": "Continuar",
     "continue_to_app": "Continuar a la aplicación",
     "continue_to_app_description": "Pulse 'CONTINUAR' para finalizar su proceso de login en la app",
-    "no_name": "Sin nombre"
+    "no_name": "Sin nombre",
+    "multiple_amenities": "Múltiples equipamientos",
+    "multiple_amenities_description": "Ya tienes una parada de equipamiento. Para manejar múltiples paradas en equipamientos, primero necesitas calcular la ruta. Después haz clic en \"Atrás\" y podrás añadir más paradas.\n\nSi estas intentando actualizar o reemplazar una parada existente, por favor elimínela primero.",
+    "x_left_to_y": "{{x}} restantes hasta {{y}}",
+    "charge_for_x_up_to_y_at_z" :"Carga durante {{x}} hasta {{y}} en {{z}}"
 }
