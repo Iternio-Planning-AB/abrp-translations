@@ -272,6 +272,7 @@
     "share_abrp_link": "Share ABRP link",
     "share_map_app": "Share to map",
     "share_external_app": "Share to app",
+    "share_google_link": "Open in Google Maps",
     "calib_ref_cons": "Calibrated reference consumption",
     "confirm_deletion": "Confirm deletion",
     "confirm_deletion_description": "Are you sure that you want to delete this vehicle?",
