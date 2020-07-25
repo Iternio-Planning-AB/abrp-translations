@@ -5,7 +5,7 @@
     "start_driving": "Iniciar condução",
     "charger": {
         "zero": "Nenhum carregador",
-        "one": "Um caregador",
+        "one": "Um carregador",
         "other": "{{count}} carregadores"
     },
     "drives": {
@@ -27,9 +27,9 @@
     "select_your_car": "Select car model",
     "add_my_car": "Add my car",
     "add_my_car_description": "Add and save your own car",
-    "battery_and_chargers": "Battery & Chargers",
-    "speed": "Speed",
-    "road_conditions": "Road conditions",
+    "battery_and_chargers": "Baterias & Carregadores",
+    "speed": "Velocidade",
+    "road_conditions": "Condições da Estrada",
     "departure_soc": "Departure SoC",
     "departure_soc_description": "The starting SoC of the car.",
     "reference_consumption": "Reference consumption",
