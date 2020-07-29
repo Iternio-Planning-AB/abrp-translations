@@ -575,5 +575,12 @@
     "multiple_amenities": "Multiple amenities",
     "multiple_amenities_description": "You have already selected another amenity stop. To handle multiple amenities stops, you first need to plan. Then go back and add other amenity stops.\n\nIf you are trying to update or replace another amenity stop, please remove it first.",
     "x_left_to_y": "{{x}} left to {{y}}",
-    "charge_for_x_up_to_y_at_z" :"Charge for {{x}} up to {{y}} at {{z}}"
+    "charge_for_x_up_to_y_at_z": "Charge for {{x}} up to {{y}} at {{z}}",
+    "dismiss": "Dismiss",
+    "xx_minutes": "{{x}} minutes",
+    "rest_of_drive": "the rest of the drive",
+    "dismiss_for": "Dismiss for:",
+    "selected_vehicle": "Selected vehicle",
+    "my_drives_selected_vehicle": "Select a vehicle which supports the 'My Drives' feature",
+    "choose_referral_code": "Choose referral code"
 }

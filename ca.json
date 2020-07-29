@@ -314,7 +314,11 @@
     "overwrite_car_position_description": "Utilitza la ubicació del dispositiu en comptes de la del vehicle",
     "route_directions": "Indicacions de ruta",
     "route_directions_description": "Mostrar indicacions de ruta en el mode de conducció",
-    "drives": { "zero": "Cap trajecte", "one": "Un trajecte", "other": "{{count}} trajectes" },
+    "drives": {
+        "zero": "Cap trajecte",
+        "one": "Un trajecte",
+        "other": "{{count}} trajectes"
+    },
     "share_historical_data": "Compartir historial",
     "share_historical_data_description": "L'usuari podrà consultar les teves càrregues i trajectes passats.",
     "shared_with": "Compartit amb",
@@ -571,5 +575,7 @@
     "multiple_amenities": "Equipaments múltiples",
     "multiple_amenities_description": "Ja tens una parada en un equipament. Per manejar múltiples parades en equipaments, primer necessites calcular una ruta. Després premi el botó \"Enrere\" i podràs afegir més parades en equipaments.\n\nSi estàs actualitzant o reemplaçant una parada existent, si us plau elimina-la primer.",
     "x_left_to_y": "{{x}} restants fins {{y}}",
-    "charge_for_x_up_to_y_at_z" :"Carrega durant {{x}} fins a {{y}} a {{z}}"
+    "charge_for_x_up_to_y_at_z": "Carrega durant {{x}} fins a {{y}} a {{z}}",
+    "selected_vehicle": "Vehicle seleccionat",
+    "my_drives_selected_vehicle": "Selecciona un vehicle que sigui compatible amb la funcionalitat 'Les meves conduccions'"
 }
