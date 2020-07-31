@@ -571,12 +571,15 @@
     "continue_to_app_description": "Klicke auf 'WEITER', um deinen Anmeldevorgang in der App abzuschließen.",
     "no_name": "Kein Name",
     "add_new_vehicle": "Ein neues Fahrzeug zu deinem Konto hinzufügen?",
+    "multiple_amenities": "Mehrere Annehmlichkeiten",
+    "multiple_amenities_description": "Du hast bereits einen anderen Annehmlichkeitsstopp ausgewählt. Um mehrere Annehmlichkeitsstopps zu ermöglichen, musst Du zunächst planen. Danach fügst Du hier weitere Annehmlichkeitsstopps hinzu.\n\nWenn Du versuchst einen anderen Annehmlichkeitsstopp zu aktualisieren oder zu ersetzen, entferne ihn bitte zuerst."
+    "x_left_to_y": "Noch {{x}} bis {{y}}",
+    "charge_for_x_up_to_y_at_z": "Lade für {{x}} bis {{y}} bei {{z}}",
     "dismiss": "Verwerfen",
     "xx_minutes": "{{x}} Minuten",
     "rest_of_drive": "den Rest der Fahrt",
     "dismiss_for": "Verwerfen für:",
-    "x_left_to_y": "Noch {{x}} bis {{y}}",
-    "charge_for_x_up_to_y_at_z": "Lade für {{x}} bis {{y}} bei {{z}}",
-    "multiple_amenities": "Mehrere Annehmlichkeiten",
-    "multiple_amenities_description": "Du hast bereits einen anderen Annehmlichkeitsstopp ausgewählt. Um mehrere Annehmlichkeitsstopps zu ermöglichen, musst Du zunächst planen. Danach fügst Du hier weitere Annehmlichkeitsstopps hinzu.\n\nWenn Du versuchst einen anderen Annehmlichkeitsstopp zu aktualisieren oder zu ersetzen, entferne ihn bitte zuerst."
+    "selected_vehicle": "Ausgewähltes Fahrzeug",
+    "my_drives_selected_vehicle": "Wähle ein Fahrzeug, daß die Funktion 'Meine Fahrten' unterstützt",
+    "choose_referral_code": "Empfehlungscode wählen"  
 }
