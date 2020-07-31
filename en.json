@@ -69,7 +69,7 @@
     "highways": "Highways",
     "tolls": "Tolls",
     "extra_weight": "Extra weight",
-    "extra_weight_description": "Weight for additional persons or luggage. (75kg for the driver are already included!)",
+    "extra_weight_description": "Weight for additional persons or luggage. (165lbs for the driver are already included!)",
     "add": "Add",
     "add_waypoint": "Add waypoint",
     "treat_as_charger": "Treat as charger",
