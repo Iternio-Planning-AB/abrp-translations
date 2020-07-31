@@ -56,7 +56,7 @@
     "highways": "Motorveier",
     "tolls": "Bompenger",
     "extra_weight": "Ekstravekt",
-    "extra_weight_description": "Antatt ekstra vekt for kjøretøyet, f.eks. hvis du drar en campingvogn eller laster den veldig hardt.",
+    "extra_weight_description": "Vekt for flere personer eller bagasje (sjåfør allerede vurdert).",
     "add": "Legg til",
     "add_waypoint": "Legg til veipunkt",
     "treat_as_charger": "Destinasjonslader",
