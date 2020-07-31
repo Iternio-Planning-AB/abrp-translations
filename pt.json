@@ -69,7 +69,7 @@
     "highways": "Autoestradas",
     "tolls": "Portagens",
     "extra_weight": "Peso extra",
-    "extra_weight_description": "Extra weight assumed for the car PT.",
+    "extra_weight_description": "Peso para pessoas adicionais ou bagagem (motorista já considerado).",
     "add": "Adicionar",
     "add_waypoint": "Adicionar ponto de referência",
     "treat_as_charger": "Considerar como carregador",

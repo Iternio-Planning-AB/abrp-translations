@@ -57,7 +57,7 @@
     "highways": "Motorvägar",
     "tolls": "Vägtullar",
     "extra_weight": "Extravikt",
-    "extra_weight_description": "Antagen extravikt för fordonet, t.ex. om du drar en husvagn eller lastar det mycket tugnt.",
+    "extra_weight_description": "Vikt för extra personer eller bagage (förare redan tänkt).",
     "add": "Lägg till",
     "add_waypoint": "Lägg till via",
     "treat_as_charger": "Destinationsladdare",

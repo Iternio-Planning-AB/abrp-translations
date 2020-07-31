@@ -57,7 +57,7 @@
     "highways": "Autopistes",
     "tolls": "Peatges",
     "extra_weight": "Pes extra",
-    "extra_weight_description": "El pes extra assumit pel vehicle.",
+    "extra_weight_description": "Pes per a persones addicionals o equipatge (conductor ja considerat).",
     "add": "Afegir",
     "add_waypoint": "Afegir destinació",
     "treat_as_charger": "Tracta com a carregador",

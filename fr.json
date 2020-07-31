@@ -68,7 +68,7 @@
     "highways": "Autoroutes",
     "tolls": "Péages",
     "extra_weight": "Poids supplémentaire",
-    "extra_weight_description": "Poids en plus supposé du véhicule.",
+    "extra_weight_description": "Poids pour personnes supplémentaires ou bagages (conducteur déjà pris en compte).",
     "add": "Ajouter",
     "add_waypoint": "Ajouter étape",
     "treat_as_charger": "Traiter comme une borne",

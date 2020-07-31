@@ -69,7 +69,7 @@
     "highways": "Snelwegen",
     "tolls": "Tolwegen",
     "extra_weight": "Extra gewicht",
-    "extra_weight_description": "Extra gewicht voor het voertuig.",
+    "extra_weight_description": "Gewicht voor extra personen of bagage (chauffeur al overwogen).",
     "add": "Toevoegen",
     "add_waypoint": "Tussenstop toevoegen",
     "treat_as_charger": "Behandel als oplaadpunt",
