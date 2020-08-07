@@ -266,7 +266,7 @@
     "please_link_car_again": "Kérlek csatlakoztasd újra az autódat",
     "unnamed_car": "Névtelen autó",
     "no_effect": "Nics hatása",
-    "charging_final_destination_instructions": "A célállomáson való töltés nem része az útvonaltervnek. A célállomásra érkezés töltöttségi szintjét a beállítások Célállomás SoC opcióval tudod megváltoztatni.”,
+    "charging_final_destination_instructions": "A célállomáson való töltés nem része az útvonaltervnek. A célállomásra érkezés töltöttségi szintjét a beállítások Célállomás SoC opcióval tudod megváltoztatni. ",
     "departure_time_destination_instructions": "A célállomásra nem adható meg az Indulási idő értéke",
     "need_to_be_onroute": "Útközben kell lenned",
     "share_abrp_link": "Az ABRP link megosztása",
