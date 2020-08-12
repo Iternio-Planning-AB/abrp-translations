@@ -280,7 +280,7 @@
     "reset_calibration": "Kalibráció alaphelyzetbe állítása",
     "reset_calibration_description": "A vezetés során folyamatosan figyeljük a különböző sebesség értékek alapján alakuló fogyasztást. Ezzel alaphelyzetbe állítod a jármű fogyasztási értékét.",
     "live_data_not_available": "Az autó valós idejű adatai nem elérhetőek",
-    "live_data_not_available_description": "Erre az autó típusra az valós idejű adatok lekérése funkció még nem elérhető.",
+    "live_data_not_available_description": "Erre az autó típusra a valós idejű adatok lekérése funkció még nem elérhető.",
     "mytesla_poll_description": "A Teslád aktivitásának ellenőrzésére időszakosan küldeni fogunk egy állapot lekérdező távfelügyeleti jelet, de arra mindig ügyelünk, hogy ezzel ne szakítsuk meg az autód alvó állapotát. Az alkalmazás használatát követő 24 órán belül a minimum szintre fogjuk csökkenteni a jelek küldését azért, hogy ezzel is csökkentsük az autó készenléti fogyasztását. Fenti funkciókat a lehető legjobb szolgáltatási minőség biztosítása érdekében használjuk.",
    "select_tesla": "Válaszd ki a Tesladat",
     "select_tesla_description": "Kérlek válaszd ki azt a járművet amelyről a valósidejű adatokat használni szeretnéd",
