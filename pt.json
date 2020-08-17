@@ -4,9 +4,9 @@
   "settings": "Configurações",
   "start_driving": "Iniciar condução",
   "charger": {
-    "zero": "Nenhuma carga",
-    "one": "Uma carga",
-    "other": "{{count}} cargas"
+    "zero": "Nenhum caregamento",
+    "one": "Um carregamento",
+    "other": "{{count}} carregamentos"
   },
   "drives": {
     "zero": "Sem viagens",
