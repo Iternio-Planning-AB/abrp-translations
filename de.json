@@ -582,5 +582,8 @@
     "dismiss_for": "Verwerfen für:",
     "selected_vehicle": "Ausgewähltes Fahrzeug",
     "my_drives_selected_vehicle": "Wähle ein Fahrzeug, daß die Funktion 'Meine Fahrten' unterstützt",
-    "choose_referral_code": "Empfehlungscode wählen"  
+    "choose_referral_code": "Empfehlungscode wählen",
+    "for": "für",
+    "at": "um",
+    "till": "bis"
 }

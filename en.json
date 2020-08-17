@@ -582,5 +582,8 @@
     "dismiss_for": "Dismiss for:",
     "selected_vehicle": "Selected vehicle",
     "my_drives_selected_vehicle": "Select a vehicle which supports the 'My Drives' feature",
-    "choose_referral_code": "Choose referral code"
+    "choose_referral_code": "Choose referral code",
+    "for": "for",
+    "at": "at",
+    "till": "till"
 }
