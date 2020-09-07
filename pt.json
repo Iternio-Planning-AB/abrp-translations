@@ -232,7 +232,7 @@
   "departure_time": "Hora de partida",
   "departure": "Partida",
   "arrival_time": "Hora de chegada",
-  "arrival_soc": "Chegada SoC PT",
+  "arrival_soc": "Chegada SoC",
   "change_charger": "Alterar carregador",
   "charge_cost": "Custo do carregamento",
   "eat_here": "Coma aqui",
