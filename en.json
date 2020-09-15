@@ -588,5 +588,11 @@
   "till": "till",
   "country_borders": "Country borders",
   "waypoint_notes": "Notes",
-  "waypoint_notes_placeholder": "Notes, important details, etc."
+  "waypoint_notes_placeholder": "Notes, important details, etc.",
+  "need_to_have_an_account": "You need to have an account. Please login or create an account first.",
+  "get_monthly_premium": "Get monthly Premium",
+  "get_yearly_premium": "Get yearly Premium",
+  "add_login_method": "Add login method",
+  "add_login_method_description": "Add another login method",
+  "add_login_method_already_linked_another": "This login has already been linked to another account."
 }
