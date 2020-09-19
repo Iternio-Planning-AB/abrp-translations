@@ -1,4 +1,9 @@
 {
+  "starting_point_placeholder": "The starting point of your trip",
+  "ending_point_placeholder": "The end of your trip",
+  "waypoint_placeholder": "Somewhere along the way",
+  "waypoint": "Waypoint",
+  "starting_point": "Starting point",
   "device_connected": "Connected",
   "device_not_connected": "Not connected",
   "device_registering": "Registering",
@@ -15,7 +20,7 @@
   "device_serial_number_needed": "To start, we need your {{deviceName}}'s serial number",
   "connect_device_to_ABRP": "Connecting your {{deviceName}} to A Better Routeplanner",
   "register_device": "Register device",
-  "initial_device_configuration": "Now that the device is registered, take your car for a short five-minute drive so the {{deviceName}} can get to know your car. You should start to see data populate shortly. If data doesn't appear after this first drive, unplug the {{deviceName}} for 30 seconds, then plug it back in and take it for another short five-minute drive.", 
+  "initial_device_configuration": "Now that the device is registered, take your car for a short five-minute drive so the {{deviceName}} can get to know your car. You should start to see data populate shortly. If data doesn't appear after this first drive, unplug the {{deviceName}} for 30 seconds, then plug it back in and take it for another short five-minute drive.",
   "device_registration_successful": "Your {{deviceName}} has been successfully registered!",
   "order_device_here": "Order one here!",
   "no_device": "Don't have a {{deviceName}} yet?",
@@ -427,7 +432,7 @@
   "export_excel": "Export to Excel",
   "suggest_create_an_account": "If you create an account you will be able to save your plans, save you car, and much more.",
   "abrp_premium_membership": "ABRP Premium membership",
-  "go_premium_description": "The basic ABRP features will always be free. However, you can get many more benefits from the planner by upgrading to Premium for as little as $5/month. And it is free to try!",
+  "go_premium_description": "The basic ABRP features will always be free. However, you can get many more benefits from the planner by upgrading to Premium.",
   "daily_summary_export_header": [
     "Activity",
     "Start time",
