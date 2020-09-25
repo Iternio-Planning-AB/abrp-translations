@@ -122,7 +122,7 @@
   "forgot_your_password": "Forgot your password?",
   "reset_password": "Reset password",
   "reset_password_description": "We just sent you an email with the instructions to restore your password.",
-  "reset_plan": "Reset",
+  "reset_plan": "Clear",
   "close": "Close",
   "abrp_log_in": "ABRP Login",
   "abrp_log_out": "ABRP Logout",
@@ -628,5 +628,6 @@
   "add_login_method": "Add login method",
   "add_login_method_description": "Add another login method",
   "add_login_method_already_linked_another": "This login has already been linked to another account.",
+  "simple": "Simple",
   "loading": "Loading"
 }

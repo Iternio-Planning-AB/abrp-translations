@@ -603,5 +603,6 @@
   "add_new_vehicle": "Add a new vehicle to your account?",
   "charge_for_x_up_to_y_at_z": "Charge for {{x}} up to {{y}} at {{z}}",
   "multiple_amenities": "Multiple amenities",
-  "multiple_amenities_description": "You have already selected another amenity stop. To handle multiple amenities stops, you first need to plan. Then go back and add other amenity stops.\n\nIf you are trying to update or replace another amenity stop, please remove it first."
+  "multiple_amenities_description": "You have already selected another amenity stop. To handle multiple amenities stops, you first need to plan. Then go back and add other amenity stops.\n\nIf you are trying to update or replace another amenity stop, please remove it first.",
+  "simple": "Enkelt"
 }
