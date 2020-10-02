@@ -629,5 +629,7 @@
   "add_login_method_description": "Add another login method",
   "add_login_method_already_linked_another": "This login has already been linked to another account.",
   "simple": "Simple",
-  "loading": "Loading"
+  "loading": "Loading",
+  "replanning": "Replanning",
+  "navigate_to": "Navigate to"
 }
