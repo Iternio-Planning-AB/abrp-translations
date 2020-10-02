@@ -631,5 +631,9 @@
   "simple": "Simple",
   "loading": "Loading",
   "replanning": "Replanning",
-  "navigate_to": "Navigate to"
+  "navigate_to": "Navigate to",
+  "automotive_missing_permission_title": "We really need your permission",
+  "automotive_missing_permission_msg": "ABRP can read the battery status and other important information directly from your car, which makes using ABRP a lot better. But we need your permission to do so.",
+  "automotive_missing_permission_positive": "Request permission again",
+  "automotive_missing_permission_negative": "No, really, no"
 }
