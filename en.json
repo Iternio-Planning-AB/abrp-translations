@@ -632,8 +632,9 @@
   "loading": "Loading",
   "replanning": "Replanning",
   "navigate_to": "Navigate to",
-  "automotive_missing_permission_title": "We really need your permission",
+  "permission_request_title": "We really need your permission",
   "automotive_missing_permission_msg": "ABRP can read the battery status and other important information directly from your car, which makes using ABRP a lot better. But we need your permission to do so.",
-  "automotive_missing_permission_positive": "Request permission again",
-  "automotive_missing_permission_negative": "No, really, no"
+  "permission_request_again": "Request permission again",
+  "permission_nope": "No, really, no",
+  "permission_location_msg": "A Better Routeplanner kindly asks for access to your location to improve your experience."
 }
