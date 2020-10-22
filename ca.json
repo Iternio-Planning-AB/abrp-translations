@@ -415,7 +415,8 @@
     "Distància",
     "Duració de la conducció",
     "Arribada",
-    "Sortida"
+    "Sortida",
+    "Notes"
   ],
   "premium": "Premium",
   "premium_on_app": "Per ser membre Premium si us plau dirigeixi's al web d'A Better Routeplanner.",

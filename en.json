@@ -423,7 +423,8 @@
     "Distance",
     "Drive duration",
     "Arrival",
-    "Departure"
+    "Departure",
+    "Notes"
   ],
   "premium": "Premium",
   "premium_on_app": "To learn more about Premium membership please visit to the A Better Routeplanner website.",
@@ -636,5 +637,6 @@
   "automotive_missing_permission_msg": "ABRP can read the battery status and other important information directly from your car, which makes using ABRP a lot better. But we need your permission to do so.",
   "permission_request_again": "Request permission again",
   "permission_nope": "No, really, no",
-  "permission_location_msg": "A Better Routeplanner kindly asks for access to your location to improve your experience."
+  "permission_location_msg": "A Better Routeplanner kindly asks for access to your location to improve your experience.",
+  "set_destination": "Set destination"
 }
