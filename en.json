@@ -333,7 +333,7 @@
   "display_mode_automatic": "Automatic (Day/Night)",
   "network_preferences": "Network preferences",
   "network_preferences_description": "Avoid, prefer or use exclusively some networks.",
-  "no_network_preferences": "You don't have any network preferences. Click a charger on the map or in the plan to change this.",
+  "no_network_preferences": "You don't have any network preferences. Use search or click a charger on the map or in the plan to change this.",
   "allow_this_charger": "Allow this charger",
   "offline": "Offline",
   "charger_url": "Charger website",
@@ -638,5 +638,11 @@
   "permission_request_again": "Request permission again",
   "permission_nope": "No, really, no",
   "permission_location_msg": "A Better Routeplanner kindly asks for access to your location to improve your experience.",
-  "set_destination": "Set destination"
+  "search_network": "Type network name",
+  "please_wait_for_networks": "Please wait while loading networks",
+  "set_destination": "Set destination",
+  "no_blocked_chargers": "You have no chargers selected to avoid. Pick a charger from the map to change this.",
+  "charger_preferences_description": "Manage chargers you selected to avoid.",
+  "charger_preferences": "Chargers to avoid",
+  "please_wait_for_chargers": "Please wait while loading chargers"
 }
