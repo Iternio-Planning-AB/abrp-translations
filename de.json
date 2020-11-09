@@ -629,5 +629,7 @@
   "no_blocked_chargers": "Du hast keine Ladepunkte zum meiden ausgesucht. Wähle einen Ladepunkt auf der Karte um dies zu ändern.",
   "charger_preferences_description": "Verwalte zu meidende Ladepunkte.",
   "charger_preferences": "Ladepunkte meiden",
-  "please_wait_for_chargers": "Hole Ladepunkte, bitte warten."
+  "please_wait_for_chargers": "Hole Ladepunkte, bitte warten.",
+  "invalid_plan_check_preferences_title": "Einstellungen prüfen",
+  "invalid_plan_check_preferences_description": "Eventuell verhindern die Ladepunkt oder Ladenetz Einstellungen einen gültigen Plan."
 }
