@@ -631,5 +631,20 @@
   "charger_preferences": "Ladepunkte meiden",
   "please_wait_for_chargers": "Hole Ladepunkte, bitte warten.",
   "invalid_plan_check_preferences_title": "Einstellungen prüfen",
-  "invalid_plan_check_preferences_description": "Eventuell verhindern die Ladepunkt oder Ladenetz Einstellungen einen gültigen Plan."
+  "invalid_plan_check_preferences_description": "Eventuell verhindern die Ladepunkt oder Ladenetz Einstellungen einen gültigen Plan.",
+  "registration_intro_copy": "Thank you for connecting your car's data with A Better Routeplanner! We use the data you send us to improve our modelling, and improve the plans we generate for you.",
+  "charging_complete": "Charging complete!",
+  "country_borders": "Country borders",
+  "need_to_have_an_account": "You need to have an account. Please login or create an account first.",
+  "get_monthly_premium": "Get monthly Premium",
+  "get_yearly_premium": "Get yearly Premium",
+  "add_login_method": "Add login method",
+  "add_login_method_description": "Add another login method",
+  "add_login_method_already_linked_another": "This login has already been linked to another account.",
+  "loading": "Loading",
+  "permission_request_title": "We really need your permission",
+  "automotive_missing_permission_msg": "ABRP can read the battery status and other important information directly from your car, which makes using ABRP a lot better. But we need your permission to do so.",
+  "permission_request_again": "Request permission again",
+  "permission_nope": "No, really, no",
+  "permission_location_msg": "A Better Routeplanner kindly asks for access to your location to improve your experience."
 }

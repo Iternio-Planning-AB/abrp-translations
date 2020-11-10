@@ -493,6 +493,7 @@
   "reset_settings_description": "Reset all settings to the default value.",
   "reset_settings_confirm": "Are you sure that you want to reset your settings?\n\n You will need to log in again.",
   "x_min_to_complete_charging": "{{count}} min to charging complete",
+  "charging_complete": "Charging complete!",
   "notification_next_stop": "Next: {{duration}} to {{destination}}",
   "your_car": "Your vehicle",
   "notifications": "Notifications",

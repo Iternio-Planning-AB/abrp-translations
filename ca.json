@@ -644,5 +644,8 @@
   "simple": "Simple",
   "charger_preferences": "Carregadors a evitar",
   "loading": "Carregant",
-  "automotive_missing_permission_msg": "ABRP pot llegir l'estat de bateria del seu vehicle així com altres dades que ajuden a ABRP a funcionar molt millor. Li demanem permís per accedir-hi."
+  "automotive_missing_permission_msg": "ABRP pot llegir l'estat de bateria del seu vehicle així com altres dades que ajuden a ABRP a funcionar molt millor. Li demanem permís per accedir-hi.",
+  "charging_complete": "Charging complete!",
+  "invalid_plan_check_preferences_title": "Check preferences",
+  "invalid_plan_check_preferences_description": "Your charger or network preferences may prevent a valid plan."
 }

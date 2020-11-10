@@ -347,7 +347,11 @@
   "overwrite_car_position_description": "Utiliza la ubicación del dispositivo en vez de la del vehículo",
   "route_directions": "Indicaciones de ruta",
   "route_directions_description": "Recibir indicaciones de ruta en el modo de conducción",
-  "drives": { "zero": "Ningún trayecto", "one": "Un trayecto", "other": "{{count}} trayectos" },
+  "drives": {
+    "zero": "Ningún trayecto",
+    "one": "Un trayecto",
+    "other": "{{count}} trayectos"
+  },
   "share_historical_data": "Compartir historial",
   "share_historical_data_description": "El usuario podrá ver tus cargas y trayectos pasados.",
   "shared_with": "Compartido con",
@@ -640,5 +644,8 @@
   "simple": "Simple",
   "charger_preferences": "Cargadores a evitar",
   "loading": "Cargando",
-  "automotive_missing_permission_msg": "ABRP puede acceder al estado de carga de su vehículo así como otra información que hace que ABRP funcione mucho mejor. Necesitamos su permiso."
+  "automotive_missing_permission_msg": "ABRP puede acceder al estado de carga de su vehículo así como otra información que hace que ABRP funcione mucho mejor. Necesitamos su permiso.",
+  "charging_complete": "Charging complete!",
+  "invalid_plan_check_preferences_title": "Check preferences",
+  "invalid_plan_check_preferences_description": "Your charger or network preferences may prevent a valid plan."
 }
