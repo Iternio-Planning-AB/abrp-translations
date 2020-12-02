@@ -765,5 +765,6 @@
   "miles": "miles",
   "feet": "feet",
   "speed_calib_factor": "Speed overreporting factor",
+  "max_distance_from_charger": "Max distance from charger",
   "long_press_rearrange": "Press and hold handle to rearrange a plan"
 }
