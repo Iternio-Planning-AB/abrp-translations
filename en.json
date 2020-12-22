@@ -776,5 +776,6 @@
   "terms_and_conditions": "ABRP Terms of Use",
   "device_sleeping": "Sleeping",
   "lost_mytesla_connection": "ABRP lost connection to Tesla, please login again to link your Tesla account.",
-  "chargers_with_amenities": "Chargers with amenities"
+  "chargers_with_amenities": "Chargers with amenities",
+  "latest_plan": "Latest plan"
 }
