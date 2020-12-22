@@ -662,7 +662,7 @@
   "direction_sharp_right": "scharf rechts",
   "direction_slight_right": "leicht rechts",
   "direction_straight": "geradeaus",
-  "direction_uturn": "Make a U-turn",
+  "direction_uturn": "Bitte wenden",
   "direction_turn": "{{direction}} abbiegen",
   "direction_roundabout": "Im Kreisverkehr die {{count}}te Ausfahrt nehmen",
   "direction_continue": "Folge der Strecke {{direction}}",
