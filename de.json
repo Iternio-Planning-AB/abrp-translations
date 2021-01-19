@@ -664,7 +664,7 @@
   "direction_straight": "geradeaus",
   "direction_uturn": "Bitte wenden",
   "direction_turn": "{{direction}} abbiegen",
-  "direction_roundabout": "Im Kreisverkehr die {{count}}te Ausfahrt nehmen",
+  "direction_roundabout": "Fahre {{direction}} im Kreisverkehr und nimm die {{exit}} Ausfahrt.",
   "direction_continue": "Folge der Strecke {{direction}}",
   "direction_fork": "{{direction}} halten an der Gabelung",
   "direction_arrival": "Das Ziel ist auf der {{direction}} seite",
