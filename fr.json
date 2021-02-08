@@ -798,5 +798,16 @@
   "launch": "Lancement",
   "route_alternatives": "Alternatives d'itinéraire",
   "route_details": "Détails de l'itinéraire",
-  "where_to_go": "Où allez vous ?"
+  "where_to_go": "Où allez vous ?",
+  "from": "From",
+  "To": "To",
+  "missing_date": "Missing date",
+  "missing_home": "Missing Home address",
+  "missing_home_description": "You haven't set any Home address yet.",
+  "missing_work": "Missing Work address",
+  "missing_work_description": "You haven't set any Work address yet.",
+  "voice_streetnames": "Include streetnames",
+  "voice_streetnames_description": "Read streetnames too",
+  "navigation_category": "Navigation",
+  "test_drive_mode_enabled": "Test drive mode enabled - the car follows your plan."
 }
