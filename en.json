@@ -473,9 +473,9 @@
   "weather_forecast_2": "View the predicted winds and temperatures in the plan and see its effect on your trip.",
   "realtime_traffic_1": "Use up-to-date traffic data for extra accuracy.",
   "realtime_traffic_2": "Take the traffic into account for not only trip duration, but also power usage along the route.",
-  "suc_availability": "Real-time Supercharger availability and forecast",
-  "suc_availability_1": "Use Supercharger availability in the planning, both in real-time and forecasts based on historical use.",
-  "suc_availability_2": "Avoid busy superchargers, and include wait times in in the total trip time. Other charge networks coming soon.",
+  "suc_availability": "Real-time charger availability and forecast",
+  "suc_availability_1": "Use charger availability in the planning, both in real-time and forecasts based on historical use.",
+  "suc_availability_2": "Avoid busy chargers, and include wait times in in the total trip time.",
   "sharing_vehicle_data": "Sharing vehicle data",
   "sharing_vehicle_data_1": "Share your live data with another ABRP user.",
   "sharing_vehicle_data_2": "Perfect for shared cars, or sharing the status of your drive with friends or family.",
@@ -847,5 +847,8 @@
   "delete_account_for_real_description": "Really sure? This will delete your account forever.",
   "yes_absolutely_sure": "Yes I'm absolutely sure!",
   "delete_account_error": "Error deleting account, please try again later.",
-  "delete_account_cancel_subscription_first": "You have an active subscription, please cancel it first before deleting your account."
+  "delete_account_cancel_subscription_first": "You have an active subscription, please cancel it first before deleting your account.",
+  "available_selected_networks": "Available on selected networks",
+  "apple_carplay": "Apple CarPlay",
+  "apple_carplay_1": "Follow the route from you car's screen using Apple CarPlay."
 }
