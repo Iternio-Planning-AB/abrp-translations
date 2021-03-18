@@ -808,10 +808,7 @@
   "missing_work": "Arbeitsadresse fehlt",
   "missing_work_description": "Du hast noch keine Arbeitsadresse festgelegt.",
   "navigation_category": "Navigation",
-  "recruited_users_per_country": "Rekrutierte Benutzer pro Land",
-  "recruited_users_per_day": "Rekrutierte Benutzer pro Tag",
   "test_drive_mode_enabled": "Testfahrmodus aktiviert - das Auto folgt deinem Plan.",
-  "users_referred": "Benutzer empfohlen",
   "voice_streetnames": "Straßennamen aussprechen",
   "voice_streetnames_description": "Straßennamen auch ansagen",
   "yard": "yard",
@@ -845,12 +842,11 @@
   "error_adding_to_calendar": "Fehler beim einfügen in den Kalender",
   "calendar_set_departure_time": "Lege ein zukünftiges Abreisedatum fest, um den Plan in den Kalender zu exportieren.",
   "all_time": "Gesamter Zeitraum",
-  "expected_commission": "Erwartete Provision",
   "delete_account": "Konto löschen",
   "delete_account_description": "Dein ABRP Konto wird dauerhaft gelöscht, es gibt keine Möglichkeit es wiederherzustellen!\n Bist du dir sicher?",
   "delete_account_for_real_description": "Ganz sicher? Dein Konto wird für immer gelöscht.",
   "yes_absolutely_sure": "Ja, ich bin mir ganz sicher!",
   "delete_account_error": "Fehler beim löschen des Kontos, bitte versuche es später erneut.",
   "delete_account_cancel_subscription_first": "Du hast eine Premium Mitgliedschaft, bitte kündige diese zuerst bevor du dein Konto löscht.",
-  "direction_arrival_charger": "Charge for {{duration}} to {{to_soc}} %."
+  "direction_arrival_charger": "Lade für {{duration}} bis {{to_soc}} %."
 }
