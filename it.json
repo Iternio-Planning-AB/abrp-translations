@@ -751,7 +751,7 @@
   "direction_count_3": "third",
   "direction_count_4": "fourth",
   "direction_count_nth": "{{count}}th",
-  "direction_roundabout": "Drive {{direction}} in the roundabout, {{exit}} exit.",
+  "direction_roundabout": "Drive {{direction}} in the roundabout, {{exit}} exit",
   "direction_continue": "Continue {{direction}}",
   "direction_fork": "Keep {{direction}} in the fork",
   "direction_arrival": "The destination is {{direction_variant}}",
@@ -827,7 +827,6 @@
   "change_full_name": "Change Full Name",
   "change_full_name_failed": "Change Full Name failed",
   "missing_full_name": "Missing Full Name",
-  "full_name_present": "Full Name has already been set",
   "yard": "yard",
   "max_speed_limited": "Stay at max {{speed}} to reach destination.",
   "import": "Import",
@@ -847,5 +846,12 @@
   "delete_account_for_real_description": "Really sure? This will delete your account forever.",
   "yes_absolutely_sure": "Yes I'm absolutely sure!",
   "delete_account_error": "Error deleting account, please try again later.",
-  "delete_account_cancel_subscription_first": "You have an active subscription, please cancel it first before deleting your account."
+  "delete_account_cancel_subscription_first": "You have an active subscription, please cancel it first before deleting your account.",
+  "direction_roundabout_short": "{{exit}} exit",
+  "direction_roundabout_exit": "Exit the roundabout",
+  "direction_next_instruction": "then",
+  "sent_to_android_auto": "Sent to Android Auto.",
+  "available_selected_networks": "Available on selected networks",
+  "apple_carplay": "Apple CarPlay",
+  "apple_carplay_1": "Follow the route from you car's screen using Apple CarPlay."
 }

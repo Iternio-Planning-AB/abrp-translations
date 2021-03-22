@@ -751,7 +751,8 @@
   "direction_count_3": "troisième",
   "direction_count_4": "quatrième",
   "direction_count_nth": "{{count}}ème",
-  "direction_roundabout": "Rouler {{direction}} au rond-point, {{exit}} sortir.",
+  "direction_roundabout": "Rouler {{direction}} au rond-point, {{exit}} sortir",
+  "direction_roundabout_short": "{{exit}} sortir",
   "direction_continue": "Continuer {{direction}}",
   "direction_fork": "Garder {{direction}} dans la fourche",
   "direction_arrival": "La destination est {{direction_variant}}",
@@ -827,7 +828,6 @@
   "change_full_name": "Changer le nom complet",
   "change_full_name_failed": "La modification du nom complet a échoué",
   "missing_full_name": "Nom complet manquant",
-  "full_name_present": "Le nom complet a déjà été défini",
   "yard": "yard",
   "max_speed_limited": "Roulez à {{speed}} maximum pour atteindre votre destination.",
   "import": "Import",
@@ -847,5 +847,11 @@
   "delete_account_for_real_description": "Vraiment sûr ? Cela supprimera votre compte pour toujours.",
   "yes_absolutely_sure": "Oui, je suis absolument sûr !",
   "delete_account_error": "Erreur lors de la suppression du compte, veuillez réessayer plus tard.",
-  "delete_account_cancel_subscription_first": "Vous avez un abonnement actif, veuillez d'abord l'annuler avant de supprimer votre compte."
+  "delete_account_cancel_subscription_first": "Vous avez un abonnement actif, veuillez d'abord l'annuler avant de supprimer votre compte.",
+  "direction_roundabout_exit": "Exit the roundabout",
+  "direction_next_instruction": "then",
+  "sent_to_android_auto": "Sent to Android Auto.",
+  "available_selected_networks": "Available on selected networks",
+  "apple_carplay": "Apple CarPlay",
+  "apple_carplay_1": "Follow the route from you car's screen using Apple CarPlay."
 }
