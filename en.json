@@ -383,6 +383,7 @@
   "realtime_weather_description": "Use live temperature and weather information.",
   "charger_information": "Charger information",
   "route_actions": "Route actions",
+  "waypoint_actions": "Waypoint actions",
   "mode": "Mode",
   "content_mode": "Content mode",
   "table": "Table",
@@ -854,5 +855,8 @@
   "sent_to_android_auto": "Sent to Android Auto.",
   "available_selected_networks": "Available on selected networks",
   "apple_carplay": "Apple CarPlay",
-  "apple_carplay_1": "Follow the route from you car's screen using Apple CarPlay."
+  "apple_carplay_1": "Follow the route from you car's screen using Apple CarPlay.",
+  "coordinates": "Coordinates",
+  "address": "Address",
+  "long_press_set_destination": "Tip: Long press to set as destination."
 }

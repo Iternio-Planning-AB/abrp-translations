@@ -827,7 +827,6 @@
   "change_full_name": "Changer le nom complet",
   "change_full_name_failed": "La modification du nom complet a échoué",
   "missing_full_name": "Nom complet manquant",
-  "full_name_present": "Le nom complet a déjà été défini",
   "yard": "yard",
   "max_speed_limited": "Roulez à {{speed}} maximum pour atteindre votre destination.",
   "import": "Import",
@@ -853,5 +852,10 @@
   "sent_to_android_auto": "Envoyé vers Android Auto.",
   "available_selected_networks": "Disponible sur les réseaux sélectionnés",
   "apple_carplay": "Apple CarPlay",
-  "apple_carplay_1": "Suivez l'itinéraire depuis l'écran de votre véhicule en utilisant Apple CarPlay."
+  "apple_carplay_1": "Suivez l'itinéraire depuis l'écran de votre véhicule en utilisant Apple CarPlay.",
+  "waypoint_actions": "Waypoint actions",
+  "direction_roundabout_short": "{{exit}} exit",
+  "coordinates": "Coordinates",
+  "address": "Address",
+  "long_press_set_destination": "Tip: Long press to set as destination."
 }

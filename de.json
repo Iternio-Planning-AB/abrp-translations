@@ -849,10 +849,14 @@
   "delete_account_error": "Fehler beim löschen des Kontos, bitte versuche es später erneut.",
   "delete_account_cancel_subscription_first": "Du hast eine Premium Mitgliedschaft, bitte kündige diese zuerst bevor du dein Konto löscht.",
   "direction_arrival_charger": "Lade für {{duration}} bis {{to_soc}} %.",
+  "coordinates": "Koordinaten",
+  "address": "Adresse",
   "direction_next_instruction": "und dann",
   "direction_roundabout_exit": "Verlasse den Kreisverkehr",
   "sent_to_android_auto": "An Android Auto gesendet.",
   "available_selected_networks": "Verfügbar in ausgewählten Netzwerken",
   "apple_carplay": "Apple CarPlay",
-  "apple_carplay_1": "Folge der Route auf dem Bildschirm des Autos mit Apple Carplay."
+  "apple_carplay_1": "Folge der Route auf dem Bildschirm des Autos mit Apple Carplay.",
+  "long_press_set_destination": "Tipp: Lange drücken im als Ziel einzufügen.",
+  "waypoint_actions": "Waypoint actions"
 }
