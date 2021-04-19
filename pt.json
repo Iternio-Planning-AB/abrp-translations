@@ -857,5 +857,6 @@
   "waypoint_actions": "Acções de pontos de passagem PT",
   "coordinates": "Coordenadas",
   "address": "Endereço",
-  "long_press_set_destination": "Dica: Pressione prolongado a definir como destino PT"
+  "long_press_set_destination": "Dica: Pressione prolongado a definir como destino PT",
+  "charger_stop": "charger stop"
 }

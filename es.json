@@ -858,5 +858,6 @@
   "waypoint_actions": "Acciones del punto intermedio",
   "coordinates": "Coordenadas",
   "address": "Dirección",
-  "long_press_set_destination": "Sugerencia: Mantener pulsado para establecer como destino final."
+  "long_press_set_destination": "Sugerencia: Mantener pulsado para establecer como destino final.",
+  "charger_stop": "charger stop"
 }

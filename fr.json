@@ -830,7 +830,6 @@
   "change_full_name": "Changer le nom complet",
   "change_full_name_failed": "La modification du nom complet a échoué",
   "missing_full_name": "Nom complet manquant",
-  "full_name_present": "Le nom complet a déjà été défini",
   "yard": "yard",
   "max_speed_limited": "Roulez à {{speed}} maximum pour atteindre votre destination.",
   "import": "Import",
@@ -858,5 +857,6 @@
   "waypoint_actions": "Actions de waypoint",
   "coordinates": "Coordonnées",
   "address": "Adresse",
-  "long_press_set_destination": "Conseil : Appuyez longuement pour définir comme destination."
+  "long_press_set_destination": "Conseil : Appuyez longuement pour définir comme destination.",
+  "charger_stop": "charger stop"
 }

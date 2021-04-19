@@ -857,5 +857,6 @@
   "waypoint_actions": "Waypoint acties",
   "coordinates": "Coördinaten",
   "address": "Adres",
-  "long_press_set_destination": "Tip: Lang indrukken om als bestemming in te stellen."
+  "long_press_set_destination": "Tip: Lang indrukken om als bestemming in te stellen.",
+  "charger_stop": "charger stop"
 }

@@ -857,5 +857,6 @@
   "waypoint_actions": "Waypoint actions",
   "coordinates": "Coordinates",
   "address": "Address",
-  "long_press_set_destination": "Tip: Long press to set as destination."
+  "long_press_set_destination": "Tip: Long press to set as destination.",
+  "charger_stop": "charger stop"
 }
