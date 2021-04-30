@@ -810,7 +810,7 @@
   "voice_streetnames_description": "Utcanevek felolvasása",
   "navigation_category": "Navigáció",
   "test_drive_mode_enabled": "Teszt vezetési mód engedélyezve - az autó követni fogja a beállított útvonalat.",
-  "direction_arrival_charger": "Töltés {{duration}} ideig amíg a töltés {{to_soc}} %.", 
+  "direction_arrival_charger": "Töltés {{duration}} ideig amíg a töltés {{to_soc}} %.",
   "add_to_calendar": "Hozzáadás a naptárhoz",
   "error_adding_to_calendar": "Hiba a naptárhoz adás során",
   "calendar_set_departure_time": "Egy jövőbeli indulási dátum beállítása majd hozzáadása a naptárhoz.",
@@ -840,7 +840,8 @@
   "reading_aborted": "Fájl olvasása megszakítva",
   "reading_failed": "Fájl olvasási hiba",
   "import_finished": "Importálás kész",
-  "import_result": "Összefoglaló:\n- Aktivitások hozzáadva: {{activities_added}}\n- Kihagyott aktivitások ismétlődés miatt: {{activities_not_added_repeated}}\n- Kihagyott aktivitások formátum hiba miatt {{activities_not_added_wrong_format}}",  "delete_account": "Felhasználói fiók törlése",
+  "import_result": "Összefoglaló:\n- Aktivitások hozzáadva: {{activities_added}}\n- Kihagyott aktivitások ismétlődés miatt: {{activities_not_added_repeated}}\n- Kihagyott aktivitások formátum hiba miatt {{activities_not_added_wrong_format}}",
+  "delete_account": "Felhasználói fiók törlése",
   "delete_account_description": "Ezzel véglegesen törlőd az ABRP fiókodat.\n\n Biztosan ezt szeretnéd?",
   "delete_account_for_real_description": "Komolyan ezt szeretnéd? Ezzel örökre törlőd a felhasználói fiókodat. :(",
   "yes_absolutely_sure": "Igen, biztosan ezt szeretném!",
@@ -857,5 +858,11 @@
   "coordinates": "Koordináták",
   "address": "Cím",
   "long_press_set_destination": "Tipp: tartsd lenyomva úti cél beállításához.",
-  "charger_stop": "töltés leállt"
+  "charger_stop": "töltés leállt",
+  "tap_to_view_alternatives": "Tap to view alternatives",
+  "tap_notification_alternatives": "Tap notification to view alternatives.",
+  "alternative_route_tts": "There is a faster route.",
+  "navigating": "Navigating",
+  "invalid_network_replaced": "Network is not valid anymore, please remove it and use {{replaced_by}} instead.",
+  "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues."
 }

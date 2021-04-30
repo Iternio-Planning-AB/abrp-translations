@@ -858,5 +858,11 @@
   "coordinates": "Coordenadas",
   "address": "Endereço",
   "long_press_set_destination": "Dica: Pressione prolongado a definir como destino PT",
-  "charger_stop": "charger stop"
+  "charger_stop": "charger stop",
+  "tap_to_view_alternatives": "Tap to view alternatives",
+  "tap_notification_alternatives": "Tap notification to view alternatives.",
+  "alternative_route_tts": "There is a faster route.",
+  "navigating": "Navigating",
+  "invalid_network_replaced": "Network is not valid anymore, please remove it and use {{replaced_by}} instead.",
+  "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues."
 }

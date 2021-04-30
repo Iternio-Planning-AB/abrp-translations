@@ -521,6 +521,9 @@
   "share_map_app_picker": "Welche App möchtest Du verwenden?",
   "there_is_a_faster_route": "Es gibt eine {{duration}} schnellere Route",
   "view_alternatives": "Alternativen anzeigen",
+  "tap_to_view_alternatives": "Hier tippen um Alternativen anzuzeigen",
+  "tap_notification_alternatives": "Benachrichtigung antippen, um Alternativen anzuzeigen.",
+  "alternative_route_tts": "Es wurde eine schnellere Route gefunden.",
   "plan_no_longer_viable": "Dieser Plan ist nicht mehr umsetzbar",
   "plan_off_by_time": "Dein Plan ist verspätet um {{duration}}",
   "always_log": "Immer protokollieren",
@@ -796,6 +799,7 @@
   "try_again_after_alert": "Versuche es bitte erneut, nachdem diese Meldung nicht mehr angezeigt wird",
   "end_navigation": "Navigation beenden",
   "driving": "Fahren",
+  "navigating": "Navigiere",
   "charger_stop": "Ladepause",
   "charger_stops": "Ladepausen",
   "launch": "Starten",
@@ -859,5 +863,7 @@
   "apple_carplay": "Apple CarPlay",
   "apple_carplay_1": "Folge der Route auf dem Bildschirm des Autos mit Apple Carplay.",
   "long_press_set_destination": "Tipp: Lange drücken im als Ziel einzufügen.",
-  "waypoint_actions": "Waypoint actions"
+  "waypoint_actions": "Waypoint actions",
+  "invalid_network_replaced": "Das Ladenetz ist nicht mehr gültig. Bitte entferne es und verwende stattdessen {{replace_by}}.",
+  "invalid_network": "Das Ladenetz ist nicht mehr gültig. Bitte entfernen Sie es, um Planungsprobleme zu vermeiden."
 }
