@@ -674,7 +674,7 @@
   "country_borders": "Fronteres dels països",
   "waypoint_notes_placeholder": "Notes, detalls importants, ...",
   "add_new_vehicle": "Afegir un nou vehicle al teu compte?",
-  "dismiss_for": "No mostrar fins:",
+  "dismiss_for": "Ometre fins:",
   "choose_referral_code": "Elegeix un codi d'amic",
   "xx_minutes": "{{x}} minuts",
   "rest_of_drive": "la resta del trajecte",
@@ -682,7 +682,7 @@
   "waypoint_notes": "Notes",
   "share_google_link": "Obrir a Google Maps",
   "at": "a",
-  "dismiss": "No mostrar",
+  "dismiss": "Ometre",
   "please_wait_for_chargers": "Si us plau espera mentre es carreguen els carregadors",
   "permission_location_msg": "A Better Routeplanner us demana permís per accedir a la ubicació per tal d'oferir-vos un millor servei.",
   "search_network": "Escriu el nom de la xarxa de càrrega",
@@ -865,5 +865,6 @@
   "alternative_route_tts": "There is a faster route.",
   "navigating": "Navigating",
   "invalid_network_replaced": "Network is not valid anymore, please remove it and use {{replaced_by}} instead.",
-  "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues."
+  "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues.",
+  "missing_tlm_details": "Sorry your vehicle does not provide enough data to give you more details here."
 }

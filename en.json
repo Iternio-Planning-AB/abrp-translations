@@ -865,5 +865,6 @@
   "address": "Address",
   "long_press_set_destination": "Tip: Long press to set as destination.",
   "invalid_network_replaced": "Network is not valid anymore, please remove it and use {{replaced_by}} instead.",
-  "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues."
+  "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues.",
+  "missing_tlm_details": "Sorry your vehicle does not provide enough data to give you more details here."
 }
