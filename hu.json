@@ -428,8 +428,8 @@
     "Távolság",
     "Vezetés ideje",
     "Érkezés",
-    "Indulás"
-	"Megjegyzések"
+    "Indulás",
+    "Megjegyzések"
   ],
   "premium": "Prémium",
   "premium_on_app": "Ha prémium ügyfél szeretnél lenni, kérlek látogass el a A Better Routeplanner weboldalára.",
@@ -716,7 +716,7 @@
   "live_data_other_sources": "Egyéb valós idejű adatforrás",
   "live_data_other_sources_description": "Egyéb valós idejű adatforrás beállítása?",
   "stop_at": "Megállni a(z)…",
-  "got_it": "Megvan",  
+  "got_it": "Megvan",
   "nearby_amenities": "Közeli vendéglátó helyek",
   "alt_charger_options": "Alternatív töltési beállítások",
   "select_all": "Összes kijelölése",
@@ -812,7 +812,6 @@
   "route_alternatives": "Alternatív útvonalak",
   "route_details": "Útvonal részletei",
   "where_to_go": "Hova szeretnél menni?",
-  "missing_date": "Hiányzó dátum",
   "missing_home": "Hiányzó Otthoni cím",
   "missing_home_description": "Még nem került beállításra be az otthoni címed.",
   "missing_work": "Hiányzó Munkahelyi cím",
@@ -866,5 +865,7 @@
   "long_press_set_destination": "Tipp: tartsd lenyomva úti cél beállításához.",
   "invalid_network_replaced": "Ez a hálózat már nem elérhető, kélrek töröld és használd helyette a(z) {{replaced_by}} hálózatot.",
   "invalid_network": "Ez a hálózat már nem elérhető, kélrek töröld az útvonal tervezési problémák elkerülése érdekében.",
-  "missing_tlm_details": "Elnézést, de az autód nem szolgáltatott elegendő adatot ahhoz hogy további részleteket adjunk meg."
+  "missing_tlm_details": "Elnézést, de az autód nem szolgáltatott elegendő adatot ahhoz hogy további részleteket adjunk meg.",
+  "charger_stop": "charge stop",
+  "yards": "yards"
 }

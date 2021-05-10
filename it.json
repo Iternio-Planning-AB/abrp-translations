@@ -865,5 +865,6 @@
   "navigating": "Navigating",
   "invalid_network_replaced": "Network is not valid anymore, please remove it and use {{replaced_by}} instead.",
   "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues.",
-  "missing_tlm_details": "Sorry your vehicle does not provide enough data to give you more details here."
+  "missing_tlm_details": "Sorry your vehicle does not provide enough data to give you more details here.",
+  "yards": "yards"
 }

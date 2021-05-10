@@ -1,5 +1,5 @@
 {
-"starting_point_placeholder": "Punctul de plecare",
+  "starting_point_placeholder": "Punctul de plecare",
   "ending_point_placeholder": "Sfârșitul călătoriei",
   "waypoint_placeholder": "Undeva pe parcurs",
   "waypoint": "Punct pe traseu",
@@ -170,7 +170,6 @@
   "invalid_addresses": "Adresele nu sunt valide",
   "error_one_address": "Nu poți planifica un traseu cu o singură adresă",
   "custom_marker": "Marcare personalizată",
-  "Elevație": "Înălțime",
   "region": "Regiune",
   "zoom_level_to_show_chargers": "Nivel de zoom pentru afișarea punctelor de încărcare",
   "type_of_chargers": "Porturi de încărcare",
@@ -220,7 +219,6 @@
   "inside_temp": "Temperatura interioară",
   "outside_temp": "Temperatura exterioară",
   "batt_temp": "Temperatura bateriei",
-  "degradare": "Degradare",
   "range": "Autonomie",
   "last_update": "Ultima actualizare",
   "live_data": "Date în timp real",
@@ -837,7 +835,7 @@
   "reading_aborted": "Citirea fișierului a fost întreruptă",
   "reading_failed": "Citirea fișierului a eșuat",
   "import_finished": "Import finalizat",
-  "import_result": "Rezumatul importului: \ n- activități adăugate: {{activities_added}}\n- Activități eliminate din cauza duplicatelor: {{activities_not_added_repeated}}\n- Activități eliminate din cauza formatului incorect: {{activities_not_added_wrong_format}}",
+  "import_result": "Rezumatul importului: \n- activități adăugate: {{activities_added}}\n- Activități eliminate din cauza duplicatelor: {{activities_not_added_repeated}}\n- Activități eliminate din cauza formatului incorect: {{activities_not_added_wrong_format}}",
   "add_to_calendar": "Adaugă în calendar",
   "error_adding_to_calendar": "Eroare la inserarea în calendar",
   "calendar_set_departure_time": "Setează o dată de plecare viitoare pentru a exporta planul în calendar.",
@@ -858,6 +856,16 @@
   "apple_carplay": "Apple CarPlay",
   "apple_carplay_1": "Urmează traseul pe ecranul mașinii cu Apple Carplay.",
   "long_press_set_destination": "Tip: Apasă lung pentru a insera ca destinație.",
-  "waypoint_actions": "Acțiuni punct intermediar"
+  "waypoint_actions": "Acțiuni punct intermediar",
+  "elevation": "Elevation",
+  "degradation": "Degradation",
+  "tap_to_view_alternatives": "Tap to view alternatives",
+  "tap_notification_alternatives": "Tap notification to view alternatives.",
+  "alternative_route_tts": "There is a faster route.",
+  "navigating": "Navigating",
+  "charger_stop": "charge stop",
+  "yards": "yards",
+  "invalid_network_replaced": "Network is not valid anymore, please remove it and use {{replaced_by}} instead.",
+  "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues.",
+  "missing_tlm_details": "Sorry your vehicle does not provide enough data to give you more details here."
 }
-
