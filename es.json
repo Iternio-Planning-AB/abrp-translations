@@ -867,5 +867,7 @@
   "invalid_network_replaced": "Esta red ya no está disponible, por favor eliminela y utilice {{replaced_by}} en su lugar.",
   "invalid_network": "Esta red ya no está disponible, por favor eliminela para evitar errores en la navegación.",
   "missing_tlm_details": "Su vehículo no ha proporcionado datos suficientes como para que le podamos mostrar más información aquí.",
-  "yards": "yards"
+  "yards": "yards",
+  "guidepoint": "Guidepoint",
+  "add_guidepoint": "Add guidepoint"
 }

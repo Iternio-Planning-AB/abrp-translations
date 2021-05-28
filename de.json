@@ -867,5 +867,7 @@
   "waypoint_actions": "Waypoint actions",
   "invalid_network_replaced": "Das Ladenetz ist nicht mehr gültig. Bitte entferne es und verwende stattdessen {{replace_by}}.",
   "invalid_network": "Das Ladenetz ist nicht mehr gültig. Bitte entfernen Sie es, um Planungsprobleme zu vermeiden.",
-  "missing_tlm_details": "Tut uns leid, dein Fahrzeug stellt leider nicht genug Daten bereit, um dir hier mehr anzuzeigen."
+  "missing_tlm_details": "Tut uns leid, dein Fahrzeug stellt leider nicht genug Daten bereit, um dir hier mehr anzuzeigen.",
+  "guidepoint": "Guidepoint",
+  "add_guidepoint": "Add guidepoint"
 }

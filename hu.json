@@ -867,5 +867,7 @@
   "invalid_network": "Ez a hálózat már nem elérhető, kélrek töröld az útvonal tervezési problémák elkerülése érdekében.",
   "missing_tlm_details": "Elnézést, de az autód nem szolgáltatott elegendő adatot ahhoz hogy további részleteket adjunk meg.",
   "charger_stop": "charge stop",
-  "yards": "yards"
+  "yards": "yards",
+  "guidepoint": "Guidepoint",
+  "add_guidepoint": "Add guidepoint"
 }

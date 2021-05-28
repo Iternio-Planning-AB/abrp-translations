@@ -815,10 +815,6 @@
   "error_adding_to_calendar": "Erreur lors de l'ajout au calendrier",
   "calendar_set_departure_time": "Définissez une date future de départ pour exporter le plan/trajet vers le calendrier.",
   "all_time": "Tout le temps",
-  "expected_commission": "Expected commission",
-  "recruited_users_per_country": "Recruited users per country",
-  "recruited_users_per_day": "Recruited users per day",
-  "users_referred": "Users referred",
   "subscription_purchased": "Votre abonnement est maintenant activé.",
   "change_email": "Modifier l'adresse e-mail",
   "change_email_failed": "La modification de l'e-mail a échoué",
@@ -831,7 +827,6 @@
   "change_full_name": "Changer le nom complet",
   "change_full_name_failed": "La modification du nom complet a échoué",
   "missing_full_name": "Nom complet manquant",
-  "full_name_present": "Le nom complet a déjà été défini",
   "yard": "yard",
   "max_speed_limited": "Roulez à {{speed}} maximum pour atteindre votre destination.",
   "import": "Import",
@@ -871,5 +866,7 @@
   "invalid_network_replaced": "Ce réseau n'est plus valide, veuillez le supprimer et utiliser {{replaced_by}} à la place.",
   "invalid_network": "Ce réseau n'est plus valide, veuillez le supprimer pour éviter les problèmes de planification.",
   "missing_tlm_details": "Désolé, votre véhicule ne fournit pas suffisamment de données pour vous donner plus de détails ici.",
-  "yards": "yards"
+  "yards": "yards",
+  "guidepoint": "Guidepoint",
+  "add_guidepoint": "Add guidepoint"
 }

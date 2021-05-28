@@ -867,5 +867,7 @@
   "invalid_network_replaced": "Aquesta xarxa ja no està disponible, si us plau elimina-la i utilitza {{replaced_by}} en el seu lloc.",
   "invalid_network": "Aquesta xarxa ja no està disponible, si us plau elimina-la per evitar errors en la navegació.",
   "missing_tlm_details": "El teu vehicle no ha proporcionat sufucient informació per poder-te mostrar res més aquí.",
-  "yards": "yards"
+  "yards": "yards",
+  "guidepoint": "Guidepoint",
+  "add_guidepoint": "Add guidepoint"
 }

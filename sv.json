@@ -866,5 +866,7 @@
   "invalid_network_replaced": "Nätverket är inte giltigt längre, ta bort det och använd {{replaced_by}} istället.",
   "invalid_network": "Nätverket är inte längre giltigt. Vänligen, ta bort det för att undvika planeringsproblem.",
   "missing_tlm_details": "Tyvärr ger ditt fordon inte tillräckligt med data för att ge dig mer information här.",
-  "yards": "yards"
+  "yards": "yards",
+  "guidepoint": "Guide",
+  "add_guidepoint": "Lägg till guide"
 }
