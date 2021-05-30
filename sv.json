@@ -868,5 +868,7 @@
   "missing_tlm_details": "Tyvärr ger ditt fordon inte tillräckligt med data för att ge dig mer information här.",
   "yards": "yards",
   "guidepoint": "Guide",
-  "add_guidepoint": "Lägg till guide"
+  "add_guidepoint": "Lägg till guide",
+  "captcha": "Verification code",
+  "captcha_description": "Type in letters above"
 }

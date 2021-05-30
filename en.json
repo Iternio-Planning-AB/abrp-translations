@@ -869,5 +869,7 @@
   "invalid_network_replaced": "Network is not valid anymore, please remove it and use {{replaced_by}} instead.",
   "invalid_network": "Network is not valid anymore, please remove it to avoid planning issues.",
   "missing_tlm_details": "Sorry your vehicle does not provide enough data to give you more details here.",
-  "add_guidepoint": "Add guidepoint"
+  "add_guidepoint": "Add guidepoint",
+  "captcha": "Verification code",
+  "captcha_description": "Type in letters above"
 }

@@ -869,5 +869,7 @@
   "invalid_network": "Das Ladenetz ist nicht mehr gültig. Bitte entfernen Sie es, um Planungsprobleme zu vermeiden.",
   "missing_tlm_details": "Tut uns leid, dein Fahrzeug stellt leider nicht genug Daten bereit, um dir hier mehr anzuzeigen.",
   "guidepoint": "Guidepoint",
-  "add_guidepoint": "Add guidepoint"
+  "add_guidepoint": "Add guidepoint",
+  "captcha": "Verification code",
+  "captcha_description": "Type in letters above"
 }

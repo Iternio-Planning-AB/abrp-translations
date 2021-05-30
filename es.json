@@ -869,5 +869,7 @@
   "missing_tlm_details": "Su vehículo no ha proporcionado datos suficientes como para que le podamos mostrar más información aquí.",
   "yards": "yards",
   "guidepoint": "Guidepoint",
-  "add_guidepoint": "Add guidepoint"
+  "add_guidepoint": "Add guidepoint",
+  "captcha": "Verification code",
+  "captcha_description": "Type in letters above"
 }
