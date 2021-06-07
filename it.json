@@ -748,7 +748,7 @@
   "direction_count_2": "secondo",
   "direction_count_3": "terzo",
   "direction_count_4": "quarto",
-  "direction_count_nth": "{{count}}th", //in italy we don't count like this, you have to add all the numbers as the previous ones
+  "direction_count_nth": "{{count}}th",
   "direction_roundabout": "Guida {{direction}} nella rotonda, {{exit}} uscita",
   "direction_continue": "Continua {{direction}}",
   "direction_fork": "Tieni {{direction}} alla biforcazione",
@@ -888,9 +888,13 @@
   "radius": "Raggio",
   "radius_description": "Ti avviseremo quando il tuo veicolo entra/esce da questo raggio. Assicurati che il parcheggio sia incluso.",
   "callout_same_duration": "Stesso tempo",
-  "callout_closed": "Chiuso",
   "connect_session_title": "Accesso all'app remota",
   "connect_session_confirmation": "Sei sicuro di voler permettere all'app remota di accedere con questo account?",
   "connect_session_ok": "OK",
-  "connect_session_not_logged_in": "Devi effettuare il login per approvare l'accesso a un'app remota"
+  "connect_session_not_logged_in": "Devi effettuare il login per approvare l'accesso a un'app remota",
+  "callout_invalid": "Not drivable",
+  "stops_preference": "Charging stops",
+  "charge_break_preference_fewest_stops": "Fewer stops",
+  "charge_break_preference_least_time": "Quickest arrival",
+  "charge_break_preference_shorter_legs": "Shorter legs"
 }

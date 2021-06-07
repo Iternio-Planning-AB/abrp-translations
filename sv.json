@@ -888,9 +888,13 @@
   "radius": "Radius",
   "radius_description": "We will notify you when your vehicle enters / leaves this radius. Make sure the parking space is included.",
   "callout_same_duration": "Same time",
-  "callout_closed": "Closed",
+  "callout_invalid": "Not drivable",
   "connect_session_title": "Login Remote App",
   "connect_session_confirmation": "Are you sure you want to allow the remote app to login with this account?",
   "connect_session_ok": "OK",
-  "connect_session_not_logged_in": "You have log in to approve logging in a remote app"
+  "connect_session_not_logged_in": "You have log in to approve logging in a remote app",
+  "stops_preference": "Charging stops",
+  "charge_break_preference_fewest_stops": "Fewer stops",
+  "charge_break_preference_least_time": "Quickest arrival",
+  "charge_break_preference_shorter_legs": "Shorter legs"
 }
