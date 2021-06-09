@@ -897,5 +897,7 @@
   "stops_preference": "Charging stops",
   "charge_break_preference_fewest_stops": "Fewer stops",
   "charge_break_preference_least_time": "Quickest arrival",
-  "charge_break_preference_shorter_legs": "Shorter legs"
+  "charge_break_preference_shorter_legs": "Shorter legs",
+  "preferred_minimum_nbr_charger_stalls_title": "Minimum charger stalls",
+  "preferred_minimum_nbr_charger_stalls_description": "Preferred minimum number of charger stalls at charging locations"
 }
