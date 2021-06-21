@@ -457,7 +457,7 @@
   ],
   "on_free_trial": "Proba de balde o ABRP Premium",
   "provide_payment_method_description": "Tes de fornecer un método de pagamento antes de {{count}} días.\n\nPodes facelo agora sen cargos até o fin do período de proba de balde.",
-  "provide_payment_method_on_app": "Para fornecer un método de pagamento, por favor preme neste	báner no sitio web do ABRP.",
+  "provide_payment_method_on_app": "Para fornecer un método de pagamento, por favor preme neste báner no sitio web do ABRP.",
   "x_days_left": "A proba de balde remata en {{count}} días",
   "not_now": "Agora non",
   "provide_payment_method": "Fornecer un método de pagamento",
