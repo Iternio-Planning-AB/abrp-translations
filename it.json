@@ -892,11 +892,11 @@
   "connect_session_confirmation": "Sei sicuro di voler permettere all'app remota di accedere con questo account?",
   "connect_session_ok": "OK",
   "connect_session_not_logged_in": "Devi effettuare il login per approvare l'accesso a un'app remota",
-  "callout_invalid": "Not drivable",
-  "stops_preference": "Charging stops",
-  "charge_break_preference_fewest_stops": "Fewer stops",
-  "charge_break_preference_least_time": "Quickest arrival",
-  "charge_break_preference_shorter_legs": "Shorter legs",
-  "preferred_minimum_nbr_charger_stalls_title": "Minimum charger stalls",
-  "preferred_minimum_nbr_charger_stalls_description": "Preferred minimum number of charger stalls at charging locations"
+  "callout_invalid": "Non percorribile",
+  "stops_preference": "Fermate di ricarica",
+  "charge_break_preference_fewest_stops": "Meno fermate",
+  "charge_break_preference_least_time": "Arrivo più veloce",
+  "charge_break_preference_shorter_legs": "tratte più brevi",
+  "preferred_minimum_nbr_charger_stalls_title": "Numero minimo di stalli per la ricarica",
+  "preferred_minimum_nbr_charger_stalls_description": "Numero minimo preferito di stalli di ricarica nei punti di ricarica"
 }
