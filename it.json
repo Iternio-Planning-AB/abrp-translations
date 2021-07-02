@@ -898,5 +898,9 @@
   "charge_break_preference_least_time": "Arrivo più veloce",
   "charge_break_preference_shorter_legs": "tratte più brevi",
   "preferred_minimum_nbr_charger_stalls_title": "Numero minimo di stalli per la ricarica",
-  "preferred_minimum_nbr_charger_stalls_description": "Numero minimo preferito di stalli di ricarica nei punti di ricarica"
+  "preferred_minimum_nbr_charger_stalls_description": "Numero minimo preferito di stalli di ricarica nei punti di ricarica",
+  "available": "Available",
+  "in_use": "In Use",
+  "operational": "Operational",
+  "broken": "Broken"
 }

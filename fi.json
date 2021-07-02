@@ -899,5 +899,9 @@
   "preferred_minimum_nbr_charger_stalls_description": "Latauslaitteiden ensisijainen vähimmäismäärä latauspaikoissa",
   "elevation": "Elevation",
   "steakhouse": "Steakhouse",
-  "geofence_notification_body": "Battery level: {}%"
+  "geofence_notification_body": "Battery level: {}%",
+  "available": "Available",
+  "in_use": "In Use",
+  "operational": "Operational",
+  "broken": "Broken"
 }

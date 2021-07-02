@@ -899,5 +899,9 @@
   "charge_break_preference_least_time": "Скорейшее прибытие",
   "charge_break_preference_shorter_legs": "Более короткие интервалы поездки",
   "preferred_minimum_nbr_charger_stalls_title": "Минимальное кол-во зарядных колонок",
-  "preferred_minimum_nbr_charger_stalls_description": "Желаемое кол-во колонок в местах зарядки"
+  "preferred_minimum_nbr_charger_stalls_description": "Желаемое кол-во колонок в местах зарядки",
+  "available": "Available",
+  "in_use": "In Use",
+  "operational": "Operational",
+  "broken": "Broken"
 }

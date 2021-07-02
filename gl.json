@@ -503,8 +503,6 @@
   "notification_next_stop": "Seguinte: {{duration}} até {{destination}}",
   "your_car": "O teu vehículo",
   "notifications": "Notificacións",
-  "charging_notifications": "Carga durante a viaxe",
-  "charging_notifications_description": "Recibir unha notificación cando resten 10 e 5 minutos para continuar a viaxe.",
   "charging_complete_notifications": "Carga completada",
   "charging_complete_notifications_description": "Recibir unha notificación cando a batería estea completamente cargada.",
   "home_notifications": "Casa",
@@ -897,5 +895,13 @@
   "charge_break_preference_least_time": "Chegada máis rápida",
   "charge_break_preference_shorter_legs": "Paradas máis curtas",
   "preferred_minimum_nbr_charger_stalls_title": "Postos de carga mínimo",
-  "preferred_minimum_nbr_charger_stalls_description": "Mínimo de postos de carga preferido nas localizacións de carga"
+  "preferred_minimum_nbr_charger_stalls_description": "Mínimo de postos de carga preferido nas localizacións de carga",
+  "log_in_qr": "Login with ABRP app",
+  "log_in_qr_details": "Log in by scanning this QR code on a device that is already logged in",
+  "available": "Available",
+  "in_use": "In Use",
+  "operational": "Operational",
+  "broken": "Broken",
+  "charging_trip_notifications": "Charging during trip",
+  "charging_trip_notifications_description": "Get notified when it is 10 and 5 minutes left to continue your trip."
 }
