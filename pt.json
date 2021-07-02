@@ -902,5 +902,6 @@
   "available": "Available",
   "in_use": "In Use",
   "operational": "Operational",
-  "broken": "Broken"
+  "broken": "Broken",
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?"
 }

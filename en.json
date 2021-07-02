@@ -863,6 +863,7 @@
   "import_result": "Summary of the import:\n- Activities added: {{activities_added}}\n- Skipped activities due to duplicates: {{activities_not_added_repeated}}\n- Skipped activities due to data format errors: {{activities_not_added_wrong_format}}",
   "delete_account": "Delete account",
   "delete_account_description": "This will permanently delete your ABRP account.\n\n Are you sure?",
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?",
   "delete_account_for_real_description": "Really sure? This will delete your account forever.",
   "yes_absolutely_sure": "Yes I'm absolutely sure!",
   "delete_account_error": "Error deleting account, please try again later.",

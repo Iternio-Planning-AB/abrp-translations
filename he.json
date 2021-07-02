@@ -213,7 +213,7 @@
   "to_next_stop": "לתחנה הבאה",
   "to_destination": "ליעד",
   "set_home_work_title": "הגדר כתובות בית ועבודה",
-  "set_home_work_description": "כדי להגדיר את כתובת הבית או העבודה שלך, לחץ לחיצה ארוכה או לחץ לחיצה ימנית על המפה או לחץ על גלגל השיניים של ההגדרות לצד תיבת ההוראות. תקבל דף חדש עם מידע על אותה כתובת ואפשרויות להוסיף אותה ככתובת לבית או לעבודה." ,
+  "set_home_work_description": "כדי להגדיר את כתובת הבית או העבודה שלך, לחץ לחיצה ארוכה או לחץ לחיצה ימנית על המפה או לחץ על גלגל השיניים של ההגדרות לצד תיבת ההוראות. תקבל דף חדש עם מידע על אותה כתובת ואפשרויות להוסיף אותה ככתובת לבית או לעבודה.",
   "set_as_home": "הגדר כבית",
   "set_as_work": "הגדר כעבודה",
   "home": "בית",
@@ -492,7 +492,7 @@
   "apple_watch_2": "ראה את מצב הטעינה או הכונן העדכני ביותר בשעון שלך מבלי להתעסק בטלפון שלך.",
   "abrp_email": "דוא'ל חשבון ABRP",
   "share_error": "לא יכולנו לשתף עם אותו משתמש - ייתכן שחשבון ABRP לא קיים.",
-  "premium_new_member":" ברוך הבא כחבר פרימיום! אם עדיין לא עשית זאת, עיין למטה בכל הדברים הטובים שמחכים לך",
+  "premium_new_member": " ברוך הבא כחבר פרימיום! אם עדיין לא עשית זאת, עיין למטה בכל הדברים הטובים שמחכים לך",
   "long_break": "הפסקה ארוכה",
   "low_speed": "מהירות נמוכה",
   "medium_speed": "מהירות בינונית",
@@ -506,7 +506,7 @@
   "reset_settings_confirm": "האם אתה בטוח שברצונך לאפס את ההגדרות שלך? \\ N \\ n יהיה עליך להתחבר שוב.",
   "x_min_to_complete_charging": "{{count}} דקות עד שהטעינה הושלמה",
   "charging_complete": "הטעינה הושלמה!",
-  "notification_next_stop":"next",
+  "notification_next_stop": "next",
   "your_car": "הרכב שלך",
   "notifications": "התראות",
   "charging_trip_notifications": "טעינה במהלך הטיול",
@@ -903,5 +903,6 @@
   "charge_break_preference_least_time": "ההגעה המהירה ביותר",
   "charge_break_preference_shorter_legs": "רגליים קצרות יותר",
   "preferred_minimum_nbr_charger_stalls_title": "דוכני מטען מינימליים",
-  "preferred_minimum_nbr_charger_stalls_description": "מספר מינימלי מועדף של דוכני מטענים במקומות טעינה"
+  "preferred_minimum_nbr_charger_stalls_description": "מספר מינימלי מועדף של דוכני מטענים במקומות טעינה",
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?"
 }
