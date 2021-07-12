@@ -14,7 +14,7 @@
   "close_dialog": "Închizi dialogul?",
   "or": "sau",
   "scan_your_barcode": "Scanează codul de bare",
-   "use_this_serial_number": "Folosește acest număr de serie",
+  "use_this_serial_number": "Folosește acest număr de serie",
   "device_serial_input_mobile": "Introdu manual numărul de serie",
   "device_serial_input_web": "{{deviceName}} Număr de serie",
   "scan_barcode": "Scanează codul de bare",
@@ -901,5 +901,8 @@
   "charge_break_preference_least_time": "Cea mai rapidă sosire",
   "charge_break_preference_shorter_legs": "Trasee mai scurte",
   "preferred_minimum_nbr_charger_stalls_title": "Numărul minim de stații de încărcare",
-  "preferred_minimum_nbr_charger_stalls_description": "Numărul minim de locații de încărcare preferat în punctele de încărcare"
+  "preferred_minimum_nbr_charger_stalls_description": "Numărul minim de locații de încărcare preferat în punctele de încărcare",
+  "waypoint_actions": "Waypoint actions",
+  "charged_energy": "Energy charged",
+  "direction_straight": "straight"
 }
