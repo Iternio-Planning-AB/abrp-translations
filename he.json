@@ -904,5 +904,44 @@
   "charge_break_preference_shorter_legs": "רגליים קצרות יותר",
   "preferred_minimum_nbr_charger_stalls_title": "דוכני מטען מינימליים",
   "preferred_minimum_nbr_charger_stalls_description": "מספר מינימלי מועדף של דוכני מטענים במקומות טעינה",
-  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?"
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?",
+  "month_names": [
+    "ינואר",
+    "פברואר",
+    "מרץ",
+    "אפריל",
+    "מאי",
+    "יוני",
+    "יולי",
+    "אוגוסט",
+    "ספטמבר",
+    "אוקטובר",
+    "נובמבר",
+    "דצמבר"
+  ],
+  "month_names_short": [
+    "ינו׳",
+    "פבר׳",
+    "מרץ",
+    "אפר׳",
+    "מאי",
+    "יוני",
+    "יולי",
+    "אוג׳",
+    "ספט׳",
+    "אוק׳",
+    "נוב׳",
+    "דצמ׳"
+  ],
+  "day_names": [
+    "יום ראשוןן",
+    "יום שני",
+    "יום שלישי",
+    "יום רביעי",
+    "יום חמישי",
+    "יום שישי",
+    "יום שבת"
+  ],
+  "day_names_short": ["יום א׳", "יום ב׳", "יום ג׳", "יום ד׳", "יום ה׳", "יום ו׳", "שבת"],
+  "today": "היום"
 }

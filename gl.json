@@ -904,5 +904,36 @@
   "broken": "Broken",
   "charging_trip_notifications": "Charging during trip",
   "charging_trip_notifications_description": "Get notified when it is 10 and 5 minutes left to continue your trip.",
-  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?"
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?",
+  "month_names": [
+    "Xaneiro",
+    "Febreiro",
+    "Marzo",
+    "Abril",
+    "Maio",
+    "Xuño",
+    "Xullo",
+    "Agosto",
+    "Setembro",
+    "Outubro",
+    "Novembro",
+    "Decembro"
+  ],
+  "month_names_short": [
+    "Xan.",
+    "Feb.",
+    "Mar.",
+    "Abr.",
+    "Maio",
+    "Xuño",
+    "Xul.",
+    "Ago.",
+    "Set.",
+    "Out.",
+    "Nov.",
+    "Dec."
+  ],
+  "day_names": ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],
+  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
+  "today": "hoxe"
 }

@@ -903,5 +903,36 @@
   "in_use": "In Use",
   "operational": "Operational",
   "broken": "Broken",
-  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?"
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?",
+  "month_names": [
+    "januar",
+    "februar",
+    "mars",
+    "april",
+    "mai",
+    "juni",
+    "juli",
+    "august",
+    "september",
+    "oktober",
+    "november",
+    "desember"
+  ],
+  "month_names_short": [
+    "jan.",
+    "feb.",
+    "mar.",
+    "apr.",
+    "mai",
+    "jun.",
+    "jul.",
+    "aug.",
+    "sep.",
+    "okt.",
+    "nov.",
+    "des."
+  ],
+  "day_names": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
+  "day_names_short": ["søn.", "man.", "tir.", "ons.", "tor.", "fre.", "lør."],
+  "today": "i dag"
 }

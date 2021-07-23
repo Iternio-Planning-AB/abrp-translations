@@ -904,5 +904,36 @@
   "in_use": "In Use",
   "operational": "Operational",
   "broken": "Broken",
-  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?"
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?",
+  "month_names": [
+    "január",
+    "február",
+    "március",
+    "április",
+    "május",
+    "június",
+    "július",
+    "augusztus",
+    "szeptember",
+    "október",
+    "november",
+    "december"
+  ],
+  "month_names_short": [
+    "jan.",
+    "febr.",
+    "márc.",
+    "ápr.",
+    "máj.",
+    "jún.",
+    "júl.",
+    "aug.",
+    "szept.",
+    "okt.",
+    "nov.",
+    "dec."
+  ],
+  "day_names": ["vasárnap", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat"],
+  "day_names_short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+  "today": "ma"
 }

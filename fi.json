@@ -904,5 +904,44 @@
   "in_use": "In Use",
   "operational": "Operational",
   "broken": "Broken",
-  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?"
+  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.\n\nAre you sure you want to delete?",
+  "month_names": [
+    "tammikuuta",
+    "helmikuuta",
+    "maaliskuuta",
+    "huhtikuuta",
+    "toukokuuta",
+    "kesäkuuta",
+    "heinäkuuta",
+    "elokuuta",
+    "syyskuuta",
+    "lokakuuta",
+    "marraskuuta",
+    "joulukuuta"
+  ],
+  "month_names_short": [
+    "tammik.",
+    "helmik.",
+    "maalisk.",
+    "huhtik.",
+    "toukok",
+    "kesäk.",
+    "heinäk.",
+    "elok.",
+    "syysk.",
+    "lokak.",
+    "marrask.",
+    "joulu."
+  ],
+  "day_names": [
+    "sunnuntaina",
+    "maanantaina",
+    "tiistaina",
+    "keskiviikkona",
+    "torstaina",
+    "perjantaina",
+    "lauantaina"
+  ],
+  "day_names_short": ["su", "ma", "ti", "ke", "to", "pe", "la"],
+  "today": "tänään"
 }

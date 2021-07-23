@@ -903,5 +903,36 @@
   "in_use": "Utilisé",
   "operational": "Opérationnel",
   "broken": "Hors service",
-  "delete_account_premium": "Si vous avez déjà annulé votre abonnement Premium, vous pouvez supprimer votre compte ABRP.\n\nVoulez vous vraiment le supprimer ?"
+  "delete_account_premium": "Si vous avez déjà annulé votre abonnement Premium, vous pouvez supprimer votre compte ABRP.\n\nVoulez vous vraiment le supprimer ?",
+  "month_names": [
+    "Janvier",
+    "Février",
+    "Mars",
+    "Avril",
+    "Mai",
+    "Juin",
+    "Juillet",
+    "Août",
+    "Septembre",
+    "Octobre",
+    "Novembre",
+    "Décembre"
+  ],
+  "month_names_short": [
+    "Janv.",
+    "Févr.",
+    "Mars",
+    "Avril",
+    "Mai",
+    "Juin",
+    "Juil.",
+    "Août",
+    "Sept.",
+    "Oct.",
+    "Nov.",
+    "Déc."
+  ],
+  "day_names": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
+  "today": "Aujourd"
 }

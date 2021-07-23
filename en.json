@@ -904,5 +904,36 @@
   "charge_break_preference_least_time": "Quickest arrival",
   "charge_break_preference_shorter_legs": "Shorter legs",
   "preferred_minimum_nbr_charger_stalls_title": "Minimum charger stalls",
-  "preferred_minimum_nbr_charger_stalls_description": "Preferred minimum number of charger stalls at charging locations"
+  "preferred_minimum_nbr_charger_stalls_description": "Preferred minimum number of charger stalls at charging locations",
+  "month_names": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "month_names_short": [
+    "Jan.",
+    "Feb.",
+    "Mar.",
+    "Apr.",
+    "May",
+    "Jun.",
+    "Jul.",
+    "Aug.",
+    "Sep.",
+    "Oct.",
+    "Nov.",
+    "Dec."
+  ],
+  "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
+  "today": "Today"
 }

@@ -904,5 +904,36 @@
   "preferred_minimum_nbr_charger_stalls_description": "Numărul minim de locații de încărcare preferat în punctele de încărcare",
   "waypoint_actions": "Waypoint actions",
   "charged_energy": "Energy charged",
-  "direction_straight": "straight"
+  "direction_straight": "straight",
+  "month_names": [
+    "ianuarie",
+    "februarie",
+    "martie",
+    "aprilie",
+    "mai",
+    "iunie",
+    "iulie",
+    "august",
+    "septembrie",
+    "octombrie",
+    "noiembrie",
+    "decembrie"
+  ],
+  "month_names_short": [
+    "ian.",
+    "feb.",
+    "mar.",
+    "apr.",
+    "mai",
+    "iun.",
+    "iul.",
+    "aug.",
+    "sept.",
+    "oct.",
+    "nov.",
+    "dec."
+  ],
+  "day_names": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
+  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
+  "today": "azi"
 }

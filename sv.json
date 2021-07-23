@@ -903,5 +903,36 @@
   "in_use": "Används",
   "operational": "Operativ",
   "broken": "Trasig",
-  "delete_account_premium": "Om du redan har avbrutit din Premium prenumeration, kan du radera ditt ABRP konto.\n\nÄr du säker på att du vill radera?"
+  "delete_account_premium": "Om du redan har avbrutit din Premium prenumeration, kan du radera ditt ABRP konto.\n\nÄr du säker på att du vill radera?",
+  "month_names": [
+    "januari",
+    "februari",
+    "mars",
+    "april",
+    "maj",
+    "juni",
+    "juli",
+    "augusti",
+    "september",
+    "oktober",
+    "november",
+    "december"
+  ],
+  "month_names_short": [
+    "jan.",
+    "feb.",
+    "mars",
+    "apr.",
+    "maj",
+    "juni",
+    "juli",
+    "aug.",
+    "sep.",
+    "okt.",
+    "nov.",
+    "dec."
+  ],
+  "day_names": ["söndag", "måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag"],
+  "day_names_short": ["sön", "mån", "tis", "ons", "tors", "fre", "lör"],
+  "today": "i dag"
 }
