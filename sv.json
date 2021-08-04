@@ -488,7 +488,7 @@
   "not_on_route": "Du är inte på rutten",
   "owned_by": "Ägs av",
   "reset_settings": "Återställ inställningar",
-  "reset_settings_description": "Återställ all inställningar till ursprungsvärden.",
+  "reset_settings_description": "Återställ alla inställningar till ursprungsvärden.",
   "reset_settings_confirm": "Är du säker på att du vill återställa inställningarna?\n\nDu kommer behöva logga in på nytt.",
   "avg_voltage": "Medelspänning",
   "verify_email": "Verifiera mejladress",
