@@ -950,6 +950,6 @@
   "departure_time_destination_instructions": "You cannot set a departure time on the final destination",
   "charger_information": "Charger information",
   "direction_in_distance": "In {{distance}}",
-  "direction_next_instruction": "then",
+  "direction_next_instruction": "und dann",
   "charger_information_and_amenities": "Charger information and amenities nearby"
 }
