@@ -117,7 +117,7 @@
   "invalid_format": "Invalid format",
   "log_in": "Login",
   "log_in_qr": "Login with ABRP app",
-  "log_in_qr_details": "Hit \"Complete ABRP QR longin\" on a device that is already logged in",
+  "log_in_qr_details": "Select \"Scan ABRP QR login\" on a device that is already logged in",
   "create_an_account": "Create an account",
   "email": "Email",
   "password": "Password",
