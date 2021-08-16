@@ -488,7 +488,7 @@
   "not_on_route": "Du är inte på rutten",
   "owned_by": "Ägs av",
   "reset_settings": "Återställ inställningar",
-  "reset_settings_description": "Återställ alla inställningar till ursprungsvärden.",
+  "reset_settings_description": "Återställ all inställningar till ursprungsvärden.",
   "reset_settings_confirm": "Är du säker på att du vill återställa inställningarna?\n\nDu kommer behöva logga in på nytt.",
   "avg_voltage": "Medelspänning",
   "verify_email": "Verifiera mejladress",
@@ -896,7 +896,7 @@
   "stops_preference": "Laddstopp",
   "charge_break_preference_fewest_stops": "Färre stopp",
   "charge_break_preference_least_time": "Snabbast ankomst",
-  "charge_break_preference_shorter_legs": "Kortare sträckor",
+  "charge_break_preference_shorter_legs": "Kortare ben",
   "preferred_minimum_nbr_charger_stalls_title": "Minsta antal laddbås",
   "preferred_minimum_nbr_charger_stalls_description": "Föredraget minsta antal laddbås vid laddstopp",
   "available": "Tillgänglig",
@@ -932,7 +932,29 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["söndag", "måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag"],
-  "day_names_short": ["sön", "mån", "tis", "ons", "tors", "fre", "lör"],
-  "today": "i dag"
+  "day_names": [
+    "söndag",
+    "måndag",
+    "tisdag",
+    "onsdag",
+    "torsdag",
+    "fredag",
+    "lördag"
+  ],
+  "day_names_short": [
+    "sön",
+    "mån",
+    "tis",
+    "ons",
+    "tors",
+    "fre",
+    "lör"
+  ],
+  "today": "i dag",
+  "scan_abrp_login_qrcode": "Scan ABRP QR login",
+  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
+  "permission_camera_title": "Permission to use camera",
+  "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
+  "permission_mic_title": "Permission to use audio recording",
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
 }

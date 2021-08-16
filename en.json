@@ -117,7 +117,7 @@
   "invalid_format": "Invalid format",
   "log_in": "Login",
   "log_in_qr": "Login with ABRP app",
-  "log_in_qr_details": "Log in by scanning this QR code on a device that is already logged in",
+  "log_in_qr_details": "Hit \"Complete ABRP QR longin\" on a device that is already logged in",
   "create_an_account": "Create an account",
   "email": "Email",
   "password": "Password",
@@ -935,5 +935,11 @@
   ],
   "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
   "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
-  "today": "Today"
+  "today": "Today",
+  "scan_abrp_login_qrcode": "Scan ABRP QR login",
+  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
+  "permission_camera_title": "Permission to use camera",
+  "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
+  "permission_mic_title": "Permission to use audio recording",
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
 }

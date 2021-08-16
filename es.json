@@ -933,7 +933,29 @@
     "nov.",
     "dic."
   ],
-  "day_names": ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"],
-  "day_names_short": ["dom.", "lun.", "mar.", "mié.", "jue.", "vie.", "sáb."],
-  "today": "hoy"
+  "day_names": [
+    "domingo",
+    "lunes",
+    "martes",
+    "miércoles",
+    "jueves",
+    "viernes",
+    "sábado"
+  ],
+  "day_names_short": [
+    "dom.",
+    "lun.",
+    "mar.",
+    "mié.",
+    "jue.",
+    "vie.",
+    "sáb."
+  ],
+  "today": "hoy",
+  "scan_abrp_login_qrcode": "Scan ABRP QR login",
+  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
+  "permission_camera_title": "Permission to use camera",
+  "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
+  "permission_mic_title": "Permission to use audio recording",
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
 }

@@ -932,7 +932,29 @@
     "11月",
     "12月"
   ],
-  "day_names": ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
-  "day_names_short": ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
-  "today": "今天"
+  "day_names": [
+    "星期日",
+    "星期一",
+    "星期二",
+    "星期三",
+    "星期四",
+    "星期五",
+    "星期六"
+  ],
+  "day_names_short": [
+    "周日",
+    "周一",
+    "周二",
+    "周三",
+    "周四",
+    "周五",
+    "周六"
+  ],
+  "today": "今天",
+  "scan_abrp_login_qrcode": "Scan ABRP QR login",
+  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
+  "permission_camera_title": "Permission to use camera",
+  "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
+  "permission_mic_title": "Permission to use audio recording",
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
 }

@@ -933,7 +933,29 @@
     "nov.",
     "des."
   ],
-  "day_names": ["diumenge", "dilluns", "dimarts", "dimecres", "dijous", "divendres", "dissabte"],
-  "day_names_short": ["dg.", "dl.", "dt.", "dc.", "dj.", "dv.", "ds."],
-  "today": "avui"
+  "day_names": [
+    "diumenge",
+    "dilluns",
+    "dimarts",
+    "dimecres",
+    "dijous",
+    "divendres",
+    "dissabte"
+  ],
+  "day_names_short": [
+    "dg.",
+    "dl.",
+    "dt.",
+    "dc.",
+    "dj.",
+    "dv.",
+    "ds."
+  ],
+  "today": "avui",
+  "scan_abrp_login_qrcode": "Scan ABRP QR login",
+  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
+  "permission_camera_title": "Permission to use camera",
+  "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
+  "permission_mic_title": "Permission to use audio recording",
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
 }
