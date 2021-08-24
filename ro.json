@@ -952,10 +952,10 @@
     "sâm."
   ],
   "today": "azi",
-  "scan_abrp_login_qrcode": "Scan ABRP QR login",
-  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
-  "permission_camera_title": "Permission to use camera",
-  "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
-  "permission_mic_title": "Permission to use audio recording",
-  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
+  "scan_abrp_login_qrcode": "Scanează codul de înregistrare ABRP QR",
+  "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",
+  "permission_camera_title": "Autorizare de folosire a camerei",
+  "permission_camera_message": "Pentru a scana codurile de bare, ABRP necesită autorizația de utilizare a camerei",
+  "permission_mic_title": "Autorizare de a înregistra audio",
+  "permission_mic_message": "Pentru a scana codurile de bare, ABRP necesită autorizația de a înregistra audio"
 }
