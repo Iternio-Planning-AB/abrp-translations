@@ -935,7 +935,7 @@
   ],
   "day_names": ["Nedele", "Pondeli", "Utery", "Streda", "Ctvrtek", "Patek", "Sobota"],
   "day_names_short": ["Ned.", "Pon.", "Ute.", "Str.", "Ctv.", "Pat.", "Sob."],
-  "today": "Today",
+  "today": "Dnes",
   "scan_abrp_login_qrcode": "Nacist ABRP QR prihlaseni",
   "scan_abrp_qrcode_to_complete_login": "Dokoncete prihlaseni naskenovanim souboru ABRP QR-code",
   "permission_camera_title": "Permission to use camera",
