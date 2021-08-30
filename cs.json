@@ -379,7 +379,7 @@
   "share_historical_data_description": "The user will be able to see you past drives and charges",
   "shared_with": "Shared with",
   "new_share": "New share",
-  "delete_share": "Delete share connection"
+  "delete_share": "Delete share connection",
   "delete_share_description": "Are you sure that you want to delete this sharing connection?",
   "vehicle": "Vehicle",
   "daily_summary": "Daily summary",
