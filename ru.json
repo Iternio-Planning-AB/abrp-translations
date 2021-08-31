@@ -957,5 +957,10 @@
   "permission_camera_title": "Permission to use camera",
   "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
   "permission_mic_title": "Permission to use audio recording",
-  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio",
+  "nearby_chargers": "Nearby chargers",
+  "details": "Details",
+  "you_are_here": "You are here",
+  "from_you": "From you",
+  "from_location": "From location"
 }

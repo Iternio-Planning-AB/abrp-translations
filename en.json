@@ -905,6 +905,7 @@
   "charge_break_preference_shorter_legs": "Shorter legs",
   "preferred_minimum_nbr_charger_stalls_title": "Minimum charger stalls",
   "preferred_minimum_nbr_charger_stalls_description": "Preferred minimum number of charger stalls at charging locations",
+  "nearby_chargers": "Nearby chargers",
   "month_names": [
     "January",
     "February",
@@ -941,5 +942,9 @@
   "permission_camera_title": "Permission to use camera",
   "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
   "permission_mic_title": "Permission to use audio recording",
-  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio",
+  "details": "Details",
+  "you_are_here": "You are here",
+  "from_you": "From you",
+  "from_location": "From location"
 }

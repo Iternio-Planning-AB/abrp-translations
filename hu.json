@@ -957,5 +957,10 @@
   "permission_camera_title": "Kamera hozzáférés engedélyezése",
   "permission_camera_message": "A QR kód beolvasásához engedélyezned kell, hogy használhassuk a mobil telefonod kameráját.",
   "permission_mic_title": "Mikrofon hozzáférés engedélyezése",
-  "permission_mic_message": "A QR kód beolvasásához engedélyezned kell, hogy használhassuk a mobil telefonod mikrofonját."
+  "permission_mic_message": "A QR kód beolvasásához engedélyezned kell, hogy használhassuk a mobil telefonod mikrofonját.",
+  "nearby_chargers": "Nearby chargers",
+  "details": "Details",
+  "you_are_here": "You are here",
+  "from_you": "From you",
+  "from_location": "From location"
 }

@@ -956,5 +956,10 @@
   "permission_camera_title": "Permissão para utilizar a câmara",
   "permission_camera_message": "Para digitalizar o código de barras, precisamos de permissões para utilizar a câmara do seu telefone",
   "permission_mic_title": "Permissão de utilização de gravação áudio",
-  "permission_mic_message": "Para digitalizar o código de barras, precisamos de permissões para utilizar o áudio do seu telefone"
+  "permission_mic_message": "Para digitalizar o código de barras, precisamos de permissões para utilizar o áudio do seu telefone",
+  "nearby_chargers": "Nearby chargers",
+  "details": "Details",
+  "you_are_here": "You are here",
+  "from_you": "From you",
+  "from_location": "From location"
 }

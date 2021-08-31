@@ -933,13 +933,34 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Nedele", "Pondeli", "Utery", "Streda", "Ctvrtek", "Patek", "Sobota"],
-  "day_names_short": ["Ned.", "Pon.", "Ute.", "Str.", "Ctv.", "Pat.", "Sob."],
+  "day_names": [
+    "Nedele",
+    "Pondeli",
+    "Utery",
+    "Streda",
+    "Ctvrtek",
+    "Patek",
+    "Sobota"
+  ],
+  "day_names_short": [
+    "Ned.",
+    "Pon.",
+    "Ute.",
+    "Str.",
+    "Ctv.",
+    "Pat.",
+    "Sob."
+  ],
   "today": "Dnes",
   "scan_abrp_login_qrcode": "Nacist ABRP QR prihlaseni",
   "scan_abrp_qrcode_to_complete_login": "Dokoncete prihlaseni naskenovanim souboru ABRP QR-code",
   "permission_camera_title": "Permission to use camera",
   "permission_camera_message": "To scan the barcode, we need permissions to use your phone's camera",
   "permission_mic_title": "Permission to use audio recording",
-  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio"
+  "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio",
+  "nearby_chargers": "Nearby chargers",
+  "details": "Details",
+  "you_are_here": "You are here",
+  "from_you": "From you",
+  "from_location": "From location"
 }
