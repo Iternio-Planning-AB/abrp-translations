@@ -959,8 +959,6 @@
   "permission_mic_title": "Berechtigung Audioaufnahmen",
   "permission_mic_message": "Um Barcodes zu scannen benötigt ABRP die Berechtigung Audioaufnahmen zu erstellen.",
   "nearby_chargers": "Nearby chargers",
-  "details": "Details",
-  "you_are_here": "You are here",
-  "from_you": "From you",
-  "from_location": "From location"
+  "upload_events_title": "Give feedback",
+  "upload_events_message": "Would you like to upload your latest usage history to help us analyze any problems?"
 }
