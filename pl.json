@@ -1,7 +1,7 @@
 {
-  "starting_point_placeholder": "The starting point of your trip",
-  "ending_point_placeholder": "The end of your trip",
-  "waypoint_placeholder": "Somewhere along the way",
+  "starting_point_placeholder": "Punkt początkowy twojej podróży",
+  "ending_point_placeholder": "Punkt końcowy twojej podróży",
+  "waypoint_placeholder": "Punkt pośredni",
   "waypoint": "Waypoint",
   "guidepoint": "Guidepoint",
   "starting_point": "Starting point",
