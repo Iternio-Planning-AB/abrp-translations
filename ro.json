@@ -958,7 +958,7 @@
   "permission_camera_message": "Pentru a scana codurile de bare, ABRP necesită autorizația de utilizare a camerei",
   "permission_mic_title": "Autorizare de a înregistra audio",
   "permission_mic_message": "Pentru a scana codurile de bare, ABRP necesită autorizația de a înregistra audio",
-  "nearby_chargers": "Nearby chargers",
-  "upload_events_title": "Give feedback",
-  "upload_events_message": "Would you like to upload your latest usage history to help us analyze any problems?"
+  "nearby_chargers": "Încărcătoare în apropiere",
+  "upload_events_title": "Oferă feedback",
+  "upload_events_message": "Dorești să încarci cel mai recent istoric de utilizare pentru a ne ajuta să analizăm orice problemă?"
 }
