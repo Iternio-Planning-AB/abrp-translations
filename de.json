@@ -234,6 +234,7 @@
   "location": "Standort",
   "link": "Verknüpfen",
   "link_tesla": "Tesla verknüpfen",
+  "link_tesla_description": "Bitte melde dich bei deinem Tesla Konto an damit wir dein Fahrzeug mit ABRP verknpüfen können.",
   "mytesla_email": "Tesla E-Mail",
   "mytesla_password": "Tesla Passwort",
   "logout_mytesla": "Von Tesla abmelden",
@@ -933,24 +934,8 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": [
-    "Sonntag",
-    "Montag",
-    "Dienstag",
-    "Mittwoch",
-    "Donnerstag",
-    "Freitag",
-    "Samstag"
-  ],
-  "day_names_short": [
-    "So.",
-    "Mo.",
-    "Di.",
-    "Mi.",
-    "Do.",
-    "Fr.",
-    "Sa."
-  ],
+  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
   "today": "Heute",
   "scan_abrp_login_qrcode": "ABRP QR Anmeldung",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP QR-Code um den Anmeldevorgang abzuschließen",

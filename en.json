@@ -237,6 +237,7 @@
   "location": "Location",
   "link": "Link",
   "link_tesla": "Link Tesla",
+  "link_tesla_description": "Please sign in to your Tesla account so we can link your vehicle with ABRP.",
   "mytesla_email": "Tesla email",
   "mytesla_password": "Tesla password",
   "mytesla_mfa_device": "Multi-Factor Auth Device",

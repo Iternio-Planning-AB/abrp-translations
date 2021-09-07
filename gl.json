@@ -960,5 +960,6 @@
   "permission_mic_message": "Para escanear o código de barras, é preciso ter permiso para empregar o son do teu teléfono",
   "nearby_chargers": "Nearby chargers",
   "upload_events_title": "Give feedback",
-  "upload_events_message": "Would you like to upload your latest usage history to help us analyze any problems?"
+  "upload_events_message": "Would you like to upload your latest usage history to help us analyze any problems?",
+  "link_tesla_description": "Please sign in to your Tesla account so we can link your vehicle with ABRP."
 }

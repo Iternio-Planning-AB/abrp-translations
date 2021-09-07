@@ -960,5 +960,6 @@
   "permission_mic_message": "Pentru a scana codurile de bare, ABRP necesită autorizația de a înregistra audio",
   "nearby_chargers": "Încărcătoare în apropiere",
   "upload_events_title": "Oferă feedback",
-  "upload_events_message": "Dorești să încarci cel mai recent istoric de utilizare pentru a ne ajuta să analizăm orice problemă?"
+  "upload_events_message": "Dorești să încarci cel mai recent istoric de utilizare pentru a ne ajuta să analizăm orice problemă?",
+  "link_tesla_description": "Please sign in to your Tesla account so we can link your vehicle with ABRP."
 }
