@@ -961,5 +961,8 @@
   "nearby_chargers": "Cargadores cercanos",
   "upload_events_title": "Give feedback",
   "upload_events_message": "Would you like to upload your latest usage history to help us analyze any problems?",
-  "link_tesla_description": "Please sign in to your Tesla account so we can link your vehicle with ABRP."
+  "link_tesla_description": "Please sign in to your Tesla account so we can link your vehicle with ABRP.",
+  "mytesla_login_app_only": "Sign in with Tesla credentials isn't supported on web, please use our ABRP app for Android/iOS or provide tokens instead.",
+  "sign_in_with_tesla": "Sign in with Tesla",
+  "provide_tesla_token": "Provide Tesla token"
 }

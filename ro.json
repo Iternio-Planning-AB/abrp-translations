@@ -961,5 +961,8 @@
   "nearby_chargers": "Încărcătoare în apropiere",
   "upload_events_title": "Oferă feedback",
   "upload_events_message": "Dorești să încarci cel mai recent istoric de utilizare pentru a ne ajuta să analizăm orice problemă?",
-  "link_tesla_description": "Please sign in to your Tesla account so we can link your vehicle with ABRP."
+  "link_tesla_description": "Te rugăm să te conectezi la contul tău Tesla, astfel încât să-ți putem conecta vehiculul la ABRP.",
+  "mytesla_login_app_only": "Conectarea cu acreditări Tesla nu este acceptată pe web, te rugăm să utilizezi aplicația ABRP pentru Android / iOS sau să furnizezi în schimb jetoane.",
+  "sign_in_with_tesla": "Conectează-te cu Tesla",
+  "provide_tesla_token": "Furnizează jetonul Tesla"
 }
