@@ -963,5 +963,9 @@
   "link_tesla_description": "Per favore registrati con il tuo account Tesla per permetterci di collegare il tuo veicolo con ABRP.",
   "mytesla_login_app_only": "La registrazione con le credenziali Tesla non è supportato dal sito web, per favore utilizza l'app ABRP per Android/iOS o utilizza un token.",
   "sign_in_with_tesla": "Registrazione con Tesla",
-  "provide_tesla_token": "Inserire il token Tesla"
+  "provide_tesla_token": "Inserire il token Tesla",
+  "corporate_login": "Corporate login",
+  "corporate_login_enter_email": "Enter your corporate or organization email address",
+  "corporate_login_description": "If your company or organization has an integration with ABRP you can log to ABRP using that account.",
+  "corporate_login_no_domain": "Your organization is not yet integrated with ABRP. Please create your own ABRP account"
 }

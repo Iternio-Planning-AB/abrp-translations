@@ -964,5 +964,9 @@
   "link_tesla_description": "Te rugăm să te conectezi la contul tău Tesla, astfel încât să-ți putem conecta vehiculul la ABRP.",
   "mytesla_login_app_only": "Conectarea cu acreditări Tesla nu este acceptată pe web, te rugăm să utilizezi aplicația ABRP pentru Android / iOS sau să furnizezi în schimb jetoane.",
   "sign_in_with_tesla": "Conectează-te cu Tesla",
-  "provide_tesla_token": "Furnizează jetonul Tesla"
+  "provide_tesla_token": "Furnizează jetonul Tesla",
+  "corporate_login": "Corporate login",
+  "corporate_login_enter_email": "Enter your corporate or organization email address",
+  "corporate_login_description": "If your company or organization has an integration with ABRP you can log to ABRP using that account.",
+  "corporate_login_no_domain": "Your organization is not yet integrated with ABRP. Please create your own ABRP account"
 }

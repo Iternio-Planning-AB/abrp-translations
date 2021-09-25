@@ -963,5 +963,9 @@
   "link_tesla_description": "Please sign in to your Tesla account so we can link your vehicle with ABRP.",
   "mytesla_login_app_only": "Sign in with Tesla credentials isn't supported on web, please use our ABRP app for Android/iOS or provide tokens instead.",
   "sign_in_with_tesla": "Sign in with Tesla",
-  "provide_tesla_token": "Provide Tesla token"
+  "provide_tesla_token": "Provide Tesla token",
+  "corporate_login": "Corporate login",
+  "corporate_login_enter_email": "Enter your corporate or organization email address",
+  "corporate_login_description": "If your company or organization has an integration with ABRP you can log to ABRP using that account.",
+  "corporate_login_no_domain": "Your organization is not yet integrated with ABRP. Please create your own ABRP account"
 }

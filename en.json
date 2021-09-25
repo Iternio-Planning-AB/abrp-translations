@@ -948,5 +948,9 @@
   "permission_mic_title": "Permission to use audio recording",
   "permission_mic_message": "To scan the barcode, we need permissions to use your phone's audio",
   "upload_events_title": "Give feedback",
-  "upload_events_message": "Would you like to upload your latest usage history to help us analyze any problems?"
+  "upload_events_message": "Would you like to upload your latest usage history to help us analyze any problems?",
+  "corporate_login": "Corporate login",
+  "corporate_login_enter_email": "Enter your corporate or organization email address",
+  "corporate_login_description": "If your company or organization has an integration with ABRP you can log to ABRP using that account.",
+  "corporate_login_no_domain": "Your organization is not yet integrated with ABRP. Please create your own ABRP account"
 }
