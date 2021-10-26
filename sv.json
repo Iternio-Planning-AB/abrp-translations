@@ -57,6 +57,7 @@
   "road_conditions": "Vägförhållanden",
   "departure_soc": "SoC vid avfärd",
   "departure_soc_description": "Batteriets laddning (SoC) vid resans början.",
+  "charging_stops_slider_description": "Flytta slidern för att välja om du vill ha så få stop som möjligt eller fler med kortare körsträckor.",
   "reference_consumption": "Referensförbrukning",
   "reference_consumption_description": "Förbrukning på platt mark vid motorvägskörning. Du kan justera denna för att passa dig och ditt fordon bättre.",
   "fast_chargers": "Snabbladdare",
@@ -967,5 +968,16 @@
   "corporate_login": "Corporate login",
   "corporate_login_enter_email": "Enter your corporate or organization email address",
   "corporate_login_description": "If your company or organization has an integration with ABRP you can log to ABRP using that account.",
-  "corporate_login_no_domain": "Your organization is not yet integrated with ABRP. Please create your own ABRP account"
+  "corporate_login_no_domain": "Your organization is not yet integrated with ABRP. Please create your own ABRP account",
+  "leg_summary": "Tid för sträckan:",
+  "prefer_or_avoid_-1": "Prefer not to use this network",
+  "restart": "Restart",
+  "my_account": "My account",
+  "advanced_settings": "Advanced settings",
+  "vehicle_settings": "Vehicle",
+  "display_settings": "User interface",
+  "battery_settings": "Battery",
+  "charger_settings": "Chargers & Networks",
+  "avoid_named_charger": "Avoiding {{name}} charger, replan to get the new plan without it",
+  "delete_other_amenity": "Delete other amenity stop"
 }

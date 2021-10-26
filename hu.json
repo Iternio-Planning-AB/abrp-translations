@@ -968,5 +968,17 @@
   "corporate_login": "Hivatalos (céges) bejelentkezés",
   "corporate_login_enter_email": "Kérlek add meg a hivatalos (céges) email címedet",
   "corporate_login_description": "Ha a céged ABRP integrációval rendelkezik, akkor bejelentkezhetsz a céges fiókoddal is.",
-  "corporate_login_no_domain": "Elnézést, de a céged még nem rendelkezik ABRP integrációval. Kérlek készítsd el a saját ABRP fiókodat."
+  "corporate_login_no_domain": "Elnézést, de a céged még nem rendelkezik ABRP integrációval. Kérlek készítsd el a saját ABRP fiókodat.",
+  "charging_stops_slider_description": "Move the slider to pick if you want fewer stops with long driving distances or short driving distances and more stops.",
+  "prefer_or_avoid_-1": "Prefer not to use this network",
+  "restart": "Restart",
+  "my_account": "My account",
+  "advanced_settings": "Advanced settings",
+  "vehicle_settings": "Vehicle",
+  "display_settings": "User interface",
+  "battery_settings": "Battery",
+  "charger_settings": "Chargers & Networks",
+  "avoid_named_charger": "Avoiding {{name}} charger, replan to get the new plan without it",
+  "leg_summary": "Leg time:",
+  "delete_other_amenity": "Delete other amenity stop"
 }

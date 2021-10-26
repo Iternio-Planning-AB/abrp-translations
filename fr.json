@@ -967,5 +967,17 @@
   "corporate_login": "Connexion d'entreprise",
   "corporate_login_enter_email": "Entrez votre email d'entreprise ou d'organisation",
   "corporate_login_description": "Si votre entreprise ou organisation a une intégration avec ABRP, vous pouvez vous connecter à ABRP en utilisant ce compte.",
-  "corporate_login_no_domain": "Votre organisation n'est pas encore intégrée à ABRP. Veuillez créer votre propre compte ABRP."
+  "corporate_login_no_domain": "Votre organisation n'est pas encore intégrée à ABRP. Veuillez créer votre propre compte ABRP.",
+  "charging_stops_slider_description": "Move the slider to pick if you want fewer stops with long driving distances or short driving distances and more stops.",
+  "prefer_or_avoid_-1": "Prefer not to use this network",
+  "restart": "Restart",
+  "my_account": "My account",
+  "advanced_settings": "Advanced settings",
+  "vehicle_settings": "Vehicle",
+  "display_settings": "User interface",
+  "battery_settings": "Battery",
+  "charger_settings": "Chargers & Networks",
+  "avoid_named_charger": "Avoiding {{name}} charger, replan to get the new plan without it",
+  "leg_summary": "Leg time:",
+  "delete_other_amenity": "Delete other amenity stop"
 }

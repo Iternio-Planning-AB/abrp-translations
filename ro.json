@@ -968,5 +968,17 @@
   "corporate_login": "Autentificare companie",
   "corporate_login_enter_email": "Introdu adresa de e-mail a companiei sau a organizației",
   "corporate_login_description": "Dacă compania sau organizația ta are o integrare cu ABRP, te poți conecta la ABRP folosind acel cont.",
-  "corporate_login_no_domain": "Organizația ta nu este încă integrată cu ABRP. Te rugăm să îți creezi propriul cont ABRP"
+  "corporate_login_no_domain": "Organizația ta nu este încă integrată cu ABRP. Te rugăm să îți creezi propriul cont ABRP",
+  "charging_stops_slider_description": "Move the slider to pick if you want fewer stops with long driving distances or short driving distances and more stops.",
+  "prefer_or_avoid_-1": "Prefer not to use this network",
+  "restart": "Restart",
+  "my_account": "My account",
+  "advanced_settings": "Advanced settings",
+  "vehicle_settings": "Vehicle",
+  "display_settings": "User interface",
+  "battery_settings": "Battery",
+  "charger_settings": "Chargers & Networks",
+  "avoid_named_charger": "Avoiding {{name}} charger, replan to get the new plan without it",
+  "leg_summary": "Leg time:",
+  "delete_other_amenity": "Delete other amenity stop"
 }
