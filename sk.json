@@ -980,5 +980,6 @@
   "charger_settings": "Chargers & Networks",
   "avoid_named_charger": "Avoiding {{name}} charger, replan to get the new plan without it",
   "leg_summary": "Leg time:",
-  "delete_other_amenity": "Delete other amenity stop"
+  "delete_other_amenity": "Delete other amenity stop",
+  "maps_settings": "Maps"
 }
