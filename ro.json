@@ -981,5 +981,16 @@
   "avoid_named_charger": "Evitând încărcătorul {{name}}, replanifică pentru a obține noul plan fără acesta",
   "leg_summary": "Timp etapă:",
   "delete_other_amenity": "Șterge altă oprire la punct de interes",
-  "maps_settings": "Hărți"
+  "maps_settings": "Hărți",
+  "support_feedback_description": "Need help with something, have a suggestion or want to report a bug? ",
+  "support_main_premium": "Contact support",
+  "support_main_no_premium": "Give feedback",
+  "support_bug": "Report a bugg",
+  "support_feature": "Suggestions",
+  "support_forum": "Find help in our forum",
+  "home_work_set": "Set",
+  "map_right_click_tip_title": "Right Click to add Waypoint",
+  "map_right_click_tip": "By right clicking on the map you can add a waypoint to your plan",
+  "settings_intro": "Settings are here!",
+  "missing_vehicle": "Missing your car?"
 }

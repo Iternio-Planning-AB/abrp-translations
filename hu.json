@@ -981,5 +981,16 @@
   "avoid_named_charger": "Avoiding {{name}} charger, replan to get the new plan without it",
   "leg_summary": "Leg time:",
   "delete_other_amenity": "Delete other amenity stop",
-  "maps_settings": "Maps"
+  "maps_settings": "Maps",
+  "support_feedback_description": "Need help with something, have a suggestion or want to report a bug? ",
+  "support_main_premium": "Contact support",
+  "support_main_no_premium": "Give feedback",
+  "support_bug": "Report a bugg",
+  "support_feature": "Suggestions",
+  "support_forum": "Find help in our forum",
+  "home_work_set": "Set",
+  "map_right_click_tip_title": "Right Click to add Waypoint",
+  "map_right_click_tip": "By right clicking on the map you can add a waypoint to your plan",
+  "settings_intro": "Settings are here!",
+  "missing_vehicle": "Missing your car?"
 }
