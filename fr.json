@@ -493,8 +493,6 @@
   "notification_next_stop": "Prochain : {{duration}} vers {{destination}}",
   "your_car": "Votre véhicule",
   "notifications": "Notifications",
-  "charging_notifications": "Charge durant le trajet",
-  "charging_notifications_description": "Etre averti quand il reste 10 et 5 minutes avant de poursuivre son trajet.",
   "home_notifications": "Domicile",
   "home_notifications_description": "Etre averti lorsque votre véhicule arrive ou quitte votre Domicile.",
   "work_notifications": "Travail",
@@ -815,10 +813,6 @@
   "error_adding_to_calendar": "Erreur lors de l'ajout au calendrier",
   "calendar_set_departure_time": "Définissez une date future de départ pour exporter le plan/trajet vers le calendrier.",
   "all_time": "Tout le temps",
-  "expected_commission": "Expected commission",
-  "recruited_users_per_country": "Recruited users per country",
-  "recruited_users_per_day": "Recruited users per day",
-  "users_referred": "Users referred",
   "subscription_purchased": "Votre abonnement est maintenant activé.",
   "change_email": "Modifier l'adresse e-mail",
   "change_email_failed": "La modification de l'e-mail a échoué",
@@ -831,7 +825,6 @@
   "change_full_name": "Changer le nom complet",
   "change_full_name_failed": "La modification du nom complet a échoué",
   "missing_full_name": "Nom complet manquant",
-  "full_name_present": "Le nom complet a déjà été défini",
   "yard": "yard",
   "max_speed_limited": "Roulez à {{speed}} maximum pour atteindre votre destination.",
   "import": "Import",
@@ -895,7 +888,6 @@
   "radius": "Rayon",
   "radius_description": "Nous vous indiquerons lorsque votre véhicule entre/sort de ce rayon. Assurez-vous que votre espace de stationnement y est inclus.",
   "callout_same_duration": "Même durée",
-  "callout_closed": "Fermé",
   "connect_session_title": "Se connecter à distance à l'appli",
   "connect_session_confirmation": "Autorisez-vous vraiment l'appli à distance à se connecter avec ce compte ?",
   "connect_session_ok": "OK",
@@ -940,8 +932,24 @@
     "Nov.",
     "Déc."
   ],
-  "day_names": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
+  "day_names": [
+    "Dimanche",
+    "Lundi",
+    "Mardi",
+    "Mercredi",
+    "Jeudi",
+    "Vendredi",
+    "Samedi"
+  ],
+  "day_names_short": [
+    "Dim.",
+    "Lun.",
+    "Mar.",
+    "Mer.",
+    "Jeu.",
+    "Ven.",
+    "Sam."
+  ],
   "today": "Aujourd",
   "scan_abrp_login_qrcode": "Scannez le QRCode ABRP",
   "scan_abrp_qrcode_to_complete_login": "Terminez la connexion en scannant le QR-code ABRP",
@@ -985,4 +993,3 @@
   "settings_intro": "Les paramètres sont là!",
   "missing_vehicle": "Votre VE vous manque ?"
 }
- 
