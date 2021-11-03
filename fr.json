@@ -137,7 +137,7 @@
   "metric": "Métrique",
   "imperial": "Impérial",
   "british": "Anglais",
-  "about_abrp": "À propos...",
+  "about_abrp": "A propos...",
   "routes_planned": "routes planifiées",
   "social": "Contactez-nous!",
   "version": "Version",
@@ -536,7 +536,7 @@
   "advanced": "Détails",
   "save_advanced_settings": "Conserver le paramétrage détaillé ?",
   "save_advanced_settings_description": "Voulez-vous sauvegarder les modifications effectuées dans la partie détaillée des paramètres ?",
-  "no_use_default": "Non, utiliser les paramètres par défaut",
+  "no_use_default": "Non, paramètres par défaut",
   "link_mytesla": "Avez-vous un compte MyTesla ?",
   "link_mytesla_description": "Si c'est le cas, vous pouvez le lier afin d'obtenir les données en temps réel de votre véhicule - ce qui rendra votre trajet plus serein.",
   "month": "mois",
@@ -986,10 +986,10 @@
   "support_main_no_premium": "Donnez votre avis",
   "support_bug": "Signaler un bug",
   "support_feature": "Suggestions",
-  "support_forum": "Trouver de l'aide dans le forum",
+  "support_forum": "Trouver de l'aide via le forum",
   "home_work_set": "Définir",
   "map_right_click_tip_title": "Clic droit pour ajouter un Waypoint",
   "map_right_click_tip": "En faisant un clic droit sur la carte, vous pouvez ajouter un waypoint à votre plan",
   "settings_intro": "Les paramètres sont là!",
-  "missing_vehicle": "Votre VE vous manque ?"
+  "missing_vehicle": "Votre VE n'apparaît pas ?"
 }
