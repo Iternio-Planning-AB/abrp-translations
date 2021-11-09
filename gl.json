@@ -458,7 +458,7 @@
   "suggest_create_an_account": "Se creas unha conta poderás gardar as túas rutas, o teu coche e moito máis.",
   "abrp_premium_membership": "Membro do ABRP Premium",
   "go_premium_description": "As características básicas do ABRP sempre serán de balde. Porén, actualizando á versíon Premium obtés máis funcionalidades.",
-  "daily_summary_export_header": [ 
+  "daily_summary_export_header": [
     "Actividade",
     "Hora saída",
     "Hora chegada",
@@ -992,5 +992,7 @@
   "map_right_click_tip_title": "Botón dereito para engadir un punto de paso",
   "map_right_click_tip": "Ao premer co botón dereito no mapa podes engadir un punto de paso á túa viaxe",
   "settings_intro": "Os axustes están aquí!",
-  "missing_vehicle": "Esqueciches o teu coche?"
+  "missing_vehicle": "Esqueciches o teu coche?",
+  "map_native_click_tip_title": "Long press to add Waypoint",
+  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan"
 }

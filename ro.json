@@ -992,5 +992,7 @@
   "map_right_click_tip_title": "Clic dreapta pentru a adăuga un punct de interes",
   "map_right_click_tip": "Făcând clic dreapta pe hartă, poți adăuga un punct de interes la planul tău",
   "settings_intro": "Setările sunt aici!",
-  "missing_vehicle": "Lipsește mașina?"
+  "missing_vehicle": "Lipsește mașina?",
+  "map_native_click_tip_title": "Long press to add Waypoint",
+  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan"
 }

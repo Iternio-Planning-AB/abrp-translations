@@ -987,8 +987,10 @@
   "avoid_named_charger": "Avoiding {{name}} charger, replan to get the new plan without it",
   "delete_other_amenity": "Delete other amenity stop",
   "maps_settings": "Kartor",
-  "map_right_click_tip_title": "Högerklicka för att lägga till en waypoint ",
+  "map_right_click_tip_title": "Högerklicka för att lägga till en waypoint",
   "map_right_click_tip": "Genom att högerklicka på kartan kan du lägga till en waypoint i din plan",
+  "map_native_click_tip_title" : "Tryck länge för att lägga till en waypoint",
+  "map_native_click_tip":"Genom att trycka länge på kartan kan du lägga till en waypoint i din plan",
   "settings_intro": "Inställningar är här!",
   "missing_vehicle": "Saknas din bil?",
   "home_work_set": "Set"

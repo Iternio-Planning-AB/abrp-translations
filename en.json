@@ -975,6 +975,8 @@
   "home_work_set": "Set",
   "map_right_click_tip_title" : "Right Click to add Waypoint",
   "map_right_click_tip":"By right clicking on the map you can add a waypoint to your plan",
+  "map_native_click_tip_title" : "Long press to add Waypoint",
+  "map_native_click_tip":"By pressing longer on the map you can add a waypoint to your plan",
   "settings_intro": "Settings are here!",
   "missing_vehicle": "Missing your car?"
 }

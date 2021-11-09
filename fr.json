@@ -991,5 +991,7 @@
   "map_right_click_tip_title": "Clic droit pour ajouter un Waypoint",
   "map_right_click_tip": "En faisant un clic droit sur la carte, vous pouvez ajouter un waypoint à votre plan",
   "settings_intro": "Les paramètres sont là!",
-  "missing_vehicle": "Votre VE n'apparaît pas ?"
+  "missing_vehicle": "Votre VE n'apparaît pas ?",
+  "map_native_click_tip_title": "Long press to add Waypoint",
+  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan"
 }

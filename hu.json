@@ -992,5 +992,7 @@
   "map_right_click_tip_title": "Új megálló hozzádása",
   "map_right_click_tip": "A jobb klikkel új megállót adhatsz hozzá az útvonlatervhez.",
   "settings_intro": "Beállítások",
-  "missing_vehicle": "Elvesztetted az autód?"
+  "missing_vehicle": "Elvesztetted az autód?",
+  "map_native_click_tip_title": "Long press to add Waypoint",
+  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan"
 }
