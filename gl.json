@@ -511,7 +511,7 @@
   "high_speed": "Alta velocidade",
   "calib_ref_cons_confidence": "Confianza no consumo de referencia calibrado",
   "calib_ref_cons_confidence_description": "O calibrado está baseado nas medicións que realizamos do vehículo mentres conduces en diferentes condicións. Por exemplo, precisamos saber a velocidade (alta, baixa e media) para obter unha foto completa do consumo. Cantos máis datos teñamos máis certos estaremos canto ao consumo real.",
-  "not_on_route": "Non estás viaxando,
+  "not_on_route": "Non estás viaxando",
   "owned_by": "Propiedade de",
   "reset_settings": "Restablecer axustes",
   "reset_settings_description": "Restablecer todo aos axustes predefinidos.",
