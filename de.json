@@ -993,6 +993,11 @@
   "map_right_click_tip": "Mit einem Rechtsklick auf die Karte kannst du deinem Plan einen Wegpunkt hinzufügen",
   "settings_intro": "Einstellungen sind hier!",
   "missing_vehicle": "Fehlt dein Fahrzeug?",
-  "map_native_click_tip_title": "Long press to add Waypoint",
-  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan"
+  "map_native_click_tip_title": "Drücke lang um einen Wegpunkt hinzuzufügen",
+  "map_native_click_tip": "Durch längeres Drücken auf die Karte kannst du einen Wegpunkt zu deinem Plan hinzufügen",
+  "no_fast_chargers_selected": "Du hast keinen Schnellladeanschluss ausgewählt. Wähle mindestens eine Art von Schnellladern aus.",
+  "avoid_charger_title": "Avoid Charger",
+  "avoid_charger_text": "You can avoid a charger either for just this trip or for all comming trips.",
+  "avoid_charger_btn_permanent": "All future trips",
+  "avoid_charger_btn_tmp": "Just for this trip"
 }

@@ -989,9 +989,14 @@
   "maps_settings": "Kartor",
   "map_right_click_tip_title": "Högerklicka för att lägga till en waypoint",
   "map_right_click_tip": "Genom att högerklicka på kartan kan du lägga till en waypoint i din plan",
-  "map_native_click_tip_title" : "Tryck länge för att lägga till en waypoint",
-  "map_native_click_tip":"Genom att trycka länge på kartan kan du lägga till en waypoint i din plan",
+  "map_native_click_tip_title": "Tryck länge för att lägga till en waypoint",
+  "map_native_click_tip": "Genom att trycka länge på kartan kan du lägga till en waypoint i din plan",
   "settings_intro": "Inställningar är här!",
   "missing_vehicle": "Saknas din bil?",
-  "home_work_set": "Set"
+  "home_work_set": "Set",
+  "avoid_charger_title": "Undvik laddare",
+  "avoid_charger_text": "Du kan undvika en laddare för endast denna resan eller för denna och alla kommande resor",
+  "avoid_charger_btn_permanent": "Alla kommande resor",
+  "avoid_charger_btn_tmp": "Bara denna resan",
+  "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type."
 }

@@ -994,5 +994,10 @@
   "settings_intro": "Setările sunt aici!",
   "missing_vehicle": "Lipsește mașina?",
   "map_native_click_tip_title": "Long press to add Waypoint",
-  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan"
+  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan",
+  "avoid_charger_title": "Avoid Charger",
+  "avoid_charger_text": "You can avoid a charger either for just this trip or for all comming trips.",
+  "avoid_charger_btn_permanent": "All future trips",
+  "avoid_charger_btn_tmp": "Just for this trip",
+  "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type."
 }
