@@ -996,8 +996,8 @@
   "map_native_click_tip_title": "Drücke lang um einen Wegpunkt hinzuzufügen",
   "map_native_click_tip": "Durch längeres Drücken auf die Karte kannst du einen Wegpunkt zu deinem Plan hinzufügen",
   "no_fast_chargers_selected": "Du hast keinen Schnellladeanschluss ausgewählt. Wähle mindestens eine Art von Schnellladern aus.",
-  "avoid_charger_title": "Avoid Charger",
-  "avoid_charger_text": "You can avoid a charger either for just this trip or for all comming trips.",
-  "avoid_charger_btn_permanent": "All future trips",
-  "avoid_charger_btn_tmp": "Just for this trip"
+  "avoid_charger_title": "Ladestation vermeiden",
+  "avoid_charger_text": "Du kannst diese Ladestation nur für diesen Plan oder für immer vermeiden.",
+  "avoid_charger_btn_permanent": "Für immer",
+  "avoid_charger_btn_tmp": "Für diesen Plan"
 }
