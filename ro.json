@@ -993,11 +993,11 @@
   "map_right_click_tip": "Făcând clic dreapta pe hartă, poți adăuga un punct de interes la planul tău",
   "settings_intro": "Setările sunt aici!",
   "missing_vehicle": "Lipsește mașina?",
-  "map_native_click_tip_title": "Long press to add Waypoint",
-  "map_native_click_tip": "By pressing longer on the map you can add a waypoint to your plan",
-  "avoid_charger_title": "Avoid Charger",
-  "avoid_charger_text": "You can avoid a charger either for just this trip or for all comming trips.",
-  "avoid_charger_btn_permanent": "All future trips",
-  "avoid_charger_btn_tmp": "Just for this trip",
-  "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type."
+  "map_native_click_tip_title": "Apasă lung pentru a adăuga un punct pe traseu",
+  "map_native_click_tip": "Prin apăsare mai lungă pe hartă, poți adăuga un punct pe traseu la planul tău"
+  "avoid_charger_title": "Evită încărcătorul",
+  "avoid_charger_text": "Poți evita încărcătorul fie pentru această călătorie, fie pentru toate călătoriile viitoare.",
+  "avoid_charger_btn_permanent": "Toate călătoriile viitoare",
+  "avoid_charger_btn_tmp": "Doar pentru această călătorie",
+  "no_fast_chargers_selected": "Nu ai selectat niciun tip de încărcător rapid. Asigură-te că selectezi cel puțin un tip de încărcător rapid."
 }
