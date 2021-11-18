@@ -994,10 +994,14 @@
   "settings_intro": "Setările sunt aici!",
   "missing_vehicle": "Lipsește mașina?",
   "map_native_click_tip_title": "Apasă lung pentru a adăuga un punct pe traseu",
-  "map_native_click_tip": "Prin apăsare mai lungă pe hartă, poți adăuga un punct pe traseu la planul tău"
+  "map_native_click_tip": "Prin apăsare mai lungă pe hartă, poți adăuga un punct pe traseu la planul tău",
   "avoid_charger_title": "Evită încărcătorul",
   "avoid_charger_text": "Poți evita încărcătorul fie pentru această călătorie, fie pentru toate călătoriile viitoare.",
   "avoid_charger_btn_permanent": "Toate călătoriile viitoare",
   "avoid_charger_btn_tmp": "Doar pentru această călătorie",
-  "no_fast_chargers_selected": "Nu ai selectat niciun tip de încărcător rapid. Asigură-te că selectezi cel puțin un tip de încărcător rapid."
+  "no_fast_chargers_selected": "Nu ai selectat niciun tip de încărcător rapid. Asigură-te că selectezi cel puțin un tip de încărcător rapid.",
+  "translate": "Correct a translation",
+  "enter_address": "Enter address...",
+  "set_destination_or_waypoint_title": "Destination or Waypoint?",
+  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?"
 }

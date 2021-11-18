@@ -999,5 +999,9 @@
   "avoid_charger_title": "Ladestation vermeiden",
   "avoid_charger_text": "Du kannst diese Ladestation temporär oder für immer vermeiden.",
   "avoid_charger_btn_permanent": "Für immer",
-  "avoid_charger_btn_tmp": "Temporär"
+  "avoid_charger_btn_tmp": "Temporär",
+  "enter_address": "Adresse eingeben...",
+  "set_destination_or_waypoint_title": "Ziel oder Wegpunkt?",
+  "set_destination_or_waypoint_description": "Möchtest du diese Adresse als Ziel festlegen oder als Wegpunkt hinzufügen?",
+  "translate": "Correct a translation"
 }

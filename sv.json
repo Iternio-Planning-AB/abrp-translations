@@ -190,6 +190,7 @@
   "support_bug": "Rapportera en bugg",
   "support_feature": "Föreslå en förbättring",
   "support_forum": "Hitta hjälp på vårt forum",
+  "translate": "Rätta en översättning",
   "select_your_vehicle": "Välj ditt fordon",
   "next_steps": "Next steps",
   "set_as_home": "Välj som hemma",
@@ -998,5 +999,8 @@
   "avoid_charger_text": "Du kan undvika en laddare för endast denna resan eller för denna och alla kommande resor",
   "avoid_charger_btn_permanent": "Alla kommande resor",
   "avoid_charger_btn_tmp": "Bara denna resan",
-  "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type."
+  "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type.",
+  "enter_address": "Enter address...",
+  "set_destination_or_waypoint_title": "Destination or Waypoint?",
+  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?"
 }

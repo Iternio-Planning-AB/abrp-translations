@@ -998,5 +998,9 @@
   "avoid_charger_text": "Vous pouvez éviter ce chargeur, soit juste pour ce trajet, soit pour tous les trajets à venir.",
   "avoid_charger_btn_permanent": "Tous les futurs trajets",
   "avoid_charger_btn_tmp": "Juste pour ce trajet",
-  "no_fast_chargers_selected": "Vous n'avez choisi aucun type de chargeur rapide. Assurez-vous de choisir au moins un type de chargeur rapide."
+  "no_fast_chargers_selected": "Vous n'avez choisi aucun type de chargeur rapide. Assurez-vous de choisir au moins un type de chargeur rapide.",
+  "translate": "Correct a translation",
+  "enter_address": "Enter address...",
+  "set_destination_or_waypoint_title": "Destination or Waypoint?",
+  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?"
 }

@@ -998,5 +998,9 @@
   "avoid_charger_text": "You can avoid a charger either for just this trip or for all comming trips.",
   "avoid_charger_btn_permanent": "All future trips",
   "avoid_charger_btn_tmp": "Just for this trip",
-  "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type."
+  "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type.",
+  "translate": "Correct a translation",
+  "enter_address": "Enter address...",
+  "set_destination_or_waypoint_title": "Destination or Waypoint?",
+  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?"
 }
