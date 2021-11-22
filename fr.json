@@ -991,7 +991,7 @@
   "map_right_click_tip_title": "Clic droit pour ajouter un waypoint",
   "map_right_click_tip": "En faisant un clic droit sur la carte, vous pouvez ajouter un waypoint à votre plan",
   "settings_intro": "Les paramètres sont là!",
-  "missing_vehicle": "Votre VE n'apparaît pas ?",
+  "missing_vehicle": "Votre VE est absent ?",
   "map_native_click_tip_title": "Appui long pour ajout de waypoint",
   "map_native_click_tip": "En appuyant longtemps sur la carte, vous pouvez ajouter un waypoint à votre trajet",
   "avoid_charger_title": "Eviter le chargeur",
@@ -999,8 +999,8 @@
   "avoid_charger_btn_permanent": "Tous les futurs trajets",
   "avoid_charger_btn_tmp": "Juste pour ce trajet",
   "no_fast_chargers_selected": "Vous n'avez choisi aucun type de chargeur rapide. Assurez-vous de choisir au moins un type de chargeur rapide.",
-  "translate": "Correct a translation",
-  "enter_address": "Enter address...",
-  "set_destination_or_waypoint_title": "Destination or Waypoint?",
-  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?"
+  "translate": "Corriger une traduction",
+  "enter_address": "Entrez l'adresse...",
+  "set_destination_or_waypoint_title": "Destination ou Waypoint?",
+  "set_destination_or_waypoint_description": "Voulez vous définir cette adresse comme destination ou l'ajouter comme waypoint ?"
 }
