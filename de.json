@@ -1003,5 +1003,9 @@
   "enter_address": "Adresse eingeben...",
   "set_destination_or_waypoint_title": "Ziel oder Wegpunkt?",
   "set_destination_or_waypoint_description": "Möchtest du diese Adresse als Ziel festlegen oder als Wegpunkt hinzufügen?",
+  "detailed_chargers": "Detaillierte Ladestationen",
+  "detailed_chargers_description": "Zeigt Live Status und mehr Ladestationen",
+  "alternative_routing": "Alternative Routenberechnung (beta)",
+  "alternative_routing_description": "Nutzt einen alternativen Routenplaner",
   "translate": "Übersetzung korrigieren"
 }

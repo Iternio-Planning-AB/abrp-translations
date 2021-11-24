@@ -1002,5 +1002,9 @@
   "translate": "Correct a translation",
   "enter_address": "Enter address...",
   "set_destination_or_waypoint_title": "Destination or Waypoint?",
-  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?"
+  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?",
+  "detailed_chargers": "Detailed Chargers",
+  "detailed_chargers_description": "Show live status and more chargers",
+  "alternative_routing": "Alternative Routing (beta)",
+  "alternative_routing_description": "Uses a different routing backend"
 }

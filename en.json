@@ -947,8 +947,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-  "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
+  "day_names": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "day_names_short": [
+    "Sun.",
+    "Mon.",
+    "Tue.",
+    "Wed.",
+    "Thu.",
+    "Fri.",
+    "Sat."
+  ],
   "today": "Today",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
@@ -987,5 +1003,9 @@
   "avoid_charger_btn_tmp": "Just for this trip",
   "no_fast_chargers_selected": "You did not select any fast charger type. Make sure to select at least one fast charger type.",
   "set_destination_or_waypoint_title": "Destination or Waypoint?",
-  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?"
+  "set_destination_or_waypoint_description": "Do you want to set this address as destination or add it as waypoint?",
+  "detailed_chargers": "Detailed Chargers",
+  "detailed_chargers_description": "Show live status and more chargers",
+  "alternative_routing": "Alternative Routing (beta)",
+  "alternative_routing_description": "Uses a different routing backend"
 }
