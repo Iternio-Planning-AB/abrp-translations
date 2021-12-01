@@ -1004,8 +1004,8 @@
   "enter_address": "Introdu adresa...",
   "set_destination_or_waypoint_title": "Destinație sau punct pe traseu",
   "set_destination_or_waypoint_description": "Dorești să setezi această adresă ca destinație sau să o adaugi ca punct pe traseu?",
-  "detailed_chargers": "Detailed Chargers",
-  "detailed_chargers_description": "Show live status and more chargers",
-  "alternative_routing": "Alternative Routing (beta)",
-  "alternative_routing_description": "Uses a different routing backend"
+  "detailed_chargers": "Încărcătoare detaliate",
+  "detailed_chargers_description": "Afișează starea live și mai multe încărcătoare",
+  "alternative_routing": "Rutare alternativă (beta)",
+  "alternative_routing_description": "Utilizează o platformă de rutare diferită"
 }
