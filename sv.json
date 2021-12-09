@@ -940,8 +940,24 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["söndag", "måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag"],
-  "day_names_short": ["sön", "mån", "tis", "ons", "tors", "fre", "lör"],
+  "day_names": [
+    "söndag",
+    "måndag",
+    "tisdag",
+    "onsdag",
+    "torsdag",
+    "fredag",
+    "lördag"
+  ],
+  "day_names_short": [
+    "sön",
+    "mån",
+    "tis",
+    "ons",
+    "tors",
+    "fre",
+    "lör"
+  ],
   "today": "i dag",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
@@ -990,5 +1006,11 @@
   "detailed_chargers": "Detailed Chargers",
   "detailed_chargers_description": "Show live status and more chargers",
   "alternative_routing": "Alternative Routing (beta)",
-  "alternative_routing_description": "Uses a different routing backend"
+  "alternative_routing_description": "Uses a different routing backend",
+  "no_data": "Ingen data för de valda dagarna",
+  "after": "efter",
+  "at_clock": "kl.",
+  "move_of_amenity_to_step_one": "Du kan inte flytta ett steg med faciliteter till steg ett",
+  "vehicle_temperature": "Initial vehicle temperature",
+  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating."
 }

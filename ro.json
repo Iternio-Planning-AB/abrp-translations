@@ -1007,5 +1007,11 @@
   "detailed_chargers": "Încărcătoare detaliate",
   "detailed_chargers_description": "Afișează starea live și mai multe încărcătoare",
   "alternative_routing": "Rutare alternativă (beta)",
-  "alternative_routing_description": "Utilizează o platformă de rutare diferită"
+  "alternative_routing_description": "Utilizează o platformă de rutare diferită",
+  "vehicle_temperature": "Initial vehicle temperature",
+  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
+  "no_data": "No data for the selected days",
+  "after": "after",
+  "at_clock": "at",
+  "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step"
 }

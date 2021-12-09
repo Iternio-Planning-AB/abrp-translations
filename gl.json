@@ -1007,5 +1007,11 @@
   "detailed_chargers": "Cargadores máis detallados",
   "detailed_chargers_description": "Amosar estado en tempo real e máis cargadores",
   "alternative_routing": "Rutas alternativas (beta)",
-  "alternative_routing_description": "Empregar un motor de xeración de rutas diferente"
+  "alternative_routing_description": "Empregar un motor de xeración de rutas diferente",
+  "vehicle_temperature": "Initial vehicle temperature",
+  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
+  "no_data": "No data for the selected days",
+  "after": "after",
+  "at_clock": "at",
+  "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step"
 }

@@ -93,6 +93,8 @@
   "realtime_traffic_description": "Use realtime traffic speeds for the first legs of the trip",
   "temperature": "Temperature",
   "temperature_description": "Outside temperature for the plan.",
+  "vehicle_temperature": "Initial vehicle temperature",
+  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
   "wind": "Wind",
   "wind_description": "Speed and direction.",
   "road_conditions_description": "This will increase the consumption.",
@@ -110,7 +112,7 @@
   "add_waypoint": "Add waypoint",
   "treat_as_charger": "Treat as charger",
   "save": "Save",
-  "saved": "Saved",
+  "saved": "Load",
   "saved_plans": "Saved plans",
   "replan": "Replan",
   "to_plan": "To plan",
@@ -991,5 +993,9 @@
   "detailed_chargers": "Detailed Chargers",
   "detailed_chargers_description": "Show live status and more chargers",
   "alternative_routing": "Alternative Routing (beta)",
-  "alternative_routing_description": "Uses a different routing backend"
+  "alternative_routing_description": "Uses a different routing backend",
+  "no_data":"No data for the selected days",
+  "after" : "after",
+  "at_clock" : "at",
+  "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step"
 }

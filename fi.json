@@ -1007,5 +1007,11 @@
   "detailed_chargers": "Yksityiskohtaiset latausasematiedot",
   "detailed_chargers_description": "Näyttää reaaliaikaisen latausaseman tilan ja enemmän latausasemia",
   "alternative_routing": "Vaihtoehtoinen reititys (beta)",
-  "alternative_routing_description": "Käytetään vaihtoehtoista reitityspalvelua"
+  "alternative_routing_description": "Käytetään vaihtoehtoista reitityspalvelua",
+  "vehicle_temperature": "Initial vehicle temperature",
+  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
+  "no_data": "No data for the selected days",
+  "after": "after",
+  "at_clock": "at",
+  "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step"
 }

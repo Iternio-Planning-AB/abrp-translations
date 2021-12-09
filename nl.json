@@ -1006,5 +1006,11 @@
   "detailed_chargers": "Detailed Chargers",
   "detailed_chargers_description": "Show live status and more chargers",
   "alternative_routing": "Alternative Routing (beta)",
-  "alternative_routing_description": "Uses a different routing backend"
+  "alternative_routing_description": "Uses a different routing backend",
+  "vehicle_temperature": "Initial vehicle temperature",
+  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
+  "no_data": "No data for the selected days",
+  "after": "after",
+  "at_clock": "at",
+  "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step"
 }
