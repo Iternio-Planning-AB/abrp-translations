@@ -1012,7 +1012,7 @@
   "obdble_setup_title": "ABRP OBD Verbdinung",
   "obdble_disclaimer_title": "Warnung",
   "obdble_disclaimer_message": "Du stimmst ausdrücklich zu, dass deine Nutzung der ABRP OBD-Funktion auf dein eigenes Risiko erfolgt. In keinem Fall haften Iternio Planning AB oder seine Lieferanten für etwaige Verluste, Schäden, Verpflichtungen oder Kosten, die sich aus oder in Verbindung deiner Nutzung der ABRP OBD-Funktion ergeben.",
-  "obdble_scanning_no_devices_yet": "Noch keine 0BLE Geräte gefunden, bitte warten...",
+  "obdble_scanning_no_devices_yet": "Noch keine BLE Geräte gefunden, bitte warten...",
   "obdble_scanning": "Wähle deinen Adapter aus:",
   "obdble_checking_connection": "Prüfe OBD Verbindung",
   "obdble_connection_status": "BLE Verbindungsstatus",
@@ -1032,7 +1032,7 @@
   "move_of_amenity_to_step_one": "Sie dürfen einen Wegpunkt mit Sonderziel nicht als ersten Wegpunkt verwenden",
   "vehicle_temperature": "Initial vehicle temperature",
   "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
-  "no_web_support": "This feature is supported on Android or iOS devices running ABRP app only.",
-  "obdble_choose_device": "Make sure your OBD BLE dongle is connected to your car and powered on.",
-  "unknown_device": "Unknown device"
+  "no_web_support": "Dieses Feature ist nur auf Android und iOS Geräten mit ABRP App verfügbar.",
+  "obdble_choose_device": "Stelle sicher, dass dein OBD BLE Dongle mit dem Auto verbunden ist und an ist.",
+  "unknown_device": "Unbekanntes Gerät"
 }
