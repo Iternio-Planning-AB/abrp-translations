@@ -1030,8 +1030,8 @@
   "after": "nach",
   "at_clock": "um",
   "move_of_amenity_to_step_one": "Sie dürfen einen Wegpunkt mit Sonderziel nicht als ersten Wegpunkt verwenden",
-  "vehicle_temperature": "Initial vehicle temperature",
-  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
+  "vehicle_temperature": "Initiale Fahrzeugtemperatur",
+  "vehicle_temperature_description": "Fahrzeugtemperatur bei Fahrtantritt - z.B. zur Berücksichtigung von Aufheizung des Autos.",
   "no_web_support": "Dieses Feature ist nur auf Android und iOS Geräten mit ABRP App verfügbar.",
   "obdble_choose_device": "Stelle sicher, dass dein OBD BLE Dongle mit dem Auto verbunden ist und an ist.",
   "unknown_device": "Unbekanntes Gerät"
