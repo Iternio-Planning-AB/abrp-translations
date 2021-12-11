@@ -489,7 +489,7 @@
   "medium_speed": "Mittel",
   "high_speed": "Schnell",
   "calib_ref_cons_confidence": "Genauigkeit kalibrierter Referenzverbrauch",
-  "calib_ref_cons_confidence_description": "Die Kalibrierung basiert auf den Messungen des Fahrzeugs während verschiedener Fahrbedingungen. Wir brauchen beispielsweise eine bestimmte Anzahl von langsamen, mittleren und schnellen Fahrten, um ein vollständiges Bild vom Verbrauch zu erhalten. Je näher die Genauigkeit bei 100% liegt, desto sicherer sind wir uns des Verbrauchs bewusst",
+  "calib_ref_cons_confidence_description": "Die Kalibrierung basiert auf den Messungen des Fahrzeugs während verschiedener Fahrbedingungen. Wir brauchen beispielsweise eine bestimmte Anzahl von langsamen, mittleren und schnellen Fahrten, um ein vollständiges Bild vom Verbrauch zu erhalten. Je näher die Zahlen bei 100% liegen, desto genauer können wir den Verbrauch ermitteln.",
   "not_on_route": "Du befindest Dich nicht auf der Strecke",
   "owned_by": "Gehört",
   "reset_settings": "Einstellungen zurücksetzen",
@@ -1012,7 +1012,7 @@
   "obdble_setup_title": "ABRP OBD Verbdinung",
   "obdble_disclaimer_title": "Warnung",
   "obdble_disclaimer_message": "Du stimmst ausdrücklich zu, dass deine Nutzung der ABRP OBD-Funktion auf dein eigenes Risiko erfolgt. In keinem Fall haften Iternio Planning AB oder seine Lieferanten für etwaige Verluste, Schäden, Verpflichtungen oder Kosten, die sich aus oder in Verbindung deiner Nutzung der ABRP OBD-Funktion ergeben.",
-  "obdble_scanning_no_devices_yet": "Noch keine 0BLE Geräte gefunden, bitte warten...",
+  "obdble_scanning_no_devices_yet": "Noch keine BLE Geräte gefunden, bitte warten...",
   "obdble_scanning": "Wähle deinen Adapter aus:",
   "obdble_checking_connection": "Prüfe OBD Verbindung",
   "obdble_connection_status": "BLE Verbindungsstatus",
@@ -1030,9 +1030,9 @@
   "after": "nach",
   "at_clock": "um",
   "move_of_amenity_to_step_one": "Sie dürfen einen Wegpunkt mit Sonderziel nicht als ersten Wegpunkt verwenden",
-  "vehicle_temperature": "Initial vehicle temperature",
-  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
-  "no_web_support": "This feature is supported on Android or iOS devices running ABRP app only.",
-  "obdble_choose_device": "Make sure your OBD BLE dongle is connected to your car and powered on.",
-  "unknown_device": "Unknown device"
+  "vehicle_temperature": "Initiale Fahrzeugtemperatur",
+  "vehicle_temperature_description": "Fahrzeugtemperatur bei Fahrtantritt - z.B. zur Berücksichtigung von Aufheizung des Autos.",
+  "no_web_support": "Dieses Feature ist nur auf Android und iOS Geräten mit ABRP App verfügbar.",
+  "obdble_choose_device": "Stelle sicher, dass dein OBD BLE Dongle mit dem Auto verbunden ist und an ist.",
+  "unknown_device": "Unbekanntes Gerät"
 }
