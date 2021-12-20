@@ -887,6 +887,8 @@
   "available_selected_networks": "Available on selected networks",
   "apple_carplay": "Apple CarPlay",
   "apple_carplay_1": "Follow the route from you car's screen using Apple CarPlay.",
+  "android_auto": "Android Auto",
+  "android_auto_1": "Follow the route from you car's screen using Android Auto.",
   "coordinates": "Coordinates",
   "address": "Address",
   "long_press_set_destination": "Tip: Long press to set as destination.",
@@ -1009,7 +1011,7 @@
   "obdble_connection_success": "Connection successfully established",
   "obdble_connection_partial_success": "Connection initialized",
   "obdble_connection_fail": "Connection is not established",
-  "obdble_connection_established": "ABRP OBD Connection connection established successful!",
+  "obdble_connection_established": "ABRP OBD Connection connection established successfully!",
   "obdble_connect_failed_message": "Failed to connect to your OBD BLE dongle, please try again.",
   "obdble_connect_car_failed_message": "BLE connection established, failed to connect to your car.",
   "obdble_abrp_link_title": "Read about OBD dongles and security",
@@ -1018,5 +1020,6 @@
   "success": "Success",
   "after": "after",
   "at_clock": "at",
-  "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step"
+  "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step",
+  "minutes_affix": "min"
 }

@@ -1034,5 +1034,8 @@
   "obdble_abrp_link_title": "Read about OBD dongles and security",
   "obdble_pid_fetch_failed": "Failed to load car configuration.",
   "obdble_fetching_pids": "Loading car configuration",
-  "success": "Success"
+  "success": "Success",
+  "android_auto": "Android Auto",
+  "android_auto_1": "Follow the route from you car's screen using Android Auto.",
+  "minutes_affix": "min"
 }

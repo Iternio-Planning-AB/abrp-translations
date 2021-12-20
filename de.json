@@ -229,8 +229,8 @@
   "share_car_description": "Du kannst dein Fahrzeug mit einem anderen ABRP-Konto teilen,  so dass ein anderer Benutzer mit diesem Auto planen und es auf der Karte sehen kann",
   "delete": "Löschen",
   "charging": "Am Laden",
-  "power": "Ladeleistung",
-  "voltage": "Volt",
+  "power": "Leistung",
+  "voltage": "Spannung",
   "location": "Standort",
   "link": "Verknüpfen",
   "link_tesla": "Tesla verknüpfen",
@@ -937,24 +937,8 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": [
-    "Sonntag",
-    "Montag",
-    "Dienstag",
-    "Mittwoch",
-    "Donnerstag",
-    "Freitag",
-    "Samstag"
-  ],
-  "day_names_short": [
-    "So.",
-    "Mo.",
-    "Di.",
-    "Mi.",
-    "Do.",
-    "Fr.",
-    "Sa."
-  ],
+  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
   "today": "Heute",
   "scan_abrp_login_qrcode": "ABRP QR Anmeldung",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP QR-Code um den Anmeldevorgang abzuschließen",
@@ -1034,5 +1018,8 @@
   "vehicle_temperature_description": "Fahrzeugtemperatur bei Fahrtantritt - z.B. zur Berücksichtigung von Aufheizung des Autos.",
   "no_web_support": "Dieses Feature ist nur auf Android und iOS Geräten mit ABRP App verfügbar.",
   "obdble_choose_device": "Stelle sicher, dass dein OBD BLE Dongle mit dem Auto verbunden ist und an ist.",
-  "unknown_device": "Unbekanntes Gerät"
+  "unknown_device": "Unbekanntes Gerät",
+  "android_auto": "Android Auto",
+  "android_auto_1": "Follow the route from you car's screen using Android Auto.",
+  "minutes_affix": "min"
 }

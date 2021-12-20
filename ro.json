@@ -1008,13 +1008,13 @@
   "detailed_chargers_description": "Afișează starea live și mai multe încărcătoare",
   "alternative_routing": "Rutare alternativă (beta)",
   "alternative_routing_description": "Utilizează o platformă de rutare diferită",
- "vehicle_temperature": "Temperatura inițială a vehiculului",
+  "vehicle_temperature": "Temperatura inițială a vehiculului",
   "vehicle_temperature_description": "Temperatura vehiculului la începerea călătoriei - de exemplu, pentru a ține cont de încălzirea mașinii.",
   "no_data": "Nu există date pentru zilele selectate",
   "after": "după",
   "at_clock": "la",
-  "move_of_amenity_to_step_one": "Nu ai voie să utilizezi un punct pe traseu ca prim punct de referință"
-   "no_web_support": "Această funcție este disponibilă numai pe dispozitivele Android și iOS cu aplicația ABRP.",
+  "move_of_amenity_to_step_one": "Nu ai voie să utilizezi un punct pe traseu ca prim punct de referință",
+  "no_web_support": "Această funcție este disponibilă numai pe dispozitivele Android și iOS cu aplicația ABRP.",
   "obdble_choose_device": "Asigură-te că adaptorul OBD BLE este conectat la mașină și pornit.",
   "unknown_device": "Dispozitiv necunoscut",
   "obdble_setup_title": "Conexiune ABRP OBD",
@@ -1034,5 +1034,8 @@
   "obdble_abrp_link_title": "Citește mai multe despre adaptoare OBD și securitate",
   "obdble_pid_fetch_failed": "Eroare la încărcarea configurației vehiculului.",
   "obdble_fetching_pids": "Încărcarea configurației vehiculului",
-  "success": "Success"
+  "success": "Success",
+  "android_auto": "Android Auto",
+  "android_auto_1": "Follow the route from you car's screen using Android Auto.",
+  "minutes_affix": "min"
 }

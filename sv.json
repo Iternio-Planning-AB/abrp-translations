@@ -860,6 +860,8 @@
   "available_selected_networks": "Tillgängligt för vissa nätverk",
   "apple_carplay": "Apple CarPlay",
   "apple_carplay_1": "Följ rutten på din bils skärm med Apple CarPlay.",
+  "android_auto": "Android Auto",
+  "android_auto_1": "Följ rutten på din bils skärm med Android Auto.",
   "waypoint_actions": "Waypoint alternativ",
   "coordinates": "Koordinater",
   "address": "Adress",
@@ -1033,5 +1035,6 @@
   "obdble_abrp_link_title": "Read about OBD dongles and security",
   "obdble_pid_fetch_failed": "Failed to load car configuration.",
   "obdble_fetching_pids": "Loading car configuration",
-  "success": "Success"
+  "success": "Success",
+  "minutes_affix": "min"
 }
