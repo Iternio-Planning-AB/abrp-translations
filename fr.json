@@ -1035,6 +1035,6 @@
   "obdble_fetching_pids": "Chargement de la configuration du véhicule",
   "success": "Succès",
   "android_auto": "Android Auto",
-  "android_auto_1": "Follow the route from you car's screen using Android Auto.",
+  "android_auto_1": "Suivez l'itinéraire depuis l'écran de votre véhicule en utilisant Android Auto.",
   "minutes_affix": "min"
 }
