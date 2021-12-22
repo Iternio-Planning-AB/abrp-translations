@@ -1034,7 +1034,7 @@
   "obdble_abrp_link_title": "Lee sobre adaptadores OBD y la seguridad",
   "obdble_pid_fetch_failed": "Ha fallado la carga de la configuración del coche.",
   "obdble_fetching_pids": "Cargando configuración del coche",
-  "success": "Éxito"
+  "success": "Éxito",
   "android_auto": "Android Auto",
   "android_auto_1": "Sigue la ruta en la pantalla de tu coche usando Android Auto.",
   "minutes_affix": "min"
