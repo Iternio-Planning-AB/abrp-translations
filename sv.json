@@ -1014,7 +1014,7 @@
   "at_clock": "kl.",
   "move_of_amenity_to_step_one": "Du kan inte flytta ett steg med faciliteter till steg ett",
   "vehicle_temperature": "Initial vehicle temperature",
-  "vehicle_temperature_description": "Vehicle temperature at the beginning of the plan - accounts for e.g. initial heating.",
+  "vehicle_temperature_description": "Fordonstemperatur i början av planen. Inkluderar batteriförbrukningen för att värma bilen.",
   "no_web_support": "This feature is supported on Android or iOS devices running ABRP app only.",
   "obdble_choose_device": "Make sure your OBD BLE dongle is connected to your car and powered on.",
   "unknown_device": "Unknown device",
@@ -1037,5 +1037,4 @@
   "obdble_fetching_pids": "Loading car configuration",
   "success": "Success",
   "minutes_affix": "min",
-   "vehicle_temperature_description": "Fordonstemperatur i början av planen. Inkluderar batteriförbrukningen för att värma bilen."
 }
