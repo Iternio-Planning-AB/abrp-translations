@@ -1036,5 +1036,6 @@
   "obdble_pid_fetch_failed": "Failed to load car configuration.",
   "obdble_fetching_pids": "Loading car configuration",
   "success": "Success",
-  "minutes_affix": "min"
+  "minutes_affix": "min",
+  "vehicle_temperature": "Initial biltemperatur"
 }
