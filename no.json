@@ -1036,5 +1036,6 @@
   "success": "Success",
   "android_auto": "Android Auto",
   "android_auto_1": "Follow the route from you car's screen using Android Auto.",
-  "minutes_affix": "min"
+  "minutes_affix": "min",
+  "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging."
 }

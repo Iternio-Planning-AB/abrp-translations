@@ -937,8 +937,24 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
-  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
+  "day_names": [
+    "Sonntag",
+    "Montag",
+    "Dienstag",
+    "Mittwoch",
+    "Donnerstag",
+    "Freitag",
+    "Samstag"
+  ],
+  "day_names_short": [
+    "So.",
+    "Mo.",
+    "Di.",
+    "Mi.",
+    "Do.",
+    "Fr.",
+    "Sa."
+  ],
   "today": "Heute",
   "scan_abrp_login_qrcode": "ABRP QR Anmeldung",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP QR-Code um den Anmeldevorgang abzuschließen",
@@ -1021,5 +1037,6 @@
   "unknown_device": "Unbekanntes Gerät",
   "android_auto": "Android Auto",
   "android_auto_1": "Follow the route from you car's screen using Android Auto.",
-  "minutes_affix": "min"
+  "minutes_affix": "min",
+  "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging."
 }

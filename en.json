@@ -1021,5 +1021,6 @@
   "after": "after",
   "at_clock": "at",
   "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step",
-  "minutes_affix": "min"
+  "minutes_affix": "min",
+  "destcharger_not_included_in_time" : "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging."
 }

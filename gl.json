@@ -1037,5 +1037,6 @@
   "after": "despois",
   "at_clock": "ás",
   "move_of_amenity_to_step_one": "Non podes mover un punto de paso cunha área de servizo definida ao inicio da ruta",
-  "minutes_affix": "min"
+  "minutes_affix": "min",
+  "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging."
 }
