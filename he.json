@@ -1038,5 +1038,20 @@
   "android_auto": "Android Auto",
   "android_auto_1": "Follow the route from you car's screen using Android Auto.",
   "minutes_affix": "min",
-  "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging."
+  "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging.",
+  "exlusive_network_warning": "You have one exlusive network selected under Network preferences",
+  "low_soc_warning": "In your settings you are leaving with less than 15% charge",
+  "high_ref_consumption_warning": "You have set a referens consumtion of your car above {{ref_consumtion}} Wh/km",
+  "high_battery_degradation_warning": "You have set a very high battery degradation",
+  "high_arrival_soc_perc_warning": "You have set a high value for 'Destination arrival SOC' in settings",
+  "low_charger_max_soc_perc_warning": "You have set a low value for 'Charger max SOC' in settings",
+  "high_charger_soc_arrival_perc_warning": "You have set a high 'Charger arrival SOC' in settings",
+  "extra_weight_warning": "You have entered over {{weight}} ton as extra weight",
+  "allow_border_warning": "You are not allowing the route to pass a border",
+  "allow_motorway_warning": "You are not allowing the route to go on a highway",
+  "allow_toll_warning": "You are not allowing the route to go on a road with tolls",
+  "exlude_tesla_warning": "You have exluded Tesla network but have only selected Tesla fast charger types",
+  "plan_error_header": "No valid plan found",
+  "plan_error_description": "We found some possible issues in your settings",
+  "set_default": "Set to default"
 }
