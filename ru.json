@@ -1053,5 +1053,7 @@
   "exlude_tesla_warning": "You have exluded Tesla network but have only selected Tesla fast charger types",
   "plan_error_header": "No valid plan found",
   "plan_error_description": "We found some possible issues in your settings",
-  "set_default": "Set to default"
+  "set_default": "Set to default",
+  "automatic_settings_notlm_description": "Use live weather and traffic data as well as default values for reference consumption and SoC.",
+  "report_error": "Report an error to us"
 }

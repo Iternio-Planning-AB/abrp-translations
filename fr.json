@@ -1052,5 +1052,7 @@
   "exlude_tesla_warning": "Vous avez exclu le réseau Tesla mais n'avez sélectionné que des types de chargeurs rapides Tesla",
   "plan_error_header": "Aucun plan valide trouvé",
   "plan_error_description": "Nous avons trouvé des incohérences possibles dans vos paramètres",
-  "set_default": "Définir par défaut"
+  "set_default": "Définir par défaut",
+  "automatic_settings_notlm_description": "Use live weather and traffic data as well as default values for reference consumption and SoC.",
+  "report_error": "Report an error to us"
 }

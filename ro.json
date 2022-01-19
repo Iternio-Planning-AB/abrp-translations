@@ -1034,10 +1034,10 @@
   "obdble_abrp_link_title": "Citește mai multe despre adaptoare OBD și securitate",
   "obdble_pid_fetch_failed": "Eroare la încărcarea configurației vehiculului.",
   "obdble_fetching_pids": "Încărcarea configurației vehiculului",
-  "success": "Succes"
+  "success": "Succes",
   "android_auto": "Android Auto",
   "android_auto_1": "Urmează traseul de pe ecranul mașinii utilizând Android Auto.",
-  "minutes_affix": "min"
+  "minutes_affix": "min",
   "destcharger_not_included_in_time": "Încărcările la destinație (Nivelul 2) nu sunt incluse în timpul total de călătorie sau în timpul total de încărcare, deoarece presupunem că faci altceva în timpul încărcării.",
   "exlusive_network_warning": "Ai selectată exclusiv o rețea în Preferințe de rețea",
   "low_soc_warning": "În setările tale, pleci cu o încărcare mai mică de 15%",
@@ -1053,5 +1053,7 @@
   "exlude_tesla_warning": "Ai exclus rețeaua Tesla, dar ai selectat doar tipurile de încărcătoare rapide Tesla",
   "plan_error_header": "Nu a fost găsit niciun plan valid",
   "plan_error_description": "Am găsit câteva posibile probleme în setările tale",
-  "set_default": "Setare implicită"
+  "set_default": "Setare implicită",
+  "automatic_settings_notlm_description": "Use live weather and traffic data as well as default values for reference consumption and SoC.",
+  "report_error": "Report an error to us"
 }

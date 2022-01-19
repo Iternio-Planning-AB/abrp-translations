@@ -378,6 +378,7 @@
   "date": "Datum",
   "automatic_settings": "Automatische Einstellungen",
   "automatic_settings_description": "Verwende Live-SoC, kalibrierten Referenzverbrauch, Wetter- und Verkehrsdaten",
+  "automatic_settings_notlm_description": "Verwende Live Wetter- und Verkehrsdaten sowie Standardwerte für Referenzverbrauch und SoC",
   "realtime_weather": "Echtzeitwetterdaten",
   "realtime_weather_description": "Live-Daten für Temperatur und Wetter nutzen",
   "charger_information": "Ladesäuleninformation",
@@ -1053,5 +1054,6 @@
   "exlude_tesla_warning": "You have exluded Tesla network but have only selected Tesla fast charger types",
   "plan_error_header": "No valid plan found",
   "plan_error_description": "We found some possible issues in your settings",
-  "set_default": "Set to default"
+  "set_default": "Set to default",
+  "report_error": "Report an error to us"
 }

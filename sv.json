@@ -1052,5 +1052,7 @@
   "exlude_tesla_warning": "Du har exkluderat Teslas laddnätverk men endast valt Teslas kontakt-typer",
   "plan_error_header": "Ingen plan gick att hitta",
   "plan_error_description": "Vi hittade några möjliga fel i dina inställningar",
-  "set_default": "Set to default"
+  "set_default": "Set to default",
+  "report_error": "Rapportera ett fel till oss",
+  "automatic_settings_notlm_description": "Use live weather and traffic data as well as default values for reference consumption and SoC."
 }

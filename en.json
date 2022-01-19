@@ -401,6 +401,7 @@
   "date": "Date",
   "automatic_settings": "Automatic settings",
   "automatic_settings_description": "Use Live SoC, calibrated reference consumption, weather and traffic.",
+  "automatic_settings_notlm_description": "Use live weather and traffic data as well as default values for reference consumption and SoC.",
   "realtime_weather": "Realtime weather",
   "realtime_weather_description": "Use live temperature and weather information.",
   "charger_information": "Charger information",
@@ -477,7 +478,7 @@
     "Vehicle"
   ],
   "on_free_trial": "ABRP Premium free trial",
-  "provide_payment_method_description": "You need to provide a payment method within {{count}} days.\n\nYou can do it now and you will not be charged untill the end of the free trial.",
+  "provide_payment_method_description": "You need to provide a payment method within {{count}} days.\n\nYou can do it now and you will not be charged until the end of the free trial.",
   "provide_payment_method_on_app": "To provide a payment method please click this banner on the ABRP website.",
   "x_days_left": "{{count}} days left on free trial",
   "not_now": "Not now",
@@ -1037,5 +1038,6 @@
   "plan_error_header": "No valid plan found",
   "plan_error_description": "We found some possible issues in your settings",
   "set_default": "Set to default",
-  "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging."
+  "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging.",
+  "report_error": "Report an error to us"
 }
