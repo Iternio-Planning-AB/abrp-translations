@@ -156,7 +156,7 @@
   "coming_soon": "Proximamente!",
   "coming_soon_description": "Estamos traballando nesta característica",
   "premium_feature": "Característica Premium",
-  "premium_feature_description": "Tes que ser membro Premium do ABRP para dispor desta característica.",
+  "premium_feature_description": "Tes que ser membro Premium para dispor desta característica.",
   "get_premium": "Facerse Premium",
   "cancel": "Cancelar",
   "avoid_charger": "Evitar este cargador",
@@ -454,13 +454,13 @@
     "Notas"
   ],
   "premium": "Premium",
-  "premium_on_app": "Para saber máis canto a versión Premium, por favor visita o sitio web de A Better Routeplanner.",
-  "manage_subscriptions": "Xestionar a pertenza ao ABRP",
+  "premium_on_app": "Para saber máis canto á versión Premium, por favor visita o sitio web de A Better Routeplanner.",
+  "manage_subscriptions": "Xestionar a pertenza a ABRP",
   "manage_subscriptions_on_app": "Para xestionar a túa subscrición, por favor visita a sitio web de A Better Routeplanner.",
   "export_excel": "Exportar a Excel",
   "suggest_create_an_account": "Se creas unha conta poderás gardar as túas rutas, o teu coche e moito máis.",
-  "abrp_premium_membership": "Membro do ABRP Premium",
-  "go_premium_description": "As características básicas do ABRP sempre serán de balde. Porén, actualizando á versíon Premium obtés máis funcionalidades.",
+  "abrp_premium_membership": "Membro Premium do ABRP",
+  "go_premium_description": "As características básicas do ABRP sempre serán de balde. Porén, actualizando á versión Premium obtés máis funcionalidades.",
   "daily_summary_export_header": [
     "Actividade",
     "Hora saída",
@@ -493,7 +493,7 @@
   "my_drives_2": "Comparte o historial de actividade ou expórtao a ficheiros Excel.",
   "weather_forecast": "Predición meteorolóxica",
   "weather_forecast_1": "Datos meteorolóxicos en tempo real para a viaxe.",
-  "weather_forecast_2": "Mira a predición do vento e temperatura durante a viaxe e como lle afecta.",
+  "weather_forecast_2": "Mira a predición de vento e temperatura e como afectan durante a viaxe.",
   "realtime_traffic_1": "Empregar datos actualizados do tráfico para unha maior precisión.",
   "realtime_traffic_2": "Ten en conta o tráfico non só na duración da viaxe, tamén no uso da enerxía ao longo da ruta.",
   "suc_availability": "Dispoñibilidade e previsión dos cargadores en tempo real",
@@ -1053,7 +1053,7 @@
   "exlude_tesla_warning": "Excluíches a rede de Tesla mais só seleccionaches os tipos de cargador rápido de Tesla",
   "plan_error_header": "Non se atopou unha ruta válida",
   "plan_error_description": "Atopamos algúns posíbeis problemas nos axustes",
-  "set_default": "Definir coma predefinido"
+  "set_default": "Definir coma predefinido",
   "automatic_settings_notlm_description": "Empregar meteoroloxía e tráfico en tempo real así coma os valores predefinidos para o consumo de referencia e o SoC.",
   "report_error": "Informar dun erro"
 }
