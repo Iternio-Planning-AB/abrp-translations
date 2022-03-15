@@ -1111,5 +1111,14 @@
   "frequency_charger_stops_many": "Short but many",
   "frequency_charger_stops_few": "Few but long",
   "disclaimer_price": "(prices are indicative)",
-  "proceed": "Proceed"
+  "proceed": "Proceed",
+  "connected": "connected",
+  "recent_searches": "Recent Searches",
+  "recently": "Recently",
+  "search_results": "Search results",
+  "planning_dots": "Planning...",
+  "add_stop": "Add stop",
+  "exit": "Exit",
+  "start": "Start",
+  "overview": "Overview"
 }
