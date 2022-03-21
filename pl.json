@@ -1120,5 +1120,14 @@
   "add_stop": "Add stop",
   "exit": "Exit",
   "start": "Start",
-  "overview": "Overview"
+  "overview": "Overview",
+  "save_current": "Save current plan",
+  "left_side": "Left side",
+  "right_side": "Right side",
+  "layout": "Layout",
+  "sync_appearance_title": "Alignment",
+  "sync_appearance_message": "Update the alignment for left or right side driving.",
+  "color_schema_map": "Map color schema",
+  "satellite_map": "Satellite map",
+  "handle_shared_location_failed": "Sorry we could not handle your shared location, please try to share coordinates or Google Maps links only."
 }
