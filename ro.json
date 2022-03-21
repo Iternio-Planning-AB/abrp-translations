@@ -1112,13 +1112,13 @@
   "frequency_charger_stops_few": "Puține dar lungi",
   "disclaimer_price": "(prețurile sunt orientative)",
   "proceed": "Continuă",
-  "connected": "connected",
-  "recent_searches": "Recent Searches",
-  "recently": "Recently",
-  "search_results": "Search results",
-  "planning_dots": "Planning...",
-  "add_stop": "Add stop",
-  "exit": "Exit",
+  "connected": "conectat",
+  "recent_searches": "Căutări recente",
+  "recently": "Recent",
+  "search_results": "Rezultatele căutării",
+  "planning_dots": "Planificare...",
+  "add_stop": "Adaugă oprire",
+  "exit": "Ieșire",
   "start": "Start",
-  "overview": "Overview"
+  "overview": "Privire generală"
 }
