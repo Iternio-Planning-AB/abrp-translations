@@ -1121,13 +1121,13 @@
   "exit": "Ieșire",
   "start": "Start",
   "overview": "Privire generală",
-  "save_current": "Save current plan",
-  "left_side": "Left side",
-  "right_side": "Right side",
-  "layout": "Layout",
-  "sync_appearance_title": "Alignment",
-  "sync_appearance_message": "Update the alignment for left or right side driving.",
-  "color_schema_map": "Map color schema",
-  "satellite_map": "Satellite map",
-  "handle_shared_location_failed": "Sorry we could not handle your shared location, please try to share coordinates or Google Maps links only."
+  "save_current": "Salvează planul curent",
+  "left_side": "Partea stângă",
+  "right_side": "Partea dreaptă",
+  "layout": "Aspect",
+  "sync_appearance_title": "Aliniere",
+  "sync_appearance_message": "Actualizează alinierea pentru conducerea pe partea stângă sau dreaptă.",
+  "color_schema_map": "Schema de culori a hărții",
+  "satellite_map": "Hartă satelit",
+  "handle_shared_location_failed": "Ne pare rău că nu am putut gestiona locația partajată, încearcă te rog să partajezi numai coordonate sau linkuri Google Maps."
 }
