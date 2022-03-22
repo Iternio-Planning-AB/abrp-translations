@@ -508,7 +508,7 @@
   "owned_by": "Gehört",
   "reset_settings": "Einstellungen zurücksetzen",
   "reset_settings_description": "Setzt alle Einstellungen auf die Standardwerte",
-  "reset_settings_confirm": "Bist du sicher, dass Du deine Einstellungen zurücksetzen möchtest?\n\n Du musst dich erneut anmelden",
+  "reset_settings_confirm": "Bist du sicher, dass du deine Einstellungen zurücksetzen möchtest?\n\n Du musst dich erneut anmelden",
   "x_min_to_complete_charging": "{{count}} min bis Ladevorgang fertig",
   "notification_next_stop": "Als nächstes: {{duration}} bis {{destination}}",
   "your_car": "Dein Fahrzeug",
@@ -532,7 +532,7 @@
   "slow_chargers_zoom_level_city": "Anzeige auf Stadtstufe",
   "slow_chargers_zoom_level_street": "Anzeige auf Straßenstufe",
   "add_ferry_line": "Fährverbindung hinzufügen",
-  "share_map_app_picker": "Welche App möchtest Du verwenden?",
+  "share_map_app_picker": "Welche App möchtest du verwenden?",
   "there_is_a_faster_route": "Es gibt eine {{duration}} schnellere Route",
   "view_alternatives": "Alternativen anzeigen",
   "tap_to_view_alternatives": "Hier tippen, um Alternativen anzuzeigen",
@@ -617,7 +617,7 @@
   "configuration_trailer_large": "Großer Anhänger / Wohnwagen",
   "configuration_role": "Aktivität / Rolle",
   "configuration_other": "Etwas anderes",
-  "confirm_configuration_deletion": "Bist Du sicher, dass du diese Konfiguration löschen möchtest?",
+  "confirm_configuration_deletion": "Bist du sicher, dass du diese Konfiguration löschen möchtest?",
   "live_data_notify_me": "Benachrichtige mich, sobald verfügbar",
   "continue": "Weiter",
   "continue_to_app": "Weiter zur App",
@@ -1129,5 +1129,5 @@
   "color_schema_map": "Kartenfarbschema",
   "satellite_map": "Satellitenkarte",
   "handle_shared_location_failed": "Leider konnten wir deinen geteilten Standort nicht verarbeiten. Bitte versuche, nur Koordinaten oder Google Maps-Links zu teilen.",
-  "save_current": "Save current plan"
+  "save_current": "Aktuellen Plan speichern"
 }
