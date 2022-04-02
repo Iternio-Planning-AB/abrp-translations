@@ -1129,5 +1129,17 @@
   "sync_appearance_message": "Actualiza la alineación para conducción a la izquierda o a la derecha.",
   "color_schema_map": "Esquema de color del mapa",
   "satellite_map": "Mapa de satélite",
-  "handle_shared_location_failed": "Lo sentimos, no pudimos gestionar tu localización compartida. Por favor, intenta compartir coordenadas o enlaces de Google Maps únicamente."
+  "handle_shared_location_failed": "Lo sentimos, no pudimos gestionar tu localización compartida. Por favor, intenta compartir coordenadas o enlaces de Google Maps únicamente.",
+  "there_is_a_xx_faster_route": "There is a {{duration}} faster route",
+  "loading_alternatives": "Loading alternatives...",
+  "show": "Show",
+  "ignore": "Ignore",
+  "read_more_manual": "Read the manual",
+  "remeber_to_replan": "Remeber that you have to replan to see the effect of the changes",
+  "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
+  "plan_error_tip": "(click description for direct link issue in manual)",
+  "sort": "Sort",
+  "sort_by_date": "By date added",
+  "sort_manually": "Yourself",
+  "search_saved_plans": "Search by plan name"
 }

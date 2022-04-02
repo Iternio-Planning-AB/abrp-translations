@@ -1129,5 +1129,17 @@
   "sync_appearance_message": "Actualizează alinierea pentru conducerea pe partea stângă sau dreaptă.",
   "color_schema_map": "Schema de culori a hărții",
   "satellite_map": "Hartă satelit",
-  "handle_shared_location_failed": "Ne pare rău că nu am putut gestiona locația partajată, încearcă te rog să partajezi numai coordonate sau linkuri Google Maps."
+  "handle_shared_location_failed": "Ne pare rău că nu am putut gestiona locația partajată, încearcă te rog să partajezi numai coordonate sau linkuri Google Maps.",
+  "there_is_a_xx_faster_route": "There is a {{duration}} faster route",
+  "loading_alternatives": "Loading alternatives...",
+  "show": "Show",
+  "ignore": "Ignore",
+  "read_more_manual": "Read the manual",
+  "remeber_to_replan": "Remeber that you have to replan to see the effect of the changes",
+  "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
+  "plan_error_tip": "(click description for direct link issue in manual)",
+  "sort": "Sort",
+  "sort_by_date": "By date added",
+  "sort_manually": "Yourself",
+  "search_saved_plans": "Search by plan name"
 }
