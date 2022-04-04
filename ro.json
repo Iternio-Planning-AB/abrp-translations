@@ -1141,5 +1141,11 @@
   "sort": "Sortează",
   "sort_by_date": "Sortează după dată",
   "sort_manually": "Sortează manual",
-  "search_saved_plans": "Caută după numele planului"
+  "search_saved_plans": "Caută după numele planului",
+  "error_fixed": "Fixed",
+  "need_ccs_outisde_of_na_error": "Due to a lack of chargers, we propose you allow standard CCS chargers.",
+  "add_ccs": "Add CCS",
+  "set_to_perfer": "Set to perfer",
+  "stop_avoiding_tesla": "Stop avoiding Tesla",
+  "plans": "Plans"
 }
