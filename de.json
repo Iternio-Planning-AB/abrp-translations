@@ -1039,6 +1039,7 @@
   "obdble_abrp_link_title": "Lies mehr über OBD-Adapter und Sicherheit",
   "obdble_pid_fetch_failed": "Fehler beim Laden der Fahrzeugkonfiguration.",
   "obdble_fetching_pids": "Fahrzeugkonfiguration laden",
+  "obdble_device_already_linked": "Dieser Adapter ist bereits mit deinem Fahrzeug verbunden",
   "success": "Erfolgreich abgeschlossen",
   "after": "nach",
   "at_clock": "um",
@@ -1137,7 +1138,6 @@
   "read_more_manual": "Read the manual",
   "remeber_to_replan": "Remeber that you have to replan to see the effect of the changes",
   "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
-  "plan_error_tip": "(click description for direct link issue in manual)",
   "sort": "Sort",
   "sort_by_date": "By date added",
   "sort_manually": "Yourself",
@@ -1147,5 +1147,11 @@
   "add_ccs": "Add CCS",
   "set_to_prefer": "Set to prefer",
   "stop_avoiding_tesla": "Stop avoiding Tesla",
-  "plans": "Plans"
+  "plans": "Plans",
+  "ok": "Ok",
+  "bt_powered_off": "Bluetooth deaktiviert",
+  "connecting": "Verbinde...",
+  "writing": "Schreibe",
+  "reading": "Lese",
+  "Connected": "Verbunden"
 }

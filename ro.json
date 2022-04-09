@@ -1137,7 +1137,6 @@
   "read_more_manual": "Citește manualul",
   "remeber_to_replan": "Amintește-ți că trebuie să replanifici pentru a vedea efectul modificărilor",
   "no_css_but_css_network_perfered": "Nu ai ales  prize CCS din setările „Încărcătoare rapide” , dar ai preferat o rețea CCS.",
-  "plan_error_tip": "(clic pe descriere pentru problema linkului direct din manual)",
   "sort": "Sortează",
   "sort_by_date": "Sortează după dată",
   "sort_manually": "Sortează manual",
@@ -1147,5 +1146,12 @@
   "add_ccs": "Adaugă CCS",
   "set_to_prefer": "Setează ca preferință",
   "stop_avoiding_tesla": "Nu mai evita Tesla",
-  "plans": "Planuri"
+  "plans": "Planuri",
+  "obdble_device_already_linked": "This dongle is already linked to your vehicle",
+  "ok": "Ok",
+  "bt_powered_off": "Bluetooth disabled",
+  "connecting": "Connecting...",
+  "writing": "Writing",
+  "reading": "Reading",
+  "Connected": "Connected"
 }

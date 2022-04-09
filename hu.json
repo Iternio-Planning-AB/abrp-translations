@@ -1137,7 +1137,6 @@
   "read_more_manual": "Read the manual",
   "remeber_to_replan": "Remeber that you have to replan to see the effect of the changes",
   "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
-  "plan_error_tip": "(click description for direct link issue in manual)",
   "sort": "Sort",
   "sort_by_date": "By date added",
   "sort_manually": "Yourself",
@@ -1145,7 +1144,14 @@
   "error_fixed": "Fixed",
   "need_ccs_outisde_of_na_error": "Due to a lack of chargers, we propose you allow standard CCS chargers.",
   "add_ccs": "Add CCS",
-  "set_to_perfer": "Set to perfer",
   "stop_avoiding_tesla": "Stop avoiding Tesla",
-  "plans": "Plans"
+  "plans": "Plans",
+  "obdble_device_already_linked": "This dongle is already linked to your vehicle",
+  "set_to_prefer": "Set to prefer",
+  "ok": "Ok",
+  "bt_powered_off": "Bluetooth disabled",
+  "connecting": "Connecting...",
+  "writing": "Writing",
+  "reading": "Reading",
+  "Connected": "Connected"
 }

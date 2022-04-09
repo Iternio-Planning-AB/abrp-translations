@@ -1137,7 +1137,6 @@
   "read_more_manual": "Ler o manual",
   "remeber_to_replan": "Lembra que tes que volver planificar para ver os efectos dos trocos",
   "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
-  "plan_error_tip": "(preme na descrición para ir directamente ao problema no manual)",
   "sort": "Orde",
   "sort_by_date": "Por data",
   "sort_manually": "Ao teu gusto",
@@ -1145,7 +1144,14 @@
   "error_fixed": "Fixed",
   "need_ccs_outisde_of_na_error": "Por mor á falta de cargadores, suxerímosche empregar cargadores CCS estándar.",
   "add_ccs": "Engadir CCS",
-  "set_to_perfer": "Definir coma preferido",
   "stop_avoiding_tesla": "Stop avoiding Tesla",
-  "plans": "Rutas"
+  "plans": "Rutas",
+  "obdble_device_already_linked": "This dongle is already linked to your vehicle",
+  "set_to_prefer": "Set to prefer",
+  "ok": "Ok",
+  "bt_powered_off": "Bluetooth disabled",
+  "connecting": "Connecting...",
+  "writing": "Writing",
+  "reading": "Reading",
+  "Connected": "Connected"
 }

@@ -1036,6 +1036,7 @@
   "obdble_fetching_pids": "Loading car configuration",
   "obdble_connect_car_partial_success": "We could connect to your car successful but failed to fetch all telemetry values we know about. Checkout the reported live data in the setup dialog, if you want you can still link your dongle by pressing the save button.\nFeel free to report a bug to help us improve your car model!",
   "obdble_bug_report_share_uuid": "In case you want to report a bug we will redirect you to our public bug tracker. Please open up a new bugreport there and paste the id from your clipboard to let us know about your setup issue.",
+  "obdble_device_already_linked": "This dongle is already linked to your vehicle",
   "success": "Success",
   "after": "after",
   "at_clock": "at",
@@ -1121,7 +1122,6 @@
   "read_more_manual": "Read the manual",
   "remeber_to_replan": "Remember that you have to replan to see the effect of the changes",
   "no_css_but_css_network_perfered": "You have not selected CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
-  "plan_error_tip": "(click description to go to relevant section of the manual)",
   "sort": "Sort",
   "sort_by_date": "By date added",
   "sort_manually": "Yourself",
@@ -1131,5 +1131,11 @@
   "add_ccs": "Add CCS",
   "set_to_prefer": "Set to prefer",
   "stop_avoiding_tesla": "Stop avoiding Tesla",
-  "plans": "Plans"
+  "plans": "Plans",
+  "ok": "Ok",
+  "bt_powered_off": "Bluetooth disabled",
+  "connecting": "Connecting...",
+  "writing": "Writing",
+  "reading": "Reading",
+  "Connected": "Connected"
 }
