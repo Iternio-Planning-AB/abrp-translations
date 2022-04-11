@@ -1147,11 +1147,11 @@
   "set_to_prefer": "Setează ca preferință",
   "stop_avoiding_tesla": "Nu mai evita Tesla",
   "plans": "Planuri",
-  "obdble_device_already_linked": "This dongle is already linked to your vehicle",
+  "obdble_device_already_linked": "Acest adaptor este deja conectat cu vehiculul tău",
   "ok": "Ok",
-  "bt_powered_off": "Bluetooth disabled",
-  "connecting": "Connecting...",
-  "writing": "Writing",
-  "reading": "Reading",
-  "Connected": "Connected"
+  "bt_powered_off": "Bluetooth dezactivat",
+  "connecting": "Se conectează...",
+  "writing": "Scriere",
+  "reading": "Citire",
+  "Connected": "Conectat"
 }
