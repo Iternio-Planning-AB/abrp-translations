@@ -1135,14 +1135,14 @@
   "show": "Amosar",
   "ignore": "Ignorar",
   "read_more_manual": "Ler o manual",
-  "remeber_to_replan": "Lembra que tes que volver planificar para ver os efectos dos trocos",
+  "remember_to_replan": "Lembra que tes que volver planificar para ver os efectos dos trocos",
   "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
   "sort": "Orde",
   "sort_by_date": "Por data",
   "sort_manually": "Ao teu gusto",
   "search_saved_plans": "Pescudar polo nome da ruta",
   "error_fixed": "Fixed",
-  "need_ccs_outisde_of_na_error": "Por mor á falta de cargadores, suxerímosche empregar cargadores CCS estándar.",
+  "need_ccs_outside_of_na_error": "Por mor á falta de cargadores, suxerímosche empregar cargadores CCS estándar.",
   "add_ccs": "Engadir CCS",
   "stop_avoiding_tesla": "Stop avoiding Tesla",
   "plans": "Rutas",
@@ -1153,5 +1153,5 @@
   "connecting": "Connecting...",
   "writing": "Writing",
   "reading": "Reading",
-  "Connected": "Connected"
+  "learn-more": "Learn more"
 }

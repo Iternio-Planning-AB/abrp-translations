@@ -1136,14 +1136,14 @@
   "show": "Anzeigen",
   "ignore": "Ignorieren",
   "read_more_manual": "Lies das Handbuch",
-  "remeber_to_replan": "Denke daran, dass du neu planen musst, um die Auswirkungen der Änderungen zu sehen",
+  "remember_to_replan": "Denke daran, dass du neu planen musst, um die Auswirkungen der Änderungen zu sehen",
   "no_css_but_css_network_perfered": "Du  hast in den Einstellungen unter 'Schnelllader' keine CCS-Anschlüsse ausgewählt, aber ein CCS-Ladenetz bevorzugt.",
   "sort": "Sortierung",
   "sort_by_date": "Nach Datum",
   "sort_manually": "Individuell",
   "search_saved_plans": "Suche nach Plannamen",
   "error_fixed": "Behoben",
-  "need_ccs_outisde_of_na_error": "Aufgrund fehlender Ladestationen schlagen wir vor, Standard CCS-Ladestationen zuzulassen.",
+  "need_ccs_outside_of_na_error": "Aufgrund fehlender Ladestationen schlagen wir vor, Standard CCS-Ladestationen zuzulassen.",
   "add_ccs": "CCS hinzufügen",
   "set_to_prefer": "Als bevorzugt einstellen",
   "stop_avoiding_tesla": "Vermeide Tesla nicht mehr",
@@ -1153,5 +1153,5 @@
   "connecting": "Verbinde...",
   "writing": "Schreibe",
   "reading": "Lese",
-  "Connected": "Verbunden"
+  "learn-more": "Learn more"
 }

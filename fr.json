@@ -1134,14 +1134,14 @@
   "show": "Montrer",
   "ignore": "Ignorer",
   "read_more_manual": "Lisez le manuel",
-  "remeber_to_replan": "N'oubliez pas que vous devez replanifier pour voir l'effet des changements",
+  "remember_to_replan": "N'oubliez pas que vous devez replanifier pour voir l'effet des changements",
   "no_css_but_css_network_perfered": "Vous n'avez pas sélectionné de prises CCS dans les réglages sous 'Chargeurs rapides' mais vous avez préféré un réseau CCS.",
   "sort": "Trier",
   "sort_by_date": "Par date d'ajout",
   "sort_manually": "Manuellement",
   "search_saved_plans": "Rechercher par nom de plan",
   "error_fixed": "Corrigé",
-  "need_ccs_outisde_of_na_error": "En raison d'un manque de chargeurs, nous vous proposons d'autoriser les chargeurs CCS standard.",
+  "need_ccs_outside_of_na_error": "En raison d'un manque de chargeurs, nous vous proposons d'autoriser les chargeurs CCS standard.",
   "add_ccs": "Ajouter CCS",
   "stop_avoiding_tesla": "Arrêtez d'éviter les SuC Tesla",
   "plans": "Plans",
@@ -1152,5 +1152,5 @@
   "connecting": "Connexion...",
   "writing": "Ecriture",
   "reading": "Lecture",
-  "Connected": "Connecté"
+  "learn-more": "Learn more"
 }

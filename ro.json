@@ -1135,14 +1135,14 @@
   "show": "Arată",
   "ignore": "Ignoră",
   "read_more_manual": "Citește manualul",
-  "remeber_to_replan": "Amintește-ți că trebuie să replanifici pentru a vedea efectul modificărilor",
+  "remember_to_replan": "Amintește-ți că trebuie să replanifici pentru a vedea efectul modificărilor",
   "no_css_but_css_network_perfered": "Nu ai ales  prize CCS din setările „Încărcătoare rapide” , dar ai preferat o rețea CCS.",
   "sort": "Sortează",
   "sort_by_date": "Sortează după dată",
   "sort_manually": "Sortează manual",
   "search_saved_plans": "Caută după numele planului",
   "error_fixed": "Fixat",
-  "need_ccs_outisde_of_na_error": "Din cauza lipsei încărcătoarelor, vă propunem să permiteți încărcătoare standard CCS.",
+  "need_ccs_outside_of_na_error": "Din cauza lipsei încărcătoarelor, vă propunem să permiteți încărcătoare standard CCS.",
   "add_ccs": "Adaugă CCS",
   "set_to_prefer": "Setează ca preferință",
   "stop_avoiding_tesla": "Nu mai evita Tesla",
@@ -1153,5 +1153,5 @@
   "connecting": "Se conectează...",
   "writing": "Scriere",
   "reading": "Citire",
-  "Connected": "Conectat"
+  "learn-more": "Learn more"
 }

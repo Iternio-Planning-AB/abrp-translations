@@ -1120,14 +1120,14 @@
   "show": "Show",
   "ignore": "Ignore",
   "read_more_manual": "Read the manual",
-  "remeber_to_replan": "Remember that you have to replan to see the effect of the changes",
+  "remember_to_replan": "Remember that you have to replan to see the effect of the changes",
   "no_css_but_css_network_perfered": "You have not selected CCS outlets under 'Fastchargers' in settings but have preferred a CCS network.",
   "sort": "Sort",
   "sort_by_date": "By date added",
   "sort_manually": "Yourself",
   "search_saved_plans": "Search by plan name",
   "error_fixed": "Fixed",
-  "need_ccs_outisde_of_na_error": "Due to a lack of chargers, we propose you allow standard CCS chargers.",
+  "need_ccs_outside_of_na_error": "Due to a lack of chargers, we propose you allow standard CCS chargers.",
   "add_ccs": "Add CCS",
   "set_to_prefer": "Set to prefer",
   "stop_avoiding_tesla": "Stop avoiding Tesla",
@@ -1137,5 +1137,5 @@
   "connecting": "Connecting...",
   "writing": "Writing",
   "reading": "Reading",
-  "Connected": "Connected"
+  "learn-more": "Learn more"
 }
