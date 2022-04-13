@@ -1151,8 +1151,8 @@
   "connecting": "Connexion...",
   "writing": "Ecriture",
   "reading": "Lecture",
-  "step_arrival_soc_warning": "Note: This is the SoC on arrival",
-  "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
-  "set_to_10percent": "Set to 10 %",
-  "learn_more": "Learn more"
+  "step_arrival_soc_warning": "Remarque : Ceci est le SoC (State of Charge) à l'arrivée",
+  "warning_step_has_high_arrival_soc": "Un ou plusieurs chargeurs sur le trajet ont un SoC élevé à l'arrivée",
+  "set_to_10percent": "Réglé sur 10 %",
+  "learn_more": "En savoir plus"
 }
