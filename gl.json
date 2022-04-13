@@ -1102,7 +1102,7 @@
   "recent_plans": "Rutas recentes",
   "old": "vello",
   "map_type": "Tipo de mapa",
-  "remember_to_replan": "Non esquezas volver planificar despois de ter mudado os axustes",
+  "remember_to_replan": "Lembra que tes que volver planificar para ver os efectos dos trocos",
   "set_currency_title": "Código de Divisa (3 letras)",
   "set_currency_title_tooltip": "Insire o código de 3 letras da túa divisa preferida, ex. USD, EUR, GBP etc.",
   "unlink_live_data_message": "Estás certo de querer desligar os datos en tempo real?",
@@ -1135,7 +1135,6 @@
   "show": "Amosar",
   "ignore": "Ignorar",
   "read_more_manual": "Ler o manual",
-  "remember_to_replan": "Lembra que tes que volver planificar para ver os efectos dos trocos",
   "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
   "sort": "Orde",
   "sort_by_date": "Por data",
@@ -1153,5 +1152,8 @@
   "connecting": "Connecting...",
   "writing": "Writing",
   "reading": "Reading",
-  "learn-more": "Learn more"
+  "step_arrival_soc_warning": "Note: This is the SoC on arrival",
+  "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
+  "set_to_10percent": "Set to 10 %",
+  "learn_more": "Learn more"
 }

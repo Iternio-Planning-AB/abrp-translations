@@ -1101,7 +1101,7 @@
   "recent_plans": "Plans récents",
   "old": "ancien",
   "map_type": "Type de carte",
-  "remember_to_replan": "N'oubliez pas de replanifier après avoir modifié les paramètres",
+  "remember_to_replan": "N'oubliez pas que vous devez replanifier pour voir l'effet des changements",
   "set_currency_title": "Code de devise (3 lettres)",
   "set_currency_title_tooltip": "Entrez le code à 3 lettres de votre devise préférée, par exemple USD, EUR, GBP etc.",
   "unlink_live_data_message": "Etes vous sûr de vouloir dissocier les données en direct ?",
@@ -1134,7 +1134,6 @@
   "show": "Montrer",
   "ignore": "Ignorer",
   "read_more_manual": "Lisez le manuel",
-  "remember_to_replan": "N'oubliez pas que vous devez replanifier pour voir l'effet des changements",
   "no_css_but_css_network_perfered": "Vous n'avez pas sélectionné de prises CCS dans les réglages sous 'Chargeurs rapides' mais vous avez préféré un réseau CCS.",
   "sort": "Trier",
   "sort_by_date": "Par date d'ajout",
@@ -1152,5 +1151,8 @@
   "connecting": "Connexion...",
   "writing": "Ecriture",
   "reading": "Lecture",
-  "learn-more": "Learn more"
+  "step_arrival_soc_warning": "Note: This is the SoC on arrival",
+  "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
+  "set_to_10percent": "Set to 10 %",
+  "learn_more": "Learn more"
 }

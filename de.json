@@ -1105,7 +1105,7 @@
   "recent_plans": "Zuletzt geplant",
   "old": "alt",
   "map_type": "Kartentyp",
-  "remember_to_replan": "Vergiss nicht neu zu planen, nachdem Änderungen an den Einstellungen vorgenommen wurden",
+  "remember_to_replan": "Denke daran, dass du neu planen musst, um die Auswirkungen der Änderungen zu sehen",
   "set_currency_title": "Währung (3 Buchstaben)",
   "set_currency_title_tooltip": "Gib den 3-Buchstaben-Code deiner bevorzugten Währung ein, z.B. USD, EUR, GBP usw.",
   "unlink_live_data_message": "Möchtest du die Verknüpfung von Live-Daten wirklich aufheben?",
@@ -1136,7 +1136,6 @@
   "show": "Anzeigen",
   "ignore": "Ignorieren",
   "read_more_manual": "Lies das Handbuch",
-  "remember_to_replan": "Denke daran, dass du neu planen musst, um die Auswirkungen der Änderungen zu sehen",
   "no_css_but_css_network_perfered": "Du  hast in den Einstellungen unter 'Schnelllader' keine CCS-Anschlüsse ausgewählt, aber ein CCS-Ladenetz bevorzugt.",
   "sort": "Sortierung",
   "sort_by_date": "Nach Datum",
@@ -1153,5 +1152,8 @@
   "connecting": "Verbinde...",
   "writing": "Schreibe",
   "reading": "Lese",
-  "learn-more": "Learn more"
+  "step_arrival_soc_warning": "Note: This is the SoC on arrival",
+  "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
+  "set_to_10percent": "Set to 10 %",
+  "learn_more": "Learn more"
 }

@@ -1102,7 +1102,7 @@
   "recent_plans": "Planuri recente",
   "old": "vechi",
   "map_type": "Tip hartă",
-  "remember_to_replan": "Nu uita să replanifici după ce au fost făcute modificări la setări",
+  "remember_to_replan": "Amintește-ți că trebuie să replanifici pentru a vedea efectul modificărilor",
   "set_currency_title": "Cod valutar (3 litere)",
   "set_currency_title_tooltip": "Introdu codul preferat din trei litere al monedei , de ex. USD, EUR, GBP etc.",
   "unlink_live_data_message": "Sigur dorești să deconectezi datele live?",
@@ -1135,7 +1135,6 @@
   "show": "Arată",
   "ignore": "Ignoră",
   "read_more_manual": "Citește manualul",
-  "remember_to_replan": "Amintește-ți că trebuie să replanifici pentru a vedea efectul modificărilor",
   "no_css_but_css_network_perfered": "Nu ai ales  prize CCS din setările „Încărcătoare rapide” , dar ai preferat o rețea CCS.",
   "sort": "Sortează",
   "sort_by_date": "Sortează după dată",
@@ -1153,5 +1152,8 @@
   "connecting": "Se conectează...",
   "writing": "Scriere",
   "reading": "Citire",
-  "learn-more": "Learn more"
+  "step_arrival_soc_warning": "Note: This is the SoC on arrival",
+  "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
+  "set_to_10percent": "Set to 10 %",
+  "learn_more": "Learn more"
 }

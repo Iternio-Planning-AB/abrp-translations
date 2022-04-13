@@ -1102,7 +1102,7 @@
   "recent_plans": "Recent plans",
   "old": "old",
   "map_type": "Map type",
-  "remember_to_replan": "Don't forget to replan after setting changes been made",
+  "remember_to_replan": "Remeber that you have to replan to see the effect of the changes",
   "set_currency_title": "Currency Code (3 letters)",
   "set_currency_title_tooltip": "Enter your perfered currency's 3-letter code, eg. USD, EUR, GBP etc.",
   "unlink_live_data_message": "Are you sure you want to unlink live data?",
@@ -1135,7 +1135,6 @@
   "show": "Show",
   "ignore": "Ignore",
   "read_more_manual": "Read the manual",
-  "remember_to_replan": "Remeber that you have to replan to see the effect of the changes",
   "no_css_but_css_network_perfered": "You have not picked CCS outlets under 'Fastchargers' in settings but have perfered a CCS network.",
   "sort": "Sort",
   "sort_by_date": "By date added",
@@ -1153,5 +1152,8 @@
   "connecting": "Connecting...",
   "writing": "Writing",
   "reading": "Reading",
-  "learn-more": "Learn more"
+  "step_arrival_soc_warning": "Note: This is the SoC on arrival",
+  "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
+  "set_to_10percent": "Set to 10 %",
+  "learn_more": "Learn more"
 }
