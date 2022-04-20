@@ -1071,7 +1071,7 @@
   "half": "fél",
   "quarter": "negyed",
   "obdble_connect_car_partial_success": "A csatlakozás sikeres lehet, viszont az ismert telemetria adatok kinyerése problémába ütközhet. A részleteknél meg tudod nézni a kinyert adatokat. Amennyiben szeretnéd, a „Mentés” gombbal továbbra is csatlakoztathatod a külső eszközt.\nKérlek ha bármilyen hibát észlelsz, jelentsd nekünk hogy tovább tudjuk fejleszteni a modellt!",
-  "obdble_bug_report_share_uuid": "A hiba bejelentéséhez átirányítunk a hiba követő felületre. Kérlek nyiss egy új hiba riportot és másold be a hiba egyedi azonosítóját.”,
+  "obdble_bug_report_share_uuid": "A hiba bejelentéséhez átirányítunk a hiba követő felületre. Kérlek nyiss egy új hiba riportot és másold be a hiba egyedi azonosítóját.",
   "adjust_speed_text": "Max sebesség beállítása a {{modSpeed}} {{unit}} értékre a következő úticélhoz",
   "adjust_speed_text_short": "Max {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "A fiókodban már létezik egy ilyen jármű",
