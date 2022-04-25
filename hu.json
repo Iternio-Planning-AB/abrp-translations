@@ -1077,7 +1077,7 @@
   "merge_automotive_vehicle_title": "A fiókodban már létezik egy ilyen jármű",
   "merge_automotive_vehicle_message": "Mostantól az összes beérkező telemetriai adat a következő járműhöz lesz mentve: {{primaryVehicle}} .\nHa szeretnéd, az összes korábbi aktivitást össze tudjuk kapcsolni a {{primaryVehicle}} járművel. Amennyiben nem szeretnéd, hogy a beérkező adatok ne legyenek összekapcsolva a {{primaryVehicle}}, a korábbi adataid csak a {{oldVehicle}} lesznek elérhetőek.\n\nÖsszekapcsoljuk az adatokat és töröljük a {{oldVehicle}}  járművet?",
   "merge_automotive_vehicle_error": "Az összekapcsolás során hiba történt, kérlek próbáld meg újra.",
-  "charge_cards_no_cards_selected": "Hozzáadhatod a rendelkezésre álló töltő hálózat kártyáidat és mi javaslatokat fogunk neked adni arról, hogy lenne hol érdemes tölteni",
+  "charge_cards_no_cards_selected": "Hozzáadhatod a rendelkezésre álló töltő hálózat kártyáidat és mi javaslatokat fogunk adni arról, hogy hol lenne érdemes töltened",
   "add_new_card": "Új kártya hozzáadása",
   "charging_card": "Töltőkártya",
   "cheapest": "Legolcsóbb",
