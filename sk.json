@@ -1155,5 +1155,10 @@
   "step_arrival_soc_warning": "Note: This is the SoC on arrival",
   "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
   "set_to_10percent": "Set to 10 %",
-  "learn_more": "Learn more"
+  "learn_more": "Learn more",
+  "obdble_link_another_dongle": "Link another OBD dongle",
+  "Connected": "Connected",
+  "learn-more": "Learn more",
+  "plan_warning_header": "Some settings may lead to plans failing",
+  "traffic": "Traffic"
 }

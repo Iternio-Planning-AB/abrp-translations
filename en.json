@@ -1037,6 +1037,7 @@
   "obdble_connect_car_partial_success": "We could connect to your car successful but failed to fetch all telemetry values we know about. Checkout the reported live data in the setup dialog, if you want you can still link your dongle by pressing the save button.\nFeel free to report a bug to help us improve your car model!",
   "obdble_bug_report_share_uuid": "In case you want to report a bug we will redirect you to our public bug tracker. Please open up a new bugreport there and paste the id from your clipboard to let us know about your setup issue.",
   "obdble_device_already_linked": "This dongle is already linked to your vehicle",
+  "obdble_link_another_dongle": "Link another OBD dongle",
   "success": "Success",
   "after": "after",
   "at_clock": "at",
@@ -1136,8 +1137,12 @@
   "connecting": "Connecting...",
   "writing": "Writing",
   "reading": "Reading",
+  "Connected": "Connected",
+  "learn-more":"Learn more",
+  "plan_warning_header": "Some settings may lead to plans failing",
   "step_arrival_soc_warning": "Note: This is the SoC on arrival",
   "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
   "set_to_10percent": "Set to 10 %",
-  "learn_more": "Learn more"
+  "learn_more": "Learn more",
+  "traffic": "Traffic"
 }

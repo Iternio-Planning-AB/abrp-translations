@@ -1155,5 +1155,10 @@
   "step_arrival_soc_warning": "Notă: Acesta este SoC-ul la sosire",
   "warning_step_has_high_arrival_soc": "Unul sau mai multe încărcătoare din plan au SoC ridicat la sosire",
   "set_to_10percent": "Setează la 10 %",
-  "learn_more": "Află mai multe"
+  "learn_more": "Află mai multe",
+  "obdble_link_another_dongle": "Link another OBD dongle",
+  "Connected": "Connected",
+  "learn-more": "Learn more",
+  "plan_warning_header": "Some settings may lead to plans failing",
+  "traffic": "Traffic"
 }
