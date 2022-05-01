@@ -1155,9 +1155,9 @@
   "warning_step_has_high_arrival_soc": "Un ou plusieurs chargeurs sur le trajet ont un SoC élevé à l'arrivée",
   "set_to_10percent": "Réglé sur 10 %",
   "learn_more": "En savoir plus",
-  "obdble_link_another_dongle": "Link another OBD dongle",
-  "Connected": "Connected",
-  "learn-more": "Learn more",
-  "plan_warning_header": "Some settings may lead to plans failing",
-  "traffic": "Traffic"
+  "obdble_link_another_dongle": "Lier un autre dongle OBD",
+  "Connected": "Connecté",
+  "learn-more": "En savoir plus",
+  "plan_warning_header": "Certains paramètres de réglage peuvent entrrainer l'échec de votre planification",
+  "traffic": "Trafic"
 }
