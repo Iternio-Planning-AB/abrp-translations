@@ -1161,6 +1161,6 @@
   "set_to_10percent": "Nastavit na 10 %",
   "learn_more": "Více informací",
   "traffic": "Doprava",
-  "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
-  "charge_to_x": "Charge to {{x}}"
+  "type_of_chargers_tooltip": "Toto je nabíjecí konektor, který podporuje Vaše vozidlo nebo pro který máte dostupný adaptér",
+  "charge_to_x": "Nabít na {{x}}"
 }
