@@ -1160,6 +1160,6 @@
   "learn-more": "En savoir plus",
   "plan_warning_header": "Certains paramètres de réglages peuvent entrainer l'échec de votre planification",
   "traffic": "Trafic",
-  "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
-  "charge_to_x": "Charge to {{x}}"
+  "type_of_chargers_tooltip": "Ce sont les connecteurs ou prises de charge que votre véhicule prend en compte ou pour lesquelles vous avez des adaptateurs disponibles",
+  "charge_to_x": "Charger à {{x}}"
 }
