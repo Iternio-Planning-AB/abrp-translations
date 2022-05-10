@@ -181,6 +181,7 @@
   "region": "Region",
   "zoom_level_to_show_chargers": "Zoom level to show chargers",
   "type_of_chargers": "Type of chargers",
+  "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
   "europe": "Europe",
   "north_america": "North America",
   "world": "World",
@@ -1144,5 +1145,6 @@
   "warning_step_has_high_arrival_soc": "One or more chargers in the plan has high SoC on arrival",
   "set_to_10percent": "Set to 10 %",
   "learn_more": "Learn more",
-  "traffic": "Traffic"
+  "traffic": "Traffic",
+  "charge_to_x": "Charge to {{x}}"
 }

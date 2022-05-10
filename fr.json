@@ -1159,5 +1159,7 @@
   "Connected": "Connecté",
   "learn-more": "En savoir plus",
   "plan_warning_header": "Certains paramètres de réglages peuvent entrainer l'échec de votre planification",
-  "traffic": "Trafic"
+  "traffic": "Trafic",
+  "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
+  "charge_to_x": "Charge to {{x}}"
 }
