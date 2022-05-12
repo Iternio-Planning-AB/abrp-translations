@@ -1158,9 +1158,9 @@
   "set_to_10percent": "Auf 10% setzen",
   "learn_more": "Mehr erfahren",
   "traffic": "Verkehr",
-  "Connected": "Connected",
-  "learn-more": "Learn more",
-  "plan_warning_header": "Some settings may lead to plans failing",
-  "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
-  "charge_to_x": "Charge to {{x}}"
+  "Connected": "Verbunden",
+  "learn-more": "Mehr erfahren",
+  "plan_warning_header": "Einige Einstellungen können dazu führen, dass Pläne fehlschlagen",
+  "type_of_chargers_tooltip": "Dies sind die Ladestecker, die dein Auto unterstützt oder für die du Adapter zur Verfügung hast",
+  "charge_to_x": "Lade bis {{x}}"
 }
