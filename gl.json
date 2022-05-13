@@ -1161,4 +1161,6 @@
   "learn-more": "Saber máis",
   "plan_warning_header": "Algúns axustes poden provocar fallos nas planificacións",
   "traffic": "Tráfico"
+  "type_of_chargers_tooltip": "Estes son os conectores de carga compatíbeis co teu vehículo ou os adaptadores dispoñíbeis",
+  "charge_to_x": "Cargar até {{x}}"
 }
