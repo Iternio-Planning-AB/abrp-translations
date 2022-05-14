@@ -1156,11 +1156,11 @@
   "warning_step_has_high_arrival_soc": "Un ou máis cargadores da ruta teñen un elevado SoC ao chegar",
   "set_to_10percent": "Definir ao 10%",
   "learn_more": "Saber máis",
-  "obdble_link_another_dongle": "Link another OBD dongle",
-  "Connected": "Connected",
-  "learn-more": "Learn more",
-  "plan_warning_header": "Some settings may lead to plans failing",
-  "traffic": "Traffic",
-  "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
-  "charge_to_x": "Charge to {{x}}"
+  "obdble_link_another_dongle": "Ligar outro dongle OBD",
+  "Connected": "Conectado",
+  "learn-more": "Saber máis",
+  "plan_warning_header": "Algúns axustes poden provocar fallos nas planificacións",
+  "traffic": "Tráfico",
+  "type_of_chargers_tooltip": "Estes son os conectores de carga compatíbeis co teu vehículo ou os adaptadores dispoñíbeis",
+  "charge_to_x": "Cargar até {{x}}"
 }
