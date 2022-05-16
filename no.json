@@ -1161,5 +1161,15 @@
   "plan_warning_header": "Some settings may lead to plans failing",
   "traffic": "Traffic",
   "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
-  "charge_to_x": "Charge to {{x}}"
+  "charge_to_x": "Charge to {{x}}",
+  "hours_affix": "h",
+  "days_affix": "days",
+  "car_selection": "Car selection",
+  "no_car_selected": "No car selected",
+  "configuration": "Configuration",
+  "edit_settings": "Edit settings",
+  "select_a_new_car": "Select a new car",
+  "not_saved_car": "Not saved car",
+  "disregard": "Remove it",
+  "need_to_save_vehicle": "You need to save your vehicle to perform this action"
 }

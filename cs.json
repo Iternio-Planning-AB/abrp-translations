@@ -1162,5 +1162,15 @@
   "learn_more": "Více informací",
   "traffic": "Doprava",
   "type_of_chargers_tooltip": "Toto je nabíjecí konektor, který podporuje Vaše vozidlo nebo pro který máte dostupný adaptér",
-  "charge_to_x": "Nabít na {{x}}"
+  "charge_to_x": "Nabít na {{x}}",
+  "hours_affix": "h",
+  "days_affix": "days",
+  "car_selection": "Car selection",
+  "no_car_selected": "No car selected",
+  "configuration": "Configuration",
+  "edit_settings": "Edit settings",
+  "select_a_new_car": "Select a new car",
+  "not_saved_car": "Not saved car",
+  "disregard": "Remove it",
+  "need_to_save_vehicle": "You need to save your vehicle to perform this action"
 }
