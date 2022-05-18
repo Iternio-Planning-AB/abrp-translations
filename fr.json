@@ -1163,13 +1163,13 @@
   "type_of_chargers_tooltip": "Ce sont les connecteurs ou prises de charge que votre véhicule prend en compte ou pour lesquels vous avez des adaptateurs disponibles",
   "charge_to_x": "Charger à {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
-  "car_selection": "Car selection",
-  "no_car_selected": "No car selected",
+  "days_affix": "jours",
+  "car_selection": "Sélection de véhicule",
+  "no_car_selected": "Aucun véhicule sélectionné",
   "configuration": "Configuration",
-  "edit_settings": "Edit settings",
-  "select_a_new_car": "Select a new car",
-  "not_saved_car": "Not saved car",
-  "disregard": "Remove it",
-  "need_to_save_vehicle": "You need to save your vehicle to perform this action"
+  "edit_settings": "Modifier les paramètres",
+  "select_a_new_car": "Sélectionnez un nouveau véhicule",
+  "not_saved_car": "Véhicule non enregistré",
+  "disregard": "Retirez-le",
+  "need_to_save_vehicle": "Vous devez enregistrer votre véhicule pour effectuer cette action"
 }
