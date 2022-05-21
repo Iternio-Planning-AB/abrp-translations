@@ -1161,16 +1161,16 @@
   "learn-more": "Află mai multe",
   "plan_warning_header": "Unele setări pot duce la eșecul planurilor",
   "traffic": "Trafic",
-  "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
-  "charge_to_x": "Charge to {{x}}",
-  "hours_affix": "h",
-  "days_affix": "days",
-  "car_selection": "Car selection",
-  "no_car_selected": "No car selected",
-  "configuration": "Configuration",
-  "edit_settings": "Edit settings",
-  "select_a_new_car": "Select a new car",
-  "not_saved_car": "Not saved car",
-  "disregard": "Remove it",
-  "need_to_save_vehicle": "You need to save your vehicle to perform this action"
+  "type_of_chargers_tooltip": "Acestea sunt prizele de încărcare pe care le acceptă mașina sau pentru care ai adaptoare disponibile",
+  "charge_to_x": "Încarcă la {{x}}"
+  "hours_affix": "ore",
+  "days_affix": "zile",
+  "car_selection": "Selecția mașinii",
+  "no_car_selected": "Nicio mașină selectată",
+  "configuration": "Configurare",
+  "edit_settings": "Editează setările",
+  "select_a_new_car": "Selectează o mașină nouă",
+  "not_saved_car": "Mașină nesalvată",
+  "disregard": "Elimină",
+  "need_to_save_vehicle": "Trebuie să-ți salvezi vehiculul pentru a efectua această acțiune"
 }
