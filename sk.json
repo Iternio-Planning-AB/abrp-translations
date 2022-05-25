@@ -933,24 +933,8 @@
     "Nov",
     "Dec"
   ],
-  "day_names": [
-    "Nedeľa",
-    "Pondelok",
-    "Utorok",
-    "Streda",
-    "Štvrtok",
-    "Piatok",
-    "Sobota"
-  ],
-  "day_names_short": [
-    "Ne",
-    "Po",
-    "Ut",
-    "St",
-    "Št",
-    "Pi",
-    "So"
-  ],
+  "day_names": ["Nedeľa", "Pondelok", "Utorok", "Streda", "Štvrtok", "Piatok", "Sobota"],
+  "day_names_short": ["Ne", "Po", "Ut", "St", "Št", "Pi", "So"],
   "today": "Dnes",
   "scan_abrp_login_qrcode": "Nacist ABRP QR prihlaseni",
   "scan_abrp_qrcode_to_complete_login": "Dokoncete prihlaseni naskenovanim souboru ABRP QR-code",
@@ -1164,7 +1148,10 @@
   "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
   "charge_to_x": "Charge to {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
+  "days_affix": {
+    "one": "day",
+    "other": "days"
+  },
   "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",

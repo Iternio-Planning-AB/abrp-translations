@@ -934,24 +934,8 @@
     "Lis.",
     "Gru."
   ],
-  "day_names": [
-    "Niedziela",
-    "Poniedziałek",
-    "Wtorek",
-    "Środa",
-    "Czwartek",
-    "Piątek",
-    "Sobota"
-  ],
-  "day_names_short": [
-    "Nie.",
-    "Pon.",
-    "Wto.",
-    "Śro.",
-    "Czw.",
-    "Pią.",
-    "Sob."
-  ],
+  "day_names": ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"],
+  "day_names_short": ["Nie.", "Pon.", "Wto.", "Śro.", "Czw.", "Pią.", "Sob."],
   "today": "Dzisiaj",
   "scan_abrp_login_qrcode": "Zeskanuj kod logowania QR ABRP",
   "scan_abrp_qrcode_to_complete_login": "Dokończ logowanie, skanując kod QR ABRP",
@@ -1164,7 +1148,10 @@
   "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
   "charge_to_x": "Charge to {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
+  "days_affix": {
+    "one": "day",
+    "other": "days"
+  },
   "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",

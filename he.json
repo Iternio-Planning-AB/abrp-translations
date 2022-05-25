@@ -942,15 +942,7 @@
     "יום שישי",
     "יום שבת"
   ],
-  "day_names_short": [
-    "יום א׳",
-    "יום ב׳",
-    "יום ג׳",
-    "יום ד׳",
-    "יום ה׳",
-    "יום ו׳",
-    "שבת"
-  ],
+  "day_names_short": ["יום א׳", "יום ב׳", "יום ג׳", "יום ד׳", "יום ה׳", "יום ו׳", "שבת"],
   "today": "היום",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
@@ -1164,7 +1156,10 @@
   "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
   "charge_to_x": "Charge to {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
+  "days_affix": {
+    "one": "day",
+    "other": "days"
+  },
   "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",

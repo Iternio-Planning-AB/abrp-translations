@@ -956,24 +956,8 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": [
-    "Domingo",
-    "Luns",
-    "Martes",
-    "Mércores",
-    "Xoves",
-    "Venres",
-    "Sábado"
-  ],
-  "day_names_short": [
-    "Dom.",
-    "Luns",
-    "Mar.",
-    "Mér.",
-    "Xov.",
-    "Ven.",
-    "Sáb."
-  ],
+  "day_names": ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],
+  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
   "today": "hoxe",
   "scan_abrp_login_qrcode": "Escanear o QR de inicio de sesión",
   "scan_abrp_qrcode_to_complete_login": "Inicio completo ao escanear o código QR do ABRP",
@@ -1164,7 +1148,10 @@
   "type_of_chargers_tooltip": "Estes son os conectores de carga compatíbeis co teu vehículo ou os adaptadores dispoñíbeis",
   "charge_to_x": "Cargar até {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
+  "days_affix": {
+    "one": "day",
+    "other": "days"
+  },
   "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",

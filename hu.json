@@ -933,24 +933,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "vasárnap",
-    "hétfő",
-    "kedd",
-    "szerda",
-    "csütörtök",
-    "péntek",
-    "szombat"
-  ],
-  "day_names_short": [
-    "V",
-    "H",
-    "K",
-    "Sze",
-    "Cs",
-    "P",
-    "Szo"
-  ],
+  "day_names": ["vasárnap", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat"],
+  "day_names_short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
   "today": "ma",
   "scan_abrp_login_qrcode": "ABRP QR beolvasása",
   "scan_abrp_qrcode_to_complete_login": "Bejelentkezés a megadott ABRP QR beolvasásával",
@@ -1155,7 +1139,6 @@
   "step_arrival_soc_warning": "Megjegyzés: ez a SoC érték megérkezéskor",
   "warning_step_has_high_arrival_soc": "Egy vagy több töltő esetén magas SoC érték került beállításra a töltőponthoz történtő érkezéskor",
   "set_to_10percent": "Beállítás 10 % értékre",
-  "learn_more": "További tudnivalók",
   "obdble_link_another_dongle": "Új OBD olvasó csatlakoztatása",
   "Connected": "Csatlakozva",
   "learn-more": "További tudnivalók",

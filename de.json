@@ -951,24 +951,8 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": [
-    "Sonntag",
-    "Montag",
-    "Dienstag",
-    "Mittwoch",
-    "Donnerstag",
-    "Freitag",
-    "Samstag"
-  ],
-  "day_names_short": [
-    "So.",
-    "Mo.",
-    "Di.",
-    "Mi.",
-    "Do.",
-    "Fr.",
-    "Sa."
-  ],
+  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
   "today": "Heute",
   "scan_abrp_login_qrcode": "ABRP-QR-Anmeldung",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP-QR-Code, um den Anmeldevorgang abzuschließen",
@@ -1164,13 +1148,16 @@
   "type_of_chargers_tooltip": "Dies sind die Ladestecker, die dein Auto unterstützt oder für die du Adapter zur Verfügung hast",
   "charge_to_x": "Lade bis {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
-  "car_selection": "Car selection",
-  "no_car_selected": "No car selected",
+  "days_affix": {
+    "one": "Tag",
+    "other": "Tage"
+  },
+  "car_selection": "Fahrzeugauswahl",
+  "no_car_selected": "Kein Fahrzeug ausgewählt",
   "configuration": "Configuration",
-  "edit_settings": "Edit settings",
-  "select_a_new_car": "Select a new car",
-  "not_saved_car": "Not saved car",
-  "disregard": "Remove it",
-  "need_to_save_vehicle": "You need to save your vehicle to perform this action"
+  "edit_settings": "Einstellungen bearbeiten",
+  "select_a_new_car": "neues Fahrzeug auswählen",
+  "not_saved_car": "Nicht gespeichertes Fahrzeug",
+  "disregard": "Entferne es",
+  "need_to_save_vehicle": "Du musst das Fahrzeug zuerst speichern, um diese Aktion auszuführen"
 }

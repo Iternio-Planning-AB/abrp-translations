@@ -932,24 +932,8 @@
     "11月",
     "12月"
   ],
-  "day_names": [
-    "星期日",
-    "星期一",
-    "星期二",
-    "星期三",
-    "星期四",
-    "星期五",
-    "星期六"
-  ],
-  "day_names_short": [
-    "周日",
-    "周一",
-    "周二",
-    "周三",
-    "周四",
-    "周五",
-    "周六"
-  ],
+  "day_names": ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
+  "day_names_short": ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
   "today": "今天",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
@@ -1163,7 +1147,10 @@
   "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
   "charge_to_x": "Charge to {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
+  "days_affix": {
+    "one": "day",
+    "other": "days"
+  },
   "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",

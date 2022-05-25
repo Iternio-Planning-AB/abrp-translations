@@ -933,24 +933,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "duminică",
-    "luni",
-    "marți",
-    "miercuri",
-    "joi",
-    "vineri",
-    "sâmbătă"
-  ],
-  "day_names_short": [
-    "dum.",
-    "lun.",
-    "mar.",
-    "mie.",
-    "joi.",
-    "vin.",
-    "sâm."
-  ],
+  "day_names": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
+  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
   "today": "azi",
   "scan_abrp_login_qrcode": "Scanează codul de înregistrare ABRP QR",
   "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",
@@ -1162,7 +1146,7 @@
   "plan_warning_header": "Unele setări pot duce la eșecul planurilor",
   "traffic": "Trafic",
   "type_of_chargers_tooltip": "Acestea sunt prizele de încărcare pe care le acceptă mașina sau pentru care ai adaptoare disponibile",
-  "charge_to_x": "Încarcă la {{x}}"
+  "charge_to_x": "Încarcă la {{x}}",
   "hours_affix": "ore",
   "days_affix": "zile",
   "car_selection": "Selecția mașinii",

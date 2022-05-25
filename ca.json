@@ -933,24 +933,8 @@
     "nov.",
     "des."
   ],
-  "day_names": [
-    "diumenge",
-    "dilluns",
-    "dimarts",
-    "dimecres",
-    "dijous",
-    "divendres",
-    "dissabte"
-  ],
-  "day_names_short": [
-    "dg.",
-    "dl.",
-    "dt.",
-    "dc.",
-    "dj.",
-    "dv.",
-    "ds."
-  ],
+  "day_names": ["diumenge", "dilluns", "dimarts", "dimecres", "dijous", "divendres", "dissabte"],
+  "day_names_short": ["dg.", "dl.", "dt.", "dc.", "dj.", "dv.", "ds."],
   "today": "avui",
   "scan_abrp_login_qrcode": "Escaneja el codi QR d'inici de sessió",
   "scan_abrp_qrcode_to_complete_login": "Completa la sessió escanejant el codi QR d'ABRP",
@@ -1164,7 +1148,10 @@
   "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
   "charge_to_x": "Charge to {{x}}",
   "hours_affix": "h",
-  "days_affix": "days",
+  "days_affix": {
+    "one": "day",
+    "other": "days"
+  },
   "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",
