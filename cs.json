@@ -1165,12 +1165,12 @@
   "charge_to_x": "Nabít na {{x}}",
   "hours_affix": "h",
   "days_affix": "days",
-  "car_selection": "Car selection",
-  "no_car_selected": "No car selected",
-  "configuration": "Configuration",
-  "edit_settings": "Edit settings",
-  "select_a_new_car": "Select a new car",
-  "not_saved_car": "Not saved car",
-  "disregard": "Remove it",
-  "need_to_save_vehicle": "You need to save your vehicle to perform this action"
+  "car_selection": "Výběr vozidla",
+  "no_car_selected": "Nebylo vybráno žádné vozidlo",
+  "configuration": "Konfigurace",
+  "edit_settings": "Upravit nastavení",
+  "select_a_new_car": "Vybrat nové vozidlo",
+  "not_saved_car": "Neuložené vozidlo",
+  "disregard": "Odebrat",
+  "need_to_save_vehicle": "Pro provedení této akce musíte Vaše vozidlo uložit"
 }
