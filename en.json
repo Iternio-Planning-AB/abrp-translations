@@ -1045,10 +1045,7 @@
   "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step",
   "minutes_affix": "min",
   "hours_affix": "h",
-  "days_affix": {
-    "one": "day",
-    "other": "days"
-  },
+  "days_affix": "days",
   "exlusive_network_warning": "You have one exclusive network selected under Network preferences",
   "low_soc_warning": "In your settings you are leaving with less than 15% charge",
   "high_ref_consumption_warning": "You have set a reference consumption of your car above {{ref_consumtion}} Wh/km",
