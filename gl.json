@@ -59,7 +59,7 @@
   "common_settings": "Axustes comúns",
   "other_settings": "Outro axustes",
   "done": "Feito",
-  "select_your_car": "Escoller o modelo do vehículo",
+  "select_your_car": "Escoller modelo",
   "add_my_car": "Engadir o meu vehículo",
   "add_my_car_description": "Engadir e gardar o teu propio vehículo",
   "battery_and_chargers": "Batería e Cargadores",
@@ -1149,15 +1149,15 @@
   "charge_to_x": "Cargar até {{x}}",
   "hours_affix": "h",
   "days_affix": {
-    "one": "day",
-    "other": "days"
+    "one": "día",
+    "other": "días"
   },
-  "car_selection": "Car selection",
-  "no_car_selected": "No car selected",
-  "configuration": "Configuration",
-  "edit_settings": "Edit settings",
-  "select_a_new_car": "Select a new car",
-  "not_saved_car": "Not saved car",
-  "disregard": "Remove it",
-  "need_to_save_vehicle": "You need to save your vehicle to perform this action"
+  "car_selection": "Seleccionar coche",
+  "no_car_selected": "Non hai coche seleccionado",
+  "configuration": "Configuración",
+  "edit_settings": "Axustes",
+  "select_a_new_car": "Seleccionar un coche novo",
+  "not_saved_car": "Coche sen gardar",
+  "disregard": "Eliminar",
+  "need_to_save_vehicle": "Tes que gardar o coche para realizar esta acción"
 }
