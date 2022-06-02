@@ -102,7 +102,7 @@
   "rain_or_snow": "Rain or snow",
   "heavy_rain_or_snow": "Heavy rain or snow",
   "avoid_on_route": "Avoid on route",
-  "avoid_on_route_description": "Avoid the route to include highways, ferries, tolls or country border crossings.",
+  "avoid_on_route_description": "Select options that you want to avoid for the route",
   "ferries": "Ferries and car trains",
   "highways": "Highways",
   "tolls": "Tolls",
