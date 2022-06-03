@@ -1172,7 +1172,7 @@
   "not_saved_car": "Véhicule non enregistré",
   "disregard": "Retirez-le",
   "need_to_save_vehicle": "Vous devez enregistrer votre véhicule pour effectuer cette action",
-  "obdble_permission_not_granted": "La connexion ABRP ODB ne peut pas fonctionner avec une autorisation refusée. Veuillez l'accepter dans les paramètres système.",
+  "obdble_permission_not_granted": "La connexion ABRP ODB requiert une autorisation. Veuillez l'accorder dans les paramètres système.",
   "feedback_header": "Aidez-nous à améliorer votre expérience",
   "dont_know": "Je ne sais pas",
   "answer_question_on_phone": "Voulez-vous répondre à une question sur votre smartphone ?",
