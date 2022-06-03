@@ -1039,7 +1039,7 @@
   "obdble_bug_report_share_uuid": "In case you want to report a bug we will redirect you to our public bug tracker. Please open up a new bugreport there and paste the id from your clipboard to let us know about your setup issue.",
   "obdble_device_already_linked": "This dongle is already linked to your vehicle",
   "obdble_link_another_dongle": "Link another OBD dongle",
-  "obdble_permission_not_granted": "ABRP ODB connection can not work without the denied permission. Please grant them in the system settings.",
+  "obdble_permission_not_granted": "ABRP ODB connection needs the requested permission. Please grant it in the system settings.",
   "success": "Success",
   "after": "after",
   "at_clock": "at",
