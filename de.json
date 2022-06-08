@@ -1205,7 +1205,7 @@
   "connect_with_x": "Verbinde mit {{brand}}",
   "linked_services": "Aktuelle Live-Datenverbindungen",
   "automotive_cant_be_disconnected": "Live-Daten von Automotive können nicht getrennt werden",
-  "last_tlm_connection": "Neueste Live-Datenverbindung: ",
+  "last_tlm_connection": "Letzte Live-Datenverbindung: ",
   "in_car_tlm_title": "Live-Daten im Auto",
   "ota_tlm_title": "Over-the-air Live-Daten",
   "no_data_linked": "Keine Live-Daten verknüpft",
