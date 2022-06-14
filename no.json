@@ -1211,5 +1211,11 @@
   "obd": "OBD",
   "in_car_tlm_description": "In-car live data is usually the best option for rich live data, enabling precise vehicle caibration of consumption. Usually this involves a Bluetooth connection to the car or a dongle. In-car live data usually does not work when you are not in the car.",
   "ota_tlm_description": "Over-the-Air live data means getting data from your car through a cellular connection. This will work even when you are not in the car, but usually gives less detailed data than an in-car connection.",
-  "live_data_automotive": "Android Automotive"
+  "live_data_automotive": "Android Automotive",
+  "allow_ferry_warning": "You are not allowing the route to travel by ferry",
+  "make_primary": "Make Primary",
+  "removed_from_profile": "Remove from Profile",
+  "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
+  "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
+  "allow": "Allow"
 }

@@ -1211,5 +1211,11 @@
   "obd": "OBD",
   "in_car_tlm_description": "Livedata i bilen er normalt den bedste mulighed for rige livedata, hvilket muliggør præcis kalibrering af køretøjets forbrug. Normalt involverer dette en Bluetooth-forbindelse til bilen eller en dongle. Live-data i bilen fungerer normalt ikke, når du ikke er i bilen.",
   "ota_tlm_description": "Over-the-Air live-data betyder at få data fra din bil via en mobilforbindelse. Dette fungerer, selv når du ikke er i bilen, men giver normalt mindre detaljerede data end en forbindelse i bilen.",
-  "live_data_automotive": "Android Automotive"
+  "live_data_automotive": "Android Automotive",
+  "allow_ferry_warning": "You are not allowing the route to travel by ferry",
+  "make_primary": "Make Primary",
+  "removed_from_profile": "Remove from Profile",
+  "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
+  "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
+  "allow": "Allow"
 }

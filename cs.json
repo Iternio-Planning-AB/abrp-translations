@@ -1209,5 +1209,11 @@
   "obd": "OBD",
   "in_car_tlm_description": "Živá data z vozidla jsou obvykle nejlepší volbou, která umožňuje přesnou kalibraci spotřeby vozidla. Obvykle je nutné připojení k Bluetooth donglu připojeného do OBD. Živá data z vozidla obvykle nefungují, pokud nejste ve vozidle.",
   "ota_tlm_description": "Živá data vzduchem jsou přijímána z vozidla přes mobilní datové připojení vozidla. Tato data jsou dostupná i když nejste ve vozidle, ale jsou obvykle méně detailní.",
-  "live_data_automotive": "Android Automotive"
+  "live_data_automotive": "Android Automotive",
+  "allow_ferry_warning": "You are not allowing the route to travel by ferry",
+  "make_primary": "Make Primary",
+  "removed_from_profile": "Remove from Profile",
+  "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
+  "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
+  "allow": "Allow"
 }
