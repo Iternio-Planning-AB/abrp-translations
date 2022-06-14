@@ -1218,5 +1218,6 @@
   "removed_from_profile": "Remove from Profile",
   "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
   "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
-  "allow": "Allow"
+  "allow": "Allow",
+  "remove_from_profile": "Remove from profile"
 }
