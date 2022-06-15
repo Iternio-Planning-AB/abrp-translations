@@ -1209,11 +1209,11 @@
   "in_car_tlm_description": "Les données en direct embarquées sont généralement la meilleure option pour obtenir des données en direct détaillées, permettant un étalonnage précis de la consommation du véhicule. Cela implique généralement une connexion Bluetooth au véhicule ou un dongle. Les données en direct embarquées ne fonctionnent généralement pas lorsque vous n'êtes pas dans le véhicule.",
   "ota_tlm_description": "Les données en direct OTA (Over-The Air) permettent d'obtenir des données de votre véhicule via une connexion cellulaire. Cela fonctionnera même lorsque vous n'êtes pas dans le véhicule, mais donne généralement des données moins détaillées qu'une connexion embarquée depuis le véhicule.",
   "live_data_automotive": "Android Automotive",
-  "allow_ferry_warning": "You are not allowing the route to travel by ferry",
-  "make_primary": "Make Primary",
-  "removed_from_profile": "Remove from Profile",
-  "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
-  "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
-  "allow": "Allow",
-  "remove_from_profile": "Remove from profile"
+  "allow_ferry_warning": "Vous n'avez pas autorisé votre trajet à embarquer sur un ferry",
+  "make_primary": "Rendre Primaire",
+  "removed_from_profile": "Supprimé du profil",
+  "about_thanks_to_contributors": "De nombreuses personnes, organisations et entreprises ont contribué et collaboré avec nous pour créer ABRP. Merci à tous !",
+  "about_open_source_routing_machine_description": "Une pièce maîtresse de la machinerie ABRP",
+  "allow": "Autoriser",
+  "remove_from_profile": "Supprimer du profil"
 }
