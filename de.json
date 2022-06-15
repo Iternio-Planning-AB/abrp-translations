@@ -1213,11 +1213,11 @@
   "in_car_tlm_description": "Live-Daten im Auto sind normalerweise die beste Option für reichhaltige Live-Daten, die eine präzise Fahrzeugkalibrierung des Verbrauchs ermöglichen. Meist handelt es sich dabei um eine Bluetooth-Verbindung zum Auto oder einen Dongle. Live-Daten im Auto funktionieren normalerweise nicht, wenn Du dich nicht im Auto befindest.",
   "ota_tlm_description": "Over-the-Air Live-Daten bedeutet, Daten von deinem Auto über eine Mobilfunkverbindung zu erhalten. Dies funktioniert auch, wenn Du dich nicht im Auto befindest, liefert jedoch normalerweise weniger detaillierte Daten als eine Verbindung im Auto.",
   "live_data_automotive": "Android Automotive",
-  "allow_ferry_warning": "You are not allowing the route to travel by ferry",
-  "make_primary": "Make Primary",
-  "removed_from_profile": "Remove from Profile",
-  "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
-  "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
-  "allow": "Allow",
-  "remove_from_profile": "Remove from profile"
+  "allow_ferry_warning": "Du erlaubst nicht, dass die Route mit der Fähre zurückgelegt wird",
+  "make_primary": "Primär machen",
+  "removed_from_profile": "Aus dem Profil entfernt",
+  "about_thanks_to_contributors": "Viele Menschen, Organisationen und Unternehmen haben dazu beigetragen und mit uns zusammengearbeitet, um ABRP zu schaffen. Vielen Dank an Euch alle!",
+  "about_open_source_routing_machine_description": "Ein Schlüsselelement der ABRP-Maschinerie",
+  "allow": "Erlauben",
+  "remove_from_profile": "Aus dem Profil entfernen"
 }
