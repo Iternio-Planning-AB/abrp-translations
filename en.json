@@ -1196,7 +1196,7 @@
   "ota_tlm_description": "Over-the-Air live data means getting data from your car through a cellular connection. This will work even when you are not in the car, but usually gives less detailed data than an in-car connection.",
   "live_data_automotive": "Android Automotive",
   "make_primary": "Make Primary",
-  "removed_from_profile": "Remove from Profile",
+  "removed_from_profile": "Removed from Profile",
   "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
   "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
   "allow": "Allow",
