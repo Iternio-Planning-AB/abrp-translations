@@ -1210,11 +1210,11 @@
   "in_car_tlm_description": "Datele live din mașină sunt de obicei cea mai bună opțiune pentru date în direct bogate, permițând calibrarea precisă a consumului vehiculului. De obicei, acest lucru implică o conexiune Bluetooth la mașină sau un conector. Datele live din mașină nu funcționează de obicei, atunci când nu te afli în mașină.",
   "ota_tlm_description": "Datele live pe cale aeriană înseamnă obținerea de date de la autovehicul prin intermediul unei conexiuni celulare. Aceasta va funcționa chiar și atunci când nu te afli în mașină, dar de obicei oferă date mai puțin detaliate față de o conexiune în mașină.",
   "live_data_automotive": "Android Automotive",
-  "allow_ferry_warning": "You are not allowing the route to travel by ferry",
-  "make_primary": "Make Primary",
-  "removed_from_profile": "Remove from Profile",
-  "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
-  "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
-  "allow": "Allow",
-  "remove_from_profile": "Remove from profile"
+  "allow_ferry_warning": "Nu permiți ca ruta să fie parcursă cu feribotul”",
+  "make_primary": "Fă principal",
+  "removed_from_profile": "Eliminat din profil",
+  "about_thanks_to_contributors": "O mulțime de oameni, organizații și companii au contribuit și colaborează cu noi la crearea ABRP. Vă mulțumesc tuturor!",
+  "about_open_source_routing_machine_description": "O piesă cheie în angrenajul ABRP",
+  "allow": "Permite",
+  "remove_from_profile": "Elimină din profil"
 }
