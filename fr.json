@@ -1210,12 +1210,12 @@
   "ota_tlm_description": "Les données en direct OTA (Over-The Air) permettent d'obtenir des données de votre véhicule via une connexion cellulaire. Cela fonctionnera même lorsque vous n'êtes pas dans le véhicule, mais donne généralement des données moins détaillées qu'une connexion embarquée depuis le véhicule.",
   "live_data_automotive": "Android Automotive",
   "allow_ferry_warning": "Vous n'avez pas autorisé votre trajet à embarquer sur un ferry",
-  "make_primary": "Rendre Primaire",
+  "make_primary": "Choisir comme principale",
   "removed_from_profile": "Supprimé du profil",
   "about_thanks_to_contributors": "De nombreuses personnes, organisations et entreprises ont contribué et collaboré avec nous pour créer ABRP. Merci à tous !",
   "about_open_source_routing_machine_description": "Une pièce maîtresse de la machinerie ABRP",
   "allow": "Autoriser",
   "remove_from_profile": "Supprimer du profil",
-  "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
+  "please_wait_for_charge_cards": "Veuillez attendre que les cartes se chargent",
+  "saving": "Sauvegardé"
 }
