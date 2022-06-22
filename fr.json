@@ -1215,5 +1215,7 @@
   "about_thanks_to_contributors": "De nombreuses personnes, organisations et entreprises ont contribué et collaboré avec nous pour créer ABRP. Merci à tous !",
   "about_open_source_routing_machine_description": "Une pièce maîtresse de la machinerie ABRP",
   "allow": "Autoriser",
-  "remove_from_profile": "Supprimer du profil"
+  "remove_from_profile": "Supprimer du profil",
+  "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
+  "saving": "Saving"
 }

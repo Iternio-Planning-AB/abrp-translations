@@ -1216,5 +1216,7 @@
   "about_thanks_to_contributors": "O mulțime de oameni, organizații și companii au contribuit și colaborează cu noi la crearea ABRP. Vă mulțumesc tuturor!",
   "about_open_source_routing_machine_description": "O piesă cheie în angrenajul ABRP",
   "allow": "Permite",
-  "remove_from_profile": "Elimină din profil"
+  "remove_from_profile": "Elimină din profil",
+  "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
+  "saving": "Saving"
 }

@@ -1216,5 +1216,7 @@
   "about_thanks_to_contributors": "Na vytvoření ABRP s námi spolupracovalo mnoho lidí, organizací i společností. Moc děkujeme všem!",
   "about_open_source_routing_machine_description": "Klíčová součást ekosystému ABRP",
   "allow": "Povolit",
-  "remove_from_profile": "Odebrat z profilu"
+  "remove_from_profile": "Odebrat z profilu",
+  "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
+  "saving": "Saving"
 }
