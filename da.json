@@ -473,7 +473,7 @@
   "weather_forecast_1": "Prognoser og live vejrudsigt anvendes automatisk i planlægningen. Ruten optimeres efter vejret.",
   "weather_forecast_2": "Vind- og temperaturprognoser vises i planen, skridt for skridt.",
   "realtime_traffic_1": "Aktuel trafikinformation giver dig bedre overblik.",
-  "realtime_traffic_2": "Trafikinformationen giver dig ikke alene et tidsestimat, men beregnes også i dit forbrug.",
+  "realtime_traffic_2": "Trafikinformationen giver dig ikke alene et tidsestimat, men beregnes også med dit forbrug.",
   "suc_availability": "Akuel information om ladere, og prognoser.",
   "suc_availability_1": "Planlægning tager hensyn til hvor hvor optaget næste ladere er live, men også til prognoser over hvor lang kø der plejer at være på forskellige tidspunkter og dage.",
   "suc_availability_2": "Alt medregnes på ruten.",
