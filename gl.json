@@ -1213,13 +1213,13 @@
   "in_car_tlm_description": "Os datos en tempo real 'In-car' é polo xeral a mellor opción xa que permiten un mellor calibrado do consumo do vehículo. É preciso dunha conexión Bluetooth co coche ou dun dongle. Esta opción non funciona cando non estás no coche.",
   "ota_tlm_description": "Os datos en tempo real 'Over-the-Air' obtéñense a través dunha conexión de datos móbil. Esta funcionará mesmo cando non esteas no coche, mais fornece de información menos detallada ca conexión 'In-car'.",
   "live_data_automotive": "Android Automotive",
-  "allow_ferry_warning": "You are not allowing the route to travel by ferry",
-  "make_primary": "Make Primary",
-  "removed_from_profile": "Remove from Profile",
-  "about_thanks_to_contributors": "A lot of people, organizations and companies have contributed and collaborate with us to create ABRP. Thank you all!",
-  "about_open_source_routing_machine_description": "A key piece in the ABRP machinery",
-  "allow": "Allow",
-  "remove_from_profile": "Remove from profile",
-  "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
+  "allow_ferry_warning": "No está permitido o uso do transbordador na ruta",
+  "make_primary": "Deixar coma primario",
+  "removed_from_profile": "Eliminado do perfil",
+  "about_thanks_to_contributors": "Moita xente, organizacións e empresas teñen contribuído e colaborado connosco para crear o ABRP. Grazas a todos!",
+  "about_open_source_routing_machine_description": "Unha parte importante na maquinaria do ABRP",
+  "allow": "Permitir",
+  "remove_from_profile": "Eliminar do perfil",
+  "please_wait_for_charge_cards": "Por favor agarda, cargando cartóns de carga",
+  "saving": "Gardando"
 }
