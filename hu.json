@@ -1075,7 +1075,7 @@
   "adjust_speed_text": "Max sebesség beállítása a {{modSpeed}} {{unit}} értékre a következő úticélhoz",
   "adjust_speed_text_short": "Max {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "A fiókodban már létezik egy ilyen jármű",
-  "merge_automotive_vehicle_message": "Mostantól az összes beérkező telemetriai adat a következő járműhöz lesz mentve: {{primaryVehicle}} .\nHa szeretnéd, az összes korábbi aktivitást össze tudjuk kapcsolni a {{primaryVehicle}} járművel. Amennyiben nem szeretnéd, hogy a beérkező adatok ne legyenek összekapcsolva a {{primaryVehicle}}, a korábbi adataid csak a {{oldVehicle}} lesznek elérhetőek.\n\nÖsszekapcsoljuk az adatokat és töröljük a {{oldVehicle}}  járművet?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Az összekapcsolás során hiba történt, kérlek próbáld meg újra.",
   "charge_cards_no_cards_selected": "Hozzáadhatod a rendelkezésre álló töltő hálózat kártyáidat és mi javaslatokat fogunk adni arról, hogy hol lenne érdemes töltened",
   "add_new_card": "Új kártya hozzáadása",
@@ -1164,7 +1164,6 @@
   "charge_to_x": "Töltés {{x}}-ig",
   "hours_affix": "óra",
   "days_affix": "nap",
-  "car_selection": "Autó kiválasztása",
   "no_car_selected": "Autó nem került kiválasztásra",
   "configuration": "Konfiguráció",
   "edit_settings": "Beállítások megváltoztatása",
@@ -1218,5 +1217,8 @@
   "allow": "Engedélyez",
   "remove_from_profile": "Eltávolítás a profilból",
   "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
+  "saving": "Saving",
+  "saved_vehicles": "Saved cars",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }

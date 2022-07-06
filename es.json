@@ -1075,7 +1075,7 @@
   "adjust_speed_text": "Ajusta tu velocidad a un máximo de {{modSpeed}} {{unit}} para poder llegar a tu próximo destino",
   "adjust_speed_text_short": "Máx {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "Hemos encontrado un vehículo idéntico en tu cuenta",
-  "merge_automotive_vehicle_message": "A partir de ahora todos los datos de telemetría se guardarán en tu vehículo {{primaryVehicle}}.\nSi quieres podemos fusionar todas tus actividades pasadas a tu vehículo {{primaryVehicle}} y cambiar a él. Si no quieres eso, la nueva telemetría se guardará igualmente en tu vehículo {{primaryVehicle}}, pero podrás ver tus anteriores actividades solo en tu vehículo {{oldVehicle}}.\n\n¿Deberíamos fusionarlos y borrar tu vehículo {{oldVehicle}}?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Algo falló al fusionar los vehículos. Por favor, inténtalo de nuevo.",
   "charge_cards_no_cards_selected": "Añade las tarjetas de carga que poseas a tu cuenta y te recomdendaremos con qué cargar",
   "add_new_card": "Añadir nueva tarjeta",
@@ -1165,7 +1165,6 @@
   "charge_to_x": "Cargar hasta el {{x}}",
   "hours_affix": "h",
   "days_affix": "días",
-  "car_selection": "Selección del coche",
   "no_car_selected": "Ningún coche seleccionado",
   "configuration": "Configuración",
   "edit_settings": "Editar ajustes",
@@ -1218,5 +1217,8 @@
   "allow": "Allow",
   "remove_from_profile": "Remove from profile",
   "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
+  "saving": "Saving",
+  "saved_vehicles": "Saved cars",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }

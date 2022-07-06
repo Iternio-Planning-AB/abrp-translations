@@ -1075,7 +1075,7 @@
   "adjust_speed_text": "Налаштуйте швидкість до максимальної {{modSpeed}} {{unit}}, щоб дістатися до наступного пункту призначення",
   "adjust_speed_text_short": "Макс. {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "Ми знайшли у вашому обліковому записі ідентичний автомобіль",
-  "merge_automotive_vehicle_message": "Відтепер усі вхідні дані телеметрії зберігаються у вашому автомобілі {{primaryVehicle}}.\nЯкщо ви хочете, ми можемо об’єднати всі ваші старі дії з вашим транспортним засобом {{primary Vehicle}} і перейти на нього. Якщо ви не хочете, щоб вхідна телеметрія все ще зберігалася лише у вашому транспортному засобі {{primaryVehicle}}, ви можете переглянути всю свою стару активність лише на своєму транспортному засобі {{oldVehicle}}.\n\nЯкщо ми об’єднаємо їх і видалимо ваш автомобіль {{oldVehicle}}?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Під час об’єднання транспортних засобів сталася помилка. Спробуйте ще раз.",
   "charge_cards_no_cards_selected": "Додайте свої платіжні картки до свого облікового запису, і ми надамо вам пораду щодо того, що стягувати",
   "add_new_card": "Додати нову картку",
@@ -1175,7 +1175,6 @@
   "feedback_has_playground": "Does this location have a kids playground or play friendly area nearby?",
   "feedback_dog_friendly": "Is this a nice location to walk your dog?",
   "try_again": "Try again",
-  "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",
   "edit_settings": "Edit settings",
@@ -1218,5 +1217,8 @@
   "allow": "Allow",
   "remove_from_profile": "Remove from profile",
   "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
+  "saving": "Saving",
+  "saved_vehicles": "Saved cars",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }

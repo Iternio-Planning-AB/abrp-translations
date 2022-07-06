@@ -969,8 +969,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-  "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
+  "day_names": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "day_names_short": [
+    "Sun.",
+    "Mon.",
+    "Tue.",
+    "Wed.",
+    "Thu.",
+    "Fri.",
+    "Sat."
+  ],
   "today": "Today",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
@@ -1068,7 +1084,7 @@
   "adjust_speed_text_short": "Max {{modSpeed}} {{unit}}",
   "report_error": "Report an error to us",
   "merge_automotive_vehicle_title": "We found an identical vehicle on your account",
-  "merge_automotive_vehicle_message": "From now on all incoming telemetry data is stored to your {{primaryVehicle}} vehicle.\nIf you want we can merge all your old activities to your {{primaryVehicle}} vehicle and switch over to it. If you do not want that incoming telemetry is still stored to your {{primaryVehicle}} vehicle only but you can look up all you old activites on your {{oldVehicle}} vehicle only.\n\nShould we merge them and delete your {{oldVehicle}} vehicle?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Something went wrong while merging vehicles, please try again.",
   "charge_cards_no_cards_selected": "Add charging cards you own to your account and we will provide you with advice with what to charge",
   "add_new_card": "Add New Card",
@@ -1160,7 +1176,7 @@
   "feedback_has_playground": "Does this location have a kids playground or play friendly area nearby?",
   "feedback_dog_friendly": "Is this a nice location to walk your dog?",
   "try_again": "Try again",
-  "car_selection": "Car selection",
+  "saved_vehicles": "Saved cars",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",
   "edit_settings": "Edit settings",
@@ -1202,6 +1218,7 @@
   "allow": "Allow",
   "remove_from_profile": "Remove from profile",
   "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
-
+  "saving": "Saving",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }

@@ -940,24 +940,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "søndag",
-    "mandag",
-    "tirsdag",
-    "onsdag",
-    "torsdag",
-    "fredag",
-    "lørdag"
-  ],
-  "day_names_short": [
-    "søn",
-    "man",
-    "tirs",
-    "ons",
-    "tors",
-    "fre",
-    "lør"
-  ],
+  "day_names": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
+  "day_names_short": ["søn", "man", "tirs", "ons", "tors", "fre", "lør"],
   "today": "i dag",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Færdiggør dit login ved at skanne ABRP QR-koden",
@@ -1074,7 +1058,7 @@
   "adjust_speed_text": "Juster hastigheden til maks. {{modSpeed}} {{unit}} for at nå din næste destination",
   "adjust_speed_text_short": "Maks. {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "Vi fandt et identisk køretøj på din konto",
-  "merge_automotive_vehicle_message": "Fra nu af gemmes alle indgående telemetridata i dit {{primaryVehicle}}-køretøj.\nHvis du vil, kan vi flette alle dine gamle aktiviteter sammen med dit {{primaryVehicle}}-køretøj og skifte til det. Hvis du ikke ønsker, at indgående telemetri stadig kun gemmes i dit {{primaryVehicle}}-køretøj, men du kan kun slå alle dine gamle aktiviteter op på dit {{oldVehicle}}-køretøj.\n\nSkal vi flette dem og slette din { {oldVehicle}} køretøj?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Noget gik galt under sammenlægning af køretøjer. Prøv venligst igen.",
   "charge_cards_no_cards_selected": "Tilføj de ladekort, du ejer, til din konto, og vi vil give dig råd om, hvilket du skal benytte.",
   "add_new_card": "Tilføj nyt kort",
@@ -1167,7 +1151,6 @@
     "one": "dag",
     "other": "dage"
   },
-  "car_selection": "Vælg bil",
   "no_car_selected": "Ingen bil valgt",
   "configuration": "Konfiguration",
   "edit_settings": "Rediger indstillinger",
@@ -1220,5 +1203,8 @@
   "allow": "Tillad",
   "remove_from_profile": "Fjern fra profil",
   "please_wait_for_charge_cards": "Vent venligst på, at ladekortene bliver indlæst",
-  "saving": "Gemmer"
+  "saving": "Gemmer",
+  "saved_vehicles": "Saved cars",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }

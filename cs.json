@@ -968,24 +968,8 @@
     "lis",
     "pro"
   ],
-  "day_names": [
-    "neděle",
-    "pondělí",
-    "úterý",
-    "středa",
-    "čtvrtek",
-    "pátek",
-    "sobota"
-  ],
-  "day_names_short": [
-    "Ne",
-    "Po",
-    "Út",
-    "St",
-    "Čt",
-    "Pá",
-    "So"
-  ],
+  "day_names": ["neděle", "pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota"],
+  "day_names_short": ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
   "today": "Dnes",
   "scan_abrp_login_qrcode": "Naskenovat QR kód pro přihášení",
   "scan_abrp_qrcode_to_complete_login": "Dokončete přihlášení naskenováním QR kódu ABRP.",
@@ -1079,7 +1063,7 @@
   "adjust_speed_text_short": "Max. {{modSpeed}}{{unit}}",
   "report_error": "Nahlaste nám chybu",
   "merge_automotive_vehicle_title": "Ve Vašem účtu jsme našli identické vozidlo",
-  "merge_automotive_vehicle_message": "Od této chvíle jsou všechna příchozí telemetrická data uložena ve Vašem vozidle {{primaryVehicle}}.\nPokud chcete, můžeme sloučit všechny Vaše staré aktivity do Vašeho vozidla {{primaryVehicle}} a přepnout na něj. Pokud nechcete, aby se příchozí telemetrie stále ukládala pouze do Vašeho vozidla {{primaryVehicle}}, můžete všechny své staré aktivity vyhledat pouze ve vozidle {{oldVehicle}}.\n\nMáme je sloučit a smazat Vaše vozidlo {{oldVehicle}}?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Při slučování vozidel se něco pokazilo, zkuste to znovu.",
   "charge_cards_no_cards_selected": "Přidejte si k účtu dobíjecí karty, které vlastníte a my Vám poradíme, kde a jak nabíjet.",
   "add_new_card": "Přidat novou kartu",
@@ -1165,7 +1149,6 @@
   "charge_to_x": "Nabít na {{x}}",
   "hours_affix": "hod.",
   "days_affix": "dnů",
-  "car_selection": "Výběr vozidla",
   "no_car_selected": "Nebylo vybráno žádné vozidlo",
   "configuration": "Konfigurace",
   "edit_settings": "Upravit nastavení",
@@ -1218,5 +1201,8 @@
   "allow": "Povolit",
   "remove_from_profile": "Odebrat z profilu",
   "please_wait_for_charge_cards": "Čekejte na načtení nabíjecích karet",
-  "saving": "Ukládání"
+  "saving": "Ukládání",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle.",
+  "saved_vehicles": "Saved cars"
 }
