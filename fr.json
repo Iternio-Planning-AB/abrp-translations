@@ -1201,7 +1201,7 @@
   "remove_from_profile": "Supprimer du profil",
   "please_wait_for_charge_cards": "Veuillez attendre que les cartes se chargent",
   "saving": "Sauvegardé",
-  "saved_vehicles": "Saved cars",
-  "search_car_brand": "Search car brand",
-  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
+  "saved_vehicles": "Véhicules enregistrés",
+  "search_car_brand": "Rechercher une marque de véhicule",
+  "settings_includes_charger_type_not_supported": "Vos paramètres incluent un type de chargeur qui n'est pas pris en compte par votre véhicule."
 }
