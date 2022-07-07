@@ -1216,9 +1216,9 @@
   "about_open_source_routing_machine_description": "O piesă cheie în angrenajul ABRP",
   "allow": "Permite",
   "remove_from_profile": "Elimină din profil",
-  "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving",
-  "saved_vehicles": "Saved cars",
-  "search_car_brand": "Search car brand",
-  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
+  "please_wait_for_charge_cards": "Așteaptă te rog încărcarea cardurilor de credit",
+  "saving": "Salvare"
+  "saved_vehicles": "Mașini salvate",
+  "search_car_brand": "Caută marca mașinii",
+  "settings_includes_charger_type_not_supported": "Setările tale includ un tip de încărcător care nu este acceptat de acest vehicul."
 }
