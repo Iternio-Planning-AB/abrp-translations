@@ -1204,7 +1204,7 @@
   "remove_from_profile": "Fjern fra profil",
   "please_wait_for_charge_cards": "Vent venligst på, at ladekortene bliver indlæst",
   "saving": "Gemmer",
-  "saved_vehicles": "Saved cars",
-  "search_car_brand": "Search car brand",
-  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
+  "saved_vehicles": "Gemte biler",
+  "search_car_brand": "Søg efter model",
+  "settings_includes_charger_type_not_supported": "Dine indstillinger inkluderer en opladertype, som ikke understøttes af dette køretøj."
 }
