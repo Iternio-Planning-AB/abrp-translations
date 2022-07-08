@@ -932,24 +932,8 @@
     "Nov.",
     "Déc."
   ],
-  "day_names": [
-    "Dimanche",
-    "Lundi",
-    "Mardi",
-    "Mercredi",
-    "Jeudi",
-    "Vendredi",
-    "Samedi"
-  ],
-  "day_names_short": [
-    "Dim.",
-    "Lun.",
-    "Mar.",
-    "Mer.",
-    "Jeu.",
-    "Ven.",
-    "Sam."
-  ],
+  "day_names": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
   "today": "Aujourd'hui",
   "scan_abrp_login_qrcode": "Scannez le QRCode ABRP",
   "scan_abrp_qrcode_to_complete_login": "Terminez la connexion en scannant le QR-code ABRP",
@@ -1074,7 +1058,7 @@
   "adjust_speed_text": "Ajustez votre vitesse à {{modSpeed}} {{unit}} maximum pour atteindre votre prochaine destination",
   "adjust_speed_text_short": "Max {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "Nous avons trouvé un véhicule identique dans votre compte",
-  "merge_automotive_vehicle_message": "A partir de de maintenant, toutes les données de télémétrie entrantes sont stockées dans votre véhicule {{primaryVehicle}} .\nSi vous le souhaitez, nous pouvons fusionner toutes vos anciennes activités dans votre véhicule {{primaryVehicle}} et les basculer vers celui-ci. Si vous ne souhaitez pas que la télémétrie entrante soit stockée sur votre véhicule {{primaryVehicle}} seulement, mais uniquement que les anciennes activités sur votre véhicule {{oldVehicle}}.\n\nDevons-nous les fusionner et supprimer votre véhicule {{oldVehicle}} ?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Une erreur s'est produite lors du fusionnemment des véhicules, veuillez réessayer.",
   "charge_cards_no_cards_selected": "Ajoutez dans votre compte les cartes de recharge que vous possédez, et nous vous fournirons des conseils sur ce qu'il faut recharger",
   "add_new_card": "Ajouter une nouvelle carte",
@@ -1164,7 +1148,6 @@
   "charge_to_x": "Charger à {{x}}",
   "hours_affix": "h",
   "days_affix": "jours",
-  "car_selection": "Sélection de véhicule",
   "no_car_selected": "Aucun véhicule sélectionné",
   "configuration": "Configuration",
   "edit_settings": "Modifier les paramètres",
@@ -1217,5 +1200,8 @@
   "allow": "Autoriser",
   "remove_from_profile": "Supprimer du profil",
   "please_wait_for_charge_cards": "Veuillez attendre que les cartes se chargent",
-  "saving": "Sauvegardé"
+  "saving": "Sauvegardé",
+  "saved_vehicles": "Véhicules enregistrés",
+  "search_car_brand": "Rechercher une marque de véhicule",
+  "settings_includes_charger_type_not_supported": "Vos paramètres incluent un type de chargeur qui n'est pas pris en compte par votre véhicule."
 }

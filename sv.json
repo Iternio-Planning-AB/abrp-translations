@@ -1100,7 +1100,7 @@
   "obdble_bug_report_share_uuid": "In case you want to report a bug we will redirect you to our public bug tracker. Please open up a new bugreport there and paste the id from your clipboard to let us know about your setup issue.",
   "adjust_speed_text_short": "Max {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "We found an identical vehicle on your account",
-  "merge_automotive_vehicle_message": "From now on all incoming telemetry data is stored to your {{primaryVehicle}} vehicle.\nIf you want we can merge all your old activites to your {{primaryVehicle}} vehicle and switch over to it. If you do not want that incoming telemetry is still stored to your {{primaryVehicle}} vehicle only but you can look up all you old activites on your {{oldVehicle}} vehicle only.\n\nShould we merge them and delete your {{oldVehicle}} vehicle?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Something went wrong while merging vehicles, please try again.",
   "display_mode_map_description": "By selecting this option the map will automatically follow the color theme of the app.",
   "old": "old",
@@ -1167,7 +1167,6 @@
     "one": "day",
     "other": "days"
   },
-  "car_selection": "Car selection",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",
   "edit_settings": "Edit settings",
@@ -1220,5 +1219,8 @@
   "allow": "Allow",
   "remove_from_profile": "Remove from profile",
   "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
+  "saving": "Saving",
+  "saved_vehicles": "Saved cars",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }

@@ -1075,7 +1075,7 @@
   "adjust_speed_text": "Reglează viteza la max {{modSpeed}} {{unit}} pentru a ajunge la următoarea destinație",
   "adjust_speed_text_short": "Max {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "Am găsit un vehicul identic în contul tău",
-  "merge_automotive_vehicle_message": "De acum înainte, toate datele de telemetrie primite sunt stocate în {{primaryVehicle}} vehiculul tău.\nDacă dorești, putem îmbina toate activitățile tale vechi cu {{primaryVehicle}} vehiculul tău și să le trecem la acesta. Dacă nu dorești ca telemetria care urmează să fie stocată pe {{primaryVehicle}} vehiculul tău poţi căuta toate activităţile vechi doar pe {{oldVehicle}} vehicul.\n\nSă le fuzionăm şi să ştergem {{oldVehicle}} vehiculul?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "A apărut o eroare la fuzionarea vehiculelor, încearcă din nou.",
   "charge_cards_no_cards_selected": "Adaugă în contul tău cardurile de încărcare pe care le deții și îți vom oferi sfaturi despre ce să încarci",
   "add_new_card": "Adaugă un card nou",
@@ -1165,7 +1165,6 @@
   "charge_to_x": "Încarcă la {{x}}",
   "hours_affix": "ore",
   "days_affix": "zile",
-  "car_selection": "Selecția mașinii",
   "no_car_selected": "Nicio mașină selectată",
   "configuration": "Configurare",
   "edit_settings": "Editează setările",
@@ -1218,5 +1217,8 @@
   "allow": "Permite",
   "remove_from_profile": "Elimină din profil",
   "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
-  "saving": "Saving"
+  "saving": "Saving",
+  "saved_vehicles": "Saved cars",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }

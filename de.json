@@ -951,24 +951,8 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": [
-    "Sonntag",
-    "Montag",
-    "Dienstag",
-    "Mittwoch",
-    "Donnerstag",
-    "Freitag",
-    "Samstag"
-  ],
-  "day_names_short": [
-    "So.",
-    "Mo.",
-    "Di.",
-    "Mi.",
-    "Do.",
-    "Fr.",
-    "Sa."
-  ],
+  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
   "today": "Heute",
   "scan_abrp_login_qrcode": "ABRP-QR-Anmeldung",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP-QR-Code, um den Anmeldevorgang abzuschließen",
@@ -1080,7 +1064,7 @@
   "obdble_connect_car_partial_success": "Wir konnten eine Verbindung zu deinem Auto herstellen, jedoch nicht alle uns bekannten Telemetriewerte abrufen. Sieh dir die gemeldeten Live-Daten im Einrichtungsdialog an. Wenn du möchtest, kannst du den Dongle trotzdem verknüpfen, indem du auf die Schaltfläche „Speichern“ drückst.\nÜber einen Bugreport zur Verbesserung deines Automodells würden wir uns freuen!",
   "obdble_bug_report_share_uuid": "Falls du einen Fehler melden möchtest, leiten wir dich zu unserem öffentlichen Bug-Tracker weiter. Bitte erstelle dort einen neuen Fehlerbericht und füge die ID aus der Zwischenablage ein, um uns über deine Schwierigkeiten zu informieren.",
   "merge_automotive_vehicle_title": "Wir haben ein identisches Fahrzeug in deinem Konto gefunden",
-  "merge_automotive_vehicle_message": "Von nun an werden alle eingehenden Telemetriedaten in deinem {{primaryVehicle}}-Fahrzeug gespeichert.\nWenn du möchtest, können wir alle deine alten Aktivitäten im {{primaryVehicle}}-Fahrzeug zusammenführen und darauf umstellen. Falls du das nicht möchtest werden trotzdem alle eingehende Telemetriedaten im {{primaryVehicle}}-Fahrzeug gespeichert. Alte Aktivtäten verbleiben dann im {{oldVehicle}}-Fahrzeug.\n\nSollen wir die Fahrzeuge zusammenfürhen und {{oldVehicle}} löschen?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Beim Zusammenführen deiner Fahrzeuge ist etwas schief gelaufen, bitte versuche es erneut.",
   "charge_cards_no_cards_selected": "Füge deinem Konto Ladekarten hinzu die du besitzt, und wir beraten dich wo du aufladen solltest",
   "add_new_card": "neue Karte hinzufügen",
@@ -1169,7 +1153,6 @@
     "one": "Tag",
     "other": "Tage"
   },
-  "car_selection": "Fahrzeugauswahl",
   "no_car_selected": "Kein Fahrzeug ausgewählt",
   "configuration": "Konfiguration",
   "edit_settings": "Einstellungen bearbeiten",
@@ -1221,5 +1204,8 @@
   "allow": "Erlauben",
   "remove_from_profile": "Aus dem Profil entfernen",
   "please_wait_for_charge_cards": "Bitte warte bis die Karten geladen sind",
-  "saving": "Speichern"
+  "saving": "Speichern",
+  "search_car_brand": "Automarke suchen",
+  "settings_includes_charger_type_not_supported": "Deine Einstellungen enthalten einen Ladestecker, der von deinem Fahrzeug nicht unterstützt wird.",
+  "saved_vehicles": "Saved cars"
 }

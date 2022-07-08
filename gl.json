@@ -1075,7 +1075,7 @@
   "adjust_speed_text": "Axustar a velocidade máximo {{modSpeed}} {{unit}} para chegar ao destino",
   "adjust_speed_text_short": "Máx. {{modSpeed}} {{unit}}",
   "merge_automotive_vehicle_title": "Atopamos un vehículo idéntico na túa conta",
-  "merge_automotive_vehicle_message": "Dende agora todos os datos da telemetría gardaranse en {{primaryVehicle}}.\nSe queres, podemos fusionar toda a túa actividade anterior en {{primaryVehicle}} e mudar cara el. De todos os xeitos a nova telemetría gardarase no teu vehículo {{primaryVehicle}}, porén poderás ver a túa actividade anterior só en {{oldVehicle}}.\n\nPodemos fusionalos e eliminar o teu vehículo {{oldVehicle}}?",
+  "merge_automotive_vehicle_message": "The {{newVehicle}} vehicle seems to be the same as your {{originalVehicle}} vehicle.\nShould we can merge these and keep only the {{originalVehicle}} vehicle?",
   "merge_automotive_vehicle_error": "Algo foi mal combinando os vehículos, por favor téntao de novo.",
   "charge_cards_no_cards_selected": "Engade os cartóns de carga que teñas á túa conta e aconsellarémosche con cal cargar",
   "add_new_card": "Engadir novo cartón",
@@ -1168,7 +1168,6 @@
     "one": "día",
     "other": "días"
   },
-  "car_selection": "Seleccionar coche",
   "no_car_selected": "Non hai coche seleccionado",
   "configuration": "Configuración",
   "edit_settings": "Axustes",
@@ -1221,5 +1220,8 @@
   "allow": "Permitir",
   "remove_from_profile": "Eliminar do perfil",
   "please_wait_for_charge_cards": "Por favor agarda, cargando cartóns de carga",
-  "saving": "Gardando"
+  "saving": "Gardando",
+  "saved_vehicles": "Saved cars",
+  "search_car_brand": "Search car brand",
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
 }
