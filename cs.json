@@ -1202,7 +1202,7 @@
   "remove_from_profile": "Odebrat z profilu",
   "please_wait_for_charge_cards": "Čekejte na načtení nabíjecích karet",
   "saving": "Ukládání",
-  "search_car_brand": "Search car brand",
-  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle.",
-  "saved_vehicles": "Saved cars"
+  "search_car_brand": "Hledat značku vozidla",
+  "settings_includes_charger_type_not_supported": "Vaše nastavení obsahuje typ nabíječky, který není podporován tímto vozidlem.",
+  "saved_vehicles": "Uložená vozidla"
 }
