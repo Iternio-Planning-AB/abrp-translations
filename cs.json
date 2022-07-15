@@ -968,8 +968,24 @@
     "lis",
     "pro"
   ],
-  "day_names": ["neděle", "pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota"],
-  "day_names_short": ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
+  "day_names": [
+    "neděle",
+    "pondělí",
+    "úterý",
+    "středa",
+    "čtvrtek",
+    "pátek",
+    "sobota"
+  ],
+  "day_names_short": [
+    "Ne",
+    "Po",
+    "Út",
+    "St",
+    "Čt",
+    "Pá",
+    "So"
+  ],
   "today": "Dnes",
   "scan_abrp_login_qrcode": "Naskenovat QR kód pro přihášení",
   "scan_abrp_qrcode_to_complete_login": "Dokončete přihlášení naskenováním QR kódu ABRP.",
