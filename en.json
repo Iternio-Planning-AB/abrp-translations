@@ -81,7 +81,7 @@
   "battery_degradation_description": "Assumed battery degradation of the car compared to a brand new battery.",
   "battery_capacity_description": "Live Data Capacity of the battery measured directly by the car.  Remove from live data to revert to degradation.",
   "time_charge_port": "Charging overhead",
-  "time_charge_port_description": "Overhead time at every charge stop. A higher value here will lead to fewer but longer charge stops.",
+  "time_charge_port_description": "Overhead time at every charge stop: Locating the charging station, connecting and start charging. A higher value here will lead to fewer but longer charge stops.",
   "reference_speed": "Reference speed",
   "reference_speed_description": "Speed factor relative to the speed limits or estimated speed of the road.",
   "maximum_speed": "Maximum speed",
