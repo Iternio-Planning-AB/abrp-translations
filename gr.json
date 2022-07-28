@@ -332,7 +332,7 @@
   "display_mode": "Θέμα προβολής",
   "display_mode_dark": "Σκούρο",
   "display_mode_light": "Φωτεινό",
-  "display_mode_phone": "Ρυθμίσεις συσκευής",
+  "display_mode_system": "Ρυθμίσεις συσκευής",
   "display_mode_automatic": "Αυτόματπ (Ημέρα/Νύχτα)",
   "display_mode_map": "Ο χάρτης ακολουθεί το θέμα",
   "network_preferences": "Επιλογές δικτύου",
@@ -933,24 +933,8 @@
     "Νοε",
     "Δεκ"
   ],
-  "day_names": [
-    "Κυριακή",
-    "Δευτέρα",
-    "Τρίτη",
-    "Τετάρτη",
-    "Πέμπτη",
-    "Παρασκευή",
-    "Σάββατο"
-  ],
-  "day_names_short": [
-    "Κυρ",
-    "Δευ",
-    "Τρί",
-    "Τετ",
-    "Πέμ",
-    "Παρ",
-    "Σάβ"
-  ],
+  "day_names": ["Κυριακή", "Δευτέρα", "Τρίτη", "Τετάρτη", "Πέμπτη", "Παρασκευή", "Σάββατο"],
+  "day_names_short": ["Κυρ", "Δευ", "Τρί", "Τετ", "Πέμ", "Παρ", "Σάβ"],
   "today": "σήμερα",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",

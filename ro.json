@@ -335,7 +335,7 @@
   "display_mode": "Mod afișare",
   "display_mode_dark": "Întunecat",
   "display_mode_light": "Luminos",
-  "display_mode_phone": "Setarea dispozitivului",
+  "display_mode_system": "Setarea dispozitivului",
   "display_mode_automatic": "Automat (zi / noapte)",
   "display_mode_map": "Harta urmează tema",
   "network_preferences": "Specificațiile rețelei de încărcare",
@@ -933,24 +933,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "duminică",
-    "luni",
-    "marți",
-    "miercuri",
-    "joi",
-    "vineri",
-    "sâmbătă"
-  ],
-  "day_names_short": [
-    "dum.",
-    "lun.",
-    "mar.",
-    "mie.",
-    "joi.",
-    "vin.",
-    "sâm."
-  ],
+  "day_names": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
+  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
   "today": "azi",
   "scan_abrp_login_qrcode": "Scanează codul de înregistrare ABRP QR",
   "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",

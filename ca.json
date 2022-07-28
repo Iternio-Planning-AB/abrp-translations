@@ -367,7 +367,7 @@
   "display_mode": "Mode de visualizació",
   "display_mode_dark": "Fosc",
   "display_mode_light": "Clar",
-  "display_mode_phone": "Configuració del dispositiu",
+  "display_mode_system": "Configuració del dispositiu",
   "display_mode_automatic": "Automàtic (Dia/Nit)",
   "network_preferences": "Preferències de xarxes de càrrega",
   "network_preferences_description": "Evita, prefereix o utilitza exclusivament algunes xarxes de carregadors",

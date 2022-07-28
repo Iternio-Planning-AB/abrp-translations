@@ -360,7 +360,7 @@
   "display_mode": "Motiv",
   "display_mode_dark": "Tmavý",
   "display_mode_light": "Světlý",
-  "display_mode_phone": "Nastavení zařízení",
+  "display_mode_system": "Nastavení zařízení",
   "display_mode_automatic": "Automaticky (Den/Noc)",
   "display_mode_map": "Mapa jako motiv",
   "network_preferences": "Předvolby sítí",
@@ -968,24 +968,8 @@
     "lis",
     "pro"
   ],
-  "day_names": [
-    "neděle",
-    "pondělí",
-    "úterý",
-    "středa",
-    "čtvrtek",
-    "pátek",
-    "sobota"
-  ],
-  "day_names_short": [
-    "Ne",
-    "Po",
-    "Út",
-    "St",
-    "Čt",
-    "Pá",
-    "So"
-  ],
+  "day_names": ["neděle", "pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota"],
+  "day_names_short": ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
   "today": "Dnes",
   "scan_abrp_login_qrcode": "Naskenovat QR kód pro přihášení",
   "scan_abrp_qrcode_to_complete_login": "Dokončete přihlášení naskenováním QR kódu ABRP.",

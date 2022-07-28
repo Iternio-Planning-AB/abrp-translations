@@ -323,7 +323,7 @@
   "display_mode": "Skærmtema",
   "display_mode_dark": "Mørkt",
   "display_mode_light": "Lyst",
-  "display_mode_phone": "Systemindstilling",
+  "display_mode_system": "Systemindstilling",
   "display_mode_automatic": "Automatisk (dag/nat)",
   "display_mode_map": "Kortet følger temaet",
   "network_preferences": "Ladepræferencer",
@@ -940,24 +940,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "søndag",
-    "mandag",
-    "tirsdag",
-    "onsdag",
-    "torsdag",
-    "fredag",
-    "lørdag"
-  ],
-  "day_names_short": [
-    "søn",
-    "man",
-    "tirs",
-    "ons",
-    "tors",
-    "fre",
-    "lør"
-  ],
+  "day_names": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
+  "day_names_short": ["søn", "man", "tirs", "ons", "tors", "fre", "lør"],
   "today": "i dag",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Færdiggør dit login ved at skanne ABRP QR-koden",

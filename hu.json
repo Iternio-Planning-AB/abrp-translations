@@ -332,7 +332,7 @@
   "display_mode": "Témák",
   "display_mode_dark": "Sötét",
   "display_mode_light": "Világos",
-  "display_mode_phone": "Eszköz beállításai",
+  "display_mode_system": "Eszköz beállításai",
   "display_mode_automatic": "Automata (Nappal / Éjszaka)",
   "display_mode_map": "Térkép beállítása Téma szerint",
   "network_preferences": "Preferált hálózatok",
@@ -933,24 +933,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "vasárnap",
-    "hétfő",
-    "kedd",
-    "szerda",
-    "csütörtök",
-    "péntek",
-    "szombat"
-  ],
-  "day_names_short": [
-    "V",
-    "H",
-    "K",
-    "Sze",
-    "Cs",
-    "P",
-    "Szo"
-  ],
+  "day_names": ["vasárnap", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat"],
+  "day_names_short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
   "today": "ma",
   "scan_abrp_login_qrcode": "ABRP QR beolvasása",
   "scan_abrp_qrcode_to_complete_login": "Bejelentkezés a megadott ABRP QR beolvasásával",

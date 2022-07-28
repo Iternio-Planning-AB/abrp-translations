@@ -327,7 +327,7 @@
   "display_mode": "Thème d'affichage",
   "display_mode_dark": "Nuit",
   "display_mode_light": "Jour",
-  "display_mode_phone": "Paramètres smartphone",
+  "display_mode_system": "Paramètres smartphone",
   "display_mode_automatic": "Automatique (Jour/Nuit)",
   "network_preferences": "Préférences de réseau de charge",
   "network_preferences_description": "Eviter, préférer ou utiliser exclusivement certains réseaux",
@@ -932,24 +932,8 @@
     "Nov.",
     "Déc."
   ],
-  "day_names": [
-    "Dimanche",
-    "Lundi",
-    "Mardi",
-    "Mercredi",
-    "Jeudi",
-    "Vendredi",
-    "Samedi"
-  ],
-  "day_names_short": [
-    "Dim.",
-    "Lun.",
-    "Mar.",
-    "Mer.",
-    "Jeu.",
-    "Ven.",
-    "Sam."
-  ],
+  "day_names": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
   "today": "Aujourd'hui",
   "scan_abrp_login_qrcode": "Scannez le QRCode ABRP",
   "scan_abrp_qrcode_to_complete_login": "Terminez la connexion en scannant le QR-code ABRP",

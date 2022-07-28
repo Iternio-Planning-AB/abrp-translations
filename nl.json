@@ -328,7 +328,7 @@
   "display_mode": "Beeldscherm thema",
   "display_mode_dark": "Donker",
   "display_mode_light": "Licht",
-  "display_mode_phone": "Apparaat instellingen",
+  "display_mode_system": "Apparaat instellingen",
   "display_mode_automatic": "Automatisch (Dag/Nacht)",
   "network_preferences": "Netwerk voorkeur",
   "network_preferences_description": "Vermijd, prefereer of gebruik sommige netwerken exclusief",
@@ -932,24 +932,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "zondag",
-    "maandag",
-    "dinsdag",
-    "woensdag",
-    "donderdag",
-    "vrijdag",
-    "zaterdag"
-  ],
-  "day_names_short": [
-    "zo",
-    "ma",
-    "di",
-    "wo",
-    "do",
-    "vr",
-    "za"
-  ],
+  "day_names": ["zondag", "maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag"],
+  "day_names_short": ["zo", "ma", "di", "wo", "do", "vr", "za"],
   "today": "vandaag",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",

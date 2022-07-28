@@ -335,7 +335,7 @@
   "display_mode": "ערכת נושא לתצוגה",
   "display_mode_dark": "אפל",
   "display_mode_light": "אוֹר",
-  "display_mode_phone": "הגדרות מכשיר",
+  "display_mode_system": "הגדרות מכשיר",
   "display_mode_automatic": "אוטומטי (יום / לילה)",
   "display_mode_map": "מפה עוקבת אחר נושא",
   "network_preferences": "העדפות רשת",
@@ -942,15 +942,7 @@
     "יום שישי",
     "יום שבת"
   ],
-  "day_names_short": [
-    "יום א׳",
-    "יום ב׳",
-    "יום ג׳",
-    "יום ד׳",
-    "יום ה׳",
-    "יום ו׳",
-    "שבת"
-  ],
+  "day_names_short": ["יום א׳", "יום ב׳", "יום ג׳", "יום ד׳", "יום ה׳", "יום ו׳", "שבת"],
   "today": "היום",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",

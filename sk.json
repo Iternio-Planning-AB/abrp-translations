@@ -335,7 +335,7 @@
   "display_mode": "Display theme",
   "display_mode_dark": "Dark",
   "display_mode_light": "Light",
-  "display_mode_phone": "Device settings",
+  "display_mode_system": "Device settings",
   "display_mode_automatic": "Automatic (Day/Night)",
   "display_mode_map": "Map follows theme",
   "network_preferences": "Network preferences",
@@ -933,24 +933,8 @@
     "Nov",
     "Dec"
   ],
-  "day_names": [
-    "Nedeľa",
-    "Pondelok",
-    "Utorok",
-    "Streda",
-    "Štvrtok",
-    "Piatok",
-    "Sobota"
-  ],
-  "day_names_short": [
-    "Ne",
-    "Po",
-    "Ut",
-    "St",
-    "Št",
-    "Pi",
-    "So"
-  ],
+  "day_names": ["Nedeľa", "Pondelok", "Utorok", "Streda", "Štvrtok", "Piatok", "Sobota"],
+  "day_names_short": ["Ne", "Po", "Ut", "St", "Št", "Pi", "So"],
   "today": "Dnes",
   "scan_abrp_login_qrcode": "Nacist ABRP QR prihlaseni",
   "scan_abrp_qrcode_to_complete_login": "Dokoncete prihlaseni naskenovanim souboru ABRP QR-code",

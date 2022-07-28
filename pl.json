@@ -335,7 +335,7 @@
   "display_mode": "Tryb wyświetlania",
   "display_mode_dark": "Ciemny",
   "display_mode_light": "Jasny",
-  "display_mode_phone": "Ustawienia urządzenia",
+  "display_mode_system": "Ustawienia urządzenia",
   "display_mode_automatic": "Automatyczny (Dzień/Noc)",
   "display_mode_map": "Mapa ustala tryb wyświetlania",
   "network_preferences": "Preferencje sieci",
@@ -934,24 +934,8 @@
     "Lis.",
     "Gru."
   ],
-  "day_names": [
-    "Niedziela",
-    "Poniedziałek",
-    "Wtorek",
-    "Środa",
-    "Czwartek",
-    "Piątek",
-    "Sobota"
-  ],
-  "day_names_short": [
-    "Nie.",
-    "Pon.",
-    "Wto.",
-    "Śro.",
-    "Czw.",
-    "Pią.",
-    "Sob."
-  ],
+  "day_names": ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"],
+  "day_names_short": ["Nie.", "Pon.", "Wto.", "Śro.", "Czw.", "Pią.", "Sob."],
   "today": "Dzisiaj",
   "scan_abrp_login_qrcode": "Zeskanuj kod logowania QR ABRP",
   "scan_abrp_qrcode_to_complete_login": "Dokończ logowanie, skanując kod QR ABRP",

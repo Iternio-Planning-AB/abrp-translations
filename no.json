@@ -313,7 +313,7 @@
   "display_mode": "Display theme",
   "display_mode_dark": "Dark",
   "display_mode_light": "Light",
-  "display_mode_phone": "Device settings",
+  "display_mode_system": "Device settings",
   "display_mode_automatic": "Automatic (Day/Night)",
   "network_preferences": "Network preferences",
   "network_preferences_description": "Avoid, prefer or use exclusively some networks",
@@ -932,24 +932,8 @@
     "nov.",
     "des."
   ],
-  "day_names": [
-    "søndag",
-    "mandag",
-    "tirsdag",
-    "onsdag",
-    "torsdag",
-    "fredag",
-    "lørdag"
-  ],
-  "day_names_short": [
-    "søn.",
-    "man.",
-    "tir.",
-    "ons.",
-    "tor.",
-    "fre.",
-    "lør."
-  ],
+  "day_names": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
+  "day_names_short": ["søn.", "man.", "tir.", "ons.", "tor.", "fre.", "lør."],
   "today": "i dag",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",

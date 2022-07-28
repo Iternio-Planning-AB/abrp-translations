@@ -335,7 +335,7 @@
   "display_mode": "Тема оформления",
   "display_mode_dark": "Тёмная",
   "display_mode_light": "Светлая",
-  "display_mode_phone": "Настройки смартфона",
+  "display_mode_system": "Настройки смартфона",
   "display_mode_automatic": "Авторежим (День/Ночь)",
   "display_mode_map": "Адаптировать карты под тему оформления",
   "network_preferences": "Параметры сети",
@@ -933,24 +933,8 @@
     "нояб.",
     "дек."
   ],
-  "day_names": [
-    "воскресенье",
-    "понедельник",
-    "вторник",
-    "среда",
-    "четверг",
-    "пятница",
-    "суббота"
-  ],
-  "day_names_short": [
-    "вс",
-    "пн",
-    "вт",
-    "ср",
-    "чт",
-    "пт",
-    "сб"
-  ],
+  "day_names": ["воскресенье", "понедельник", "вторник", "среда", "четверг", "пятница", "суббота"],
+  "day_names_short": ["вс", "пн", "вт", "ср", "чт", "пт", "сб"],
   "today": "сегодня",
   "scan_abrp_login_qrcode": "Scan ABRP QR login",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",

@@ -361,7 +361,7 @@
   "display_mode": "Display theme",
   "display_mode_dark": "Dark",
   "display_mode_light": "Light",
-  "display_mode_phone": "Device settings",
+  "display_mode_system": "Device settings",
   "display_mode_automatic": "Automatic (Day/Night)",
   "display_mode_map": "Map follows theme",
   "network_preferences": "Network preferences",
