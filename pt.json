@@ -1061,7 +1061,7 @@
   "three-quarters": "três quartos de",
   "half": "metade",
   "quarter": "quarto",
-  "obdble_connect_car_partial_success": "Poderíamos ligar-nos ao seu carro com sucesso, mas não conseguimos obter todos os valores de telemetria que conhecemos. Verifique os dados comunicados no diálogo de configuração, se quiser pode ainda ligar o seu dongle premindo o botão "save".\nSinta-se à vontade para denunciar um bug para nos ajudar a melhorar o seu modelo de carro! PT",
+  "obdble_connect_car_partial_success": "Poderíamos ligar-nos ao seu carro com sucesso, mas não conseguimos obter todos os valores de telemetria que conhecemos. Verifique os dados comunicados no diálogo de configuração, se quiser pode ainda ligar o seu dongle premindo o botão \"save\".\nSinta-se à vontade para denunciar um bug para nos ajudar a melhorar o seu modelo de carro! PT",
   "obdble_bug_report_share_uuid": "Caso queira comunicar um bug, redireccioná-lo-emos para o nosso localizador público de bugs. Por favor, abra um novo relatório de bug e cole a identificação da sua área de transferência para nos informar sobre o seu problema de configuração PT",
   "adjust_speed_text": "Ajustar a velocidade max {{modSpeed}} {{unit}} para chegar ao seu próximo destino",
   "adjust_speed_text_short": "Max {{modSpeed}} {{unit}}",
