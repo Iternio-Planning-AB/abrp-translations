@@ -1220,5 +1220,5 @@
   "saved_vehicles": "Véhicules enregistrés",
   "search_car_brand": "Rechercher une marque de véhicule",
   "settings_includes_charger_type_not_supported": "Vos paramètres incluent un type de chargeur qui n'est pas pris en compte par votre véhicule.",
-  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
+  "no_geolocation": "Nous n'avons pas pu accéder à votre position actuelle. Assurez-vous d'autoriser les permissions de géolocalisation et de désactiver tous les addons qui pourraient bloquer l'accès à la géolocalisation."
 }
