@@ -1221,5 +1221,5 @@
   "search_car_brand": "Hledat značku vozidla",
   "settings_includes_charger_type_not_supported": "Vaše nastavení obsahuje typ nabíječky, který není podporován tímto vozidlem.",
   "saved_vehicles": "Uložená vozidla",
-  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
+  "no_geolocation": "Nelze zjistit Vaši aktuální polohu. Ujistěte se, že jste udělili oprávnění pro zjištění polohy a zakázali jakékoli případné doplňky, které by mohly blokovat přístup k poloze."
 }
