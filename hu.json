@@ -933,8 +933,24 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["vasárnap", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat"],
-  "day_names_short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+  "day_names": [
+    "vasárnap",
+    "hétfő",
+    "kedd",
+    "szerda",
+    "csütörtök",
+    "péntek",
+    "szombat"
+  ],
+  "day_names_short": [
+    "V",
+    "H",
+    "K",
+    "Sze",
+    "Cs",
+    "P",
+    "Szo"
+  ],
   "today": "ma",
   "scan_abrp_login_qrcode": "ABRP QR beolvasása",
   "scan_abrp_qrcode_to_complete_login": "Bejelentkezés a megadott ABRP QR beolvasásával",
@@ -1204,5 +1220,6 @@
   "saving": "Saving",
   "saved_vehicles": "Saved cars",
   "search_car_brand": "Search car brand",
-  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle.",
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
 }

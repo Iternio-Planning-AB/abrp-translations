@@ -956,8 +956,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],
-  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
+  "day_names": [
+    "Domingo",
+    "Luns",
+    "Martes",
+    "Mércores",
+    "Xoves",
+    "Venres",
+    "Sábado"
+  ],
+  "day_names_short": [
+    "Dom.",
+    "Luns",
+    "Mar.",
+    "Mér.",
+    "Xov.",
+    "Ven.",
+    "Sáb."
+  ],
   "today": "hoxe",
   "scan_abrp_login_qrcode": "Escanear o QR de inicio de sesión",
   "scan_abrp_qrcode_to_complete_login": "Inicio completo ao escanear o código QR do ABRP",
@@ -1207,5 +1223,6 @@
   "saving": "Gardando",
   "saved_vehicles": "Vehículos gardados",
   "search_car_brand": "Pescudar por marca",
-  "settings_includes_charger_type_not_supported": "Os axustes inclúen un tipo de cargador incompatíbel co teu vehículo."
+  "settings_includes_charger_type_not_supported": "Os axustes inclúen un tipo de cargador incompatíbel co teu vehículo.",
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
 }

@@ -933,8 +933,24 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
-  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
+  "day_names": [
+    "duminică",
+    "luni",
+    "marți",
+    "miercuri",
+    "joi",
+    "vineri",
+    "sâmbătă"
+  ],
+  "day_names_short": [
+    "dum.",
+    "lun.",
+    "mar.",
+    "mie.",
+    "joi.",
+    "vin.",
+    "sâm."
+  ],
   "today": "azi",
   "scan_abrp_login_qrcode": "Scanează codul de înregistrare ABRP QR",
   "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",
@@ -1204,5 +1220,6 @@
   "saving": "Salvare",
   "saved_vehicles": "Mașini salvate",
   "search_car_brand": "Caută marca mașinii",
-  "settings_includes_charger_type_not_supported": "Setările tale includ un tip de încărcător care nu este acceptat de acest vehicul."
+  "settings_includes_charger_type_not_supported": "Setările tale includ un tip de încărcător care nu este acceptat de acest vehicul.",
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
 }

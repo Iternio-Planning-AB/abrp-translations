@@ -968,8 +968,24 @@
     "lis",
     "pro"
   ],
-  "day_names": ["neděle", "pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota"],
-  "day_names_short": ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
+  "day_names": [
+    "neděle",
+    "pondělí",
+    "úterý",
+    "středa",
+    "čtvrtek",
+    "pátek",
+    "sobota"
+  ],
+  "day_names_short": [
+    "Ne",
+    "Po",
+    "Út",
+    "St",
+    "Čt",
+    "Pá",
+    "So"
+  ],
   "today": "Dnes",
   "scan_abrp_login_qrcode": "Naskenovat QR kód pro přihášení",
   "scan_abrp_qrcode_to_complete_login": "Dokončete přihlášení naskenováním QR kódu ABRP.",
@@ -1204,5 +1220,6 @@
   "saving": "Ukládání",
   "search_car_brand": "Hledat značku vozidla",
   "settings_includes_charger_type_not_supported": "Vaše nastavení obsahuje typ nabíječky, který není podporován tímto vozidlem.",
-  "saved_vehicles": "Uložená vozidla"
+  "saved_vehicles": "Uložená vozidla",
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
 }

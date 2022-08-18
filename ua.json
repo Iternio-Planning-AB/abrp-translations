@@ -933,8 +933,24 @@
     "лист.",
     "груд."
   ],
-  "day_names": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п'ятниця", "субота"],
-  "day_names_short": ["нд.", "пн.", "вт.", "сер.", "чт.", "пт.", "сб."],
+  "day_names": [
+    "неділя",
+    "понеділок",
+    "вівторок",
+    "середа",
+    "четвер",
+    "п'ятниця",
+    "субота"
+  ],
+  "day_names_short": [
+    "нд.",
+    "пн.",
+    "вт.",
+    "сер.",
+    "чт.",
+    "пт.",
+    "сб."
+  ],
   "today": "сьогодні",
   "scan_abrp_login_qrcode": "Сканувати ABRP QR логін",
   "scan_abrp_qrcode_to_complete_login": "Завершіть вхід, відсканувавши файл ABRP QR-code",
@@ -1204,5 +1220,6 @@
   "saving": "Saving",
   "saved_vehicles": "Saved cars",
   "search_car_brand": "Search car brand",
-  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle.",
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
 }

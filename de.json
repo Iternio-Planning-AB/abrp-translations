@@ -1207,5 +1207,6 @@
   "saving": "Speichern",
   "search_car_brand": "Automarke suchen",
   "settings_includes_charger_type_not_supported": "Deine Einstellungen enthalten einen Ladestecker, der von deinem Fahrzeug nicht unterstützt wird.",
-  "saved_vehicles": "Gespeicherte Fahrzeuge"
+  "saved_vehicles": "Gespeicherte Fahrzeuge",
+  "no_geolocation": "Wir konnten nicht auf deine aktuelle Position zugreifen. Stell sicher, dass die Geolokalisierungsberechtigungen zugelassen sind und alle Add-Ons deaktiviert sind, die den Geolokalisierungszugriff blockieren könnten."
 }

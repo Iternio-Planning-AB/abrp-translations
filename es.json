@@ -933,8 +933,24 @@
     "nov.",
     "dic."
   ],
-  "day_names": ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"],
-  "day_names_short": ["dom.", "lun.", "mar.", "mié.", "jue.", "vie.", "sáb."],
+  "day_names": [
+    "domingo",
+    "lunes",
+    "martes",
+    "miércoles",
+    "jueves",
+    "viernes",
+    "sábado"
+  ],
+  "day_names_short": [
+    "dom.",
+    "lun.",
+    "mar.",
+    "mié.",
+    "jue.",
+    "vie.",
+    "sáb."
+  ],
   "today": "hoy",
   "scan_abrp_login_qrcode": "Iniciar sesión con QR de ABRP",
   "scan_abrp_qrcode_to_complete_login": "Completar inicio de sesión escaneando el código QR de ABRP",
@@ -1204,5 +1220,6 @@
   "saving": "Saving",
   "saved_vehicles": "Saved cars",
   "search_car_brand": "Search car brand",
-  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle."
+  "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle.",
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
 }
