@@ -1040,6 +1040,8 @@
   "obdble_device_already_linked": "This dongle is already linked to your vehicle",
   "obdble_link_another_dongle": "Link another OBD dongle",
   "obdble_permission_not_granted": "ABRP ODB connection needs the requested permission. Please grant it in the system settings.",
+  "obdble_complete_bonding": "Complete BT pairing to continue linking your OBD dongle",
+  "obdble_boding_failed": "BT pairing failed, reconnect your OBD dongle and retry linking it.",
   "success": "Success",
   "after": "after",
   "at_clock": "at",
@@ -1102,7 +1104,9 @@
   "do_not_show_again": "Do not show again",
   "charge_cards_display_title": "Showing charger prices",
   "frequency_charger_stops_many": "Short but many",
+  "frequency_charger_stops_many_long": "Short but many stops",
   "frequency_charger_stops_few": "Few but long",
+  "frequency_charger_stops_few_long": "Few but long stops",
   "disclaimer_price": "(prices are indicative)",
   "proceed": "Proceed",
   "connected": "Connected",
@@ -1205,5 +1209,10 @@
   "saving": "Saving",
   "search_car_brand": "Search car brand",
   "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle.",
-  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access.",
+  "clear": "Clear",
+  "eventlog_upload_failed": "Error while uploading events",
+  "eventlog_download_failed": "Error while downloading events",
+  "your_vehicles": "Your vehicles",
+  "manual": "Manual"
 }

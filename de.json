@@ -951,8 +951,24 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
-  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
+  "day_names": [
+    "Sonntag",
+    "Montag",
+    "Dienstag",
+    "Mittwoch",
+    "Donnerstag",
+    "Freitag",
+    "Samstag"
+  ],
+  "day_names_short": [
+    "So.",
+    "Mo.",
+    "Di.",
+    "Mi.",
+    "Do.",
+    "Fr.",
+    "Sa."
+  ],
   "today": "Heute",
   "scan_abrp_login_qrcode": "ABRP-QR-Anmeldung",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP-QR-Code, um den Anmeldevorgang abzuschließen",
@@ -1026,6 +1042,8 @@
   "obdble_device_already_linked": "Dieser Adapter ist bereits mit deinem Fahrzeug verbunden",
   "obdble_link_another_dongle": "Verbinde einen weiteren OBD Adapter",
   "obdble_permission_not_granted": "ABRP ODB Verbindung funktioniert nicht ohne den verweigerten Berechtigungen. Bitte gewähre diese in den Systemeinstellungen.",
+  "obdble_complete_bonding": "Schließe die BT-Kopplung ab, um mit der Verknüpfung deines OBD-Dongles fortzufahren",
+  "obdble_boding_failed": "BT-Kopplung fehlgeschlagen, schließe deinen OBD-Dongle erneut an und versuche erneut, ihn zu verbinden.",
   "success": "Erfolgreich abgeschlossen",
   "after": "nach",
   "at_clock": "um",
@@ -1208,5 +1226,12 @@
   "search_car_brand": "Automarke suchen",
   "settings_includes_charger_type_not_supported": "Deine Einstellungen enthalten einen Ladestecker, der von deinem Fahrzeug nicht unterstützt wird.",
   "saved_vehicles": "Gespeicherte Fahrzeuge",
-  "no_geolocation": "Wir konnten nicht auf deine aktuelle Position zugreifen. Stell sicher, dass die Geolokalisierungsberechtigungen zugelassen sind und alle Add-Ons deaktiviert sind, die den Geolokalisierungszugriff blockieren könnten."
+  "no_geolocation": "Wir konnten nicht auf deine aktuelle Position zugreifen. Stell sicher, dass die Geolokalisierungsberechtigungen zugelassen sind und alle Add-Ons deaktiviert sind, die den Geolokalisierungszugriff blockieren könnten.",
+  "frequency_charger_stops_many_long": "Short but many stops",
+  "frequency_charger_stops_few_long": "Few but long stops",
+  "clear": "Clear",
+  "eventlog_upload_failed": "Error while uploading events",
+  "eventlog_download_failed": "Error while downloading events",
+  "your_vehicles": "Your vehicles",
+  "manual": "Manual"
 }

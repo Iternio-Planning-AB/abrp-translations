@@ -1224,5 +1224,14 @@
   "saved_vehicles": "Vehículos gardados",
   "search_car_brand": "Pescudar por marca",
   "settings_includes_charger_type_not_supported": "Os axustes inclúen un tipo de cargador incompatíbel co teu vehículo.",
-  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access.",
+  "obdble_complete_bonding": "Complete BT pairing to continue linking your OBD dongle",
+  "obdble_boding_failed": "BT pairing failed, reconnect your OBD dongle and retry linking it.",
+  "frequency_charger_stops_many_long": "Short but many stops",
+  "frequency_charger_stops_few_long": "Few but long stops",
+  "clear": "Clear",
+  "eventlog_upload_failed": "Error while uploading events",
+  "eventlog_download_failed": "Error while downloading events",
+  "your_vehicles": "Your vehicles",
+  "manual": "Manual"
 }

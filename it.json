@@ -1223,5 +1223,14 @@
   "saved_vehicles": "Saved cars",
   "search_car_brand": "Search car brand",
   "settings_includes_charger_type_not_supported": "Your settings includes a charger type which is not supported by this vehicle.",
-  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access."
+  "no_geolocation": "We could not access your current position. Make sure you allow geolocation permissions and disable any addons that could block geolocation access.",
+  "obdble_complete_bonding": "Complete BT pairing to continue linking your OBD dongle",
+  "obdble_boding_failed": "BT pairing failed, reconnect your OBD dongle and retry linking it.",
+  "frequency_charger_stops_many_long": "Short but many stops",
+  "frequency_charger_stops_few_long": "Few but long stops",
+  "clear": "Clear",
+  "eventlog_upload_failed": "Error while uploading events",
+  "eventlog_download_failed": "Error while downloading events",
+  "your_vehicles": "Your vehicles",
+  "manual": "Manual"
 }
