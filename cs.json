@@ -1222,13 +1222,13 @@
   "settings_includes_charger_type_not_supported": "Vaše nastavení obsahuje typ nabíječky, který není podporován tímto vozidlem.",
   "saved_vehicles": "Uložená vozidla",
   "no_geolocation": "Nelze zjistit Vaši aktuální polohu. Ujistěte se, že jste udělili oprávnění pro zjištění polohy a zakázali jakékoli případné doplňky, které by mohly blokovat přístup k poloze.",
-  "obdble_complete_bonding": "Complete BT pairing to continue linking your OBD dongle",
-  "obdble_boding_failed": "BT pairing failed, reconnect your OBD dongle and retry linking it.",
-  "frequency_charger_stops_many_long": "Short but many stops",
-  "frequency_charger_stops_few_long": "Few but long stops",
-  "clear": "Clear",
-  "eventlog_upload_failed": "Error while uploading events",
-  "eventlog_download_failed": "Error while downloading events",
-  "your_vehicles": "Your vehicles",
-  "manual": "Manual"
+  "obdble_complete_bonding": "Pro pokračování v připojení Vašeho OBD donglu dokončete párování s Bluetooth.",
+  "obdble_boding_failed": "Párování s Bluetooth selhalo. Odpojte a znovu připojte Váš OBD dongle a zkuste jej připojit znovu.",
+  "frequency_charger_stops_many_long": "Krátké, více zastávek",
+  "frequency_charger_stops_few_long": "Málo, delší zastavení",
+  "clear": "Vymazat",
+  "eventlog_upload_failed": "Chyba při nahrávání událostí",
+  "eventlog_download_failed": "Chyba při stahování událostí",
+  "your_vehicles": "Vaše vozidla",
+  "manual": "Ručně"
 }
