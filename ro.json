@@ -1231,12 +1231,12 @@
   "eventlog_download_failed": "Eroare la descărcarea evenimentelor",
   "your_vehicles": "Vehiculele tale",
   "manual": "Manual",
-  "seasonal_weather": "Seasonal weather",
-  "seasonal_weather_description": "Use typical seasonal temperature information.",
-  "no_network": "No internet connection",
-  "no_network_description": "We couldn't calculate your plan. Please check your internet connection and try again.",
-  "show_bug_button": "Show bug report button",
-  "show_bug_button_description": "Show a bug report button to send a log of the app events to the ABRP team for analysis.",
-  "eventlog_title": "App event log uploaded",
-  "eventlog_description": "If you send us a bug report, note the time you sent this log and tell us."
+  "seasonal_weather": "Vreme sezonieră",
+  "seasonal_weather_description": "Utilizează informații tipice despre temperatura sezonieră.",
+  "no_network": "Fără conexiune la internet",
+  "no_network_description": "Nu v-am putut calcula planul. Vă rugăm să vă verificați conexiunea la internet și să încercați din nou.",
+  "show_bug_button": "Afișați butonul pentru raportarea erorilor",
+  "show_bug_button_description": "Afișați un buton de raportare a erorilor pentru a trimite un jurnal al evenimentelor aplicației către echipa ABRP pentru analiză.",
+  "eventlog_title": "Jurnalul de evenimente al aplicației încărcat",
+  "eventlog_description": "Dacă ne trimiteți un raport de eroare, notați ora la care ați trimis acest jurnal și spuneți-ne."
 }
