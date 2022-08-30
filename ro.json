@@ -1221,7 +1221,7 @@
   "saved_vehicles": "Mașini salvate",
   "search_car_brand": "Caută marca mașinii",
   "settings_includes_charger_type_not_supported": "Setările tale includ un tip de încărcător care nu este acceptat de acest vehicul.",
-  "no_geolocation": "Nu am putut accesa locația ta actuală. Asigură-te că permiți localizarea geografică și dezactivează orice programe de completare care ar putea bloca accesul la geolocalizare.”
+  "no_geolocation": "Nu am putut accesa locația ta actuală. Asigură-te că permiți localizarea geografică și dezactivează orice programe de completare care ar putea bloca accesul la geolocalizare.",
   "obdble_complete_bonding": "Finalizează împerecherea BT pentru a continua legarea conectorului OBD",
   "obdble_boding_failed": "Împerecherea BT a eșuat, reconectează conectorul OBD și reîncearcă să îl conectezi.",
   "frequency_charger_stops_many_long": "Scurt dar multe opriri",
@@ -1230,5 +1230,13 @@
   "eventlog_upload_failed": "Eroare la încărcarea evenimentelor",
   "eventlog_download_failed": "Eroare la descărcarea evenimentelor",
   "your_vehicles": "Vehiculele tale",
-  "manual": "Manual"
+  "manual": "Manual",
+  "seasonal_weather": "Seasonal weather",
+  "seasonal_weather_description": "Use typical seasonal temperature information.",
+  "no_network": "No internet connection",
+  "no_network_description": "We couldn't calculate your plan. Please check your internet connection and try again.",
+  "show_bug_button": "Show bug report button",
+  "show_bug_button_description": "Show a bug report button to send a log of the app events to the ABRP team for analysis.",
+  "eventlog_title": "App event log uploaded",
+  "eventlog_description": "If you send us a bug report, note the time you sent this log and tell us."
 }

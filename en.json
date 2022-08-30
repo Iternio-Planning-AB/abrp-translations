@@ -415,6 +415,8 @@
   "automatic_settings_notlm_description": "Use live weather and traffic data as well as default values for reference consumption and SoC.",
   "realtime_weather": "Realtime weather",
   "realtime_weather_description": "Use live temperature and weather information.",
+  "seasonal_weather": "Seasonal weather",
+  "seasonal_weather_description": "Use typical seasonal temperature information.",
   "charger_information": "Charger information",
   "route_actions": "Route actions",
   "waypoint_actions": "Waypoint actions",
@@ -1214,5 +1216,11 @@
   "eventlog_upload_failed": "Error while uploading events",
   "eventlog_download_failed": "Error while downloading events",
   "your_vehicles": "Your vehicles",
-  "manual": "Manual"
+  "manual": "Manual",
+  "no_network": "No internet connection",
+  "no_network_description": "We couldn't calculate your plan. Please check your internet connection and try again.",
+  "show_bug_button": "Show bug report button",
+  "show_bug_button_description": "Show a bug report button to send a log of the app events to the ABRP team for analysis.",
+  "eventlog_title": "App event log uploaded",
+  "eventlog_description": "If you send us a bug report, note the time you sent this log and tell us."
 }
