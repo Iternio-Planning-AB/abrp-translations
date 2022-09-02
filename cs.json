@@ -1231,12 +1231,12 @@
   "eventlog_download_failed": "Chyba při stahování událostí",
   "your_vehicles": "Vaše vozidla",
   "manual": "Ručně",
-  "seasonal_weather": "Seasonal weather",
-  "seasonal_weather_description": "Use typical seasonal temperature information.",
-  "no_network": "No internet connection",
-  "no_network_description": "We couldn't calculate your plan. Please check your internet connection and try again.",
-  "show_bug_button": "Show bug report button",
-  "show_bug_button_description": "Show a bug report button to send a log of the app events to the ABRP team for analysis.",
-  "eventlog_title": "App event log uploaded",
-  "eventlog_description": "If you send us a bug report, note the time you sent this log and tell us."
+  "seasonal_weather": "Sezónní počasí",
+  "seasonal_weather_description": "Použije informace o typickém sezónním počasí.",
+  "no_network": "Žádné připojení k internetu",
+  "no_network_description": "Nemůžeme spočítat Váš plán. Zkontrolujte Vaše připojení k internetu a zkuste to znovu.",
+  "show_bug_button": "Zobrazit tlačítko pro nahlášení chyby",
+  "show_bug_button_description": "Zobrazí tlačítko pro nahlášení chyby a odeslání logu vývojářům ABRP pro analýzu.",
+  "eventlog_title": "Log událostí byl nahrán",
+  "eventlog_description": "Když nám posíláte hlášení o chybě, nahlaste nám také čas, kdy jste tento log odeslali."
 }
