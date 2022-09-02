@@ -1233,12 +1233,12 @@
   "eventlog_download_failed": "Fejl under download af begivenheder",
   "your_vehicles": "Dine biler",
   "manual": "Manual",
-  "seasonal_weather": "Seasonal weather",
-  "seasonal_weather_description": "Use typical seasonal temperature information.",
-  "no_network": "No internet connection",
-  "no_network_description": "We couldn't calculate your plan. Please check your internet connection and try again.",
-  "show_bug_button": "Show bug report button",
-  "show_bug_button_description": "Show a bug report button to send a log of the app events to the ABRP team for analysis.",
-  "eventlog_title": "App event log uploaded",
-  "eventlog_description": "If you send us a bug report, note the time you sent this log and tell us."
+  "seasonal_weather": "Sæsonbestemt vejr",
+  "seasonal_weather_description": "Brug typiske sæsonbestemte temperaturoplysninger.",
+  "no_network": "Ingen internetforbindelse",
+  "no_network_description": "Vi kunne ikke beregne din tur. Tjek venligst din internetforbindelse, og prøv igen.",
+  "show_bug_button": "Vis fejlrapportknap",
+  "show_bug_button_description": "Vis en fejlrapportknap for at sende en log over apphændelser til ABRP-teamet til analyse.",
+  "eventlog_title": "Apphændelseslog blev uploadet",
+  "eventlog_description": "Hvis du sender os en fejlrapport, skal du notere tidspunktet, hvor du sendte denne log, og fortælle os det."
 }
