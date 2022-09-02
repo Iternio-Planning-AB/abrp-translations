@@ -749,7 +749,7 @@
   "direction_count_3": "derde",
   "direction_count_4": "vierde",
   "direction_count_nth": "{{count}}de",
-  "direction_roundabout": "Houd {{direction}} op de rotonde, neem de {{exit}} afslag",
+  "direction_roundabout": "Ga {{direction}} op de rotonde, {{exit}} afslag",
   "direction_roundabout_short": "{{exit}} afslag",
   "direction_continue": "Vervolg {{direction}}",
   "direction_fork": "Houd {{direction}} aan bij de splitsing",
