@@ -751,7 +751,7 @@
   "direction_count_nth": "{{count}}ème",
   "direction_roundabout": "Rouler {{direction}} au rond point, {{exit}} sortie.",
   "direction_continue": "Continuer {{direction}}",
-  "direction_fork": "Garder {{direction}} dans l'embranchement",
+  "direction_fork": "Rester {{direction}} dans l'embranchement",
   "direction_arrival": "La destination est {{direction_variant}}",
   "direction_arrival_no_dir": "Vous êtes arrivé",
   "direction_offramp": "Prendre la bretelle de sortie {{direction}}",
