@@ -1234,8 +1234,8 @@
   "seasonal_weather_description": "Utiliser les informations de températures saisonnières typiques.",
   "no_network": "Pas de connexion Internet",
   "no_network_description": "Nous n'avons pas pu calculer votre trajet. Veuillez vérifier votre connexion Internet et réessayez.",
-  "show_bug_button": "Afficher le bouton de rapport de bug",
-  "show_bug_button_description": "Affiche un bouton de rapport de bug pour envoyer un rapport d'événements de l'appli à l'équipe ABRP pour analyse.",
+  "show_bug_button": "Afficher bouton rapport de bug",
+  "show_bug_button_description": "Affiche un bouton de rapport de bug pour envoyer pour analyse le journal d'événements de l'appli à l'équipe ABRP.",
   "eventlog_title": "Journal des événements de l'appli téléchargé",
   "eventlog_description": "Si vous nous envoyez un rapport de bug, notez l'heure à laquelle vous avez envoyé ce rapport et indiquez-le nous."
 }
