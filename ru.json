@@ -1232,7 +1232,7 @@
   "eventlog_upload_failed": "Ошибка при выгрузке событий",
   "eventlog_download_failed": "Ошибка при скачивании событий",
   "your_vehicles": "Ваши автомобили",
-  "manual": "Вручную",
+  "manual": "Инструкция",
   "seasonal_weather": "Сезонная погода",
   "seasonal_weather_description": "Использовать информацию о типичных сезонных температурах.",
   "no_network": "Нет интернет-соединения",
