@@ -1,7 +1,7 @@
 {
   "starting_point_placeholder": "Начальная точка маршрута",
   "ending_point_placeholder": "Конечная точка маршрута",
-  "waypoint_placeholder": "Неподалёку от пути",
+  "waypoint_placeholder": "Неподалёку от маршрута",
   "waypoint": "Точка маршрута",
   "guidepoint": "Ориентир",
   "starting_point": "Начальная точка",
@@ -757,7 +757,7 @@
   "remove_stop": "Удалить остановку",
   "stay_for": "Время пребывания",
   "you_must_select_at_least_one_category": "Вы должны выбрать как минимум одну категорию",
-  "amenity": "Доп.сервисы",
+  "amenity": "Услуги",
   "north-american": "Североамериканская",
   "american": "Американская",
   "mexican": "Мексиканская",
