@@ -1226,7 +1226,7 @@
   "settings_includes_charger_type_not_supported": "Deine Einstellungen enthalten einen Ladestecker, der von deinem Fahrzeug nicht unterstützt wird.",
   "saved_vehicles": "Gespeicherte Fahrzeuge",
   "no_geolocation": "Wir konnten nicht auf deine aktuelle Position zugreifen. Stell sicher, dass die Geolokalisierungsberechtigungen zugelassen sind und alle Add-Ons deaktiviert sind, die den Geolokalisierungszugriff blockieren könnten.",
-  "frequency_charger_stops_many_long": "Kurze, aver viele",
+  "frequency_charger_stops_many_long": "Kurze, aber viele",
   "frequency_charger_stops_few_long": "Wenige, aber lange",
   "clear": "Löschen",
   "eventlog_upload_failed": "Fehler beim Hochladen von Ereignissen",
@@ -1254,5 +1254,5 @@
   "other_issue": "Anderes Thema",
   "translate_title": "Hilf uns bei der Übersetzung von ABRP",
   "report_charger": "Ladestation melden",
-  "report_charger_information": "Die Informationen, die wir zur Untersuchung benötigen, wurden in deine Zwischenablage kopiert. Klicke auf "Fertig" und Du wirst zu Upvoty weitergeleitet, wo Du einen Bericht erstellen und die Informationen einfügen kannst"
+  "report_charger_information": "Die Informationen, die wir zur Untersuchung benötigen, wurden in deine Zwischenablage kopiert. Klicke auf 'Fertig' und Du wirst zu Upvoty weitergeleitet, wo Du einen Bericht erstellen und die Informationen einfügen kannst"
 }
