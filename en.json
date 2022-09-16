@@ -1235,5 +1235,7 @@
   "other_issue": "Other issue",
   "translate_title": "Help us translate ABRP",
   "report_charger": "Report Charger",
-  "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Upvoty where you can create a report and paste in that information"
+  "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Upvoty where you can create a report and paste in that information",
+  "ferry_departure": "Ferry Departure", 
+  "ferry_arrival": "Ferry Arrival"
 }

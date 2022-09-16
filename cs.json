@@ -1251,5 +1251,7 @@
   "other_issue": "Jiný problém",
   "translate_title": "Pomozte nám přeložit ABRP",
   "report_charger": "Nahlásit nabíječku",
-  "report_charger_information": "Informace, které potřebujeme, byly zkopírovány do Vaší schránky. Klepněte na 'Hotovo' a budete přesměrováni na Upvoty, kde můžete vytvořit hlášení a vložte zde tuto informaci."
+  "report_charger_information": "Informace, které potřebujeme, byly zkopírovány do Vaší schránky. Klepněte na 'Hotovo' a budete přesměrováni na Upvoty, kde můžete vytvořit hlášení a vložte zde tuto informaci.",
+  "ferry_departure": "Odjezd trajektu",
+  "ferry_arrival": "Příjezd trajektu"
 }
