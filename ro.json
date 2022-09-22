@@ -933,24 +933,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "duminică",
-    "luni",
-    "marți",
-    "miercuri",
-    "joi",
-    "vineri",
-    "sâmbătă"
-  ],
-  "day_names_short": [
-    "dum.",
-    "lun.",
-    "mar.",
-    "mie.",
-    "joi.",
-    "vin.",
-    "sâm."
-  ],
+  "day_names": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
+  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
   "today": "azi",
   "scan_abrp_login_qrcode": "Scanează codul de înregistrare ABRP QR",
   "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",
@@ -1253,5 +1237,14 @@
   "report_charger": "Raportează încărcătorul",
   "report_charger_information": "Informațiile pe care trebuie să le investigăm au fost copiate în clipboard. Fă clic pe „Terminat” și vei fi redirecționat către Upvoty, unde poți crea un raport și insera informațiile respective",
   "ferry_departure": "Plecare feribot",
-  "ferry_arrival": "Sosire feribot"
+  "ferry_arrival": "Sosire feribot",
+  "direction_count_x": ["prima", "a doua", "a treia", "a patra"],
+  "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
+  "obdble_unknown_device": "Unsupported device!",
+  "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
+  "no_network_description_general": "Please check your internet connection and try again.",
+  "read_faq": "Read Our FAQ",
+  "sorry": "Sorry",
+  "unexpected_error": "An unexpected error happened, please try again. For further help, contact our support.",
+  "clear_plan": "Clear plan"
 }

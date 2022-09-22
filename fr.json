@@ -932,24 +932,8 @@
     "Nov.",
     "Déc."
   ],
-  "day_names": [
-    "Dimanche",
-    "Lundi",
-    "Mardi",
-    "Mercredi",
-    "Jeudi",
-    "Vendredi",
-    "Samedi"
-  ],
-  "day_names_short": [
-    "Dim.",
-    "Lun.",
-    "Mar.",
-    "Mer.",
-    "Jeu.",
-    "Ven.",
-    "Sam."
-  ],
+  "day_names": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
   "today": "Aujourd'hui",
   "scan_abrp_login_qrcode": "Scannez le QRCode ABRP",
   "scan_abrp_qrcode_to_complete_login": "Terminez la connexion en scannant le QR-code ABRP",
@@ -1252,5 +1236,14 @@
   "report_charger": "Rapport sur le chargeur",
   "report_charger_information": "Les informations dont nous avons besoin pour enquêter ont été copiées dans votre presse-papiers. Cliquez sur 'Terminé' et vous serez redirigé vers Upvoty où vous pourrez créer un rapport et coller ces informations",
   "ferry_departure": "Départ du ferry",
-  "ferry_arrival": "Arrivée du ferry"
+  "ferry_arrival": "Arrivée du ferry",
+  "direction_count_x": ["première", "seconde", "troisième", "quatrième"],
+  "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
+  "obdble_unknown_device": "Unsupported device!",
+  "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
+  "no_network_description_general": "Please check your internet connection and try again.",
+  "read_faq": "Read Our FAQ",
+  "sorry": "Sorry",
+  "unexpected_error": "An unexpected error happened, please try again. For further help, contact our support.",
+  "clear_plan": "Clear plan"
 }

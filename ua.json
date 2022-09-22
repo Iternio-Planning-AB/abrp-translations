@@ -933,24 +933,8 @@
     "лист.",
     "груд."
   ],
-  "day_names": [
-    "неділя",
-    "понеділок",
-    "вівторок",
-    "середа",
-    "четвер",
-    "п'ятниця",
-    "субота"
-  ],
-  "day_names_short": [
-    "нд.",
-    "пн.",
-    "вт.",
-    "сер.",
-    "чт.",
-    "пт.",
-    "сб."
-  ],
+  "day_names": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п'ятниця", "субота"],
+  "day_names_short": ["нд.", "пн.", "вт.", "сер.", "чт.", "пт.", "сб."],
   "today": "сьогодні",
   "scan_abrp_login_qrcode": "Сканувати ABRP QR логін",
   "scan_abrp_qrcode_to_complete_login": "Завершіть вхід, відсканувавши файл ABRP QR-code",
@@ -1253,5 +1237,14 @@
   "report_charger": "Повідомити про зарядну станцію",
   "report_charger_information": "Інформацію, яку нам потрібно дослідити, скопійовано у ваш буфер обміну. Натисніть «Готово», і вас буде перенаправлено до Upvoty, де ви зможете створити звіт і вставити ту інформацію",
   "ferry_departure": "Відправлення порома",
-  "ferry_arrival": "Прибуття порома"
+  "ferry_arrival": "Прибуття порома",
+  "direction_count_x": ["1", "2", "3", "4"],
+  "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
+  "obdble_unknown_device": "Unsupported device!",
+  "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
+  "no_network_description_general": "Please check your internet connection and try again.",
+  "read_faq": "Read Our FAQ",
+  "sorry": "Sorry",
+  "unexpected_error": "An unexpected error happened, please try again. For further help, contact our support.",
+  "clear_plan": "Clear plan"
 }
