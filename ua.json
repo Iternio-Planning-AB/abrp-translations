@@ -1239,12 +1239,12 @@
   "ferry_departure": "Відправлення порома",
   "ferry_arrival": "Прибуття порома",
   "direction_count_x": ["1", "2", "3", "4"],
-  "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
-  "obdble_unknown_device": "Unsupported device!",
-  "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
-  "no_network_description_general": "Please check your internet connection and try again.",
-  "read_faq": "Read Our FAQ",
-  "sorry": "Sorry",
-  "unexpected_error": "An unexpected error happened, please try again. For further help, contact our support.",
-  "clear_plan": "Clear plan"
+  "obdble_unknown_device_failed": "У цьому пристрої відсутні деякі важливі функції, ми не можемо використовувати його для підключення OBD.",
+  "obdble_unknown_device": "Непідтримуваний пристрій!",
+  "obdble_unknown_device_attempt": "Цей пристрій не підтримується. Спробувати підключитися?",
+  "no_network_description_general": "Перевірте підключення до Інтернету та повторіть спробу.",
+  "read_faq": "Читайте наш FAQ",
+  "sorry": "Вибачте",
+  "unexpected_error": "Сталася неочікувана помилка, спробуйте ще раз. Щоб отримати додаткову допомогу, зверніться до нашої служби підтримки.",
+  "clear_plan": "Очистити план"
 }
