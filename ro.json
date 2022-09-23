@@ -1239,12 +1239,12 @@
   "ferry_departure": "Plecare feribot",
   "ferry_arrival": "Sosire feribot",
   "direction_count_x": ["prima", "a doua", "a treia", "a patra"],
-  "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
-  "obdble_unknown_device": "Unsupported device!",
-  "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
-  "no_network_description_general": "Please check your internet connection and try again.",
-  "read_faq": "Read Our FAQ",
-  "sorry": "Sorry",
-  "unexpected_error": "An unexpected error happened, please try again. For further help, contact our support.",
-  "clear_plan": "Clear plan"
+  "obdble_unknown_device_failed": "Acestui dispozitiv îi lipsesc câteva caracteristici esențiale, nu îl putem folosi pentru conexiuni OBD.",
+  "obdble_unknown_device": "Dispozitiv neacceptat!",
+  "obdble_unknown_device_attempt": "Acesta este un dispozitiv neacceptat, mai vrei să încerci să te conectezi?",
+  "no_network_description_general": "Te rugăm să-ți verifici conexiunea la internet și să încerci din nou.",
+  "read_faq": "Citește Întrebările noastre frecvente",
+  "sorry": "Scuze!",
+  "unexpected_error": "A apărut o eroare neașteptată, te rugăm să încerci din nou. Pentru ajutor suplimentar, contactează serviciul de suport.",
+  "clear_plan": "Plan clar"
 }
