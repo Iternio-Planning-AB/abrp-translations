@@ -971,8 +971,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],
-  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
+  "day_names": [
+    "Domingo",
+    "Luns",
+    "Martes",
+    "Mércores",
+    "Xoves",
+    "Venres",
+    "Sábado"
+  ],
+  "day_names_short": [
+    "Dom.",
+    "Luns",
+    "Mar.",
+    "Mér.",
+    "Xov.",
+    "Ven.",
+    "Sáb."
+  ],
   "today": "hoxe",
   "scan_abrp_login_qrcode": "Escanear o QR de inicio de sesión",
   "scan_abrp_qrcode_to_complete_login": "Inicio completo ao escanear o código QR do ABRP",
@@ -1240,7 +1256,12 @@
   "report_charger_information": "A información que precisamos para investigar foi copiada ao portarretallos. Preme en 'Feito' para ser redirixido ao apartado de votos a favor para crear un informe e pegar a información.",
   "ferry_departure": "Saída do ferry",
   "ferry_arrival": "Chegada do ferry",
-  "direction_count_x": ["primeira", "segunda", "terceira", "cuarta"],
+  "direction_count_x": [
+    "primeira",
+    "segunda",
+    "terceira",
+    "cuarta"
+  ],
   "obdble_unknown_device_failed": "Faltan algunhas funcións esenciais neste dispositivo e non é posíbel usalo para conectar co OBD.",
   "obdble_unknown_device": "Dispositivo non soportado!",
   "obdble_unknown_device_attempt": "O dispositivo non está soportado, aínda queres tentar conectar?",
@@ -1248,5 +1269,21 @@
   "read_faq": "Ler o noso FAQ",
   "sorry": "Sentímolo",
   "unexpected_error": "Produciuse un erro inesperado, por favor téntao de novo. Se precisas máis axuda, contacta co noso soporte.",
-  "clear_plan": "Limpar ruta"
+  "clear_plan": "Limpar ruta",
+  "plan_not_found_none_premium": "No working plan could be found. Please check your settings, for example adding additional chager types would greatly increase your chances of getting a plan. Please read or FAQ to find answers to common issues and questions.",
+  "please_wait_for_charge_cards": "Please wait for charge cards to be loaded",
+  "xx_minutes_faster": "{{x}} min faster",
+  "insufficient_charge": "Insufficient Charge",
+  "reroute": "Re-Route",
+  "preview": "Preview",
+  "avoid_traffic": "Avoids traffic ahead",
+  "different_charger": "Different charger",
+  "arrive_at_x": "Arrive at {{x}} %",
+  "missing_parameter_x": "You have a missing parameter needed to be able to calculate a plan. The missing parameter is '{{parameter}}'",
+  "charging_x_kw": "Charging at {{power}} kW",
+  "merge_manual_vehicle_message": "Are you sure you want to merge {{mergeFrom}} into {{mergeTo}}?\n\n{{mergeFrom}} will be deleted and all its data will be combinded with {{mergeTo}}. This actions is irreversible!",
+  "manual_merge_vehicle": "Merge Vehicle Into",
+  "manual_merge_vehicle_description": "Merge this vehicle to another of your saved vehicles",
+  "select_vehicle_to_merge": "Merge to",
+  "scan_qr_phone": "Scan QR code on your phone to open this URL"
 }

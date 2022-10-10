@@ -933,8 +933,24 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["vasárnap", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat"],
-  "day_names_short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+  "day_names": [
+    "vasárnap",
+    "hétfő",
+    "kedd",
+    "szerda",
+    "csütörtök",
+    "péntek",
+    "szombat"
+  ],
+  "day_names_short": [
+    "V",
+    "H",
+    "K",
+    "Sze",
+    "Cs",
+    "P",
+    "Szo"
+  ],
   "today": "ma",
   "scan_abrp_login_qrcode": "ABRP QR beolvasása",
   "scan_abrp_qrcode_to_complete_login": "Bejelentkezés a megadott ABRP QR beolvasásával",
@@ -1238,7 +1254,12 @@
   "report_charger_information": "A vizsgálathoz szükséges információ vágólapra másolva. Válaszd ki a 'Kész / Done' lehetőséget és átirányítunk az Upvoty oldalára ahol létre tudod hozni a hibanaplót és bemásolni a vágólapról a szükséges információkat",
   "ferry_departure": "Komp indulás",
   "ferry_arrival": "Komp érkezés",
-  "direction_count_x": ["első", "második", "harmadik", "negyedik"],
+  "direction_count_x": [
+    "első",
+    "második",
+    "harmadik",
+    "negyedik"
+  ],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
@@ -1246,5 +1267,20 @@
   "read_faq": "Read Our FAQ",
   "sorry": "Sorry",
   "unexpected_error": "An unexpected error happened, please try again. For further help, contact our support.",
-  "clear_plan": "Clear plan"
+  "clear_plan": "Clear plan",
+  "plan_not_found_none_premium": "No working plan could be found. Please check your settings, for example adding additional chager types would greatly increase your chances of getting a plan. Please read or FAQ to find answers to common issues and questions.",
+  "xx_minutes_faster": "{{x}} min faster",
+  "insufficient_charge": "Insufficient Charge",
+  "reroute": "Re-Route",
+  "preview": "Preview",
+  "avoid_traffic": "Avoids traffic ahead",
+  "different_charger": "Different charger",
+  "arrive_at_x": "Arrive at {{x}} %",
+  "missing_parameter_x": "You have a missing parameter needed to be able to calculate a plan. The missing parameter is '{{parameter}}'",
+  "charging_x_kw": "Charging at {{power}} kW",
+  "merge_manual_vehicle_message": "Are you sure you want to merge {{mergeFrom}} into {{mergeTo}}?\n\n{{mergeFrom}} will be deleted and all its data will be combinded with {{mergeTo}}. This actions is irreversible!",
+  "manual_merge_vehicle": "Merge Vehicle Into",
+  "manual_merge_vehicle_description": "Merge this vehicle to another of your saved vehicles",
+  "select_vehicle_to_merge": "Merge to",
+  "scan_qr_phone": "Scan QR code on your phone to open this URL"
 }

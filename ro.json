@@ -933,8 +933,24 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
-  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
+  "day_names": [
+    "duminică",
+    "luni",
+    "marți",
+    "miercuri",
+    "joi",
+    "vineri",
+    "sâmbătă"
+  ],
+  "day_names_short": [
+    "dum.",
+    "lun.",
+    "mar.",
+    "mie.",
+    "joi.",
+    "vin.",
+    "sâm."
+  ],
   "today": "azi",
   "scan_abrp_login_qrcode": "Scanează codul de înregistrare ABRP QR",
   "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",
@@ -1238,7 +1254,12 @@
   "report_charger_information": "Informațiile pe care trebuie să le investigăm au fost copiate în clipboard. Fă clic pe „Terminat” și vei fi redirecționat către Upvoty, unde poți crea un raport și insera informațiile respective",
   "ferry_departure": "Plecare feribot",
   "ferry_arrival": "Sosire feribot",
-  "direction_count_x": ["prima", "a doua", "a treia", "a patra"],
+  "direction_count_x": [
+    "prima",
+    "a doua",
+    "a treia",
+    "a patra"
+  ],
   "obdble_unknown_device_failed": "Acestui dispozitiv îi lipsesc câteva caracteristici esențiale, nu îl putem folosi pentru conexiuni OBD.",
   "obdble_unknown_device": "Dispozitiv neacceptat!",
   "obdble_unknown_device_attempt": "Acesta este un dispozitiv neacceptat, mai vrei să încerci să te conectezi?",
@@ -1246,5 +1267,20 @@
   "read_faq": "Citește Întrebările noastre frecvente",
   "sorry": "Scuze!",
   "unexpected_error": "A apărut o eroare neașteptată, te rugăm să încerci din nou. Pentru ajutor suplimentar, contactează serviciul de suport.",
-  "clear_plan": "Plan clar"
+  "clear_plan": "Plan clar",
+  "plan_not_found_none_premium": "No working plan could be found. Please check your settings, for example adding additional chager types would greatly increase your chances of getting a plan. Please read or FAQ to find answers to common issues and questions.",
+  "xx_minutes_faster": "{{x}} min faster",
+  "insufficient_charge": "Insufficient Charge",
+  "reroute": "Re-Route",
+  "preview": "Preview",
+  "avoid_traffic": "Avoids traffic ahead",
+  "different_charger": "Different charger",
+  "arrive_at_x": "Arrive at {{x}} %",
+  "missing_parameter_x": "You have a missing parameter needed to be able to calculate a plan. The missing parameter is '{{parameter}}'",
+  "charging_x_kw": "Charging at {{power}} kW",
+  "merge_manual_vehicle_message": "Are you sure you want to merge {{mergeFrom}} into {{mergeTo}}?\n\n{{mergeFrom}} will be deleted and all its data will be combinded with {{mergeTo}}. This actions is irreversible!",
+  "manual_merge_vehicle": "Merge Vehicle Into",
+  "manual_merge_vehicle_description": "Merge this vehicle to another of your saved vehicles",
+  "select_vehicle_to_merge": "Merge to",
+  "scan_qr_phone": "Scan QR code on your phone to open this URL"
 }

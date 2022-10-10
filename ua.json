@@ -933,8 +933,24 @@
     "лист.",
     "груд."
   ],
-  "day_names": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п'ятниця", "субота"],
-  "day_names_short": ["нд.", "пн.", "вт.", "сер.", "чт.", "пт.", "сб."],
+  "day_names": [
+    "неділя",
+    "понеділок",
+    "вівторок",
+    "середа",
+    "четвер",
+    "п'ятниця",
+    "субота"
+  ],
+  "day_names_short": [
+    "нд.",
+    "пн.",
+    "вт.",
+    "сер.",
+    "чт.",
+    "пт.",
+    "сб."
+  ],
   "today": "сьогодні",
   "scan_abrp_login_qrcode": "Сканувати ABRP QR логін",
   "scan_abrp_qrcode_to_complete_login": "Завершіть вхід, відсканувавши файл ABRP QR-code",
@@ -1238,7 +1254,12 @@
   "report_charger_information": "Інформацію, яку нам потрібно дослідити, скопійовано у ваш буфер обміну. Натисніть «Готово», і вас буде перенаправлено до Upvoty, де ви зможете створити звіт і вставити ту інформацію",
   "ferry_departure": "Відправлення порома",
   "ferry_arrival": "Прибуття порома",
-  "direction_count_x": ["1", "2", "3", "4"],
+  "direction_count_x": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
   "obdble_unknown_device_failed": "У цьому пристрої відсутні деякі важливі функції, ми не можемо використовувати його для підключення OBD.",
   "obdble_unknown_device": "Непідтримуваний пристрій!",
   "obdble_unknown_device_attempt": "Цей пристрій не підтримується. Спробувати підключитися?",
@@ -1246,5 +1267,20 @@
   "read_faq": "Читайте наш FAQ",
   "sorry": "Вибачте",
   "unexpected_error": "Сталася неочікувана помилка, спробуйте ще раз. Щоб отримати додаткову допомогу, зверніться до нашої служби підтримки.",
-  "clear_plan": "Очистити план"
+  "clear_plan": "Очистити план",
+  "plan_not_found_none_premium": "No working plan could be found. Please check your settings, for example adding additional chager types would greatly increase your chances of getting a plan. Please read or FAQ to find answers to common issues and questions.",
+  "xx_minutes_faster": "{{x}} min faster",
+  "insufficient_charge": "Insufficient Charge",
+  "reroute": "Re-Route",
+  "preview": "Preview",
+  "avoid_traffic": "Avoids traffic ahead",
+  "different_charger": "Different charger",
+  "arrive_at_x": "Arrive at {{x}} %",
+  "missing_parameter_x": "You have a missing parameter needed to be able to calculate a plan. The missing parameter is '{{parameter}}'",
+  "charging_x_kw": "Charging at {{power}} kW",
+  "merge_manual_vehicle_message": "Are you sure you want to merge {{mergeFrom}} into {{mergeTo}}?\n\n{{mergeFrom}} will be deleted and all its data will be combinded with {{mergeTo}}. This actions is irreversible!",
+  "manual_merge_vehicle": "Merge Vehicle Into",
+  "manual_merge_vehicle_description": "Merge this vehicle to another of your saved vehicles",
+  "select_vehicle_to_merge": "Merge to",
+  "scan_qr_phone": "Scan QR code on your phone to open this URL"
 }
