@@ -70,7 +70,7 @@
   "reference_consumption_description": "Wenn keine genauere Information vorliegt, bitte den Standard verwenden",
   "fast_chargers": "Schnelllader",
   "slow_chargers": "Langsamlader",
-  "fast_charger_description": "Ladeanschlüsse, die bei der Routenplanung verwendet werden sollen",
+  "fast_charger_description": "Ladeanschlüsse die bei der Routenplanung verwendet werden sollen",
   "destination_arrival_soc": "SoC bei Ankunft am Ziel",
   "destination_arrival_soc_description": "Der erlaubte Mindest-SoC bei Ankunft am Ziel",
   "charger_arrival_soc": "SoC bei Ankunft an einem Ladepunkt",
@@ -1279,11 +1279,11 @@
   "different_charger": "Andere Ladestation",
   "arrive_at_x": "Ankunft mit {{x}} %",
   "scan_qr_phone": "Scannen den QR-Code auf deinem Telefon, um diese URL zu öffnen",
-  "plan_not_found_none_premium": "No working plan could be found. Please check your settings, for example adding additional chager types would greatly increase your chances of getting a plan. Please read or FAQ to find answers to common issues and questions.",
-  "missing_parameter_x": "You have a missing parameter needed to be able to calculate a plan. The missing parameter is '{{parameter}}'",
-  "charging_x_kw": "Charging at {{power}} kW",
-  "merge_manual_vehicle_message": "Are you sure you want to merge {{mergeFrom}} into {{mergeTo}}?\n\n{{mergeFrom}} will be deleted and all its data will be combinded with {{mergeTo}}. This actions is irreversible!",
-  "manual_merge_vehicle": "Merge Vehicle Into",
-  "manual_merge_vehicle_description": "Merge this vehicle to another of your saved vehicles",
-  "select_vehicle_to_merge": "Merge to"
+  "plan_not_found_none_premium": "Es konnte kein funktionierender Plan gefunden werden. Bitte überprüfe deine Einstellungen. Wenn du z.B. zusätzliche Ladeanschlüsse hinzufügst, erhöhen sich deine Chancen erheblich einen Plan zu erhalten. Bitte lies unsere FAQ, um Antworten auf häufige Probleme und Fragen zu finden.",
+  "missing_parameter_x": "Du hast einen fehlenden Parameter, der benötigt wird um einen Plan zu berechnen. Der fehlende Parameter ist '{{parameter}}'",
+  "charging_x_kw": "Aufladen mit {{power}} kW",
+  "merge_manual_vehicle_message": "Bist du sicher, dass du {{mergeFrom}} in {{mergeTo}} zusammenführen willst? \n\n{{mergeFrom}} wird gelöscht und alle Daten werden mit {{mergeTo}} kombiniert. Diese Aktion ist unumkehrbar!",
+  "manual_merge_vehicle": "Fahrzeug zusammenführen in",
+  "manual_merge_vehicle_description": "Dieses Fahrzeug mit einem anderen deiner gespeicherten Fahrzeuge zusammenführen",
+  "select_vehicle_to_merge": "Zusammenführen in"
 }
