@@ -1275,7 +1275,7 @@
   "preview": "Náhled",
   "avoid_traffic": "Vyhnout se zácpám na trase",
   "different_charger": "Odlišná nabíječka",
-  "arrive_at_x": "Dotazíte s {{x}} %",
+  "arrive_at_x": "Dorazíte s {{x}} %",
   "missing_parameter_x": "Chybí parametr, který je potřeba pro vypočítání trasy. Chybějící parametr je '{{parameter}}'.",
   "charging_x_kw": "Nabíjení {{power}} kW",
   "merge_manual_vehicle_message": "Jste si jisti, že chcete sloučit {{mergeFrom}} s {{mergeTo}}?\n\n{{mergeFrom}} bude smazáno a všechna jeho data budou sloučena s {{mergeTo}}. Tyo akce jsou nevratné!",
