@@ -1284,5 +1284,18 @@
   "manual_merge_vehicle": "Merge Vehicle Into",
   "manual_merge_vehicle_description": "Merge this vehicle to another of your saved vehicles",
   "select_vehicle_to_merge": "Merge to",
-  "scan_qr_phone": "Scan QR code on your phone to open this URL"
+  "scan_qr_phone": "Scan QR code on your phone to open this URL",
+  "direction_turn_ref_destination": "Turn {{direction}} to {{ref}} towards {{destination}}",
+  "direction_turn_destination": "Turn {{direction}} towards {{destination}}",
+  "direction_turn_ref": "Turn {{direction}} to {{ref}}",
+  "direction_fork_ref_destination": "Keep {{direction}} to {{ref}} towards {{destination}}",
+  "direction_fork_destination": "Keep {{direction}} towards {{destination}}",
+  "direction_fork_ref": "Keep {{direction}} to {{ref}}",
+  "direction_offramp_ref_destination": "Take the ramp {{direction}} to {{ref}} towards {{destination}}",
+  "direction_offramp_destination": "Take the ramp {{direction}} towards {{destination}}",
+  "direction_offramp_exit_destination": "Take exit {{exit}} towards {{destination}}",
+  "direction_offramp_exit_ref": "Take exit {{exit}} to {{ref}}",
+  "direction_offramp_exit_direction": "Take exit {{exit}} {{direction}}",
+  "direction_offramp_exit_ref_destination": "Take exit {{exit}} to {{ref}} towards {{destination}}",
+  "eventlog_failed_title": "Bug report upload failed"
 }
