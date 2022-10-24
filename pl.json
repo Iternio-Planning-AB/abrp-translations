@@ -173,7 +173,7 @@
   "invalid_addresses": "Nieprawidłowe adresy",
   "error_one_address": "Nie możesz zaplanować trasy z jednym adresem",
   "custom_marker": "Niestandardowy znacznik",
-  "elevation": "Wysokość n.p.m.",
+  "elevation": "Wysokość n.p.m",
   "region": "Obszar",
   "zoom_level_to_show_chargers": "Poziom przybliżenia, aby pokazać ładowarki",
   "type_of_chargers": "Rodzaj ładowarek",
