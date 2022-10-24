@@ -1282,7 +1282,7 @@
   "manual_merge_vehicle": "Îmbină vehiculul în",
   "manual_merge_vehicle_description": "Îmbină acest vehicul cu un alt vehicul salvat",
   "select_vehicle_to_merge": "Îmbină cu",
-  "scan_qr_phone": "Scanează codul QR pe telefon pentru a deschide această adresă URL"
+  "scan_qr_phone": "Scanează codul QR pe telefon pentru a deschide această adresă URL",
   "direction_turn_ref_destination": "Virează {{direction}} către {{ref}} spre {{destination}}",
   "direction_turn_destination": "Virează {{direction}} spre {{destination}}",
   "direction_turn_ref": "Virează {{direction}} către {{ref}}",
