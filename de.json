@@ -1270,7 +1270,7 @@
   "avoid_traffic": "Verkehr umfahren",
   "different_charger": "Andere Ladestation",
   "arrive_at_x": "Ankunft mit {{x}} %",
-  "scan_qr_phone": "Scannen den QR-Code auf deinem Telefon, um diese URL zu öffnen",
+  "scan_qr_phone": "Scanne den QR-Code auf deinem Telefon, um diese URL zu öffnen",
   "plan_not_found_none_premium": "Es konnte kein funktionierender Plan gefunden werden. Bitte überprüfe deine Einstellungen. Wenn du z.B. zusätzliche Ladeanschlüsse hinzufügst, erhöhen sich deine Chancen erheblich einen Plan zu erhalten. Bitte lies unsere FAQ, um Antworten auf häufige Probleme und Fragen zu finden.",
   "missing_parameter_x": "Du hast einen fehlenden Parameter, der benötigt wird um einen Plan zu berechnen. Der fehlende Parameter ist '{{parameter}}'",
   "charging_x_kw": "Aufladen mit {{power}} kW",
