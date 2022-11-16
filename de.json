@@ -1189,6 +1189,8 @@
     "one": "Tag",
     "other": "Tage"
   },
+  "days_affix_one": "Tag",
+  "days_affix_other": "Tage",
   "no_car_selected": "Kein Fahrzeug ausgewählt",
   "configuration": "Konfiguration",
   "edit_settings": "Einstellungen bearbeiten",
@@ -1352,6 +1354,8 @@
   "loading_qr_token": "QR Anmeldecode wird geladen...",
   "log_in_with_app_details": "Drücke \"{{title}}\" auf einem Gerät, das bereits angemeldet ist",
   "login_remote_app": "ABRP-QR-Anmeldung",
+  "live_data_integrity_policy_msg": "Durch die Nutzung einer dieser Live-Daten-Optionen stimmst du ausdrücklich unserer <url>Integritätsrichtlinie</url> zu.",
   "extra_weight_exact_warning": "You have entered {{weight}} as extra weight",
-  "nearby_chargers_no_chargers": "No chargers near you"
+  "nearby_chargers_no_chargers": "Keine Ladepunkte in deiner Nähe",
+  "charge_session_completed": "Planned charge session completed"
 }

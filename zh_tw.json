@@ -1170,6 +1170,8 @@
     "one": "day",
     "other": "days"
   },
+  "days_affix_one": "day",
+  "days_affix_other": "days",
   "no_car_selected": "No car selected",
   "configuration": "Configuration",
   "edit_settings": "Edit settings",
@@ -1352,5 +1354,7 @@
   "login_enter_full_name": "Enter your full name",
   "login_enter_password": "Enter your password",
   "profile_next_renewal": "Next renewal",
-  "loading_qr_token": "Loading QR login code"
+  "loading_qr_token": "Loading QR login code",
+  "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
+  "charge_session_completed": "Planned charge session completed"
 }

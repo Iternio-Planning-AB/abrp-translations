@@ -1171,6 +1171,8 @@
     "one": "день",
     "other": "дня"
   },
+  "days_affix_one": "день",
+  "days_affix_other": "дня",
   "no_car_selected": "Автомобиль не выбран",
   "configuration": "Конфигурация",
   "edit_settings": "Настройки",
@@ -1353,5 +1355,7 @@
   "login_enter_full_name": "Введите свои имя и фамилию",
   "login_enter_password": "Введите свой пароль",
   "profile_next_renewal": "Следующее продление",
-  "loading_qr_token": "Загрузка QR-кода для входа"
+  "loading_qr_token": "Загрузка QR-кода для входа",
+  "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
+  "charge_session_completed": "Planned charge session completed"
 }
