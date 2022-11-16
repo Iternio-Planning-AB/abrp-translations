@@ -39,17 +39,17 @@
   "settings": "Ustawienia",
   "start_driving": "Rozpocznij jazdę",
   "charger": {
-    "zero": "Brak ładowarki",
-    "one": "Jedna ładowarka",
-    "other": "{{count}} ładowarki"
+    "zero": "Brak ładowania",
+    "one": "Jedno ładowanie",
+    "other": "{{count}} ładowania"
   },
   "charges_zero": "Brak ładowarki",
   "charges_one": "Jedna ładowarka",
   "charges_other": "{{count}} ładowarki",
   "drives": {
-    "zero": "Brak dojazdu",
-    "one": "Jeden dojazd",
-    "other": "{{count}} dojazdów"
+    "zero": "Brak przejazdu",
+    "one": "Jeden przejazd",
+    "other": "{{count}} przejazdy"
   },
   "rides_zero": "Brak dojazdu",
   "rides_one": "Jeden dojazd",
