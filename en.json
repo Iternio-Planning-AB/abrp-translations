@@ -1333,5 +1333,6 @@
   "profile_next_renewal": "Next renewal",
   "loading_qr_token": "Loading QR login code",
   "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
-  "charge_session_completed": "Planned charge session completed"
+  "charge_session_completed": "Planned charge session completed",
+  "login_success_message": "You where logged in"
 }

@@ -1357,5 +1357,6 @@
   "live_data_integrity_policy_msg": "Durch die Nutzung einer dieser Live-Daten-Optionen stimmst du ausdrücklich unserer <url>Integritätsrichtlinie</url> zu.",
   "extra_weight_exact_warning": "You have entered {{weight}} as extra weight",
   "nearby_chargers_no_chargers": "Keine Ladepunkte in deiner Nähe",
-  "charge_session_completed": "Planned charge session completed"
+  "charge_session_completed": "Planned charge session completed",
+  "login_success_message": "You where logged in"
 }
