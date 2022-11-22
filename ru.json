@@ -1356,7 +1356,7 @@
   "login_enter_password": "Введите свой пароль",
   "profile_next_renewal": "Следующее продление",
   "loading_qr_token": "Загрузка QR-кода для входа",
-  "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
-  "charge_session_completed": "Planned charge session completed",
-  "login_success_message": "You where logged in"
+  "live_data_integrity_policy_msg": "При использовании любой из этих опций Live Data вы явным образом соглашаетесь с нашей <url>Политикой конфиденциальности</url>.",
+  "charge_session_completed": "Запланированный сеанс зарядки завершен",
+  "login_success_message": "Вы вошли в систему"
 }
