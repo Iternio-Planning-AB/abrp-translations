@@ -1162,7 +1162,7 @@
   "obdble_link_another_dongle": "Link another OBD dongle",
   "Connected": "Connected",
   "learn-more": "Learn more",
-  "plan_warning_header": "Some settings may lead to plans failing",
+  "plan_warning_header": "Settings may lead to plans failing",
   "traffic": "Traffic",
   "type_of_chargers_tooltip": "This is the charging plugs that your car supports or you have available adaptors for",
   "charge_to_x": "Charge to {{x}}",
