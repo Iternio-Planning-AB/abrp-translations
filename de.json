@@ -832,8 +832,8 @@
   "end_navigation": "Navigation beenden",
   "driving": "Fahren",
   "navigating": "Navigiere",
-  "charger_stop": "Ladepause",
-  "charger_stops": "Ladepausen",
+  "charger_stop": "Ladestopp",
+  "charger_stops": "Ladestopps",
   "launch": "Starten",
   "route_alternatives": "alternative Routen",
   "route_details": "Routendetails",
@@ -1355,8 +1355,8 @@
   "log_in_with_app_details": "Drücke \"{{title}}\" auf einem Gerät, das bereits angemeldet ist",
   "login_remote_app": "ABRP-QR-Anmeldung",
   "live_data_integrity_policy_msg": "Durch die Nutzung einer dieser Live-Daten-Optionen stimmst du ausdrücklich unserer <url>Integritätsrichtlinie</url> zu.",
-  "extra_weight_exact_warning": "You have entered {{weight}} as extra weight",
+  "extra_weight_exact_warning": "Du hast {{weight}} als zusätzliches Gewicht eingegeben",
   "nearby_chargers_no_chargers": "Keine Ladepunkte in deiner Nähe",
-  "charge_session_completed": "Planned charge session completed",
-  "login_success_message": "You where logged in"
+  "charge_session_completed": "Geplante Ladesitzung abgeschlossen",
+  "login_success_message": "Du hast dich eingeloggt"
 }
