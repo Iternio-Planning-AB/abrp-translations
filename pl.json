@@ -1358,5 +1358,10 @@
   "loading_qr_token": "Ładowanie kodu QR logowania",
   "live_data_integrity_policy_msg": "Korzystając z ktorejkolwiek z tych opcji danych na ywo wyraźnie zgadzasz się na naszą <url>Integrity Policy</url>.",
   "charge_session_completed": "Zaplanowana sesja ładowania zakończona",
-  "login_success_message": "Byłeś zalogowany"
+  "login_success_message": "Byłeś zalogowany",
+  "show_gps_speed": "Enable GPS speed",
+  "hide_gps_speed": "Hide GPS speed",
+  "route_options": "Route options",
+  "end_password_change": "End password change",
+  "read_more_obd": "Security and OBD"
 }

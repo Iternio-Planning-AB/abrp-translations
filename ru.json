@@ -1358,5 +1358,10 @@
   "loading_qr_token": "Загрузка QR-кода для входа",
   "live_data_integrity_policy_msg": "При использовании любой из этих опций Live Data вы явным образом соглашаетесь с нашей <url>Политикой конфиденциальности</url>.",
   "charge_session_completed": "Запланированный сеанс зарядки завершен",
-  "login_success_message": "Вы вошли в систему"
+  "login_success_message": "Вы вошли в систему",
+  "show_gps_speed": "Enable GPS speed",
+  "hide_gps_speed": "Hide GPS speed",
+  "route_options": "Route options",
+  "end_password_change": "End password change",
+  "read_more_obd": "Security and OBD"
 }

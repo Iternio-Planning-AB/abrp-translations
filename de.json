@@ -1358,5 +1358,10 @@
   "extra_weight_exact_warning": "Du hast {{weight}} als zusätzliches Gewicht eingegeben",
   "nearby_chargers_no_chargers": "Keine Ladepunkte in deiner Nähe",
   "charge_session_completed": "Geplante Ladesitzung abgeschlossen",
-  "login_success_message": "Du hast dich eingeloggt"
+  "login_success_message": "Du hast dich eingeloggt",
+  "show_gps_speed": "Enable GPS speed",
+  "hide_gps_speed": "Hide GPS speed",
+  "route_options": "Route options",
+  "end_password_change": "End password change",
+  "read_more_obd": "Security and OBD"
 }

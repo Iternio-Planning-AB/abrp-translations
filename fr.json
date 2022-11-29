@@ -1354,5 +1354,10 @@
   "days_affix_other": "jours",
   "live_data_integrity_policy_msg": "En utilisant l'une de ces options Live Data, vous acceptez explicitement notre <url>Politique d'intégrité</url>.",
   "charge_session_completed": "Session de charge plannifiée terminée",
-  "login_success_message": "Vous êtes connecté"
+  "login_success_message": "Vous êtes connecté",
+  "show_gps_speed": "Enable GPS speed",
+  "hide_gps_speed": "Hide GPS speed",
+  "route_options": "Route options",
+  "end_password_change": "End password change",
+  "read_more_obd": "Security and OBD"
 }

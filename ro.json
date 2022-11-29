@@ -1350,10 +1350,15 @@
   "login_enter_full_name": "Introdu numele  complet",
   "login_enter_password": "Introdu parola",
   "profile_next_renewal": "Următoarea reînnoire",
-  "loading_qr_token": "Se încarcă codul de conectare QR"
+  "loading_qr_token": "Se încarcă codul de conectare QR",
   "days_affix_one": "zi",
   "days_affix_other": "zile",
   "live_data_integrity_policy_msg": "Folosind oricare dintre aceste opțiuni de date live, ești de acord în mod explicit cu <url>Politica noastră de integritate</url>.",
   "charge_session_completed": "Sesiune de încărcare planificată finalizată",
-  "login_success_message": "Ai fost autentificat"
+  "login_success_message": "Ai fost autentificat",
+  "show_gps_speed": "Enable GPS speed",
+  "hide_gps_speed": "Hide GPS speed",
+  "route_options": "Route options",
+  "end_password_change": "End password change",
+  "read_more_obd": "Security and OBD"
 }
