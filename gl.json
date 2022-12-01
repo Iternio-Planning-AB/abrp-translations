@@ -1359,9 +1359,9 @@
   "live_data_integrity_policy_msg": "Para empregar calquera das opción de datos en tempo real tes que aceptar a nosa <url>política de integridade</url>.",
   "charge_session_completed": "Completouse a sesión de carga planeada",
   "login_success_message": "Iniciaches sesión",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
-  "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "show_gps_speed": "Activar velocidade por GPS",
+  "hide_gps_speed": "Ocultar velocidade por GPS",
+  "route_options": "Opcións da ruta",
+  "end_password_change": "Rematar o troco do contrasinal",
+  "read_more_obd": "Seguranza e OBD"
 }
