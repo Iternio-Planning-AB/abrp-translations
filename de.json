@@ -347,7 +347,7 @@
   "prefer_or_avoid_-1_description": "Vermeide nach Möglichkeit diese Ladenetze",
   "prefer_or_avoid_-2": "Niemals benutzen",
   "prefer_or_avoid_-2_description": "Diese Ladenetze werden bei der Planung nicht verwendet",
-  "prefer_or_avoid_-2_warning": "Mit dieser Einstellung wird diese Ladenetze immer vermieden, was zu längeren Routen führen kann",
+  "prefer_or_avoid_-2_warning": "Mit dieser Einstellung werden diese Ladenetze immer vermieden, was zu längeren Routen führen kann",
   "display_mode": "Darstellungsdesign",
   "display_mode_dark": "Dunkel",
   "display_mode_light": "Hell",
@@ -1359,9 +1359,9 @@
   "nearby_chargers_no_chargers": "Keine Ladepunkte in deiner Nähe",
   "charge_session_completed": "Geplante Ladesitzung abgeschlossen",
   "login_success_message": "Du hast dich eingeloggt",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
-  "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "show_gps_speed": "GPS-Geschwindigkeit anzeigen",
+  "hide_gps_speed": "GPS-Geschwindigkeit ausblenden",
+  "route_options": "Routenoptionen",
+  "end_password_change": "Passwortänderung beenden",
+  "read_more_obd": "Sicherheit und OBD"
 }
