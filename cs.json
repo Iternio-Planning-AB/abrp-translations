@@ -1356,9 +1356,9 @@
   "live_data_integrity_policy_msg": "Použitím jakékoli z těchto voleb živých dat výslovně souhlasíte s našimi <url>Zásadami integrity</url>.",
   "charge_session_completed": "Naplánované nabíjení bylo dokončeno",
   "login_success_message": "Byli jste přihlášeni",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
-  "route_options": "Route options",
+  "show_gps_speed": "Zobrazit rychlost z GPS",
+  "hide_gps_speed": "Skrýt rychlost z GPS",
+  "route_options": "Volby trasy",
   "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Zabezpečení a OBD"
 }
