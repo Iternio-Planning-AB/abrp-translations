@@ -1356,9 +1356,9 @@
   "live_data_integrity_policy_msg": "При використанні будь-якої з цих опцій Live Data ви явно погоджуєтесь з нашою <url>Політикою конфіденційності</url>.",
   "charge_session_completed": "Запланований сеанс заряджання завершено",
   "login_success_message": "Ви увійшли до системи",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
-  "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "show_gps_speed": "Показувати швидкість по GPS",
+  "hide_gps_speed": "Скрити швидкість по GPS",
+  "route_options": "Варіанти маршруту",
+  "end_password_change": "Закінчити зміну пароля",
+  "read_more_obd": "Безпека та OBD"
 }
