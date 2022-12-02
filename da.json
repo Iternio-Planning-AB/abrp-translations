@@ -1358,9 +1358,9 @@
   "live_data_integrity_policy_msg": "Ved at bruge nogen af disse Live Data-muligheder accepterer du udtrykkeligt vores <url>integritetspolitik</url>.",
   "charge_session_completed": "Planlagt opladningssession afsluttet",
   "login_success_message": "Du var logget ind",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
-  "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "show_gps_speed": "Vis GPS fart",
+  "hide_gps_speed": "Skjul GPS fart",
+  "route_options": "Rutemuligheder",
+  "end_password_change": "Afslut ændring af adgangskode",
+  "read_more_obd": "Sikkerhed og OBD"
 }
