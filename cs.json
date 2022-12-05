@@ -972,24 +972,8 @@
     "lis",
     "pro"
   ],
-  "day_names": [
-    "neděle",
-    "pondělí",
-    "úterý",
-    "středa",
-    "čtvrtek",
-    "pátek",
-    "sobota"
-  ],
-  "day_names_short": [
-    "Ne",
-    "Po",
-    "Út",
-    "St",
-    "Čt",
-    "Pá",
-    "So"
-  ],
+  "day_names": ["neděle", "pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota"],
+  "day_names_short": ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
   "today": "Dnes",
   "scan_abrp_qrcode_to_complete_login": "Dokončete přihlášení naskenováním QR kódu ABRP.",
   "permission_camera_title": "Oprávnění pro fotoaparát",
@@ -1062,7 +1046,7 @@
   "at_clock": "v",
   "move_of_amenity_to_step_one": "Nemůžete přesunout průjezdní bod se službami na první krok",
   "minutes_affix": "min.",
-  "exlusive_network_warning": "V nastavení sítí máte zvolenou exkluzivně jednu síť.",
+  "exclusive_network_warning": "V nastavení sítí máte zvolenou exkluzivně jednu síť.",
   "low_soc_warning": "Nastavili jste odjezd s menším nabitím baterie než 15 %",
   "high_ref_consumption_warning": "Nastavili jste referenční spotřebu Vašeho vozidla nad {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Nastavili jste velmi vysokou degradaci baterie",
@@ -1073,7 +1057,7 @@
   "allow_border_warning": "Zakázali jste trasu přes hranice",
   "allow_motorway_warning": "Zakázali jste trasu s využitím dálnic",
   "allow_toll_warning": "Zakázali jste trasu s využitím silnic s mýtem",
-  "exlude_tesla_warning": "Vyjmuli jste síť Tesla, ale zvolili jste jen rychlonabíječky Tesly",
+  "exclude_tesla_warning": "Vyjmuli jste síť Tesla, ale zvolili jste jen rychlonabíječky Tesly",
   "plan_error_header": "Nebyl nalezen žádný platný plán",
   "plan_error_description": "Ve Vašem nastavení jsme našli některé možné problémy",
   "set_default": "Nastavit na výchozí",
@@ -1257,12 +1241,7 @@
   "report_charger_information": "Informace, které potřebujeme, byly zkopírovány do Vaší schránky. Klepněte na 'Hotovo' a budete přesměrováni na Upvoty, kde můžete vytvořit hlášení a vložte zde tuto informaci.",
   "ferry_departure": "Odjezd trajektu",
   "ferry_arrival": "Příjezd trajektu",
-  "direction_count_x": [
-    "první",
-    "druhý",
-    "třetí",
-    "čtvrtý"
-  ],
+  "direction_count_x": ["první", "druhý", "třetí", "čtvrtý"],
   "obdble_unknown_device_failed": "Tomuto zařízení chybí některé základní funkce a proto jej nelze použít pro připojení k OBD.",
   "obdble_unknown_device": "Nepodporované zařízení!",
   "obdble_unknown_device_attempt": "Toto je nepodporované zařízení. Chcete i nadále zkusit připojení?",
@@ -1356,9 +1335,9 @@
   "live_data_integrity_policy_msg": "Použitím jakékoli z těchto voleb živých dat výslovně souhlasíte s našimi <url>Zásadami integrity</url>.",
   "charge_session_completed": "Naplánované nabíjení bylo dokončeno",
   "login_success_message": "Byli jste přihlášeni",
-  "show_gps_speed": "Zobrazit rychlost z GPS",
-  "hide_gps_speed": "Skrýt rychlost z GPS",
   "route_options": "Volby trasy",
-  "end_password_change": "End password change",
-  "read_more_obd": "Zabezpečení a OBD"
+  "read_more_obd": "Zabezpečení a OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

@@ -936,24 +936,8 @@
     "nov",
     "dic"
   ],
-  "day_names": [
-    "domenica",
-    "lunedì",
-    "martedì",
-    "mercoledì",
-    "giovedì",
-    "venerdì",
-    "sabato"
-  ],
-  "day_names_short": [
-    "dom",
-    "lun",
-    "mar",
-    "mer",
-    "gio",
-    "ven",
-    "sab"
-  ],
+  "day_names": ["domenica", "lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato"],
+  "day_names_short": ["dom", "lun", "mar", "mer", "gio", "ven", "sab"],
   "today": "oggi",
   "scan_abrp_qrcode_to_complete_login": "Completa il login scansionando il QR-code ABRP",
   "permission_camera_title": "Autorizzazione all'utilizzo della camera",
@@ -1041,7 +1025,7 @@
   "android_auto_1": "Segui il percorso dallo schermo della tua auto utilizzando Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Il caricamento alla destinazione (Level 2) non è incluso nella durata del viaggio o il tempo di ricarica totale in quanto immaginiamo tu faccia altro durante la ricarica.",
-  "exlusive_network_warning": "Hai un gestore preferito selezionato nelle preferenze",
+  "exclusive_network_warning": "Hai un gestore preferito selezionato nelle preferenze",
   "low_soc_warning": "Nelle tue impostazioni hai impostato di partire con meno del 15% di carica",
   "high_ref_consumption_warning": "Hai impostato un consumo di riferimento superiore a {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Hai impostato un degrado batteria molto alto",
@@ -1052,7 +1036,7 @@
   "allow_border_warning": "Non stai permettendo al percorso di passare un confine di stato",
   "allow_motorway_warning": "Non stai permettendo al percorso di usare le autostrade",
   "allow_toll_warning": "Non stai permettendo al percorso di usare strade a pedaggio",
-  "exlude_tesla_warning": "Hai escluso il gestore Tesla ma hai selezionato solo caricatori rapidi Tesla",
+  "exclude_tesla_warning": "Hai escluso il gestore Tesla ma hai selezionato solo caricatori rapidi Tesla",
   "plan_error_header": "Nessun tracciato valido trovato",
   "plan_error_description": "Abbiamo trovato alcune incongruenze nelle tue impostazioni",
   "set_default": "Impostato come predefinito",
@@ -1261,12 +1245,7 @@
   "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Upvoty where you can create a report and paste in that information",
   "ferry_departure": "Ferry Departure",
   "ferry_arrival": "Ferry Arrival",
-  "direction_count_x": [
-    "prima",
-    "seconda",
-    "terza",
-    "quarta"
-  ],
+  "direction_count_x": ["prima", "seconda", "terza", "quarta"],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
@@ -1358,9 +1337,9 @@
   "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
   "charge_session_completed": "Planned charge session completed",
   "login_success_message": "You where logged in",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

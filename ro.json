@@ -937,24 +937,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "duminică",
-    "luni",
-    "marți",
-    "miercuri",
-    "joi",
-    "vineri",
-    "sâmbătă"
-  ],
-  "day_names_short": [
-    "dum.",
-    "lun.",
-    "mar.",
-    "mie.",
-    "joi.",
-    "vin.",
-    "sâm."
-  ],
+  "day_names": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
+  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
   "today": "azi",
   "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",
   "permission_camera_title": "Autorizare de folosire a camerei",
@@ -1042,7 +1026,7 @@
   "android_auto_1": "Urmează traseul de pe ecranul mașinii utilizând Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Încărcările la destinație (Nivelul 2) nu sunt incluse în timpul total de călătorie sau în timpul total de încărcare, deoarece presupunem că faci altceva în timpul încărcării.",
-  "exlusive_network_warning": "Ai selectată exclusiv o rețea în Preferințe de rețea",
+  "exclusive_network_warning": "Ai selectată exclusiv o rețea în Preferințe de rețea",
   "low_soc_warning": "În setările tale, pleci cu o încărcare mai mică de 15%",
   "high_ref_consumption_warning": "Ai setat un consum de referință al mașinii peste {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Ai setat o degradare foarte mare a bateriei",
@@ -1053,7 +1037,7 @@
   "allow_border_warning": "Nu permiți ca traseul să treacă granița",
   "allow_motorway_warning": "Nu permiți ca traseul să meargă pe o autostradă",
   "allow_toll_warning": "Nu permiți ca traseul să meargă pe un drum cu taxă",
-  "exlude_tesla_warning": "Ai exclus rețeaua Tesla, dar ai selectat doar tipurile de încărcătoare rapide Tesla",
+  "exclude_tesla_warning": "Ai exclus rețeaua Tesla, dar ai selectat doar tipurile de încărcătoare rapide Tesla",
   "plan_error_header": "Nu a fost găsit niciun plan valid",
   "plan_error_description": "Am găsit câteva posibile probleme în setările tale",
   "set_default": "Setare implicită",
@@ -1257,12 +1241,7 @@
   "report_charger_information": "Informațiile pe care trebuie să le investigăm au fost copiate în clipboard. Fă clic pe „Terminat” și vei fi redirecționat către Upvoty, unde poți crea un raport și insera informațiile respective",
   "ferry_departure": "Plecare feribot",
   "ferry_arrival": "Sosire feribot",
-  "direction_count_x": [
-    "prima",
-    "a doua",
-    "a treia",
-    "a patra"
-  ],
+  "direction_count_x": ["prima", "a doua", "a treia", "a patra"],
   "obdble_unknown_device_failed": "Acestui dispozitiv îi lipsesc câteva caracteristici esențiale, nu îl putem folosi pentru conexiuni OBD.",
   "obdble_unknown_device": "Dispozitiv neacceptat!",
   "obdble_unknown_device_attempt": "Acesta este un dispozitiv neacceptat, mai vrei să încerci să te conectezi?",
@@ -1356,9 +1335,9 @@
   "live_data_integrity_policy_msg": "Folosind oricare dintre aceste opțiuni de date live, ești de acord în mod explicit cu <url>Politica noastră de integritate</url>.",
   "charge_session_completed": "Sesiune de încărcare planificată finalizată",
   "login_success_message": "Ai fost autentificat",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

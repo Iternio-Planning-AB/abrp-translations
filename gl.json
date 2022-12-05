@@ -975,24 +975,8 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": [
-    "Domingo",
-    "Luns",
-    "Martes",
-    "Mércores",
-    "Xoves",
-    "Venres",
-    "Sábado"
-  ],
-  "day_names_short": [
-    "Dom.",
-    "Luns",
-    "Mar.",
-    "Mér.",
-    "Xov.",
-    "Ven.",
-    "Sáb."
-  ],
+  "day_names": ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],
+  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
   "today": "hoxe",
   "scan_abrp_qrcode_to_complete_login": "Inicio completo ao escanear o código QR do ABRP",
   "permission_camera_title": "Permiso para empregar a cámara",
@@ -1075,7 +1059,7 @@
   },
   "days_affix_one": "día",
   "days_affix_other": "días",
-  "exlusive_network_warning": "Tes seleccionada unha rede exclusiva nas Preferencia de redes",
+  "exclusive_network_warning": "Tes seleccionada unha rede exclusiva nas Preferencia de redes",
   "low_soc_warning": "Nos axustes tes definido saír con menos do 15% da carga",
   "high_ref_consumption_warning": "Tes definido un consumo de referencia por riba dos {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Tes definida unha degradación da batería moi alta",
@@ -1087,7 +1071,7 @@
   "allow_motorway_warning": "Non están permitidas as rutas a través de autoestradas",
   "allow_toll_warning": "Non están permitidas as rutas con portaxes",
   "allow_ferry_warning": "No está permitido o uso do transbordador na ruta",
-  "exlude_tesla_warning": "Excluíches a rede de Tesla, mais só seleccionaches os tipos de cargador rápido de Tesla",
+  "exclude_tesla_warning": "Excluíches a rede de Tesla, mais só seleccionaches os tipos de cargador rápido de Tesla",
   "plan_error_header": "Non se atopou unha ruta válida",
   "plan_error_description": "Atopamos algúns posíbeis problemas nos axustes",
   "set_default": "Definir coma predefinido",
@@ -1261,12 +1245,7 @@
   "report_charger_information": "A información que precisamos para investigar foi copiada ao portarretallos. Preme en 'Feito' para ser redirixido ao apartado de votos a favor para crear un informe e pegar a información.",
   "ferry_departure": "Saída do ferry",
   "ferry_arrival": "Chegada do ferry",
-  "direction_count_x": [
-    "primeira",
-    "segunda",
-    "terceira",
-    "cuarta"
-  ],
+  "direction_count_x": ["primeira", "segunda", "terceira", "cuarta"],
   "obdble_unknown_device_failed": "Faltan algunhas funcións esenciais neste dispositivo e non é posíbel usalo para conectar co OBD.",
   "obdble_unknown_device": "Dispositivo non soportado!",
   "obdble_unknown_device_attempt": "O dispositivo non está soportado, aínda queres tentar conectar?",
@@ -1359,9 +1338,9 @@
   "live_data_integrity_policy_msg": "Para empregar calquera das opción de datos en tempo real tes que aceptar a nosa <url>política de integridade</url>.",
   "charge_session_completed": "Completouse a sesión de carga planeada",
   "login_success_message": "Iniciaches sesión",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

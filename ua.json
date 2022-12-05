@@ -937,24 +937,8 @@
     "лист.",
     "груд."
   ],
-  "day_names": [
-    "неділя",
-    "понеділок",
-    "вівторок",
-    "середа",
-    "четвер",
-    "п'ятниця",
-    "субота"
-  ],
-  "day_names_short": [
-    "нд.",
-    "пн.",
-    "вт.",
-    "сер.",
-    "чт.",
-    "пт.",
-    "сб."
-  ],
+  "day_names": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п'ятниця", "субота"],
+  "day_names_short": ["нд.", "пн.", "вт.", "сер.", "чт.", "пт.", "сб."],
   "today": "сьогодні",
   "scan_abrp_qrcode_to_complete_login": "Завершіть вхід, відсканувавши файл ABRP QR-code",
   "permission_camera_title": "Дозвіл на використання камери",
@@ -1042,7 +1026,7 @@
   "android_auto_1": "Слідкуйте за маршрутом з екрана автомобіля за допомогою Android Auto.",
   "minutes_affix": "хв",
   "destcharger_not_included_in_time": "Зарядні пристрої пункту призначення (рівень 2) не входять у загальний час поїздки або загальний час зарядки, оскільки ми припускаємо, що ви робите щось інше під час заряджання.",
-  "exlusive_network_warning": "У налаштуваннях мережі вибрано одну ексклюзивну мережу",
+  "exclusive_network_warning": "У налаштуваннях мережі вибрано одну ексклюзивну мережу",
   "low_soc_warning": "У ваших налаштуваннях ви від'їзджаєте із зарядом менше 15%.",
   "high_ref_consumption_warning": "Ви вказали ідеальне споживання вашого автомобіля вище {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Ви встановили дуже високу деградацію акумулятора",
@@ -1053,7 +1037,7 @@
   "allow_border_warning": "Ви не дозволяєте маршруту проходити кордон",
   "allow_motorway_warning": "Ви не дозволяєте маршруту йти по шосе",
   "allow_toll_warning": "Ви не дозволяєте маршруту йти по платній дорозі",
-  "exlude_tesla_warning": "Ви виключили мережу Tesla, але вибрали лише типи швидкої зарядки Tesla",
+  "exclude_tesla_warning": "Ви виключили мережу Tesla, але вибрали лише типи швидкої зарядки Tesla",
   "plan_error_header": "Дійсного плану не знайдено",
   "plan_error_description": "Ми виявили деякі можливі проблеми у ваших налаштуваннях",
   "set_default": "Установити за замовчуванням",
@@ -1257,12 +1241,7 @@
   "report_charger_information": "Інформацію, яку нам потрібно дослідити, скопійовано у ваш буфер обміну. Натисніть «Готово», і вас буде перенаправлено до Upvoty, де ви зможете створити звіт і вставити ту інформацію",
   "ferry_departure": "Відправлення порома",
   "ferry_arrival": "Прибуття порома",
-  "direction_count_x": [
-    "1",
-    "2",
-    "3",
-    "4"
-  ],
+  "direction_count_x": ["1", "2", "3", "4"],
   "obdble_unknown_device_failed": "У цьому пристрої відсутні деякі важливі функції, ми не можемо використовувати його для підключення OBD.",
   "obdble_unknown_device": "Непідтримуваний пристрій!",
   "obdble_unknown_device_attempt": "Цей пристрій не підтримується. Спробувати підключитися?",
@@ -1356,9 +1335,9 @@
   "live_data_integrity_policy_msg": "При використанні будь-якої з цих опцій Live Data ви явно погоджуєтесь з нашою <url>Політикою конфіденційності</url>.",
   "charge_session_completed": "Запланований сеанс заряджання завершено",
   "login_success_message": "Ви увійшли до системи",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

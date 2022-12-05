@@ -945,15 +945,7 @@
     "sexta-feira",
     "sábado"
   ],
-  "day_names_short": [
-    "dom.",
-    "seg.",
-    "ter.",
-    "qua.",
-    "qui.",
-    "sex.",
-    "sáb."
-  ],
+  "day_names_short": ["dom.", "seg.", "ter.", "qua.", "qui.", "sex.", "sáb."],
   "today": "hoje",
   "scan_abrp_qrcode_to_complete_login": "Iniciar sessão completa digitalizando o código QR da ABRP",
   "permission_camera_title": "Permissão para utilizar a câmara",
@@ -1041,7 +1033,7 @@
   "android_auto_1": "Siga a rota no ecrã do seu carro usando o Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Os carregadores de destino (Nível 2) não estão incluídos no tempo total de viagem ou no tempo total de carregamento, pois assumimos que faz outra coisa durante o carregamento",
-  "exlusive_network_warning": "Tem uma rede exclusiva selecionada em Preferências de rede",
+  "exclusive_network_warning": "Tem uma rede exclusiva selecionada em Preferências de rede",
   "low_soc_warning": "Nas suas configurações está partindo com menos de 15% de carga",
   "high_ref_consumption_warning": "Definiu um consumo de referência do seu carro acima {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Definiu uma degradação de bateria muito alta",
@@ -1052,7 +1044,7 @@
   "allow_border_warning": "Não está permitida que a rota passe por uma fronteira",
   "allow_motorway_warning": "Não está permitida que a rota passe por uma autoestrada",
   "allow_toll_warning": "Não está permitida que a rota passe por uma estrada com portagens",
-  "exlude_tesla_warning": "Excluiu a rede Tesla, mas selecionou apenas os tipos de carregador rápido Tesla",
+  "exclude_tesla_warning": "Excluiu a rede Tesla, mas selecionou apenas os tipos de carregador rápido Tesla",
   "plan_error_header": "Nenhum planeamento válido encontrado",
   "plan_error_description": "Encontramos alguns possíveis problemas nas suas configurações",
   "set_default": "Definido como default",
@@ -1261,12 +1253,7 @@
   "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Upvoty where you can create a report and paste in that information",
   "ferry_departure": "Ferry Departure",
   "ferry_arrival": "Ferry Arrival",
-  "direction_count_x": [
-    "primeiro",
-    "segundo",
-    "terceiro",
-    "quarto"
-  ],
+  "direction_count_x": ["primeiro", "segundo", "terceiro", "quarto"],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
@@ -1358,9 +1345,9 @@
   "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
   "charge_session_completed": "Planned charge session completed",
   "login_success_message": "You where logged in",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

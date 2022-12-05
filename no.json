@@ -936,24 +936,8 @@
     "nov.",
     "des."
   ],
-  "day_names": [
-    "søndag",
-    "mandag",
-    "tirsdag",
-    "onsdag",
-    "torsdag",
-    "fredag",
-    "lørdag"
-  ],
-  "day_names_short": [
-    "søn.",
-    "man.",
-    "tir.",
-    "ons.",
-    "tor.",
-    "fre.",
-    "lør."
-  ],
+  "day_names": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
+  "day_names_short": ["søn.", "man.", "tir.", "ons.", "tor.", "fre.", "lør."],
   "today": "i dag",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
   "permission_camera_title": "Permission to use camera",
@@ -1041,7 +1025,7 @@
   "android_auto_1": "Follow the route from you car's screen using Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Destination chargers (Level 2) is not included in the total trip time or the total charge time as we assume you do something else while charging.",
-  "exlusive_network_warning": "You have one exlusive network selected under Network preferences",
+  "exclusive_network_warning": "You have one exlusive network selected under Network preferences",
   "low_soc_warning": "In your settings you are leaving with less than 15% charge",
   "high_ref_consumption_warning": "You have set a referens consumtion of your car above {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "You have set a very high battery degradation",
@@ -1052,7 +1036,7 @@
   "allow_border_warning": "You are not allowing the route to pass a border",
   "allow_motorway_warning": "You are not allowing the route to go on a highway",
   "allow_toll_warning": "You are not allowing the route to go on a road with tolls",
-  "exlude_tesla_warning": "You have exluded Tesla network but have only selected Tesla fast charger types",
+  "exclude_tesla_warning": "You have exluded Tesla network but have only selected Tesla fast charger types",
   "plan_error_header": "No valid plan found",
   "plan_error_description": "We found some possible issues in your settings",
   "set_default": "Set to default",
@@ -1261,12 +1245,7 @@
   "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Upvoty where you can create a report and paste in that information",
   "ferry_departure": "Ferry Departure",
   "ferry_arrival": "Ferry Arrival",
-  "direction_count_x": [
-    "first",
-    "second",
-    "third",
-    "fourth"
-  ],
+  "direction_count_x": ["first", "second", "third", "fourth"],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
@@ -1358,9 +1337,9 @@
   "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
   "charge_session_completed": "Planned charge session completed",
   "login_success_message": "You where logged in",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

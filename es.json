@@ -937,24 +937,8 @@
     "nov.",
     "dic."
   ],
-  "day_names": [
-    "domingo",
-    "lunes",
-    "martes",
-    "miércoles",
-    "jueves",
-    "viernes",
-    "sábado"
-  ],
-  "day_names_short": [
-    "dom.",
-    "lun.",
-    "mar.",
-    "mié.",
-    "jue.",
-    "vie.",
-    "sáb."
-  ],
+  "day_names": ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"],
+  "day_names_short": ["dom.", "lun.", "mar.", "mié.", "jue.", "vie.", "sáb."],
   "today": "hoy",
   "scan_abrp_qrcode_to_complete_login": "Completar inicio de sesión escaneando el código QR de ABRP",
   "permission_camera_title": "Permiso para usar la cámara",
@@ -1042,7 +1026,7 @@
   "android_auto_1": "Sigue la ruta en la pantalla de tu coche usando Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Los cargadores de destino (Nivel 2) no se incluyen en el tiempo total de viaje o el tiempo total de carga porque asumimos que harás otras cosas mientras cargas.",
-  "exlusive_network_warning": "Tienes una red exclusiva seleccionada en preferencias de redes de carga",
+  "exclusive_network_warning": "Tienes una red exclusiva seleccionada en preferencias de redes de carga",
   "low_soc_warning": "En tus ajustes estás saliendo con menos de un 15% de carga",
   "high_ref_consumption_warning": "Has establecido un consumo de referencia de tu coche mayor que {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Has establecido una degradación de la batería muy alta",
@@ -1053,7 +1037,7 @@
   "allow_border_warning": "No estás permitiendo que la ruta cruce fronteras",
   "allow_motorway_warning": "No estás permitiendo que la ruta pase por autopistas",
   "allow_toll_warning": "No estás permitiendo que la ruta pase por carreteras de peaje",
-  "exlude_tesla_warning": "Has excluido la red de Tesla pero solo has seleccionado tipos de cargadores rápidos de Tesla",
+  "exclude_tesla_warning": "Has excluido la red de Tesla pero solo has seleccionado tipos de cargadores rápidos de Tesla",
   "plan_error_header": "No se encontró un plan válido",
   "plan_error_description": "Hemos encontrado posibles problemas en tus ajustes",
   "set_default": "Restablecer a valores por defecto",
@@ -1257,12 +1241,7 @@
   "report_charger_information": "La información que necesitamos para investigar se ha copiado a tu portapapeles. Haz clic en 'hecho' y se te redireccionará a Upvoty, donde puedes crear una reseña y pegar esa información",
   "ferry_departure": "Salida del ferry",
   "ferry_arrival": "Llegada del ferry",
-  "direction_count_x": [
-    "primera",
-    "segunda",
-    "tercera",
-    "cuarta"
-  ],
+  "direction_count_x": ["primera", "segunda", "tercera", "cuarta"],
   "obdble_unknown_device_failed": "Este dispositivo carece de características esenciales, no se puede utilizar para conexiones OBD.",
   "obdble_unknown_device": "¡Dispositivo no soportado!",
   "obdble_unknown_device_attempt": "Este es un dispositivo no soportado, ¿Aun quieres intentar conectarlo?",
@@ -1356,9 +1335,9 @@
   "live_data_integrity_policy_msg": "Al utilizar cualquiera de nuestras opciones de datos en vivo (Live Data) aceptas explícitamente nuestra <url>Política de Integridad</url>.",
   "charge_session_completed": "Sesión de carga planificada completada",
   "login_success_message": "Ya has iniciado sesión",
-  "show_gps_speed": "Habilitar velocidad GPS",
-  "hide_gps_speed": "Ocultar GPS speed",
   "route_options": "Opciones de ruta",
-  "end_password_change": "Finalizar cambio de contraseña",
-  "read_more_obd": "Seguridad y OBD"
+  "read_more_obd": "Seguridad y OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

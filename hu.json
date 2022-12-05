@@ -937,24 +937,8 @@
     "nov.",
     "dec."
   ],
-  "day_names": [
-    "vasárnap",
-    "hétfő",
-    "kedd",
-    "szerda",
-    "csütörtök",
-    "péntek",
-    "szombat"
-  ],
-  "day_names_short": [
-    "V",
-    "H",
-    "K",
-    "Sze",
-    "Cs",
-    "P",
-    "Szo"
-  ],
+  "day_names": ["vasárnap", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat"],
+  "day_names_short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
   "today": "ma",
   "scan_abrp_qrcode_to_complete_login": "Bejelentkezés a megadott ABRP QR beolvasásával",
   "permission_camera_title": "Kamera hozzáférés engedélyezése",
@@ -1042,7 +1026,7 @@
   "android_auto_1": "Android Auto használatával kövesd a jármű kijelzőjén látható útvonalakat.",
   "minutes_affix": "perc",
   "destcharger_not_included_in_time": "A Desztinációs töltők töltési idejét nem számítjuk bele a teljes töltési és útvonaltervezési időbe, mivel ez idő alatt más kikapcsolódási vagy egyéb tevékenységet végzel.",
-  "exlusive_network_warning": "1db exckluzív töltő hálózat került kiválasztásra a Hálózati beállításokban",
+  "exclusive_network_warning": "1db exckluzív töltő hálózat került kiválasztásra a Hálózati beállításokban",
   "low_soc_warning": "A beállítások alapján kevesebb, mint 15%-al fogsz elindulni",
   "high_ref_consumption_warning": "Az autód fogyasztását {{ref_consumtion}} Wh/km-nál magasabbra állítottad be",
   "high_battery_degradation_warning": "Túl magas akkumulátor degradációt értéket adtál meg",
@@ -1053,7 +1037,7 @@
   "allow_border_warning": "Az útvonaltervezőben nincs engedélyezve a határátlépés",
   "allow_motorway_warning": "Az útvonaltervezőben nincs engedélyezve az autópálya használata",
   "allow_toll_warning": "Az útvonaltervezőben nincsenek engedélyezve a fizetős útvonalak használata",
-  "exlude_tesla_warning": "A beállításokban nem engedélyezted a Tesla töltő hálózatának használatát, de a töltő típusoknál csak a Tesla töltőit jelölted be",
+  "exclude_tesla_warning": "A beállításokban nem engedélyezted a Tesla töltő hálózatának használatát, de a töltő típusoknál csak a Tesla töltőit jelölted be",
   "plan_error_header": "Érévnyes útvonalterv nem található",
   "plan_error_description": "A beállításokban találtunk néhány lehetséges hibát",
   "set_default": "Alaphelyzetbe állítás",
@@ -1257,12 +1241,7 @@
   "report_charger_information": "A vizsgálathoz szükséges információ vágólapra másolva. Válaszd ki a 'Kész / Done' lehetőséget és átirányítunk az Upvoty oldalára ahol létre tudod hozni a hibanaplót és bemásolni a vágólapról a szükséges információkat",
   "ferry_departure": "Komp indulás",
   "ferry_arrival": "Komp érkezés",
-  "direction_count_x": [
-    "első",
-    "második",
-    "harmadik",
-    "negyedik"
-  ],
+  "direction_count_x": ["első", "második", "harmadik", "negyedik"],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
@@ -1356,9 +1335,9 @@
   "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
   "charge_session_completed": "Planned charge session completed",
   "login_success_message": "You where logged in",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }

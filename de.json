@@ -967,24 +967,8 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": [
-    "Sonntag",
-    "Montag",
-    "Dienstag",
-    "Mittwoch",
-    "Donnerstag",
-    "Freitag",
-    "Samstag"
-  ],
-  "day_names_short": [
-    "So.",
-    "Mo.",
-    "Di.",
-    "Mi.",
-    "Do.",
-    "Fr.",
-    "Sa."
-  ],
+  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
   "today": "Heute",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP-QR-Code, um den Anmeldevorgang abzuschließen",
   "permission_camera_title": "Berechtigung Kamera",
@@ -1075,7 +1059,7 @@
   "android_auto_1": "Folge der Route vom Bildschirm deines Autos aus mit Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Typ 2 Ladepunkte sind in der Gesamtfahrzeit oder der Gesamtladezeit nicht enthalten, da wir davon ausgehen, dass Sie während des Ladevorgangs etwas anderes tun.",
-  "exlusive_network_warning": "Sie haben ein exklusives Ladenetz unter Ladenetzeinstellungen ausgewählt.",
+  "exclusive_network_warning": "Sie haben ein exklusives Ladenetz unter Ladenetzeinstellungen ausgewählt.",
   "low_soc_warning": "SoC bei Abfahrt ist unter 15% in den Einstellungen",
   "high_ref_consumption_warning": "Referenzverbrauch des Autos ist höher als {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Du hast eine sehr hohe Batteriedegradation eingestellt",
@@ -1086,7 +1070,7 @@
   "allow_border_warning": "Grenzübergänge sind für die Planung nicht erlaubt",
   "allow_motorway_warning": "Autobahnen sind für die Planung nicht erlaubt",
   "allow_toll_warning": "Mautstraßen sind für die Planung nicht erlaubt",
-  "exlude_tesla_warning": "Du hast das Tesla-Ladenetz ausgeschlossen, aber nur Tesla SC/CCS als Schnelllader erlaubt",
+  "exclude_tesla_warning": "Du hast das Tesla-Ladenetz ausgeschlossen, aber nur Tesla SC/CCS als Schnelllader erlaubt",
   "plan_error_header": "Route konnte nicht berechnet werden",
   "plan_error_description": "Wir haben einige mögliche Probleme in deinen Einstellungen gefunden",
   "set_default": "Standartwert wiederherstellen",
@@ -1281,12 +1265,7 @@
   "ferry_arrival": "Ankunft der Fähre",
   "sorry": "Es tut uns leid",
   "unexpected_error": "Ein unerwarteter Fehler ist aufgetreten, bitte versuche es erneut. Für weitere Hilfe wende dich an unseren Support.",
-  "direction_count_x": [
-    "erste",
-    "zweite",
-    "dritte",
-    "vierte"
-  ],
+  "direction_count_x": ["erste", "zweite", "dritte", "vierte"],
   "read_faq": "Lese unsere FAQ",
   "clear_plan": "Plan löschen",
   "xx_minutes_faster": "{{x}} Min. schneller",
@@ -1359,9 +1338,9 @@
   "nearby_chargers_no_chargers": "Keine Ladepunkte in deiner Nähe",
   "charge_session_completed": "Geplante Ladesitzung abgeschlossen",
   "login_success_message": "Du hast dich eingeloggt",
-  "show_gps_speed": "GPS-Geschwindigkeit anzeigen",
-  "hide_gps_speed": "GPS-Geschwindigkeit ausblenden",
   "route_options": "Routenoptionen",
-  "end_password_change": "Passwortänderung beenden",
-  "read_more_obd": "Sicherheit und OBD"
+  "read_more_obd": "Sicherheit und OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid"
 }
