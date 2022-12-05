@@ -938,8 +938,24 @@
     "Lis.",
     "Gru."
   ],
-  "day_names": ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"],
-  "day_names_short": ["Nie.", "Pon.", "Wto.", "Śro.", "Czw.", "Pią.", "Sob."],
+  "day_names": [
+    "Niedziela",
+    "Poniedziałek",
+    "Wtorek",
+    "Środa",
+    "Czwartek",
+    "Piątek",
+    "Sobota"
+  ],
+  "day_names_short": [
+    "Nie.",
+    "Pon.",
+    "Wto.",
+    "Śro.",
+    "Czw.",
+    "Pią.",
+    "Sob."
+  ],
   "today": "Dzisiaj",
   "scan_abrp_qrcode_to_complete_login": "Dokończ logowanie, skanując kod QR ABRP",
   "permission_camera_title": "Pozwolenie na korzystanie z aparatu",
@@ -1246,7 +1262,12 @@
   "report_charger_information": "Informacje, które musimy zbadać, zostały skopiowane do schowka. Kliknij „Gotowe” i zostaniesz przekierowany do Upvoty, gdzie możesz utworzyć raport i wkleić te informacje",
   "ferry_departure": "Wypłynięcie promu",
   "ferry_arrival": "Przybycie promu",
-  "direction_count_x": ["pierwszy", "drugi", "trzeci", "czwarty"],
+  "direction_count_x": [
+    "pierwszy",
+    "drugi",
+    "trzeci",
+    "czwarty"
+  ],
   "obdble_unknown_device_failed": "W tym urządzeniu brakuje niektórych istotnych funkcji, nie możemy go używać do połączeń OBD.",
   "obdble_unknown_device": "Nieobsługiwane urządzenie!",
   "obdble_unknown_device_attempt": "To nieobsługiwane urządzenie. Czy nadal chcesz spróbować się połączyć?",
@@ -1342,5 +1363,6 @@
   "read_more_obd": "Bezpieczeństwo i OBD",
   "no_chargers_remove": "Nie ma ładowarek, proszę usunąć!",
   "networks_prefer": "Preferuj",
-  "networks_avoid": "Unikaj"
+  "networks_avoid": "Unikaj",
+  "title_address_input": "Where do you want to go?"
 }

@@ -937,8 +937,24 @@
     "Nov",
     "Dec"
   ],
-  "day_names": ["Nedeľa", "Pondelok", "Utorok", "Streda", "Štvrtok", "Piatok", "Sobota"],
-  "day_names_short": ["Ne", "Po", "Ut", "St", "Št", "Pi", "So"],
+  "day_names": [
+    "Nedeľa",
+    "Pondelok",
+    "Utorok",
+    "Streda",
+    "Štvrtok",
+    "Piatok",
+    "Sobota"
+  ],
+  "day_names_short": [
+    "Ne",
+    "Po",
+    "Ut",
+    "St",
+    "Št",
+    "Pi",
+    "So"
+  ],
   "today": "Dnes",
   "scan_abrp_qrcode_to_complete_login": "Dokoncete prihlaseni naskenovanim souboru ABRP QR-code",
   "permission_camera_title": "Permission to use camera",
@@ -1246,7 +1262,12 @@
   "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Upvoty where you can create a report and paste in that information",
   "ferry_departure": "Ferry Departure",
   "ferry_arrival": "Ferry Arrival",
-  "direction_count_x": ["first", "second", "third", "fourth"],
+  "direction_count_x": [
+    "first",
+    "second",
+    "third",
+    "fourth"
+  ],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
@@ -1342,5 +1363,6 @@
   "read_more_obd": "Security and OBD",
   "no_chargers_remove": "Has no chargers, please remove!",
   "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid"
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }

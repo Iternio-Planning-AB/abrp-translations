@@ -937,8 +937,24 @@
     "нояб.",
     "дек."
   ],
-  "day_names": ["воскресенье", "понедельник", "вторник", "среда", "четверг", "пятница", "суббота"],
-  "day_names_short": ["вс", "пн", "вт", "ср", "чт", "пт", "сб"],
+  "day_names": [
+    "воскресенье",
+    "понедельник",
+    "вторник",
+    "среда",
+    "четверг",
+    "пятница",
+    "суббота"
+  ],
+  "day_names_short": [
+    "вс",
+    "пн",
+    "вт",
+    "ср",
+    "чт",
+    "пт",
+    "сб"
+  ],
   "today": "сегодня",
   "scan_abrp_qrcode_to_complete_login": "Завершите вход сканированием ABRP QR-кода",
   "permission_camera_title": "Разрешение использовать камеру",
@@ -1246,7 +1262,12 @@
   "report_charger_information": "Информация, необходимая для расследования, была скопирована в ваш буфер обмена. Нажмите 'Готово' и будете перенаправлены в Upvoty, где вы сможете создать отчет и вставить в него эту информацию.",
   "ferry_departure": "Отправление парома",
   "ferry_arrival": "Прибытие парома",
-  "direction_count_x": ["1", "2", "3", "4"],
+  "direction_count_x": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
   "obdble_unknown_device_failed": "Этому устройству не хватает некоторых важных функций, мы не можем использовать его для OBD соединений.",
   "obdble_unknown_device": "Неподдерживаемое устройство!",
   "obdble_unknown_device_attempt": "Это неподдерживаемое устройство, вы все еще хотите попробовать подключиться?",
@@ -1342,5 +1363,6 @@
   "read_more_obd": "Security and OBD",
   "no_chargers_remove": "Has no chargers, please remove!",
   "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid"
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }

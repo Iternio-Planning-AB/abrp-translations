@@ -944,8 +944,24 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
-  "day_names_short": ["søn", "man", "tirs", "ons", "tors", "fre", "lør"],
+  "day_names": [
+    "søndag",
+    "mandag",
+    "tirsdag",
+    "onsdag",
+    "torsdag",
+    "fredag",
+    "lørdag"
+  ],
+  "day_names_short": [
+    "søn",
+    "man",
+    "tirs",
+    "ons",
+    "tors",
+    "fre",
+    "lør"
+  ],
   "today": "i dag",
   "scan_abrp_qrcode_to_complete_login": "Færdiggør dit login ved at skanne ABRP QR-koden",
   "permission_camera_title": "Tilladelse til at bruge kamera",
@@ -1245,7 +1261,12 @@
   "report_charger_information": "Oplysninger, vi skal undersøge, er blevet kopieret til din udklipsholder. Klik på 'udført' og bliv omdirigeret til Upvoty, hvor du kan oprette en rapport og indsætte den information",
   "ferry_departure": "Færgeafgang",
   "ferry_arrival": "Færgeankomst",
-  "direction_count_x": ["første", "anden", "tredje", "fjerde"],
+  "direction_count_x": [
+    "første",
+    "anden",
+    "tredje",
+    "fjerde"
+  ],
   "obdble_unknown_device_failed": "Denne enhed mangler nogle væsentlige funktioner, vi kan ikke bruge den til OBD-forbindelser.",
   "obdble_unknown_device": "Ikke-understøttet enhed!",
   "obdble_unknown_device_attempt": "Dette er en ikke-understøttet enhed, vil du stadig prøve at oprette forbindelse?",
@@ -1341,5 +1362,6 @@
   "read_more_obd": "Security and OBD",
   "no_chargers_remove": "Has no chargers, please remove!",
   "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid"
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }

@@ -946,7 +946,15 @@
     "perjantaina",
     "lauantaina"
   ],
-  "day_names_short": ["su", "ma", "ti", "ke", "to", "pe", "la"],
+  "day_names_short": [
+    "su",
+    "ma",
+    "ti",
+    "ke",
+    "to",
+    "pe",
+    "la"
+  ],
   "today": "Tänään",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
   "permission_camera_title": "Permission to use camera",
@@ -1254,7 +1262,12 @@
   "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Upvoty where you can create a report and paste in that information",
   "ferry_departure": "Ferry Departure",
   "ferry_arrival": "Ferry Arrival",
-  "direction_count_x": ["ensin", "toinen", "kolmas", "neljäs"],
+  "direction_count_x": [
+    "ensin",
+    "toinen",
+    "kolmas",
+    "neljäs"
+  ],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",
@@ -1350,5 +1363,6 @@
   "read_more_obd": "Security and OBD",
   "no_chargers_remove": "Has no chargers, please remove!",
   "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid"
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }

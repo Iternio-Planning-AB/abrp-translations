@@ -937,8 +937,24 @@
     "nov.",
     "dic."
   ],
-  "day_names": ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"],
-  "day_names_short": ["dom.", "lun.", "mar.", "mié.", "jue.", "vie.", "sáb."],
+  "day_names": [
+    "domingo",
+    "lunes",
+    "martes",
+    "miércoles",
+    "jueves",
+    "viernes",
+    "sábado"
+  ],
+  "day_names_short": [
+    "dom.",
+    "lun.",
+    "mar.",
+    "mié.",
+    "jue.",
+    "vie.",
+    "sáb."
+  ],
   "today": "hoy",
   "scan_abrp_qrcode_to_complete_login": "Completar inicio de sesión escaneando el código QR de ABRP",
   "permission_camera_title": "Permiso para usar la cámara",
@@ -1241,7 +1257,12 @@
   "report_charger_information": "La información que necesitamos para investigar se ha copiado a tu portapapeles. Haz clic en 'hecho' y se te redireccionará a Upvoty, donde puedes crear una reseña y pegar esa información",
   "ferry_departure": "Salida del ferry",
   "ferry_arrival": "Llegada del ferry",
-  "direction_count_x": ["primera", "segunda", "tercera", "cuarta"],
+  "direction_count_x": [
+    "primera",
+    "segunda",
+    "tercera",
+    "cuarta"
+  ],
   "obdble_unknown_device_failed": "Este dispositivo carece de características esenciales, no se puede utilizar para conexiones OBD.",
   "obdble_unknown_device": "¡Dispositivo no soportado!",
   "obdble_unknown_device_attempt": "Este es un dispositivo no soportado, ¿Aun quieres intentar conectarlo?",
@@ -1339,5 +1360,6 @@
   "read_more_obd": "Seguridad y OBD",
   "no_chargers_remove": "Has no chargers, please remove!",
   "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid"
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }

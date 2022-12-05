@@ -937,8 +937,24 @@
     "лист.",
     "груд."
   ],
-  "day_names": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п'ятниця", "субота"],
-  "day_names_short": ["нд.", "пн.", "вт.", "сер.", "чт.", "пт.", "сб."],
+  "day_names": [
+    "неділя",
+    "понеділок",
+    "вівторок",
+    "середа",
+    "четвер",
+    "п'ятниця",
+    "субота"
+  ],
+  "day_names_short": [
+    "нд.",
+    "пн.",
+    "вт.",
+    "сер.",
+    "чт.",
+    "пт.",
+    "сб."
+  ],
   "today": "сьогодні",
   "scan_abrp_qrcode_to_complete_login": "Завершіть вхід, відсканувавши файл ABRP QR-code",
   "permission_camera_title": "Дозвіл на використання камери",
@@ -1241,7 +1257,12 @@
   "report_charger_information": "Інформацію, яку нам потрібно дослідити, скопійовано у ваш буфер обміну. Натисніть «Готово», і вас буде перенаправлено до Upvoty, де ви зможете створити звіт і вставити ту інформацію",
   "ferry_departure": "Відправлення порома",
   "ferry_arrival": "Прибуття порома",
-  "direction_count_x": ["1", "2", "3", "4"],
+  "direction_count_x": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
   "obdble_unknown_device_failed": "У цьому пристрої відсутні деякі важливі функції, ми не можемо використовувати його для підключення OBD.",
   "obdble_unknown_device": "Непідтримуваний пристрій!",
   "obdble_unknown_device_attempt": "Цей пристрій не підтримується. Спробувати підключитися?",
@@ -1339,5 +1360,6 @@
   "read_more_obd": "Security and OBD",
   "no_chargers_remove": "Has no chargers, please remove!",
   "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid"
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }
