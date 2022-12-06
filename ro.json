@@ -1358,8 +1358,8 @@
   "login_success_message": "Ai fost autentificat",
   "route_options": "Opțiuni rută",
   "read_more_obd": "Securitate și OBD",
-  "no_chargers_remove": "Has no chargers, please remove!",
-  "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid",
-  "title_address_input": "Where do you want to go?"
+  "no_chargers_remove": "Nu are încărcătoare, te rugăm să elimini!",
+  "networks_prefer": "Preferă",
+  "networks_avoid": "Evită",
+  "title_address_input": "Unde vrei să mergi?"
 }
