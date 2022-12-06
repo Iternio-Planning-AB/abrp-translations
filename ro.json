@@ -1042,7 +1042,7 @@
   "android_auto_1": "Urmează traseul de pe ecranul mașinii utilizând Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Încărcările la destinație (Nivelul 2) nu sunt incluse în timpul total de călătorie sau în timpul total de încărcare, deoarece presupunem că faci altceva în timpul încărcării.",
-  "exlusive_network_warning": "Ai selectată exclusiv o rețea în Preferințe de rețea",
+  "exclusive_network_warning": "Ai selectată exclusiv o rețea în Preferințe de rețea",
   "low_soc_warning": "În setările tale, pleci cu o încărcare mai mică de 15%",
   "high_ref_consumption_warning": "Ai setat un consum de referință al mașinii peste {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Ai setat o degradare foarte mare a bateriei",
@@ -1053,7 +1053,7 @@
   "allow_border_warning": "Nu permiți ca traseul să treacă granița",
   "allow_motorway_warning": "Nu permiți ca traseul să meargă pe o autostradă",
   "allow_toll_warning": "Nu permiți ca traseul să meargă pe un drum cu taxă",
-  "exlude_tesla_warning": "Ai exclus rețeaua Tesla, dar ai selectat doar tipurile de încărcătoare rapide Tesla",
+  "exclude_tesla_warning": "Ai exclus rețeaua Tesla, dar ai selectat doar tipurile de încărcătoare rapide Tesla",
   "plan_error_header": "Nu a fost găsit niciun plan valid",
   "plan_error_description": "Am găsit câteva posibile probleme în setările tale",
   "set_default": "Setare implicită",
@@ -1356,9 +1356,10 @@
   "live_data_integrity_policy_msg": "Folosind oricare dintre aceste opțiuni de date live, ești de acord în mod explicit cu <url>Politica noastră de integritate</url>.",
   "charge_session_completed": "Sesiune de încărcare planificată finalizată",
   "login_success_message": "Ai fost autentificat",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
-  "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "route_options": "Opțiuni rută",
+  "read_more_obd": "Securitate și OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }

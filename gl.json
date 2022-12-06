@@ -1075,7 +1075,7 @@
   },
   "days_affix_one": "día",
   "days_affix_other": "días",
-  "exlusive_network_warning": "Tes seleccionada unha rede exclusiva nas Preferencia de redes",
+  "exclusive_network_warning": "Tes seleccionada unha rede exclusiva nas Preferencia de redes",
   "low_soc_warning": "Nos axustes tes definido saír con menos do 15% da carga",
   "high_ref_consumption_warning": "Tes definido un consumo de referencia por riba dos {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Tes definida unha degradación da batería moi alta",
@@ -1087,7 +1087,7 @@
   "allow_motorway_warning": "Non están permitidas as rutas a través de autoestradas",
   "allow_toll_warning": "Non están permitidas as rutas con portaxes",
   "allow_ferry_warning": "No está permitido o uso do transbordador na ruta",
-  "exlude_tesla_warning": "Excluíches a rede de Tesla, mais só seleccionaches os tipos de cargador rápido de Tesla",
+  "exclude_tesla_warning": "Excluíches a rede de Tesla, mais só seleccionaches os tipos de cargador rápido de Tesla",
   "plan_error_header": "Non se atopou unha ruta válida",
   "plan_error_description": "Atopamos algúns posíbeis problemas nos axustes",
   "set_default": "Definir coma predefinido",
@@ -1359,9 +1359,10 @@
   "live_data_integrity_policy_msg": "Para empregar calquera das opción de datos en tempo real tes que aceptar a nosa <url>política de integridade</url>.",
   "charge_session_completed": "Completouse a sesión de carga planeada",
   "login_success_message": "Iniciaches sesión",
-  "show_gps_speed": "Activar velocidade por GPS",
-  "hide_gps_speed": "Ocultar velocidade por GPS",
-  "route_options": "Opcións da ruta",
-  "end_password_change": "Rematar o troco do contrasinal",
-  "read_more_obd": "Seguranza e OBD"
+  "route_options": "Route options",
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }
