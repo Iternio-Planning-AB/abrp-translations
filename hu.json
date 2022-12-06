@@ -1042,7 +1042,7 @@
   "android_auto_1": "Android Auto használatával kövesd a jármű kijelzőjén látható útvonalakat.",
   "minutes_affix": "perc",
   "destcharger_not_included_in_time": "A Desztinációs töltők töltési idejét nem számítjuk bele a teljes töltési és útvonaltervezési időbe, mivel ez idő alatt más kikapcsolódási vagy egyéb tevékenységet végzel.",
-  "exlusive_network_warning": "1db exckluzív töltő hálózat került kiválasztásra a Hálózati beállításokban",
+  "exclusive_network_warning": "1db exckluzív töltő hálózat került kiválasztásra a Hálózati beállításokban",
   "low_soc_warning": "A beállítások alapján kevesebb, mint 15%-al fogsz elindulni",
   "high_ref_consumption_warning": "Az autód fogyasztását {{ref_consumtion}} Wh/km-nál magasabbra állítottad be",
   "high_battery_degradation_warning": "Túl magas akkumulátor degradációt értéket adtál meg",
@@ -1053,7 +1053,7 @@
   "allow_border_warning": "Az útvonaltervezőben nincs engedélyezve a határátlépés",
   "allow_motorway_warning": "Az útvonaltervezőben nincs engedélyezve az autópálya használata",
   "allow_toll_warning": "Az útvonaltervezőben nincsenek engedélyezve a fizetős útvonalak használata",
-  "exlude_tesla_warning": "A beállításokban nem engedélyezted a Tesla töltő hálózatának használatát, de a töltő típusoknál csak a Tesla töltőit jelölted be",
+  "exclude_tesla_warning": "A beállításokban nem engedélyezted a Tesla töltő hálózatának használatát, de a töltő típusoknál csak a Tesla töltőit jelölted be",
   "plan_error_header": "Érévnyes útvonalterv nem található",
   "plan_error_description": "A beállításokban találtunk néhány lehetséges hibát",
   "set_default": "Alaphelyzetbe állítás",
@@ -1356,9 +1356,10 @@
   "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
   "charge_session_completed": "Planned charge session completed",
   "login_success_message": "You where logged in",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }

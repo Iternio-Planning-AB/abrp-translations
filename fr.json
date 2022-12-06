@@ -1041,7 +1041,7 @@
   "android_auto_1": "Suivez l'itinéraire depuis l'écran de votre véhicule en utilisant Android Auto.",
   "minutes_affix": "min",
   "destcharger_not_included_in_time": "Les chargeurs à destination (niveau 2) ne sont pas inclus dans le temps total du trajet (ou le temps total de charge) car nous supposons que vous faites autre chose pendant la charge.",
-  "exlusive_network_warning": "Vous avez un réseau exclusif sélectionné sous 'Préférences de réseau' ",
+  "exclusive_network_warning": "Vous avez un réseau exclusif sélectionné sous 'Préférences de réseau' ",
   "low_soc_warning": "Dans vos paramètres, vous partez avec moins de 15 % de charge",
   "high_ref_consumption_warning": "Vous avez défini une consommation de référence de votre véhicule supérieure à {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Vous avez défini une très forte dégradation de la batterie",
@@ -1052,7 +1052,7 @@
   "allow_border_warning": "Vous n'autorisez pas l'itinéraire à franchir une frontière",
   "allow_motorway_warning": "Vous n'autorisez pas l'itinéraire à emprunter une autoroute",
   "allow_toll_warning": "Vous n'autorisez pas l'itinéraire à emprunter une route à péage",
-  "exlude_tesla_warning": "Vous avez exclu le réseau Tesla mais n'avez sélectionné que des types de chargeurs rapides Tesla",
+  "exclude_tesla_warning": "Vous avez exclu le réseau Tesla mais n'avez sélectionné que des types de chargeurs rapides Tesla",
   "plan_error_header": "Aucun plan valide trouvé",
   "plan_error_description": "Nous avons trouvé des incohérences possibles dans vos paramètres",
   "set_default": "Définir par défaut",
@@ -1355,9 +1355,10 @@
   "live_data_integrity_policy_msg": "En utilisant l'une de ces options Live Data, vous acceptez explicitement notre <url>Politique d'intégrité</url>.",
   "charge_session_completed": "Session de charge plannifiée terminée",
   "login_success_message": "Vous êtes connecté",
-  "show_gps_speed": "Enable GPS speed",
-  "hide_gps_speed": "Hide GPS speed",
   "route_options": "Route options",
-  "end_password_change": "End password change",
-  "read_more_obd": "Security and OBD"
+  "read_more_obd": "Security and OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }
