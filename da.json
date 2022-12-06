@@ -1363,8 +1363,5 @@
   "no_chargers_remove": "Har ingen opladere, fjern venligst!",
   "networks_prefer": "Foretrækker",
   "networks_avoid": "Undgå",
-  "title_address_input": "Hvor vil du hen?",
-  "show_gps_speed": "Vis GPS fart",
-  "hide_gps_speed": "Skjul GPS fart",
-  "end_password_change": "Afslut ændring af adgangskode"
+  "title_address_input": "Hvor vil du hen?"
 }
