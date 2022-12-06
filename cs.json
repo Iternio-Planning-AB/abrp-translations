@@ -1062,7 +1062,7 @@
   "at_clock": "v",
   "move_of_amenity_to_step_one": "Nemůžete přesunout průjezdní bod se službami na první krok",
   "minutes_affix": "min.",
-  "exlusive_network_warning": "V nastavení sítí máte zvolenou exkluzivně jednu síť.",
+  "exclusive_network_warning": "V nastavení sítí máte zvolenou exkluzivně jednu síť.",
   "low_soc_warning": "Nastavili jste odjezd s menším nabitím baterie než 15 %",
   "high_ref_consumption_warning": "Nastavili jste referenční spotřebu Vašeho vozidla nad {{ref_consumtion}} Wh/km",
   "high_battery_degradation_warning": "Nastavili jste velmi vysokou degradaci baterie",
@@ -1073,7 +1073,7 @@
   "allow_border_warning": "Zakázali jste trasu přes hranice",
   "allow_motorway_warning": "Zakázali jste trasu s využitím dálnic",
   "allow_toll_warning": "Zakázali jste trasu s využitím silnic s mýtem",
-  "exlude_tesla_warning": "Vyjmuli jste síť Tesla, ale zvolili jste jen rychlonabíječky Tesly",
+  "exclude_tesla_warning": "Vyjmuli jste síť Tesla, ale zvolili jste jen rychlonabíječky Tesly",
   "plan_error_header": "Nebyl nalezen žádný platný plán",
   "plan_error_description": "Ve Vašem nastavení jsme našli některé možné problémy",
   "set_default": "Nastavit na výchozí",
@@ -1356,9 +1356,10 @@
   "live_data_integrity_policy_msg": "Použitím jakékoli z těchto voleb živých dat výslovně souhlasíte s našimi <url>Zásadami integrity</url>.",
   "charge_session_completed": "Naplánované nabíjení bylo dokončeno",
   "login_success_message": "Byli jste přihlášeni",
-  "show_gps_speed": "Zobrazit rychlost z GPS",
-  "hide_gps_speed": "Skrýt rychlost z GPS",
   "route_options": "Volby trasy",
-  "end_password_change": "End password change",
-  "read_more_obd": "Zabezpečení a OBD"
+  "read_more_obd": "Zabezpečení a OBD",
+  "no_chargers_remove": "Has no chargers, please remove!",
+  "networks_prefer": "Prefer",
+  "networks_avoid": "Avoid",
+  "title_address_input": "Where do you want to go?"
 }
