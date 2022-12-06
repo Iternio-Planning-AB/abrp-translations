@@ -1361,8 +1361,8 @@
   "login_success_message": "Вы вошли в систему",
   "route_options": "Варианты маршрута",
   "read_more_obd": "Безопасность и OBD",
-  "no_chargers_remove": "Has no chargers, please remove!",
-  "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid",
-  "title_address_input": "Where do you want to go?"
+  "no_chargers_remove": "Нет зарядных станций, удалите, пожалуйста!",
+  "networks_prefer": "Предпочитать",
+  "networks_avoid": "Избегать",
+  "title_address_input": "Куда Вы хотите направиться?"
 }
