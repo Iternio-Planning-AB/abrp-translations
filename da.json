@@ -1358,13 +1358,13 @@
   "live_data_integrity_policy_msg": "Ved at bruge nogen af disse Live Data-muligheder accepterer du udtrykkeligt vores <url>integritetspolitik</url>.",
   "charge_session_completed": "Planlagt opladningssession afsluttet",
   "login_success_message": "Du var logget ind",
+  "route_options": "Rutemuligheder",
+  "read_more_obd": "Sikkerhed og OBD",
+  "no_chargers_remove": "Har ingen opladere, fjern venligst!",
+  "networks_prefer": "Foretrækker",
+  "networks_avoid": "Undgå",
+  "title_address_input": "Hvor vil du hen?",
   "show_gps_speed": "Vis GPS fart",
   "hide_gps_speed": "Skjul GPS fart",
-  "route_options": "Rutemuligheder",
-  "end_password_change": "Afslut ændring af adgangskode",
-  "read_more_obd": "Sikkerhed og OBD",
-  "no_chargers_remove": "Has no chargers, please remove!",
-  "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid",
-  "title_address_input": "Where do you want to go?"
+  "end_password_change": "Afslut ændring af adgangskode"
 }
