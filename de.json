@@ -1361,8 +1361,8 @@
   "login_success_message": "Du hast dich eingeloggt",
   "route_options": "Routenoptionen",
   "read_more_obd": "Sicherheit und OBD",
-  "no_chargers_remove": "Has no chargers, please remove!",
-  "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid",
-  "title_address_input": "Where do you want to go?"
+  "no_chargers_remove": "Hat keine Ladepunkte, bitte entfernen!",
+  "networks_prefer": "Bevorzuge",
+  "networks_avoid": "Vermeide",
+  "title_address_input": "Wohin möchtest Du fahren?"
 }
