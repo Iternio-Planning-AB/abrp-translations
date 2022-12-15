@@ -1359,10 +1359,10 @@
   "live_data_integrity_policy_msg": "Para empregar calquera das opción de datos en tempo real tes que aceptar a nosa <url>política de integridade</url>.",
   "charge_session_completed": "Completouse a sesión de carga planeada",
   "login_success_message": "Iniciaches sesión",
-  "route_options": "Route options",
-  "read_more_obd": "Security and OBD",
-  "no_chargers_remove": "Has no chargers, please remove!",
-  "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid",
-  "title_address_input": "Where do you want to go?"
+  "route_options": "Opcións da ruta",
+  "read_more_obd": "Seguranza e OBD",
+  "no_chargers_remove": "Sen cargadores, por favor, eliminar!",
+  "networks_prefer": "Preferir",
+  "networks_avoid": "Evitar",
+  "title_address_input": "Onde desexas ir?"
 }
