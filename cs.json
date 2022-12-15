@@ -1358,8 +1358,8 @@
   "login_success_message": "Byli jste přihlášeni",
   "route_options": "Volby trasy",
   "read_more_obd": "Zabezpečení a OBD",
-  "no_chargers_remove": "Has no chargers, please remove!",
-  "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid",
-  "title_address_input": "Where do you want to go?"
+  "no_chargers_remove": "Nemá žádné nabíječky, odeberte jej!",
+  "networks_prefer": "Preferovat",
+  "networks_avoid": "Vyhnout se",
+  "title_address_input": "Kam chcete jet?"
 }
