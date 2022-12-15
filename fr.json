@@ -1355,10 +1355,10 @@
   "live_data_integrity_policy_msg": "En utilisant l'une de ces options Live Data, vous acceptez explicitement notre <url>Politique d'intégrité</url>.",
   "charge_session_completed": "Session de charge plannifiée terminée",
   "login_success_message": "Vous êtes connecté",
-  "route_options": "Route options",
-  "read_more_obd": "Security and OBD",
-  "no_chargers_remove": "Has no chargers, please remove!",
-  "networks_prefer": "Prefer",
-  "networks_avoid": "Avoid",
-  "title_address_input": "Where do you want to go?"
+  "route_options": "Options d'itinéraire",
+  "read_more_obd": "Sécurité et OBD",
+  "no_chargers_remove": "N'a pas de chargeurs, veuillez les supprimer !",
+  "networks_prefer": "Préférer",
+  "networks_avoid": "Éviter",
+  "title_address_input": "Où voulez-vous aller ?",
 }
