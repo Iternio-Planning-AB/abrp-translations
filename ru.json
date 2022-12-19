@@ -1378,11 +1378,11 @@
   "carmirror_no_waypoint_title": "Нет путевой точки",
   "carmirror_more_info_if_charger": "Здесь отображается дополнительная информация о зарядках",
   "carmirror_show_step_name": "Показать название шага на индикаторе состояния батареи",
-  "carmirror_map_display": "Карта и дисплей",
+  "carmirror_map_display": "Карта и отображение",
   "carmirror_map_settings": "Настройки карты",
-  "carmirror_display_settings": "Настройки дисплея",
-  "carmirror_route_options": "Варианты маршрута",
+  "carmirror_display_settings": "Настройки отображения",
+  "carmirror_route_options": "Параметры маршрута",
   "carmirror_select_map": "Выберите карту",
   "carmirror_unnamed_config": "Безымянная конфигурация",
-  "carmirror_final_destination": "Пункт назначения"
+  "carmirror_final_destination": "Конечный пункт назначения"
 }
