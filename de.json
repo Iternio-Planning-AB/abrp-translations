@@ -1384,5 +1384,6 @@
   "carmirror_route_options": "Routenoptionen",
   "carmirror_select_map": "Wähle eine Karte",
   "carmirror_unnamed_config": "Unbenannte Konfiguration",
-  "carmirror_final_destination": "Endgültiges Ziel"
+  "carmirror_final_destination": "Endgültiges Ziel",
+  "carmirror_time_until": "Time until"
 }

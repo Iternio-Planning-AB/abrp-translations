@@ -1366,7 +1366,8 @@
   "carmirror_toggle_to_x": "Comutați la {{x}}",
   "carmirror_gps_speed": "Arată viteza GPS",
   "carmirror_charger_prefs_short_many_max_10_letters": "Scurt - multe",
-  "carmirror_charger_prefs_quickest_max_8_letters": "Cel mai rapid", "carmirror_charger_prefs_long_few_max_10_letters": "Lung - puține",
+  "carmirror_charger_prefs_quickest_max_8_letters": "Cel mai rapid",
+  "carmirror_charger_prefs_long_few_max_10_letters": "Lung - puține",
   "carmirror_change_vehicle_config": "Schimbă configurația vehiculului",
   "carmirror_available_chargers": "Încărcătoare disponibile",
   "carmirror_charger_alternatives": "Încărcătoare alternative",
@@ -1380,5 +1381,6 @@
   "carmirror_route_options": "Opțiuni traseu",
   "carmirror_select_map": "Selectează o hartă",
   "carmirror_unnamed_config": "Configurație fără nume",
-  "carmirror_final_destination": "Destinație finală"
+  "carmirror_final_destination": "Destinație finală",
+  "carmirror_time_until": "Time until"
 }

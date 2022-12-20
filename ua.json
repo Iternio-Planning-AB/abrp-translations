@@ -1381,5 +1381,6 @@
   "carmirror_route_options": "Параметри маршруту",
   "carmirror_select_map": "Виберіть мапу",
   "carmirror_unnamed_config": "Конфігурація без назви",
-  "carmirror_final_destination": "Кінцевий пункт призначення"
+  "carmirror_final_destination": "Кінцевий пункт призначення",
+  "carmirror_time_until": "Time until"
 }
