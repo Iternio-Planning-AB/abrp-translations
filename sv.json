@@ -1063,7 +1063,7 @@
   "plan_error_header": "Ingen plan gick att hitta",
   "plan_error_description": "Vi hittade några möjliga fel i dina inställningar",
   "set_default": "Set to default",
-  "adjust_speed_text": "Reglera hastigheten till max {{modSpeed}} {{unit}} för att nå nästa laddare",
+  "adjust_speed_text": "Håll max {{modSpeed}} {{unit}} för att nå nästa laddare",
   "report_error": "Rapportera ett fel till oss",
   "automatic_settings_notlm_description": "Use live weather and traffic data as well as default values for reference consumption and SoC.",
   "charge_cards_no_cards_selected": "Lägg till laddkort du har till ditt konto för att få dessa priser för laddnignar och hjälp att välja vilket kort att ladda med",
