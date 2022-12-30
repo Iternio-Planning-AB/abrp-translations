@@ -1327,7 +1327,7 @@
   "no_selected_charge_cards": "Niciun card de taxare selectat",
   "active_charge_cards": "Carduri de încărcare active",
   "edit_favorite_settings_description": "Selectează setările pe care le utilizezi des, ordonează lista pentru a ordona setările",
-  "charger_stops_title": "Charger Stops",
+  "charger_stops_title": "Încărcătorul se oprește",
   "profile_edit_full_name": "Editează numele complet",
   "profile_edit_email": "Editează e-mailul",
   "profile_edit_password": "Editează parola",
@@ -1382,5 +1382,5 @@
   "carmirror_select_map": "Selectează o hartă",
   "carmirror_unnamed_config": "Configurație fără nume",
   "carmirror_final_destination": "Destinație finală",
-  "carmirror_time_until": "Time until"
+  "carmirror_time_until": "Timp până la"
 }
