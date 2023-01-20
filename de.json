@@ -1385,5 +1385,14 @@
   "carmirror_select_map": "Wähle eine Karte",
   "carmirror_unnamed_config": "Unbenannte Konfiguration",
   "carmirror_final_destination": "Endgültiges Ziel",
-  "carmirror_time_until": "Time until"
+  "carmirror_time_until": "Zeit bis",
+  "tts_install": "Die Sprachausgabe muss installiert werden. Sie wird zum Vorlesen von Navigationsanweisungen benötigt. Bitte installiere die Sprachausgabe aus dem Play Store. Wenn keine Navigationsanweisungen benötigt werden, können diese über Ignorieren deaktiviert werden.",
+  "tts_install_title": "Sprachausgabe wird benötigt",
+  "tts_install_data": "Die Sprachausgabe benötigt zusätzliche Sprachdateien. Diese werden benötigt, um Navigationsanweisungen vorzulesen. Bitte installiere die Sprachpakete für deine Sprache. Wenn keine Navigationsanweisungen benötigt werden, können diese über Ignorieren deaktiviert werden.",
+  "tts_install_data_title": "Sprachdaten für Sprachausgabe benötigt",
+  "install": "Installieren",
+  "tronity_disclaimer": "This data comes from TRONITY and is relayed to ABRP. It is governed by the terms of service between you and TRONITY. Activity data will not be stored in ABRP but is available in TRONITY.",
+  "no_better_alternatives": "Sorry we could not find any better alternatives",
+  "edit_car_configuration_title": "Edit car configuration",
+  "add_car_configuration_title": "Add car configuration"
 }

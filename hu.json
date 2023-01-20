@@ -1382,5 +1382,14 @@
   "carmirror_select_map": "Select a Map",
   "carmirror_unnamed_config": "Unnamed Config",
   "carmirror_final_destination": "Final destination",
-  "carmirror_time_until": "Time until"
+  "carmirror_time_until": "Time until",
+  "tronity_disclaimer": "This data comes from TRONITY and is relayed to ABRP. It is governed by the terms of service between you and TRONITY. Activity data will not be stored in ABRP but is available in TRONITY.",
+  "no_better_alternatives": "Sorry we could not find any better alternatives",
+  "edit_car_configuration_title": "Edit car configuration",
+  "add_car_configuration_title": "Add car configuration",
+  "tts_install": "The voice engine needs to be installed. This is needed to read out instructions. Please install the voice engine from play store. If you do not need voice instructions you can click ignore and it will be disabled.",
+  "tts_install_title": "voice engine needed",
+  "tts_install_data": "The voice engine requires additional language data to be downloaded. This is needed to read out instructions. Please install the voice packs for your language. If you do not need voice instructions you can click ignore and it will be disabled.",
+  "tts_install_data_title": "Voice language data needed",
+  "install": "Install"
 }
