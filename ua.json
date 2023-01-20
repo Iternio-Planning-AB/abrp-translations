@@ -1383,13 +1383,13 @@
   "carmirror_unnamed_config": "Конфігурація без назви",
   "carmirror_final_destination": "Кінцевий пункт призначення",
   "carmirror_time_until": "Час до",
-  "tronity_disclaimer": "This data comes from TRONITY and is relayed to ABRP. It is governed by the terms of service between you and TRONITY. Activity data will not be stored in ABRP but is available in TRONITY.",
-  "no_better_alternatives": "Sorry we could not find any better alternatives",
-  "edit_car_configuration_title": "Edit car configuration",
-  "add_car_configuration_title": "Add car configuration",
-  "tts_install": "The voice engine needs to be installed. This is needed to read out instructions. Please install the voice engine from play store. If you do not need voice instructions you can click ignore and it will be disabled.",
-  "tts_install_title": "voice engine needed",
-  "tts_install_data": "The voice engine requires additional language data to be downloaded. This is needed to read out instructions. Please install the voice packs for your language. If you do not need voice instructions you can click ignore and it will be disabled.",
-  "tts_install_data_title": "Voice language data needed",
-  "install": "Install"
+  "tronity_disclaimer": "Ці дані надходять від TRONITY і передаються до ABRP. Вони регулюються умовами надання послуг між вами та TRONITY. Дані про активність не зберігаються в ABRP, але доступні в TRONITY.",
+  "no_better_alternatives": "На жаль, ми не змогли знайти кращих альтернатив",
+  "edit_car_configuration_title": "Редагувати конфігурації автомобіля",
+  "add_car_configuration_title": "Додати конфігурації автомобіля",
+  "tts_install": "Потрібно встановити голосовий движок. Це необхідно для зачитування інструкцій. Будь ласка, встановіть голосовий движок з Play Store. Якщо вам не потрібні голосові інструкції, ви можете натиснути ігнорувати, і він буде вимкнений.",
+  "tts_install_title": "потрібен голосовий движок",
+  "tts_install_data": "Голосовий движок вимагає завантаження додаткових мовних даних. Це необхідно для зачитування інструкцій. Будь ласка, встановіть голосові пакети для вашої мови. Якщо вам не потрібні голосові інструкції, ви можете натиснути кнопку ігнорувати, і вони будуть вимкнені.",
+  "tts_install_data_title": "Необхідні дані про мову голосу",
+  "install": "Встановити"
 }
