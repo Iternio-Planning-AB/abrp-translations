@@ -1386,13 +1386,13 @@
   "carmirror_unnamed_config": "Config. sen nome",
   "carmirror_final_destination": "Destino final",
   "carmirror_time_until": "Tempo até",
-  "tronity_disclaimer": "This data comes from TRONITY and is relayed to ABRP. It is governed by the terms of service between you and TRONITY. Activity data will not be stored in ABRP but is available in TRONITY.",
+  "tronity_disclaimer": "Estes datos proceden de TRONITY e transferidos ao ABRP. Réxense polos termos de servizo entre vostede e TRONITY. Os datos de activdade non serán gardados no ABRP mais están dispoñíbeis no TRONITY.",
   "no_better_alternatives": "Sorry we could not find any better alternatives",
-  "edit_car_configuration_title": "Edit car configuration",
-  "add_car_configuration_title": "Add car configuration",
-  "tts_install": "The voice engine needs to be installed. This is needed to read out instructions. Please install the voice engine from play store. If you do not need voice instructions you can click ignore and it will be disabled.",
-  "tts_install_title": "voice engine needed",
-  "tts_install_data": "The voice engine requires additional language data to be downloaded. This is needed to read out instructions. Please install the voice packs for your language. If you do not need voice instructions you can click ignore and it will be disabled.",
-  "tts_install_data_title": "Voice language data needed",
-  "install": "Install"
+  "edit_car_configuration_title": "Editar axustes do coche",
+  "add_car_configuration_title": "Angadir axustes do coche",
+  "tts_install": "É necesario instalar o motor de voz. Este é necesario para ler as instrucións. Por favor, instala o motor dende a play store. e non precisas de instrucións por voz, preme en ignorar para deshabilitar isto.",
+  "tts_install_title": "é preciso un motor de voz",
+  "tts_install_data": "O motor de voz precisa descargar datos adicionais do idioma. É preciso para ler instrucións. Por favor, instala os paquetes para o teu idioma. Se non precisas de instrucións por voz, preme en ignorar para deshabilitar isto.",
+  "tts_install_data_title": "Precísanse datos da voz do idioma",
+  "install": "Instalar"
 }
