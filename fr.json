@@ -1390,5 +1390,11 @@
   "tts_install_title": "voice engine needed",
   "tts_install_data": "The voice engine requires additional language data to be downloaded. This is needed to read out instructions. Please install the voice packs for your language. If you do not need voice instructions you can click ignore and it will be disabled.",
   "tts_install_data_title": "Voice language data needed",
-  "install": "Install"
+  "install": "Install",
+  "load_plan_settings_title": "Load plan settings?",
+  "load_plan_settings_title_description": "Do you wish to load this plans settings or use your own? You will always be able to restore your own settings when swaping back to your vehicle.",
+  "warning_overwriting_unsaved_vehicle": "Warning!",
+  "warning_overwriting_unsaved_vehicle_description": "You currently have an unsaved vehicle selected. By loading this plan with settings this vehicle and it's settings will be lost forever.",
+  "load_plan_settings_title_description_saved_plans": "Do you want to overwrite your current settings with the once used in this saved plan? Tip: We keep one set of settings for each configuration of your car.",
+  "load_plan_settings_title_description_recent_plans": "Do you want to overwrite your current settings with the once used in this plan?"
 }
