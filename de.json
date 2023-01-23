@@ -1385,7 +1385,7 @@
   "carmirror_select_map": "Wähle eine Karte",
   "carmirror_unnamed_config": "Unbenannte Konfiguration",
   "carmirror_final_destination": "Zielort",
-  "carmirror_time_until": "Zeit bis dahin"
+  "carmirror_time_until": "Zeit bis dahin",
   "tts_install": "Die Sprachausgabe muss installiert werden. Sie wird zum Vorlesen von Navigationsanweisungen benötigt. Bitte installiere die Sprachausgabe aus dem Play Store. Wenn keine Navigationsanweisungen benötigt werden, können diese über Ignorieren deaktiviert werden.",
   "tts_install_title": "Sprachausgabe wird benötigt",
   "tts_install_data": "Die Sprachausgabe benötigt zusätzliche Sprachdateien. Diese werden benötigt, um Navigationsanweisungen vorzulesen. Bitte installiere die Sprachpakete für deine Sprache. Wenn keine Navigationsanweisungen benötigt werden, können diese über Ignorieren deaktiviert werden.",
@@ -1394,5 +1394,11 @@
   "tronity_disclaimer": "Diese Daten stammen von TRONITY und werden an ABRP weitergeleitet. Sie werden durch die Nutzungsbedingungen zwischen dir und TRONITY geregelt. Aktivitätsdaten werden nicht in ABRP gespeichert, sind aber in TRONITY verfügbar.",
   "no_better_alternatives": "Leider konnten wir keine besseren Alternativen finden",
   "edit_car_configuration_title": "Fahrzeugkonfiguration bearbeiten",
-  "add_car_configuration_title": "Fahrzeugkonfiguration hinzufügen"
+  "add_car_configuration_title": "Fahrzeugkonfiguration hinzufügen",
+  "load_plan_settings_title": "Load plan settings?",
+  "load_plan_settings_title_description": "Do you wish to load this plans settings or use your own? You will always be able to restore your own settings when swaping back to your vehicle.",
+  "warning_overwriting_unsaved_vehicle": "Warning!",
+  "warning_overwriting_unsaved_vehicle_description": "You currently have an unsaved vehicle selected. By loading this plan with settings this vehicle and it's settings will be lost forever.",
+  "load_plan_settings_title_description_saved_plans": "Do you want to overwrite your current settings with the once used in this saved plan? Tip: We keep one set of settings for each configuration of your car.",
+  "load_plan_settings_title_description_recent_plans": "Do you want to overwrite your current settings with the once used in this plan?"
 }
