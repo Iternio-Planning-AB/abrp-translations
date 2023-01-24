@@ -1395,10 +1395,8 @@
   "no_better_alternatives": "Leider konnten wir keine besseren Alternativen finden",
   "edit_car_configuration_title": "Fahrzeugkonfiguration bearbeiten",
   "add_car_configuration_title": "Fahrzeugkonfiguration hinzufügen",
-  "load_plan_settings_title": "Load plan settings?",
-  "load_plan_settings_title_description": "Do you wish to load this plans settings or use your own? You will always be able to restore your own settings when swaping back to your vehicle.",
-  "warning_overwriting_unsaved_vehicle": "Warning!",
-  "warning_overwriting_unsaved_vehicle_description": "You currently have an unsaved vehicle selected. By loading this plan with settings this vehicle and it's settings will be lost forever.",
-  "load_plan_settings_title_description_saved_plans": "Do you want to overwrite your current settings with the once used in this saved plan? Tip: We keep one set of settings for each configuration of your car.",
-  "load_plan_settings_title_description_recent_plans": "Do you want to overwrite your current settings with the once used in this plan?"
+  "load_plan_title": "Load plan",
+  "load_plan_description": "Do you want to load and overwrite all plan settings from this plan or only destinations?",
+  "load_plan_destinations": "Destinations only",
+  "load_plan_all": "All plan settings"
 }
