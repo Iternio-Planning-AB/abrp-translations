@@ -1391,5 +1391,9 @@
   "tts_install_title": "e necesar motorul de voce",
   "tts_install_data": "Motorul de voce necesită descărcarea datelor suplimentare de limbă. Acest lucru este necesar pentru a citi instrucțiunile. Te rugăm să instalezi pachetele vocale pentru limba ta. Dacă nu ai nevoie de instrucțiuni vocale, poți face clic pe ignoră și va fi dezactivat.",
   "tts_install_data_title": "Sunt necesare date de limbă vocală",
-  "install": "Instalează"
+  "install": "Instalează",
+  "load_plan_title": "Load plan",
+  "load_plan_description": "Do you want to load and overwrite all plan settings from this plan or only destinations?",
+  "load_plan_destinations": "Destinations only",
+  "load_plan_all": "All plan settings"
 }
