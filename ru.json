@@ -1398,5 +1398,20 @@
   "load_plan_title": "Load plan",
   "load_plan_description": "Do you want to load and overwrite all plan settings from this plan or only destinations?",
   "load_plan_destinations": "Destinations only",
-  "load_plan_all": "All plan settings"
+  "load_plan_all": "All plan settings",
+  "saved_destination_title_add": "Add a saved destination",
+  "save_location": "Save this location",
+  "saved_destinations_title": "Saved destinations",
+  "saved_destinations_description": "You can save destinations by clicking on the desired location on the map",
+  "set_home": "Set home",
+  "set_work": "Set work",
+  "more": "more",
+  "edit_saved_destination": "Edit saved destination",
+  "add_new_destination": "Add a new destination",
+  "less": "less",
+  "saved_destinations_select_icon": "Select an icon",
+  "name_required": "Name is required",
+  "show_markers_map": "Show on map",
+  "show_markers_map_description": "Show your saved destinations as markers on map",
+  "hide_nullish_home_work": "Hide unassigned home and work locations"
 }
