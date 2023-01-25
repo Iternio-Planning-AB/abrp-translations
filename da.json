@@ -1393,5 +1393,9 @@
   "tts_install_title": "stemmer nødvendig",
   "tts_install_data": "Stemmestyringen kræver yderligere sprogdata for at blive downloadet. Dette er nødvendigt for at læse instruktionerne. Installer venligst stemmepakkerne til dit sprog. Hvis du ikke har brug for stemmeinstruktioner, kan du klikke på ignorer, og det vil blive deaktiveret.",
   "tts_install_data_title": "Stemmestyringen kræver yderligere sprogdata",
-  "install": "Installer"
+  "install": "Installer",
+  "load_plan_title": "Load plan",
+  "load_plan_description": "Do you want to load and overwrite all plan settings from this plan or only destinations?",
+  "load_plan_destinations": "Destinations only",
+  "load_plan_all": "All plan settings"
 }
