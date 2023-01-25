@@ -1393,5 +1393,9 @@
   "tts_install_title": "voice engine needed",
   "tts_install_data": "The voice engine requires additional language data to be downloaded. This is needed to read out instructions. Please install the voice packs for your language. If you do not need voice instructions you can click ignore and it will be disabled.",
   "tts_install_data_title": "Voice language data needed",
-  "install": "Install"
+  "install": "Install",
+  "load_plan_title": "Load plan",
+  "load_plan_description": "Do you want to load and overwrite all plan settings from this plan or only destinations?",
+  "load_plan_destinations": "Destinations only",
+  "load_plan_all": "All plan settings"
 }

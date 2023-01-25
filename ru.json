@@ -1394,5 +1394,9 @@
   "tts_install_title": "нужен голосовой движок",
   "tts_install_data": "Голосовой движок требует загрузки дополнительных языковых данных. Это необходимо для чтения инструкций. Пожалуйста, установите голосовые пакеты для вашего языка. Если вам не нужны голосовые инструкции, вы можете нажать кнопку игнорировать, и они будут отключены.",
   "tts_install_data_title": "Нужны данные о языке голоса",
-  "install": "Установить"
+  "install": "Установить",
+  "load_plan_title": "Load plan",
+  "load_plan_description": "Do you want to load and overwrite all plan settings from this plan or only destinations?",
+  "load_plan_destinations": "Destinations only",
+  "load_plan_all": "All plan settings"
 }
