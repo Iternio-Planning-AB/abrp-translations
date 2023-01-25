@@ -1394,5 +1394,9 @@
   "tts_install_title": "é preciso un motor de voz",
   "tts_install_data": "O motor de voz precisa descargar datos adicionais do idioma. É preciso para ler instrucións. Por favor, instala os paquetes para o teu idioma. Se non precisas de instrucións por voz, preme en ignorar para deshabilitar isto.",
   "tts_install_data_title": "Precísanse datos da voz do idioma",
-  "install": "Instalar"
+  "install": "Instalar",
+  "load_plan_title": "Load plan",
+  "load_plan_description": "Do you want to load and overwrite all plan settings from this plan or only destinations?",
+  "load_plan_destinations": "Destinations only",
+  "load_plan_all": "All plan settings"
 }
