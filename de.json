@@ -1413,5 +1413,5 @@
   "name_required": "Name ist erforderlich",
   "show_markers_map": "Auf der Karte anzeigen",
   "show_markers_map_description": "Anzeige deiner gespeicherten Ziele als Markierungen auf der Karte",
-  "hide_nullish_home_work": "Nicht zugewiesene Wohn- und Arbeitsstellen ausblenden"
+  "hide_nullish_home_work": "Ausblenden unzugewiesener Wohn- und Arbeitsorte"
 }
