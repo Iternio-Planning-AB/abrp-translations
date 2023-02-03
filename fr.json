@@ -1409,5 +1409,5 @@
   "name_required": "Un nom est requis",
   "show_markers_map": "Afficher sur la carte",
   "show_markers_map_description": "Afficher vos destinations sauvegardées sous forme de marqueurs sur la carte",
-  "hide_nullish_home_work": "Masquer les lieux Domicile et Travail si non attribués"
+  "hide_nullish_home_work": "Masquer Domicile/Travail si non attribués"
 }
