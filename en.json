@@ -452,7 +452,7 @@
   "realtime_chargers": "Charger availability",
   "realtime_chargers_description": "Use realtime charger availability and forecast in planning, if available.",
   "charger_busy_low": "Not busy",
-  "charger_busy_medium": "Busy",
+  "charger_busy_medium": "Moderately busy",
   "charger_busy_high": "Very busy",
   "migrate_tesla_title": "Migrate your Tesla",
   "migrate_tesla_description": "Do you want to save your existing Tesla in the new ABRP version?",
