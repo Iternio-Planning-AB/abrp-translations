@@ -1412,5 +1412,7 @@
   "name_required": "Navn er påkrævet",
   "show_markers_map": "Vis på kort",
   "show_markers_map_description": "Vis dine gemte destinationer som markører på kortet",
-  "hide_nullish_home_work": "Skjul ikke-tildelte hjem- og arbejdssteder"
+  "hide_nullish_home_work": "Skjul ikke-tildelte hjem- og arbejdssteder",
+  "log_in_failed": "Sorry we could not log you in, please try again.",
+  "carmirror_network": "Network"
 }

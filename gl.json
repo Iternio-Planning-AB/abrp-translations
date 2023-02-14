@@ -1413,5 +1413,7 @@
   "name_required": "Requírese un nome",
   "show_markers_map": "Amosar no mapa",
   "show_markers_map_description": "Amosar os enderezos gardados coma marcadores no mapa",
-  "hide_nullish_home_work": "Ocultar as localizacións para Casa e Traballo sen asignar"
+  "hide_nullish_home_work": "Ocultar as localizacións para Casa e Traballo sen asignar",
+  "log_in_failed": "Sorry we could not log you in, please try again.",
+  "carmirror_network": "Network"
 }

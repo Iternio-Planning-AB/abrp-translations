@@ -1410,5 +1410,7 @@
   "name_required": "Název je vyžadován",
   "show_markers_map": "Zobrazit na mapě",
   "show_markers_map_description": "Zobrazí Vaše uložené cíle jako značky na mapě",
-  "hide_nullish_home_work": "Skrýt nepřiřazené adresy domů a do práce"
+  "hide_nullish_home_work": "Skrýt nepřiřazené adresy domů a do práce",
+  "log_in_failed": "Sorry we could not log you in, please try again.",
+  "carmirror_network": "Network"
 }

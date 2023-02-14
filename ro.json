@@ -1410,5 +1410,7 @@
   "name_required": "Este necesar numele",
   "show_markers_map": "Arată pe hartă",
   "show_markers_map_description": "Afișează pe hartă destinațiile salvate ca marcatori",
-  "hide_nullish_home_work": "Ascunde locațiile de acasă și de la serviciu nealocate"
+  "hide_nullish_home_work": "Ascunde locațiile de acasă și de la serviciu nealocate",
+  "log_in_failed": "Sorry we could not log you in, please try again.",
+  "carmirror_network": "Network"
 }

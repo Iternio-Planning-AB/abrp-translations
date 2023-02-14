@@ -1413,5 +1413,7 @@
   "name_required": "Imię jest wymagane",
   "show_markers_map": "Pokaż na mapie",
   "show_markers_map_description": "Pokaż zapisane cele jako znaczniki na mapie",
-  "hide_nullish_home_work": "Ukryj nieprzypisane lokalizacje domu i pracy"
+  "hide_nullish_home_work": "Ukryj nieprzypisane lokalizacje domu i pracy",
+  "log_in_failed": "Sorry we could not log you in, please try again.",
+  "carmirror_network": "Network"
 }

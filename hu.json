@@ -1410,5 +1410,7 @@
   "name_required": "Name is required",
   "show_markers_map": "Show on map",
   "show_markers_map_description": "Show your saved destinations as markers on map",
-  "hide_nullish_home_work": "Hide unassigned home and work locations"
+  "hide_nullish_home_work": "Hide unassigned home and work locations",
+  "log_in_failed": "Sorry we could not log you in, please try again.",
+  "carmirror_network": "Network"
 }

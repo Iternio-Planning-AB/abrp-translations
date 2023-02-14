@@ -425,9 +425,9 @@
   "cookies_ok": "OK",
   "realtime_chargers": "Ladesäulenverfügbarkeit",
   "realtime_chargers_description": "Bei der Planung die Echtzeit-Ladesäulenverfügbarkeit und -vorhersage verwenden, wenn verfügbar",
-  "charger_busy_low": "Geringe Auslastung",
-  "charger_busy_medium": "Mittlere Auslastung",
-  "charger_busy_high": "Hohe Auslastung",
+  "charger_busy_low": "Nicht ausgelastet",
+  "charger_busy_medium": "Ausgelastet",
+  "charger_busy_high": "Sehr ausgelastet",
   "migrate_tesla_title": "Deinen Tesla migrieren",
   "migrate_tesla_description": "Möchtest du deinen bestehenden Tesla in der neuen ABRP-Version speichern?",
   "out_of_order": "Außer Betrieb",
@@ -1414,6 +1414,6 @@
   "name_required": "Name ist erforderlich",
   "show_markers_map": "Auf der Karte anzeigen",
   "show_markers_map_description": "Anzeige deiner gespeicherten Ziele als Markierungen auf der Karte",
-  "hide_nullish_home_work": "Ausblenden unzugewiesener Wohn- und Arbeitsorte",
+  "hide_nullish_home_work": "Nicht zugewiesene Wohn- und Arbeitsstellen ausblenden",
   "carmirror_network": "Network"
 }

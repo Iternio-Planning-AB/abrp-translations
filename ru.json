@@ -1413,5 +1413,7 @@
   "name_required": "Укажите имя",
   "show_markers_map": "Показать на карте",
   "show_markers_map_description": "Показать сохраненные пункты назначения в виде маркеров на карте",
-  "hide_nullish_home_work": "Скрыть неназначенные домашние и рабочие местоположения"
+  "hide_nullish_home_work": "Скрыть неназначенные домашние и рабочие местоположения",
+  "log_in_failed": "Sorry we could not log you in, please try again.",
+  "carmirror_network": "Network"
 }
