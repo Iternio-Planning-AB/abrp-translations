@@ -1387,7 +1387,7 @@
   "carmirror_final_destination": "Destino final",
   "carmirror_time_until": "Tempo até",
   "tronity_disclaimer": "Estes datos proceden de TRONITY e transferidos ao ABRP. Réxense polos termos de servizo entre vostede e TRONITY. Os datos de activdade non serán gardados no ABRP mais están dispoñíbeis no TRONITY.",
-  "no_better_alternatives": "Sorry we could not find any better alternatives",
+  "no_better_alternatives": "Non foi posíbel atopar mellores alternativas",
   "edit_car_configuration_title": "Editar axustes do coche",
   "add_car_configuration_title": "Angadir axustes do coche",
   "tts_install": "É necesario instalar o motor de voz. Este é necesario para ler as instrucións. Por favor, instala o motor dende a play store. e non precisas de instrucións por voz, preme en ignorar para deshabilitar isto.",
@@ -1414,6 +1414,6 @@
   "show_markers_map": "Amosar no mapa",
   "show_markers_map_description": "Amosar os enderezos gardados coma marcadores no mapa",
   "hide_nullish_home_work": "Ocultar as localizacións para Casa e Traballo sen asignar",
-  "log_in_failed": "Sorry we could not log you in, please try again.",
-  "carmirror_network": "Network"
+  "log_in_failed": "Non foi posíbel iniciar sesión, téntao de novo.",
+  "carmirror_network": "Rede"
 }
