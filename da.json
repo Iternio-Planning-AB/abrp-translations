@@ -80,7 +80,7 @@
   "maximum_speed_description": "Maks. hastighed som vi antager at du kommer til at køre. Dette har indflydelse på veje med høj hastighedsbegrænsning eller fri fart, f.eks. den tyske autobahn.",
   "max": "Maks.",
   "adjust_speed": "Juster hastigheden",
-  "adjust_speed_description": "Lad ABRP nedjustere hastigheten hvis det hjælper til at nå målet hurtigere (f.eks for at undgå opladning).",
+  "adjust_speed_description": "Lad ABRP nedjustere hastigheden hvis det hjælper til at nå målet hurtigere (f.eks for at undgå opladning).",
   "temperature": "Temperatur",
   "temperature_description": "Udendørstemperatur. Dette påvirker køretøjets forbrug.",
   "wind": "Vind",
