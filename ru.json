@@ -1415,5 +1415,8 @@
   "show_markers_map_description": "Показать сохраненные пункты назначения в виде маркеров на карте",
   "hide_nullish_home_work": "Скрыть неназначенные домашние и рабочие местоположения",
   "log_in_failed": "К сожалению, Вы не смогли войти в систему, пожалуйста, попробуйте еще раз.",
-  "carmirror_network": "Сеть"
+  "carmirror_network": "Сеть",
+  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
+  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
+  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
 }

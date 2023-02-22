@@ -1414,5 +1414,8 @@
   "show_markers_map_description": "Vis dine gemte destinationer som markører på kortet",
   "hide_nullish_home_work": "Skjul ikke-tildelte hjem- og arbejdssteder",
   "log_in_failed": "Beklager, vi kunne ikke logge dig ind, prøv venligst igen.",
-  "carmirror_network": "Netværk"
+  "carmirror_network": "Netværk",
+  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
+  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
+  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
 }

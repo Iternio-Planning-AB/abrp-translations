@@ -1412,5 +1412,8 @@
   "show_markers_map_description": "Показати збережені пункти призначення у вигляді маркерів на мапі",
   "hide_nullish_home_work": "Приховати непризначені домашні та робочі місця розташування",
   "log_in_failed": "На жаль, Ви не змогли увійти в систему, будь ласка, спробуйте ще раз.",
-  "carmirror_network": "Мережа"
+  "carmirror_network": "Мережа",
+  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
+  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
+  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
 }
