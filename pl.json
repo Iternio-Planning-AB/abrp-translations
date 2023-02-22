@@ -1416,7 +1416,7 @@
   "hide_nullish_home_work": "Ukryj nieprzypisane lokalizacje domu i pracy",
   "log_in_failed": "Przepraszamy, nie mogliśmy Cię zalogować, spróbuj ponownie.",
   "carmirror_network": "Sieć",
-  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
-  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
-  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
+  "direction_roundabout_ref_destination": "Jedź {{direction}} na rondzie, {{exit}} zjazd {{ref}} w kierunku {{destination}}",
+  "direction_roundabout_ref": "Jedź {{direction}} na rondzie, {{exit}} zjedź na {{ref}}",
+  "direction_roundabout_destination": "Jedź {{direction}} na rondzie, {{exit}} zjedź w kierunku {{destination}}"
 }
