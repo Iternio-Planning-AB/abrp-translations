@@ -1414,9 +1414,9 @@
   "show_markers_map": "Amosar no mapa",
   "show_markers_map_description": "Amosar os enderezos gardados coma marcadores no mapa",
   "hide_nullish_home_work": "Ocultar as localizacións para Casa e Traballo sen asignar",
-  "log_in_failed": "Sorry we could not log you in, please try again.",
-  "carmirror_network": "Network",
-  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
-  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
-  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
+  "log_in_failed": "Non foi posíbel iniciar sesión, téntao de novo.",
+  "carmirror_network": "Rede",
+  "direction_roundabout_ref_destination": "Na rotonda ir á {{direction}}, coller a {{exit}} saída a {{ref}} cara {{destination}}",
+  "direction_roundabout_ref": "Na rotonda ir á {{direction}}, coller a {{exit}} saída a {{ref}}",
+  "direction_roundabout_destination": "Na rotonda ir á {{direction}}, coller a {{exit}} saída cara {{destination}}"
 }
