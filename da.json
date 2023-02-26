@@ -80,7 +80,7 @@
   "maximum_speed_description": "Maks. hastighed som vi antager at du kommer til at køre. Dette har indflydelse på veje med høj hastighedsbegrænsning eller fri fart, f.eks. den tyske autobahn.",
   "max": "Maks.",
   "adjust_speed": "Juster hastigheden",
-  "adjust_speed_description": "Lad ABRP nedjustere hastigheten hvis det hjælper til at nå målet hurtigere (f.eks for at undgå opladning).",
+  "adjust_speed_description": "Lad ABRP nedjustere hastigheden hvis det hjælper til at nå målet hurtigere (f.eks for at undgå opladning).",
   "temperature": "Temperatur",
   "temperature_description": "Udendørstemperatur. Dette påvirker køretøjets forbrug.",
   "wind": "Vind",
@@ -1402,8 +1402,8 @@
   "save_location": "Gem denne placering",
   "saved_destinations_title": "Gemte destinationer",
   "saved_destinations_description": "Du kan gemme destinationer ved at klikke på den ønskede placering på kortet",
-  "set_home": "Gem hjemmeplacering",
-  "set_work": "Gem arbejdsplacering",
+  "set_home": "Sæt Hjem",
+  "set_work": "Sæt Arbejde",
   "more": "mere",
   "edit_saved_destination": "Rediger gemt destination",
   "add_new_destination": "Tilføj en ny destination",
@@ -1413,6 +1413,9 @@
   "show_markers_map": "Vis på kort",
   "show_markers_map_description": "Vis dine gemte destinationer som markører på kortet",
   "hide_nullish_home_work": "Skjul ikke-tildelte hjem- og arbejdssteder",
-  "log_in_failed": "Sorry we could not log you in, please try again.",
-  "carmirror_network": "Network"
+  "log_in_failed": "Beklager, vi kunne ikke logge dig ind, prøv venligst igen.",
+  "carmirror_network": "Netværk",
+  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
+  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
+  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
 }
