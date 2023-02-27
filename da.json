@@ -1415,7 +1415,7 @@
   "hide_nullish_home_work": "Skjul ikke-tildelte hjem- og arbejdssteder",
   "log_in_failed": "Beklager, vi kunne ikke logge dig ind, prøv venligst igen.",
   "carmirror_network": "Netværk",
-  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
-  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
-  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
+  "direction_roundabout_ref_destination": "Drej til {{direction}} i rundkørslen, {{exit}} udkørsel til {{ref}} mod {{destination}}",
+  "direction_roundabout_ref": "Drej til {{direction}} i rundkørslen, {{exit}} udkørsel til {{ref}}",
+  "direction_roundabout_destination": "Drej til {{direction}} i rundkørslen, {{exit}} udkørsel mod {{destination}}"
 }
