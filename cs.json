@@ -1413,7 +1413,7 @@
   "hide_nullish_home_work": "Skrýt nepřiřazené adresy domů a do práce",
   "log_in_failed": "Omlouváme se, ale nemůžeme Vás přihlásit. Zkuste to znovu.",
   "carmirror_network": "Síť",
-  "direction_roundabout_ref_destination": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}} towards {{destination}}",
-  "direction_roundabout_ref": "Go {{direction}} at the roundabout, {{exit}} exit to {{ref}}",
-  "direction_roundabout_destination": "Go {{direction}} at the roundabout, {{exit}} exit towards {{destination}}"
+  "direction_roundabout_ref_destination": "Jeďte {{direction}} na kruhovém objezdu, {{exit}} výjezd na {{ref}}, směr {{destination}}",
+  "direction_roundabout_ref": "Jeďte {{direction}} na kruhovém objezdu, {{exit}} výjezd na {{ref}}",
+  "direction_roundabout_destination": "Jeďte {{direction}} na kruhovém objezdu, {{exit}} výjezd směr {{destination}}"
 }
