@@ -1403,7 +1403,7 @@
   "premium_annual_save_20": "Save 20%",
   "premium_trial": "Two weeks free trial.",
   "premium_first_billing_date": "First billing {{date}}",
-  "premium_option_payment_desription": "then {{price}} every {{duration}}. Canel any time",
+  "premium_option_payment_desription": "then {{price}} every {{duration}}. Cancel any time",
   "premium_skip": "Skip for now",
   "premium_start_trial": "Start free 14 day trial",
   "premium_select_plan": "Select your plan",
