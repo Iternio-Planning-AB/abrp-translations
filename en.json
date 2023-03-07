@@ -1338,7 +1338,7 @@
   "login_enter_password": "Enter your password",
   "profile_next_renewal": "Next renewal",
   "loading_qr_token": "Loading QR login code",
-  "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Integrity Policy</url>.",
+  "live_data_integrity_policy_msg": "By using any of these Live Data options you explicitly agree to our <url>Data Privacy Notice</url>.",
   "charge_session_completed": "Planned charge session completed",
   "login_success_message": "You were logged in",
   "no_chargers_remove": "Has no chargers, please remove!",
@@ -1410,16 +1410,13 @@
   "premium_monthly": "Monthly - 5€ / month",
   "premium_yearly": "Annually - 50€ / year",
   "premium_provider_x": "Provider: {{provider}}",
-  "premium_apple_watch":"Perfect for watching your progress on the go.\nSee your most up-to-date charge or drive status on your watch without having to fiddle with your phone.",
+  "premium_apple_watch": "Perfect for watching your progress on the go.\nSee your most up-to-date charge or drive status on your watch without having to fiddle with your phone.",
   "loading_subscription_data": "Loading subscription data...",
   "premium_change_year_android_title": "Change to annually",
   "premium_change_year_android_description": "To change your subscription using Android you need to cancel your monthly subscription and when it´s ended add a new annual subscription",
   "change": "Change",
-  "premium_change_annually_card": "by changing to annual billing"
-
+  "premium_change_annually_card": "by changing to annual billing",
+  "unsupported_shared_content": "Sorry, we currently do not support the content you shared.",
+  "data_privacy_notice": "Data Privacy Notice",
+  "premium_start_subscription": "Start Subscription"
 }
-
- 
-
-
-

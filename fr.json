@@ -1435,5 +1435,8 @@
   "premium_change_year_android_title": "Change to annually",
   "premium_change_year_android_description": "To change your subscription using Android you need to cancel your monthly subscription and when it´s ended add a new annual subscription",
   "change": "Change",
-  "premium_change_annually_card": "by changing to annual billing"
+  "premium_change_annually_card": "by changing to annual billing",
+  "unsupported_shared_content": "Sorry, we currently do not support the content you shared.",
+  "data_privacy_notice": "Data Privacy Notice",
+  "premium_start_subscription": "Start Subscription"
 }
