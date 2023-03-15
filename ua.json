@@ -344,7 +344,7 @@
   "display_mode_system": "Налаштування смартфону",
   "display_mode_automatic": "Авторежим (День/Ніч)",
   "display_mode_map": "Мапа в темі додатку",
-  "network_preferences": "Параметри мережі",
+  "network_preferences": "Вибір зарядних мереж",
   "network_preferences_description": "Приховувати, вибирати та використовувати окремі мережі.",
   "no_network_preferences": "Налаштування мережі не встановлено. Використовуйте пошук або клацніть по зарядці на мапі або маршруті для зміни параметрів.",
   "allow_this_charger": "Використовувати цю зарядку",
@@ -1437,7 +1437,7 @@
   "premium_change_year_android_description": "Щоб змінити підписку за допомогою Android, необхідно скасувати місячну підписку і після її закінчення додати нову річну підписку",
   "change": "Змінити",
   "premium_change_annually_card": "при переході на річну оплату",
-  "unsupported_shared_content": "Sorry, we currently do not support the content you shared.",
-  "data_privacy_notice": "Data Privacy Notice",
-  "premium_start_subscription": "Start Subscription"
+  "unsupported_shared_content": "На жаль, наразі ми не підтримуємо контент, яким ви поділилися.",
+  "data_privacy_notice": "Повідомлення про конфіденційність даних",
+  "premium_start_subscription": "Розпочати підписку"
 }

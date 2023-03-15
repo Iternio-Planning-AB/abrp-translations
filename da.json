@@ -1096,7 +1096,7 @@
   "charge_cards_title": "Ladekort",
   "charge_cards_prefer_tooltip": "Ved at vælge denne mulighed vil vi forsøge kun at inkludere opladere, hvor du kan betale med de ladekort, du har tilføjet til din konto.",
   "add_charge_card_title": "Tilføj ladekort",
-  "search_card": "Indtast navn - f.eks. Clever",
+  "search_card": "Indtast kortnavn",
   "show_more": "Vis mere",
   "show_less": "Vis mindre",
   "on_arrival": "ved ankomst",
