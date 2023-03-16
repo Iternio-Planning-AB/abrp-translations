@@ -1213,7 +1213,7 @@
   "obdble_title": "ABRP OBD Connection",
   "smartcar_title": "ABRP Premium Connection",
   "highmobility_title": "ABRP Premium Connection",
-  "highmobility_description": "ABRP Premium Connection with HighMobility is a service which provides live data through the same interface as your car's app - no extra hardware necessary. This gives you basic SoC and other data, but is usually not precise enough for vehicle calibration.",
+  "highmobility_description": "ABRP Premium Connection with HighMobility is a service which provides live data through the official vehicle API, over-the-air - no extra hardware necessary.",
   "vehicle_info": "Vehicle information",
   "live_connection_one_premium_title": "One Premium connection",
   "live_connection_one_premium_description": "With a Premium membership you can connect one Premium live connection to your car. If you want to have this Premium connection for this car you will have to unlink your other car with a Premium connection first.",
