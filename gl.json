@@ -415,7 +415,7 @@
   "daily_summary": "Resumo diario",
   "date": "Data",
   "automatic_settings": "Axustes automáticos",
-  "automatic_settings_description": "Usar datos da SoC en tempo real, consumo de referencia calibrado, condicións meteorolóxicas e tráfico.",
+  "automatic_settings_description": "Usar datos do SoC en tempo real, consumo de referencia calibrado, condicións meteorolóxicas e tráfico.",
   "automatic_settings_notlm_description": "Empregar meteoroloxía e tráfico en tempo real así coma os valores predefinidos para o consumo de referencia e o SoC.",
   "realtime_weather": "Condicións meteorolóxicas",
   "realtime_weather_description": "Usar información meteorolóxica en tempo real.",
