@@ -1460,8 +1460,6 @@
   "driving_tlm_not_connected": "Ingen tilsluttet telemetri",
   "driving_mode_vehicle_info": "Køretøjsoplysninger",
   "driving_remaining_steps": "Resterende stræk",
-  "driving_problem_charging": "Problemer med opladning?",
-  "driving_problem_charging_description": "find alternativ oplader",
   "cookies_ok_all": "Accept",
   "cookies_customize": "Customize",
   "cookies_customize_select": "Save choice",
@@ -1479,5 +1477,6 @@
   "cookies_privacy_notice_hyperlink": "Please find more information about the cookies we use in our Privacy Notice",
   "driving_plan": "Plan",
   "cookies_reject": "Reject",
-  "driving_arrival": "Arrival"
+  "driving_arrival": "Arrival",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }

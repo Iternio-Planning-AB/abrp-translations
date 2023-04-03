@@ -1461,8 +1461,6 @@
   "driving_tlm_not_connected": "Telemetría non conectada",
   "driving_mode_vehicle_info": "Información do vehículo",
   "driving_remaining_steps": "Pasos restantes",
-  "driving_problem_charging": "Problemas ao cargar?",
-  "driving_problem_charging_description": "Atopar cargador alternativo",
   "cookies_ok_all": "Aceptar",
   "cookies_customize": "Personalizar",
   "cookies_customize_select": "Gardar selección",
@@ -1480,5 +1478,6 @@
   "cookies_privacy_notice_hyperlink": "Por favor, procure máis información sobre as cookies que empregamos nas nosas notas sobre privacidade",
   "driving_plan": "Plan",
   "cookies_reject": "Rexeitar",
-  "driving_arrival": "Chegada"
+  "driving_arrival": "Chegada",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }

@@ -1458,8 +1458,6 @@
   "driving_tlm_not_connected": "Žádná připojená telemetrie",
   "driving_mode_vehicle_info": "Informace o vozidle",
   "driving_remaining_steps": "Zbývající kroky",
-  "driving_problem_charging": "Problémy s nabíjením?",
-  "driving_problem_charging_description": "Najde alternativní nabíječky",
   "cookies_ok_all": "Přijmout",
   "cookies_customize": "Přizpůsobit",
   "cookies_customize_select": "Uložit volby",
@@ -1477,5 +1475,6 @@
   "cookies_privacy_notice_hyperlink": "Více informací o použití cookies najdete v oznámení o ochraně osobních údajů",
   "driving_plan": "Plán",
   "cookies_reject": "Odmítnout",
-  "driving_arrival": "Příjezd"
+  "driving_arrival": "Příjezd",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }

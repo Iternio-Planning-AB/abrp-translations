@@ -1461,8 +1461,6 @@
   "driving_tlm_not_connected": "Нет подключенной телеметрии",
   "driving_mode_vehicle_info": "Информация об автомобиле",
   "driving_remaining_steps": "Оставшиеся этапы",
-  "driving_problem_charging": "Проблемы с зарядкой?",
-  "driving_problem_charging_description": "найти другую зарядку",
   "cookies_ok_all": "Согласиться",
   "cookies_customize": "Настроить",
   "cookies_customize_select": "Сохранить выбор",
@@ -1480,5 +1478,6 @@
   "cookies_privacy_notice_hyperlink": "Дополнительную информацию о файлах cookie, которые мы используем, можно найти в нашем Уведомлении о конфиденциальности.",
   "driving_plan": "План поездки",
   "cookies_reject": "Отклонить",
-  "driving_arrival": "Прибытие"
+  "driving_arrival": "Прибытие",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }

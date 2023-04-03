@@ -1453,8 +1453,7 @@
   "driving_mode_vehicle_info": "Vehicle information",
   "driving_plan": "Plan",
   "driving_remaining_steps": "Remaining steps",
-  "driving_problem_charging": "Problems charging?",
-  "driving_problem_charging_description": "Find alternative charger",
   "cookies_reject": "Reject",
-  "driving_arrival": "Arrival"
+  "driving_arrival": "arrival time",
+  "driving_charging_alternative_chargers":"Find alternative charger"
 }

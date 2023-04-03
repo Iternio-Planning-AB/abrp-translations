@@ -1439,7 +1439,7 @@
   "unsupported_shared_content": "Ne pare rău, momentan nu acceptăm conținutul pe care l-ați distribuit.",
   "data_privacy_notice": "Notificare privind confidențialitatea datelor",
   "premium_start_subscription": "Începe abonamentul",
- "premium_support": "Asistență premium",
+  "premium_support": "Asistență premium",
   "request_vehicle": "Solicită un vehicul",
   "driving_mode_final_destination": "Destinaţie",
   "driving_mode_next_charger": "Următoarea oprire de încărcare",
@@ -1457,10 +1457,7 @@
   "then": "apoi",
   "driving_tlm_not_connected": "Nicio telemetrie conectată",
   "driving_mode_vehicle_info": "Informații despre vehicul",
-  "driving_add_waypoint": "Adaugă un punct de intermediar",
   "driving_remaining_steps": "Etape rămase",
-  "driving_problem_charging": "Probleme la încărcare?",
-  "driving_problem_charging_description": "găsește încărcător alternativ"
   "cookies_ok_all": "Accept",
   "cookies_customize": "Personalizează",
   "cookies_customize_select": "Salvează alegerea",
@@ -1478,5 +1475,6 @@
   "cookies_privacy_notice_hyperlink": "Te rugăm să găsești mai multe informații despre cookie-urile pe care le folosim în Notificarea noastră de confidențialitate",
   "driving_plan": "Plan",
   "cookies_reject": "Respingere",
-  "driving_arrival": "Sosire"
+  "driving_arrival": "Sosire",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }

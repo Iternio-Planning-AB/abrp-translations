@@ -1461,8 +1461,6 @@
   "driving_tlm_not_connected": "Brak podłączonej telemetrii",
   "driving_mode_vehicle_info": "Informacje o pojeździe",
   "driving_remaining_steps": "Pozostałe kroki",
-  "driving_problem_charging": "Problemy z ładowaniem?",
-  "driving_problem_charging_description": "znajdź alternatywną ładowarkę",
   "cookies_ok_all": "Akceptuj",
   "cookies_customize": "Dostosuj",
   "cookies_customize_select": "Zapisz wybór",
@@ -1480,5 +1478,6 @@
   "cookies_privacy_notice_hyperlink": "Więcej informacji na temat plików cookie, których używamy, znajduje się w naszej Informacji o ochronie prywatności",
   "driving_plan": "Plan",
   "cookies_reject": "Odrzuć",
-  "driving_arrival": "Przyjazd"
+  "driving_arrival": "Przyjazd",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }

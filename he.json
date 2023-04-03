@@ -1461,8 +1461,6 @@
   "driving_tlm_not_connected": "No connected telemetry",
   "driving_mode_vehicle_info": "Vehicle information",
   "driving_remaining_steps": "Remaining steps",
-  "driving_problem_charging": "Problems charging?",
-  "driving_problem_charging_description": "find alternative charger",
   "cookies_ok_all": "Accept",
   "cookies_customize": "Customize",
   "cookies_customize_select": "Save choice",
@@ -1480,5 +1478,6 @@
   "cookies_privacy_notice_hyperlink": "Please find more information about the cookies we use in our Privacy Notice",
   "driving_plan": "Plan",
   "cookies_reject": "Reject",
-  "driving_arrival": "Arrival"
+  "driving_arrival": "Arrival",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }

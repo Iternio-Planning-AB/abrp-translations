@@ -1458,8 +1458,6 @@
   "driving_tlm_not_connected": "Телеметрія не підключена",
   "driving_mode_vehicle_info": "Інформація про автомобіль",
   "driving_remaining_steps": "Решта етапів",
-  "driving_problem_charging": "Проблема зарядитись?",
-  "driving_problem_charging_description": "знайти іншу зарядку",
   "cookies_ok_all": "Погодитися",
   "cookies_customize": "Налаштувати",
   "cookies_customize_select": "Зберегти вибір",
@@ -1477,5 +1475,6 @@
   "cookies_privacy_notice_hyperlink": "Додаткову інформацію про файли cookie, які ми використовуємо, можна знайти в нашому сповіщенні про конфіденційність.",
   "driving_plan": "План поїздки",
   "cookies_reject": "Відхилити",
-  "driving_arrival": "Прибуття"
+  "driving_arrival": "Прибуття",
+  "driving_charging_alternative_chargers": "Find alternative charger"
 }
