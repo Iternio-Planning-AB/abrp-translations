@@ -1478,5 +1478,8 @@
   "driving_mode_next_step": "Next step",
   "cookies_analytics": "Analytics",
   "cookies_analytics_description": "Analytics means we can create anonymized statistics on how visitors interact with our website, such as which pages they visit most frequently, and what links they click on, to optimize the user experience.",
-  "driving_charging_alternative_chargers": "Find alternative charger"
+  "driving_charging_alternative_chargers": "Find alternative charger",
+  "low_max_speed_warning": "You have set a low maximum speed value ({{speed}}) in setting.",
+  "charging_planned_charge_complete": "Planned charging completed",
+  "dismiss_rest_of_trip": "Rest of drive"
 }

@@ -1204,7 +1204,8 @@
   "not_saved_car": "Not saved car",
   "disregard": "Remove it",
   "need_to_save_vehicle": "You need to save your vehicle to perform this action",
-  "high_max_speed_warning": "You have set a high value ({{speed}}) in settings.",
+  "high_max_speed_warning": "You have set a high maximum speed value ({{speed}}) in setting.",
+  "low_max_speed_warning":  "You have set a low maximum speed value ({{speed}}) in setting.",
   "high_speed_factor": "You have a high reference speed ({{speed}} %) in settings. This settings means you would want to drive {{speed}} % of the speed limit, aka much faster than allowed.",
   "low_speed_factor": "You have a low reference speed ({{speed}} %) in settings. This settings means you would want to drive {{speed}} % of the speed limit, aka much slower than other traffic.",
   "set_to_x": "Set to {{x}}",
@@ -1454,6 +1455,8 @@
   "driving_plan": "Plan",
   "driving_remaining_steps": "Remaining steps",
   "cookies_reject": "Reject",
-  "driving_arrival": "arrival time",
-  "driving_charging_alternative_chargers":"Find alternative charger"
+  "driving_arrival": "Arrival time",
+  "driving_charging_alternative_chargers":"Find alternative charger",
+  "charging_planned_charge_complete": "Planned charging completed",
+  "dismiss_rest_of_trip":"Rest of drive"
 }

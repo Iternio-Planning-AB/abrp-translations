@@ -1479,5 +1479,8 @@
   "driving_plan": "Plan",
   "cookies_reject": "Reject",
   "driving_arrival": "Arrival",
-  "driving_charging_alternative_chargers": "Find alternative charger"
+  "driving_charging_alternative_chargers": "Find alternative charger",
+  "low_max_speed_warning": "You have set a low maximum speed value ({{speed}}) in setting.",
+  "charging_planned_charge_complete": "Planned charging completed",
+  "dismiss_rest_of_trip": "Rest of drive"
 }

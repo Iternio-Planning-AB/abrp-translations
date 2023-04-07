@@ -1479,5 +1479,8 @@
   "driving_plan": "План поездки",
   "cookies_reject": "Отклонить",
   "driving_arrival": "Прибытие",
-  "driving_charging_alternative_chargers": "Найти альтернативную зарядку"
+  "driving_charging_alternative_chargers": "Найти альтернативную зарядку",
+  "low_max_speed_warning": "You have set a low maximum speed value ({{speed}}) in setting.",
+  "charging_planned_charge_complete": "Planned charging completed",
+  "dismiss_rest_of_trip": "Rest of drive"
 }
