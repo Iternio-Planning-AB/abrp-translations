@@ -1476,7 +1476,7 @@
   "cookies_reject": "Rejecter",
   "driving_arrival": "Arrivée",
   "driving_charging_alternative_chargers": "Trouver un chargeur alternatif",
-  "low_max_speed_warning": "You have set a low maximum speed value ({{speed}}) in setting.",
-  "charging_planned_charge_complete": "Planned charging completed",
-  "dismiss_rest_of_trip": "Rest of drive"
+  "low_max_speed_warning": "Vous avez défini une faible valeur pour la vitesse maximale ({{speed}}) dans les réglages.",
+  "charging_planned_charge_complete": "Recharge planifiée terminée",
+  "dismiss_rest_of_trip": "Reste du trajet"
 }
