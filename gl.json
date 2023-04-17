@@ -1468,9 +1468,9 @@
   "cookies_necessary": "Necesaria",
   "cookies_necessary_description": "As cookies son necesarias para que a páxina funcione de xeito correcto.",
   "cookies_analytics": "Analytics",
-  "cookies_analytics_description": "Analytics significa que podemos crear estatísticas anónimas sobre como interactúan os visitantes co noso sitio web, como as páxinas que visitan con máis frecuencia e en que ligazóns fan clic, para optimizar a experiencia do usuario.",
+  "cookies_analytics_description": "Isto significa que podemos crear estatísticas anónimas sobre como interactúan os visitantes co noso sitio web, como as páxinas que visitan con máis frecuencia e en que ligazóns fan clic, para optimizar a experiencia do usuario.",
   "cookies_crash_report": "Crash Reports",
-  "cookies_crash_report_description": "Crash reports significa que podemos obter información sobre que aconteceu ao fallar a aplicación. Esta información inclúe o ID da túa conta se inciaches sesión para que poidamos atopar o informe. Con esta información podemos detectar erros dun xeito máis rápido, arranxalos dun xeito máis eficaz, e facer que o sitio web funcione correctamente en tantos dispositivos e navegadores como sexa posíbel.",
+  "cookies_crash_report_description": "Isto significa que podemos obter información sobre que aconteceu ao fallar a aplicación. Esta información inclúe o ID da túa conta se inciaches sesión para que poidamos atopar o informe. Con esta información podemos detectar erros dun xeito máis rápido, arranxalos dun xeito máis eficaz, e facer que o sitio web funcione correctamente en tantos dispositivos e navegadores como sexa posíbel.",
   "required": "requirido",
   "disabled": "deshabilitado",
   "cookies_read_privacy": "Ver as nosas notas de privacidade para máis información.",
@@ -1479,8 +1479,8 @@
   "driving_plan": "Plan",
   "cookies_reject": "Rexeitar",
   "driving_arrival": "Chegada",
-  "driving_charging_alternative_chargers": "Find alternative charger",
-  "low_max_speed_warning": "You have set a low maximum speed value ({{speed}}) in setting.",
-  "charging_planned_charge_complete": "Planned charging completed",
+  "driving_charging_alternative_chargers": "Atopar un cargador alternativo",
+  "low_max_speed_warning": "Definiches un valor baixo ({{speed}}) para a velocidade máxima nos axustes.",
+  "charging_planned_charge_complete": "Carga planificada completada",
   "dismiss_rest_of_trip": "Rest of drive"
 }
