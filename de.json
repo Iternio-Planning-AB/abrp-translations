@@ -1480,7 +1480,7 @@
   "cookies_reject": "Ablehnen",
   "driving_arrival": "Ankunft",
   "driving_charging_alternative_chargers": "Alternatives Ladestation finden",
-  "low_max_speed_warning": "Du hast in den Einstellungen einen niedrigen Wert für die Höchstgeschwindigkeit ({{Geschwindigkeit}}) festgelegt.",
+  "low_max_speed_warning": "Du hast in den Einstellungen einen niedrigen Wert für die Höchstgeschwindigkeit ({{speed}}) festgelegt.",
   "charging_planned_charge_complete": "Geplante Aufladung abgeschlossen",
   "dismiss_rest_of_trip": "Rest der Fahrt"
 }
