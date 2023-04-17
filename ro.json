@@ -1477,7 +1477,7 @@
   "cookies_reject": "Respingere",
   "driving_arrival": "Sosire",
   "driving_charging_alternative_chargers": "Găsește încărcător alternativ",
-  "low_max_speed_warning": "Ai setat o valoare maximă scăzută a vitezei ({{viteza}}) în setare.",
+  "low_max_speed_warning": "Ai setat o valoare maximă scăzută a vitezei ({{speed}}) în setare.",
   "charging_planned_charge_complete": "Încărcarea planificată a fost finalizată",
   "dismiss_rest_of_trip": "Restul parcursului"
 }
