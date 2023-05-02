@@ -1480,7 +1480,7 @@
   "cookies_reject": "Afvise",
   "driving_arrival": "Ankomst",
   "driving_charging_alternative_chargers": "Find alternativ oplader",
-  "low_max_speed_warning": "You have set a low maximum speed value ({{speed}}) in setting.",
-  "charging_planned_charge_complete": "Planned charging completed",
-  "dismiss_rest_of_trip": "Rest of drive"
+  "low_max_speed_warning": "Du har indstillet en lav maksimal hastighedsværdi ({{speed}}) i indstillingen.",
+  "charging_planned_charge_complete": "Planlagt opladning gennemført",
+  "dismiss_rest_of_trip": "Resten af køreturen"
 }
