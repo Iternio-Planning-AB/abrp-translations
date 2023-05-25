@@ -583,7 +583,7 @@
   "thanks": "Dank u wel",
   "configuration_normal": "Normaal",
   "configuration_cargo_top": "Vracht op het dak",
-  "x_left_to_y": "nog {{x}} naar  {{y}}",.
+  "x_left_to_y": "nog {{x}} naar {{y}}",
   "configuration_bicycle_top": "Fiets(en) op het dak",
   "configuration_type": "Type voertuig configuratie",
   "configuration_default": "Standaard",
