@@ -1508,7 +1508,7 @@
   "report_charge_error_multiple_attempts": "Zahájení nabíjení proběhlo až na několikátý pokus",
   "report_charge_error_slow_speed": "Nízká rychlost nabíjení",
   "report_charge_error_blocked": "Nabíječka byla blokována",
-  "report_charge_error_stalls_in_use": "Používaly se všechny nabíječky",
+  "report_charge_error_stalls_in_use": "Byly obsazeny všechny nabíječky",
   "report_charge_error_incorrect_location": "Chybné umístění nabíječky",
   "report_charge_error_other": "Jiný problém",
   "report_charge_error_description_title": "Popište problém",
@@ -1535,7 +1535,7 @@
   "report_charger_options_not_operational": "Nabíječka byla nefunkční",
   "report_charger_options_multiple_attempts": "Nabíjení proběhlo až na několikátý pokus",
   "report_charger_options_blocked": "Nabíječka byla blokována",
-  "report_charger_options_all_stalls_used": "Používaly se všechny nabíječky",
+  "report_charger_options_all_stalls_used": "Byly obsazeny všechny nabíječky",
   "report_charger_options_slow_charge_speed": "Nízká rychlost nabíjení",
   "report_charger_options_issues_payment": "Problémy s platbou",
   "report_charger_options_other": "Jiné problémy s nabíjením",
@@ -1546,7 +1546,7 @@
   "report_charger_rate_this_charger": "Hodnocení této nabíječky, otevře se v novém okně",
   "report_charger_amenities_description": "Popište, jaké problémy vidíte v údajích poskytnutých uživateli. Např. údaje ukazují, že zde není žádné WC, ale je zde jedno nově postavené. Pokud žádný problém neexistuje a chcete jen ohodnotit nabíječku, klepněte na odkaz níže.",
   "report_charger_incorrect_provider_description_current_x": "Níže napište nového/správného poskytovatele a pokud možno jej vyfoťte pro ověření. Aktuální poskytovatel je: {{current_provider}}",
-  "report_charger_incorrect_location_description": "Přejďte ke správnému umístění nabíječky a stiskněte tlačítko níže. To nám odešle aktuální polohu, kterou použijeme pro fyzické ověření umístění nabíječky.",
+  "report_charger_incorrect_location_description": "Přejeďte ke správnému umístění nabíječky a stiskněte tlačítko níže. To nám odešle aktuální polohu, kterou použijeme pro fyzické ověření umístění nabíječky.",
   "report_charger_submit_my_location": "Odeslat mou polohu jako umístění nabíječky",
   "report_charger_incorrect_provider_suggest_new": "Navrhnout nového poskytovatele",
   "tlm_connection_successful": "Gratulujeme! Vaše živá data jsou nyní propojena s aplikací A Better Route Planner!",
@@ -1561,7 +1561,7 @@
   "report_error_failed_description": "Při odesílání Vašeho problému se vyskytla chyba. Pokud problém přetrvává, kontaktujte naši podporu.",
   "charger_feedback_form_success": "Děkujeme za hodnocení této nabíječky!",
   "charger_issues_select_reason": "Zvolte důvod Vašeho problému",
-  "report_error_select_topic": "Zvolte témas",
+  "report_error_select_topic": "Zvolte téma",
   "driving_chart_planned_soc": "Plánovaný stav nabití",
   "driving_chart_actual_soc": "Aktuální stav nabití",
   "chargers_to_avoid": "Nabíječky k vyhnutí",
@@ -1569,5 +1569,5 @@
   "energy_used": "Využitá energie",
   "display_theme": "Motiv",
   "user_provided_charger_information": "Informace poskytnutá uživatelem",
-  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
+  "eventlog_description_fail": "Zkuste nahrát logy znovu. Pokud to stále nepůjde, nahlaste chybu na naší stránce."
 }
