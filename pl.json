@@ -1245,7 +1245,7 @@
   "show_bug_button": "Pokaż przycisk zgłaszania błędów",
   "show_bug_button_description": "Pokaż przycisk zgłoszenia błędu, aby wysłać dziennik zdarzeń aplikacji do zespołu ABRP do analizy.",
   "eventlog_title": "Przesłano dziennik zdarzeń aplikacji",
-  "eventlog_description": "Jeśli wyślesz nam raport o błędzie, zanotuj godzinę wysłania tego dziennika i poinformuj nas o tym.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Usuń z ustawień",
   "change_ios_appearance": "Zmień wygląd telefonu",
   "change_ios_appearance_description": "W systemie iOS, aby zmienić tryb kolorów mapy, musisz zmienić wygląd między ciemnym a jasnym w ustawieniach",
@@ -1571,5 +1571,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

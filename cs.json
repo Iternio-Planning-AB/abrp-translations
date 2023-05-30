@@ -1240,7 +1240,7 @@
   "show_bug_button": "Zobrazit tlačítko pro nahlášení chyby",
   "show_bug_button_description": "Zobrazí tlačítko pro nahlášení chyby a odeslání logu vývojářům ABRP pro analýzu.",
   "eventlog_title": "Log událostí byl nahrán",
-  "eventlog_description": "Když nám posíláte hlášení o chybě, nahlaste nám také čas, kdy jste tento log odeslali.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Prosíme, deberte z nastavení",
   "change_ios_appearance": "Změnit vzhled telefonu",
   "change_ios_appearance_description": "Pro změnu režimu barev map na iOS musíte změnit volbu Tmavý nebo Světlý v Nastavení > Zobrazení a jas Vašeho telefonu",
@@ -1568,5 +1568,6 @@
   "network_and_charger_preferences": "Vyhnout se a preferovat",
   "energy_used": "Využitá energie",
   "display_theme": "Motiv",
-  "user_provided_charger_information": "Informace poskytnutá uživatelem"
+  "user_provided_charger_information": "Informace poskytnutá uživatelem",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

@@ -1240,7 +1240,7 @@
   "show_bug_button": "Повідомляти про помилки",
   "show_bug_button_description": "Показати кнопку звіту про помилку, щоб надіслати журнал подій програми команді ABRP для аналізу.",
   "eventlog_title": "Журнал подій програми завантажено",
-  "eventlog_description": "Якщо ви надсилаєте нам звіт про помилку, запам’ятайте час, коли ви надіслали цей журнал, і повідомте нам.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Будь ласка, видаліть із налаштувань",
   "change_ios_appearance": "Змінити кольорову тему телефону",
   "change_ios_appearance_description": "На iOS, щоб змінити колірний режим мапи, вам потрібно змінити між темним або світлим виглядом у налаштуваннях",
@@ -1568,5 +1568,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

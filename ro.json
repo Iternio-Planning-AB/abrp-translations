@@ -1240,7 +1240,7 @@
   "show_bug_button": "Afișează butonul pentru raportarea erorilor",
   "show_bug_button_description": "Afișează un buton de raportare a erorilor pentru a trimite un jurnal al evenimentelor aplicației către echipa ABRP pentru analiză.",
   "eventlog_title": "Jurnalul de evenimente al aplicației este încărcat",
-  "eventlog_description": "Dacă ne trimiți un raport de eroare, notează ora la care ai trimis acest jurnal și spune-ne.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Te rugăm să elimini din setări",
   "change_ios_appearance": "Schimbă aspectul telefonului",
   "change_ios_appearance_description": "Pe iOS, pentru a schimba modul de culoare a hărții, trebuie să schimbi în setări, la aspect, între întunecat sau luminos",
@@ -1568,5 +1568,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

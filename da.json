@@ -1244,7 +1244,7 @@
   "show_bug_button": "Vis fejlrapportknap",
   "show_bug_button_description": "Vis en fejlrapportknap for at sende en log over apphændelser til ABRP-teamet til analyse.",
   "eventlog_title": "Apphændelseslog blev uploadet",
-  "eventlog_description": "Hvis du sender os en fejlrapport, skal du notere tidspunktet, hvor du sendte denne log, og fortælle os det.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Fjern venligst fra indstillingerne",
   "change_ios_appearance": "Skift telefonens udseende",
   "change_ios_appearance_description": "For at ændre farvetilstanden på kortet i iOS skal du skifte mellem mørk eller lys under udseende i indstillingerne",
@@ -1570,5 +1570,6 @@
   "network_and_charger_preferences": "Undgå og foretrække",
   "energy_used": "Energi brugt",
   "display_theme": "Theme",
-  "user_provided_charger_information": "Bruger givet oplysninger"
+  "user_provided_charger_information": "Bruger givet oplysninger",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

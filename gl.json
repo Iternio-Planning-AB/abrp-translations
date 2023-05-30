@@ -1244,7 +1244,7 @@
   "show_bug_button": "Amosar botón de informe de erros",
   "show_bug_button_description": "Amosa un botón para enviar o rexistro de eventos da app ao equipo do ABRP para a súa análise.",
   "eventlog_title": "Rexisto de eventos da app enviado",
-  "eventlog_description": "Se nos envías un informe de erros, anota a hora na que enviaches o rexistro e avísanos.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Por favor, eliminar dos axustes",
   "change_ios_appearance": "Mudar a apariencia do móbil",
   "change_ios_appearance_description": "No iOS, para mudar o modo de cor do mapa, e preciso trocar entre escuro ou claro en Axustes/Apariencia",
@@ -1571,5 +1571,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

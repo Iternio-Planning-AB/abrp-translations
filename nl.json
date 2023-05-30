@@ -1242,7 +1242,7 @@
   "show_bug_button": "Rapporteer een fout",
   "show_bug_button_description": "Toon een knop om logbestand van de applicatie naar het ABRP-team te sturen voor verdere analyse.",
   "eventlog_title": "App event log uploaded",
-  "eventlog_description": "If you send us a bug report, note the time you sent this log and tell us.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Please remove from settings",
   "change_ios_appearance": "Change Phone Appearance",
   "change_ios_appearance_description": "On iOS to change the color mode of the map you need to change between dark or light under appearance in settings",
@@ -1570,5 +1570,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

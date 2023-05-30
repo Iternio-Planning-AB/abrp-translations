@@ -1245,7 +1245,7 @@
   "show_bug_button": "Сообщать об ошибках",
   "show_bug_button_description": "Показывать кнопку сообщения об ошибке, чтобы отправить журнал событий приложения команде ABRP для анализа.",
   "eventlog_title": "Журнал событий приложения загружен",
-  "eventlog_description": "Если вы отправляете нам сообщение об ошибке, отметьте время отправки этого журнала и сообщите нам об этом.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Пожалуйста, удалите из настроек",
   "change_ios_appearance": "Смените цветовую тему в телефоне",
   "change_ios_appearance_description": "На iOS, чтобы изменить цветовой режим карты, вам нужно переключиться между темной и светлой темой в настройках телефона",
@@ -1571,5 +1571,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

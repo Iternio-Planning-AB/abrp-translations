@@ -1266,7 +1266,7 @@
   "show_bug_button_description": "Zeigt eine Fehlerbericht-Schaltfläche an, um ein Protokoll der App-Ereignisse zur Analyse an das ABRP-Team zu senden.",
   "eventlog_title": "Fehlerbericht hochgeladen",
   "eventlog_failed_title": "Hochladen des Fehlerberichts fehlgeschlagen",
-  "eventlog_description": "Wenn Du uns einen Fehlerbericht schickst, notiere die Zeit, zu der Du dieses Protokoll gesendet hast, und teile uns diese mit.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Bitte aus den Einstellungen entfernen",
   "change_ios_appearance": "Erscheinungsbild des Geräts ändern",
   "change_ios_appearance_description": "Unter iOS kannst Du den Farbmodus der Karte ändern, indem Du in den Einstellungen unter Erscheinungsbild zwischen dunkel und hell wechselst.",
@@ -1571,5 +1571,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }

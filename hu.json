@@ -1240,7 +1240,7 @@
   "show_bug_button": "Hibabejelentő gomb megjelenítése",
   "show_bug_button_description": "A hibabejelentő gomb megjelenítése, amely segítségével hibabejelentési naplókat tudsz küldeni az ABRP fejlesztő csapatának.",
   "eventlog_title": "Esemény napló feltölve",
-  "eventlog_description": "Hibajelentési napló küldésekor kérlek írd bele a küldés időpontját.",
+  "eventlog_description": "Please report this bug to our upvoty page and refer to this uploaded event by the approximate time it was uploaded",
   "please_remove": "Eltávolítás a beállításokból",
   "change_ios_appearance": "Megjelenés",
   "change_ios_appearance_description": "Az iOS alatt a Világos vagy Sötét módok közötti váltást a Beállítások / Megjelenés menüben tudod megtenni",
@@ -1568,5 +1568,6 @@
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
-  "user_provided_charger_information": "User provided information"
+  "user_provided_charger_information": "User provided information",
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
 }
