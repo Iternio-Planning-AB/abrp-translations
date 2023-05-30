@@ -1529,7 +1529,7 @@
   "report_error_select_alternative": "Zvolte volbu, {{cat}}...",
   "report_error_incorrect_price_input": "Jaká je správná cena:",
   "report_error_incorrect_price_charge_card_input": "Pokud jste použili nabíjeci kartu, jak se jmenovala?",
-  "type": "Napište",
+  "type": "Typ",
   "report_error_outlet_used": "Kterou zásuvku jste použili?",
   "report_error_issues_charging_select_issues": "Vyberte odpovídající problém",
   "report_charger_options_not_operational": "Nabíječka byla nefunkční",
