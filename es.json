@@ -1569,5 +1569,12 @@
   "energy_used": "Energy used",
   "display_theme": "Theme",
   "user_provided_charger_information": "User provided information",
-  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page."
+  "eventlog_description_fail": "Please test uploading again, if it still does not work still report the issue to us on out upvoty page.",
+  "charging_speed": "Charging speed",
+  "saved_destination_charnge_at_location": "Charge at this location",
+  "saved_destination_charnge_at_location_description": "This information is private and stored only in your account",
+  "saved_destination_is_charger": "Charging information will be added to saved destination automatically",
+  "driving_settings_changed": "Settings changed",
+  "driving_settings_changed_description": "A replan is needed to make this changes reflected in your current plan.",
+  "replan_needed": "Replan needed"
 }

@@ -1481,7 +1481,7 @@
   "driving_charging_alternative_chargers": "Vind alternatieve opladers",
   "low_max_speed_warning": "U heeft een lage maximale snelheidswaarde ({{speed}}) ingesteld in de instelling.",
   "charging_planned_charge_complete": "Gepland opladen voltooid",
-  "dismiss_rest_of_trip": "Rest van het rijden"
+  "dismiss_rest_of_trip": "Rest van het rijden",
   "highmobility_description_x": "{{brand}} ABRP Premium Connection biedt een directe dataverbinding met uw auto via de officiële draadloze verbinding van {{brand}}.",
   "favorite_settings_title_appearance": "Instellingen uiterlijk",
   "data_attribution": "Data verstrekt door: ",
@@ -1571,5 +1571,12 @@
   "energy_used": "Gebruikte energie",
   "display_theme": "Thema",
   "user_provided_charger_information": "Door de gebruiker verstrekte informatie",
-  "eventlog_description_fail": "Test het uploaden alstublieft opnieuw. Als het nog steeds niet werkt meld het probleem dan aan ons op onze upvoty-pagina."
+  "eventlog_description_fail": "Test het uploaden alstublieft opnieuw. Als het nog steeds niet werkt meld het probleem dan aan ons op onze upvoty-pagina.",
+  "charging_speed": "Charging speed",
+  "saved_destination_charnge_at_location": "Charge at this location",
+  "saved_destination_charnge_at_location_description": "This information is private and stored only in your account",
+  "saved_destination_is_charger": "Charging information will be added to saved destination automatically",
+  "driving_settings_changed": "Settings changed",
+  "driving_settings_changed_description": "A replan is needed to make this changes reflected in your current plan.",
+  "replan_needed": "Replan needed"
 }

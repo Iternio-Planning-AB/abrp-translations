@@ -1525,10 +1525,10 @@
   "report_charge_error_incorrect_live_data": "Probleme cu datele live",
   "report_charge_error_issues_charging": "Probleme cu încărcarea",
   "amount_affix": "buc",
-  "report_error_charger_not_accessible_sub_title": "De ce încărcătorul nu este accesibil?",eaz
+  "report_error_charger_not_accessible_sub_title": "De ce încărcătorul nu este accesibil?",
   "report_error_select_alternative": "Selectează o opțiune, {{cat}}...",
   "report_error_incorrect_price_input": "Care este prețul corect:",
- "report_error_incorrect_price_charge_card_input": "Ai folosit un card de credit, numește-l?",
+  "report_error_incorrect_price_charge_card_input": "Ai folosit un card de credit, numește-l?",
   "type": "Tip",
   "report_error_outlet_used": "Ce priză ai folosit?",
   "report_error_issues_charging_select_issues": "Selectează problemele relevante",
@@ -1569,5 +1569,12 @@
   "energy_used": "Energia folosită",
   "display_theme": "Temă",
   "user_provided_charger_information": "Informații furnizate de utilizator",
-  "eventlog_description_fail": "Te rugăm să testezi încărcarea din nou, dacă tot nu funcționează, raportează-ne problema pe pagina de upvoty."
+  "eventlog_description_fail": "Te rugăm să testezi încărcarea din nou, dacă tot nu funcționează, raportează-ne problema pe pagina de upvoty.",
+  "charging_speed": "Charging speed",
+  "saved_destination_charnge_at_location": "Charge at this location",
+  "saved_destination_charnge_at_location_description": "This information is private and stored only in your account",
+  "saved_destination_is_charger": "Charging information will be added to saved destination automatically",
+  "driving_settings_changed": "Settings changed",
+  "driving_settings_changed_description": "A replan is needed to make this changes reflected in your current plan.",
+  "replan_needed": "Replan needed"
 }
