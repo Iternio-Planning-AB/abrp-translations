@@ -1570,11 +1570,11 @@
   "display_theme": "Temă",
   "user_provided_charger_information": "Informații furnizate de utilizator",
   "eventlog_description_fail": "Te rugăm să testezi încărcarea din nou, dacă tot nu funcționează, raportează-ne problema pe pagina de upvoty.",
-  "charging_speed": "Charging speed",
-  "saved_destination_charnge_at_location": "Charge at this location",
-  "saved_destination_charnge_at_location_description": "This information is private and stored only in your account",
-  "saved_destination_is_charger": "Charging information will be added to saved destination automatically",
-  "driving_settings_changed": "Settings changed",
-  "driving_settings_changed_description": "A replan is needed to make this changes reflected in your current plan.",
-  "replan_needed": "Replan needed"
+  "charging_speed": "Viteza de încărcare",
+  "saved_destination_charnge_at_location": "Încarcă în această locație",
+  "saved_destination_charnge_at_location_description": "Aceste informații sunt private și sunt stocate numai în contul tău",
+  "saved_destination_is_charger": "Informațiile de încărcare vor fi adăugate automat la destinația salvată",
+  "driving_settings_changed": "Setările au fost modificate",
+  "driving_settings_changed_description": "Este necesară o replanificare pentru a reflecta aceste modificări în planul tău actual.",
+  "replan_needed": "Replanificare necesară"
 }
