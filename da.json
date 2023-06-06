@@ -1572,11 +1572,11 @@
   "display_theme": "Theme",
   "user_provided_charger_information": "Bruger givet oplysninger",
   "eventlog_description_fail": "Prøv venligst at uploade igen, hvis det stadig ikke virker, rapporter problemet til os på vores upvoty-side.",
-  "charging_speed": "Charging speed",
-  "saved_destination_charnge_at_location": "Charge at this location",
-  "saved_destination_charnge_at_location_description": "This information is private and stored only in your account",
-  "saved_destination_is_charger": "Charging information will be added to saved destination automatically",
-  "driving_settings_changed": "Settings changed",
-  "driving_settings_changed_description": "A replan is needed to make this changes reflected in your current plan.",
-  "replan_needed": "Replan needed"
+  "charging_speed": "Opladningshastighed",
+  "saved_destination_charnge_at_location": "Oplad på dette sted",
+  "saved_destination_charnge_at_location_description": "Disse oplysninger er private og gemmes kun på din konto",
+  "saved_destination_is_charger": "Opladningsoplysninger føjes automatisk til den gemte destination",
+  "driving_settings_changed": "Indstillinger ændret",
+  "driving_settings_changed_description": "Genberegning er nødvendig for at få disse ændringer med i din nuværende plan.",
+  "replan_needed": "Genberegning nødvendig"
 }
