@@ -1570,11 +1570,11 @@
   "display_theme": "Тема",
   "user_provided_charger_information": "Інформація, надана користувачем",
   "eventlog_description_fail": "Будь ласка, перевірте завантаження ще раз, якщо воно як і раніше не працює, повідомте нам про проблему на нашій сторінці upvoty.",
-  "charging_speed": "Charging speed",
-  "saved_destination_charnge_at_location": "Charge at this location",
-  "saved_destination_charnge_at_location_description": "This information is private and stored only in your account",
-  "saved_destination_is_charger": "Charging information will be added to saved destination automatically",
-  "driving_settings_changed": "Settings changed",
-  "driving_settings_changed_description": "A replan is needed to make this changes reflected in your current plan.",
-  "replan_needed": "Replan needed"
+  "charging_speed": "Швидкість зарядки",
+  "saved_destination_charnge_at_location": "Зарядка в цьому місці",
+  "saved_destination_charnge_at_location_description": "Ця інформація є приватною та зберігається лише у вашому обліковому записі.",
+  "saved_destination_is_charger": "Інформація про зарядку буде автоматично додана в збережений пункт призначення.",
+  "driving_settings_changed": "Налаштування змінено",
+  "driving_settings_changed_description": "Щоб ці зміни відобразилися у вашому поточному плані, необхідно перепланувати маршрут.",
+  "replan_needed": "Потрібне перепланування"
 }
