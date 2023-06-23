@@ -1396,7 +1396,7 @@
   "load_plan_title": "Laad plan",
   "load_plan_description": "Wilt u alle planinstellingen laden en overschrijven voor dit plan of alleen voor de bestemmingen?",
   "load_plan_destinations": "Alleen bestemmingen",
-  "load_plan_all": "Alle planinstellingen",
+  "load_plan_all": "Alle route-instellingen",
   "saved_destination_title_add": "Voeg een opgeslagen bestemming toe",
   "save_location": "Deze locatie opslaan",
   "saved_destinations_title": "Opgeslagen bestemmingen",
@@ -1572,11 +1572,11 @@
   "display_theme": "Thema",
   "user_provided_charger_information": "Door de gebruiker verstrekte informatie",
   "eventlog_description_fail": "Test het uploaden alstublieft opnieuw. Als het nog steeds niet werkt meld het probleem dan aan ons op onze upvoty-pagina.",
-  "charging_speed": "Charging speed",
-  "saved_destination_charnge_at_location": "Charge at this location",
-  "saved_destination_charnge_at_location_description": "This information is private and stored only in your account",
-  "saved_destination_is_charger": "Charging information will be added to saved destination automatically",
-  "driving_settings_changed": "Settings changed",
-  "driving_settings_changed_description": "A replan is needed to make this changes reflected in your current plan.",
-  "replan_needed": "Replan needed"
+  "charging_speed": "Oplaadsnelheid",
+  "saved_destination_charnge_at_location": "Opladen bij deze locatie",
+  "saved_destination_charnge_at_location_description": "Deze informatie is privé en wordt alleen in uw account opgeslagen",
+  "saved_destination_is_charger": "Oplaadinformatie wordt automatisch toegevoegd aan de opgeslagen bestemming",
+  "driving_settings_changed": "Instellingen gewijzigd",
+  "driving_settings_changed_description": "Een nieuw route is nodig om deze wijzigingen door te voeren in uw huidige route.",
+  "replan_needed": "Nieuwe route nodig"
 }
