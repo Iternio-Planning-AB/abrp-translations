@@ -1538,7 +1538,7 @@
   "report_charger_options_all_stalls_used": "Alle Ladepunkte in Verwendung",
   "report_charger_options_slow_charge_speed": "Langsame Ladegeschwindigkeit",
   "report_charger_options_issues_payment": "Probleme mit der Bezahlung",
-  "report_charger_options_other": "Anderes Probleme mit dem Laden",
+  "report_charger_options_other": "Anderes Problem mit dem Laden",
   "report_error_live_data_title": "Voraussichtliche vs. tatsächliche Verfügbarkeit",
   "report_error_incorrect_data_title": "Bearbeitung der Informationen zu den Anschlüßen (Gegenstand der Überprüfung)",
   "not_selected": "Nicht ausgewählt",
