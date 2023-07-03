@@ -1578,7 +1578,7 @@
   "saved_destination_charge_at_location_description": "Deze informatie is privé en wordt alleen in uw account opgeslagen",
   "open_app_settings": "Open app-instellingen",
   "ignore_once": "Negeren tot de volgende start",
-  "grant_automotive_permissions": "Ga naar app-instellingen en zorg ervoor dat de machtigingen "Locatie" en "Voertuiginformatie" zijn verleend.",
+  "grant_automotive_permissions": "Ga naar app-instellingen en zorg ervoor dat de machtigingen „Locatie“ en „Voertuiginformatie“ zijn verleend.",
   "share_apple_link": "Open in Apple Maps",
   "delete_all_activities": "Verwijder opgeslagen activiteiten",
   "delete_all_activities_description": "Alle opgeslagen activiteiten die aan deze auto zijn gekoppeld worden verwijderd",
@@ -1590,5 +1590,14 @@
   "premium_annual_save_2_months": "Krijg 2 maanden gratis",
   "premium_annual_save_2_months_short": "Krijg 2 maanden gratis",
   "error_something_went_wrong": "Er is iets fout gegaan",
-  "rate_short": "Beoordeling"
+  "rate_short": "Beoordeling",
+  "nearby_chargers_add": "Add",
+  "nearby_chargers_wp_button": "Charger around location",
+  "replace_charger": "Replace charger",
+  "nearby_charger_type_slow": "Only slow",
+  "nearby_charger_type_all": "All",
+  "nearby_charger_type_fast": "Only fast",
+  "nearby_chargers_replace": "Change to",
+  "edit_cookie_consent": "Edit Cookie Consent",
+  "privacy_link_drawer": "Privacy notice"
 }

@@ -1587,5 +1587,14 @@
   "premium_annual_save_2_months_short": "Obtenez 2 mois offerts",
   "report_charger_options_blocked": "Le chargeur est bloqué",
   "error_something_went_wrong": "Quelque chose s'est mal passé",
-  "rate_short": "Evaluer"
+  "rate_short": "Evaluer",
+  "nearby_chargers_add": "Add",
+  "nearby_chargers_wp_button": "Charger around location",
+  "replace_charger": "Replace charger",
+  "nearby_charger_type_slow": "Only slow",
+  "nearby_charger_type_all": "All",
+  "nearby_charger_type_fast": "Only fast",
+  "nearby_chargers_replace": "Change to",
+  "edit_cookie_consent": "Edit Cookie Consent",
+  "privacy_link_drawer": "Privacy notice"
 }
