@@ -1592,13 +1592,13 @@
   "premium_annual_save_2_months_short": "Получите 2 месяца бесплатно",
   "error_something_went_wrong": "Что-то пошло не так",
   "rate_short": "Оценка",
-  "nearby_chargers_add": "Add",
-  "nearby_chargers_wp_button": "Charger around location",
-  "replace_charger": "Replace charger",
-  "nearby_charger_type_slow": "Only slow",
-  "nearby_charger_type_all": "All",
-  "nearby_charger_type_fast": "Only fast",
-  "nearby_chargers_replace": "Change to",
-  "edit_cookie_consent": "Edit Cookie Consent",
-  "privacy_link_drawer": "Privacy notice"
+  "nearby_chargers_add": "Добавить",
+  "nearby_chargers_wp_button": "Зарядная станция поблизости",
+  "replace_charger": "Заменить зарядную станцию",
+  "nearby_charger_type_slow": "Только медленные",
+  "nearby_charger_type_all": "Все",
+  "nearby_charger_type_fast": "Только быстрые",
+  "nearby_chargers_replace": "Заменить на",
+  "edit_cookie_consent": "Изменить согласие на использование файлов cookie",
+  "privacy_link_drawer": "Уведомление о конфиденциальности"
 }
