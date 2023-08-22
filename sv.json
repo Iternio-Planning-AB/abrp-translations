@@ -1617,5 +1617,13 @@
   "feedback_answer_live_data_less": "Less busy",
   "feedback_answer_live_data_more": "More busy",
   "feedback_answer_live_data_occupied": "All stalls used",
-  "feedback_question_close_button_title": "Close"
+  "feedback_question_close_button_title": "Close",
+  "profile": "Profile",
+  "carmirror_soc": "Manual SoC adjustment",
+  "report_charger_incorrect_location_description_web": "Find the correct location on a map and copy the longitude and latitude values.",
+  "carmirror_set_soc": "Add/Remove SoC",
+  "waypoint_charger_duration": "Set charge duration",
+  "waypoint_departure_time": "Set departure time",
+  "amenities_stop_for_time": "Stop for",
+  "amenities_stop_at_time": "Stop at"
 }

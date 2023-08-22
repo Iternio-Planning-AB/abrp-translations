@@ -1349,6 +1349,7 @@
   "learn_about_premium": "Learn more about ABRP Premium",
   "verify_email_success": "Email is verified",
   "my_abrp_profile": "My ABRP Profile",
+  "profile": "Profile",
   "login_enter_email": "Enter your email",
   "login_enter_full_name": "Enter your full name",
   "login_enter_password": "Enter your password",
@@ -1582,7 +1583,9 @@
   "nearby_chargers_replace": "Change to",
   "edit_cookie_consent": "Edit Cookie Consent",
   "privacy_link_drawer": "Privacy notice",
+  "carmirror_soc": "Manual SoC adjustment",
   "open_system_settings": "Open system settings",
+  "report_charger_incorrect_location_description_web":"Find the correct location on a map and copy the longitude and latitude values.",
   "feedback_answer_yes": "Yes",
   "feedback_answer_no": "No",
   "feedback_answer_dont_know": "Not sure",
@@ -1594,5 +1597,10 @@
   "feedback_answer_live_data_less": "Less busy",
   "feedback_answer_live_data_more": "More busy",
   "feedback_answer_live_data_occupied": "All stalls used",
-  "feedback_question_close_button_title": "Close"
+  "feedback_question_close_button_title": "Close",
+  "carmirror_set_soc":"Add/Remove SoC",
+  "waypoint_charger_duration": "Set charge duration",
+  "waypoint_departure_time":"Set departure time",
+  "amenities_stop_for_time":"Stop for",
+  "amenities_stop_at_time":"Stop at"
 }
