@@ -1619,12 +1619,12 @@
   "feedback_answer_live_data_more": "Mehr belegt",
   "feedback_answer_live_data_occupied": "Alle Stationen genutzt",
   "feedback_question_close_button_title": "Schließen",
-  "profile": "Profile",
-  "carmirror_soc": "Manual SoC adjustment",
-  "report_charger_incorrect_location_description_web": "Find the correct location on a map and copy the longitude and latitude values.",
-  "carmirror_set_soc": "Add/Remove SoC",
-  "waypoint_charger_duration": "Set charge duration",
-  "waypoint_departure_time": "Set departure time",
-  "amenities_stop_for_time": "Stop for",
-  "amenities_stop_at_time": "Stop at"
+  "profile": "Profil",
+  "carmirror_soc": "Manuelle SoC-Anpassung",
+  "report_charger_incorrect_location_description_web": "Suche den richtigen Ort auf einer Karte und kopiere die Werte für Längen- und Breitengrad.",
+  "carmirror_set_soc": "SoC hinzufügen/entfernen",
+  "waypoint_charger_duration": "Ladedauer einstellen",
+  "waypoint_departure_time": "Abfahrtszeit einstellen",
+  "amenities_stop_for_time": "Anhalten für",
+  "amenities_stop_at_time": "Anhalten um"
 }
