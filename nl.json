@@ -427,7 +427,8 @@
     "Afstand",
     "Reistijd",
     "Aankomst",
-    "Vertrek"
+    "Vertrek",
+    "Notes"
   ],
   "premium": "Premium",
   "premium_on_app": "Ga naar de ABRP website om Premium-lid te worden.",
@@ -1625,5 +1626,8 @@
   "waypoint_charger_duration": "Set charge duration",
   "waypoint_departure_time": "Set departure time",
   "amenities_stop_for_time": "Stop for",
-  "amenities_stop_at_time": "Stop at"
+  "amenities_stop_at_time": "Stop at",
+  "manage_subscription": "Manage subscription",
+  "manage_old_subscription": "Manage old subscription",
+  "rejoin_premium": "Rejoin premium"
 }

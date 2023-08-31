@@ -428,7 +428,8 @@
     "Distância",
     "Condução",
     "Chegada",
-    "Partida"
+    "Partida",
+    "Notes"
   ],
   "premium": "Premium",
   "premium_on_app": "Para se tornar um membro Premium, por favor aceda ao site A Better Routeplanner",
@@ -1625,5 +1626,8 @@
   "waypoint_charger_duration": "Set charge duration",
   "waypoint_departure_time": "Set departure time",
   "amenities_stop_for_time": "Stop for",
-  "amenities_stop_at_time": "Stop at"
+  "amenities_stop_at_time": "Stop at",
+  "manage_subscription": "Manage subscription",
+  "manage_old_subscription": "Manage old subscription",
+  "rejoin_premium": "Rejoin premium"
 }

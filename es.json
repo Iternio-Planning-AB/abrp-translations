@@ -1623,5 +1623,8 @@
   "waypoint_charger_duration": "Set charge duration",
   "waypoint_departure_time": "Set departure time",
   "amenities_stop_for_time": "Stop for",
-  "amenities_stop_at_time": "Stop at"
+  "amenities_stop_at_time": "Stop at",
+  "manage_subscription": "Manage subscription",
+  "manage_old_subscription": "Manage old subscription",
+  "rejoin_premium": "Rejoin premium"
 }
