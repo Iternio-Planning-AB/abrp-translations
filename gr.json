@@ -1619,12 +1619,12 @@
   "feedback_answer_live_data_more": "Περισσότερο απασχολημένος",
   "feedback_answer_live_data_occupied": "Ολες οι θέσεις είναι κατειλημμένες",
   "feedback_question_close_button_title": "Κλείσιμο",
-  "profile": "Profile",
-  "carmirror_soc": "Manual SoC adjustment",
-  "report_charger_incorrect_location_description_web": "Find the correct location on a map and copy the longitude and latitude values.",
-  "carmirror_set_soc": "Add/Remove SoC",
-  "waypoint_charger_duration": "Set charge duration",
-  "waypoint_departure_time": "Set departure time",
-  "amenities_stop_for_time": "Stop for",
-  "amenities_stop_at_time": "Stop at"
+  "profile": "Προφίλ",
+  "carmirror_soc": "Χειροκίνητη ρύθμιση Κατάστασης Φόρτισης",
+  "report_charger_incorrect_location_description_web": "Βρείτε τη σωστή τοποθεσία σε έναν χάρτη και αντιγράψτε τις τιμές γεωγραφικού μήκους και πλάτους.",
+  "carmirror_set_soc": "Προσθήκη/Αφαίρεση Κατάστασης Φόρτισης",
+  "waypoint_charger_duration": "Ορισμός χρόνου φόρτισης",
+  "waypoint_departure_time": "Ορισμός ώρας αναχώρησης",
+  "amenities_stop_for_time": "Στάση για",
+  "amenities_stop_at_time": "Στάση στις"
 }
