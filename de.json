@@ -1629,5 +1629,6 @@
   "amenities_stop_at_time": "Anhalten um",
   "manage_subscription": "Manage subscription",
   "manage_old_subscription": "Manage old subscription",
-  "rejoin_premium": "Rejoin premium"
+  "rejoin_premium": "Rejoin premium",
+  "rate_charger": "Rate charger"
 }

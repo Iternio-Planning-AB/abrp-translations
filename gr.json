@@ -1629,5 +1629,6 @@
   "amenities_stop_at_time": "Στάση στις",
   "manage_subscription": "Διαχείριση συνδρομής",
   "manage_old_subscription": "Διαχείριση παλιάς συνδρομής",
-  "rejoin_premium": "Εγγραφείτε ξανά στο premium"
+  "rejoin_premium": "Εγγραφείτε ξανά στο premium",
+  "rate_charger": "Rate charger"
 }
