@@ -103,7 +103,7 @@
   "dry_roads": "Στεγνοί δρόμοι",
   "rain_or_snow": "Βροχή ή χιόνι",
   "heavy_rain_or_snow": "Δυνατή βροχή ή χιόνι",
-  "avoid_on_route": "Αποφύγετε στη διαδρομή",
+  "avoid_on_route": "Αποφυγή στη διαδρομή",
   "avoid_on_route_description": "Αποφύγετε τα ακόλουθα στη διαδρομή: αυτοκινητοδρόμους, πλοία, διόδια ή διέλευση συνόρων χώρας.",
   "ferries": "Πλοία",
   "highways": "Αυτοκινητόδρομοι",
@@ -327,7 +327,7 @@
   "select_tesla": "Επιλέξτε το Tesla σας",
   "select_tesla_description": "Επιλέξτε το όχημα από το οποίο θέλετε δεδομένα πραγματικού χρόνου",
   "set_as": "Θέστε ως",
-  "avoid_this_charger": "Αποφύγετε αυτόν τον φορτιστή",
+  "avoid_this_charger": "Αποφυγή αυτού του φορτιστή",
   "prefer_or_avoid": "Προτιμήστε ή αποφύγετε",
   "how_to_treat": "Πώς θα θέλατε να μεταχειριστείτε τους {{network}} φορτιστές?",
   "prefer_or_avoid_3": "Χρησιμοποιήστε αποκλειστικά και προτιμήστε",
@@ -1627,7 +1627,7 @@
   "waypoint_departure_time": "Ορισμός ώρας αναχώρησης",
   "amenities_stop_for_time": "Στάση για",
   "amenities_stop_at_time": "Στάση στις",
-  "manage_subscription": "Manage subscription",
-  "manage_old_subscription": "Manage old subscription",
-  "rejoin_premium": "Rejoin premium"
+  "manage_subscription": "Διαχείριση συνδρομής",
+  "manage_old_subscription": "Διαχείριση παλιάς συνδρομής",
+  "rejoin_premium": "Εγγραφείτε ξανά στο premium"
 }
