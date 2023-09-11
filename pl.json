@@ -1630,5 +1630,8 @@
   "manage_subscription": "Zarządzaj subskrypcją",
   "manage_old_subscription": "Zarządzaj starą subskrypcją",
   "rejoin_premium": "Dołącz ponownie do premium",
-  "rate_charger": "Oceń ładowarkę"
+  "rate_charger": "Oceń ładowarkę",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }

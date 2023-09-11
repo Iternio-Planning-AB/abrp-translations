@@ -1627,5 +1627,8 @@
   "manage_subscription": "Керувати підпискою",
   "manage_old_subscription": "Керувати старою підпискою",
   "rejoin_premium": "Приєднатися знов до преміум-підписки",
-  "rate_charger": "Rate charger"
+  "rate_charger": "Rate charger",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }

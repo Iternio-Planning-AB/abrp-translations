@@ -1627,5 +1627,8 @@
   "manage_subscription": "Manage subscription",
   "manage_old_subscription": "Manage old subscription",
   "rejoin_premium": "Rejoin premium",
-  "rate_charger": "Rate charger"
+  "rate_charger": "Rate charger",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }

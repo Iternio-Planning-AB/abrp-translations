@@ -1630,5 +1630,8 @@
   "manage_subscription": "Διαχείριση συνδρομής",
   "manage_old_subscription": "Διαχείριση παλιάς συνδρομής",
   "rejoin_premium": "Εγγραφείτε ξανά στο premium",
-  "rate_charger": "Βαθμολόγηση φορτιστή"
+  "rate_charger": "Βαθμολόγηση φορτιστή",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }

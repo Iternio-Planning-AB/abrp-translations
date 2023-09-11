@@ -1630,5 +1630,8 @@
   "manage_subscription": "Управлять подпиской",
   "manage_old_subscription": "Управлять старой подпиской",
   "rejoin_premium": "Переподключение к Premium",
-  "rate_charger": "Rate charger"
+  "rate_charger": "Rate charger",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }

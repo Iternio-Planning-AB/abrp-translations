@@ -1630,5 +1630,8 @@
   "manage_subscription": "Xestinar subscrición",
   "manage_old_subscription": "Xestionar a xubscrición antiga",
   "rejoin_premium": "Volver subcribirse",
-  "rate_charger": "Valorar cargador"
+  "rate_charger": "Valorar cargador",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }

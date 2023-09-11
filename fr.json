@@ -1627,5 +1627,8 @@
   "manage_subscription": "Gérer l'abonnement",
   "manage_old_subscription": "Gérer les anciens abonnements",
   "rejoin_premium": "Rejoindre l'abonnement premium",
-  "rate_charger": "Evaluer ce chargeur"
+  "rate_charger": "Evaluer ce chargeur",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }

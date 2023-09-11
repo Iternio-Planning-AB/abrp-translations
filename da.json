@@ -1630,5 +1630,8 @@
   "manage_subscription": "Administrer abonnement",
   "manage_old_subscription": "Administrer gammelt abonnement",
   "rejoin_premium": "Tilmeld dig premium igen",
-  "rate_charger": "Rate charger"
+  "rate_charger": "Rate charger",
+  "set_to": "Set to",
+  "prefer": "prefer",
+  "default": "default"
 }
