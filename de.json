@@ -1627,8 +1627,8 @@
   "waypoint_departure_time": "Abfahrtszeit einstellen",
   "amenities_stop_for_time": "Anhalten für",
   "amenities_stop_at_time": "Anhalten um",
-  "manage_subscription": "Manage subscription",
-  "manage_old_subscription": "Manage old subscription",
-  "rejoin_premium": "Rejoin premium",
-  "rate_charger": "Rate charger"
+  "manage_subscription": "Abonnement verwalten",
+  "manage_old_subscription": "Altes Abonnement verwalten",
+  "rejoin_premium": "Premium wieder beitreten",
+  "rate_charger": "Ladestation bewerten"
 }
