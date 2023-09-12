@@ -1631,7 +1631,7 @@
   "manage_old_subscription": "Altes Abonnement verwalten",
   "rejoin_premium": "Premium wieder beitreten",
   "rate_charger": "Ladestation bewerten",
-  "set_to": "Set to",
-  "prefer": "prefer",
-  "default": "default"
+  "set_to": "Einstellen auf",
+  "prefer": "Bevorzugen",
+  "default": "Standard"
 }
