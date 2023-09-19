@@ -1424,8 +1424,8 @@
   "premium_skip": "Nyní přeskočit",
   "premium_start_trial": "Spustit zkušební dobu na 14 dnů",
   "premium_select_plan": "Zvolte předplatné",
-  "premium_monthly": "Měsíčně - 5€ / měsíc",
-  "premium_yearly": "Ročně - 50€ / rok",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Poskytovatel: {{provider}}",
   "premium_apple_watch": "Skvělé pro sledování průběhu na Vašem zápěstí.\nNejaktuálnější informace o nabíjení nebo o stavu jízdy na Vašich hodinkách bez nutnosti použít telefon.",
   "loading_subscription_data": "Načítání dat o předplatném...",
@@ -1628,7 +1628,10 @@
   "manage_old_subscription": "Spravovat staré předplatné",
   "rejoin_premium": "Znovu se připojit k Premium",
   "rate_charger": "Ohodnotit nabíječku",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
   "set_to": "Nastavit na",
   "prefer": "preferovat",
-  "default": "výchozí"
+  "default": "výchozí",
+  "no_gps_location_permission": "GPS denied"
 }

@@ -1427,8 +1427,8 @@
   "premium_skip": "Παράλειψη προς το παρόν",
   "premium_start_trial": "Εναρξη δωρεάν δοκιμής 14 ημερών",
   "premium_select_plan": "Επιλέξτε το πλάνο σας",
-  "premium_monthly": "Μηνιαίο - 5€ / μήνα",
-  "premium_yearly": "Ετήσιο - 50€ / έτος",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Πάροχος: {{provider}}",
   "premium_apple_watch": "Ιδανικό για να παρακολουθείτε την πρόοδό σας εν κινήσει.\nΔείτε την πιο ενημερωμένη κατάσταση φόρτισης ή οδήγησης σας χωρίς να χρειάζεται να ασχολείστε με το τηλέφωνό σας.",
   "loading_subscription_data": "Φόρτωση δεδομένων συνδρομής...",
@@ -1633,5 +1633,8 @@
   "rate_charger": "Βαθμολόγηση φορτιστή",
   "set_to": "Ορισμός σε",
   "prefer": "προτίμηση",
-  "default": "προεπιλογή"
+  "default": "προεπιλογή",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
+  "no_gps_location_permission": "GPS denied"
 }

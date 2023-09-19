@@ -1427,8 +1427,8 @@
   "premium_skip": "Pomiń to na razie",
   "premium_start_trial": "Rozpocznij bezpłatny 14-dniowy okres próbny",
   "premium_select_plan": "Wybierz Twój plan",
-  "premium_monthly": "Miesięczny - 5 € / miesiąc",
-  "premium_yearly": "Roczny - 50 € / rok",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Dostawca: {{provider}}",
   "premium_apple_watch": "Idealny do śledzenia postępów w podróży.\nZobacz swój najbardziej aktualny stan ładowania lub jazdy na zegarku bez konieczności majstrowania przy telefonie.",
   "loading_subscription_data": "Ładowanie danych subskrypcji...",
@@ -1633,5 +1633,8 @@
   "rate_charger": "Oceń ładowarkę",
   "set_to": "Set to",
   "prefer": "prefer",
-  "default": "default"
+  "default": "default",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
+  "no_gps_location_permission": "GPS denied"
 }

@@ -1424,8 +1424,8 @@
   "premium_skip": "Пропустити зараз",
   "premium_start_trial": "Почати 14 безкоштовних днів",
   "premium_select_plan": "Виберіть Ваш план",
-  "premium_monthly": "Щомісяця - 5€ / міс.",
-  "premium_yearly": "Щорічно - 50€ / рік",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Провайдер: {{provider}}",
   "premium_apple_watch": "Ідеально підходить для спостереження за вашими успіхами на ходу.\nДивіться на своєму годиннику актуальний статус зарядки або руху без необхідності возитися з телефоном.",
   "loading_subscription_data": "Завантаження даних підписки...",
@@ -1628,7 +1628,10 @@
   "manage_old_subscription": "Керувати старою підпискою",
   "rejoin_premium": "Приєднатися знов до преміум-підписки",
   "rate_charger": "Rate charger",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
   "set_to": "Set to",
   "prefer": "prefer",
-  "default": "default"
+  "default": "default",
+  "no_gps_location_permission": "GPS denied"
 }

@@ -1427,8 +1427,8 @@
   "premium_skip": "Sla voorlopig over",
   "premium_start_trial": "Start een gratis proefperiode van 14 dagen",
   "premium_select_plan": "Selecteer uw abonnement",
-  "premium_monthly": "Maandeljks - 5€ / maand",
-  "premium_yearly": "Jaarlijks - 50€ / jaar",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Aanbieder: {{provider}}",
   "premium_apple_watch": "Perfect om onderweg uw voortgang te bekijken.\nBekijk uw meest actuele laad- of rijstatus op uw horloge zonder dat u met uw telefoon in de weer moet.",
   "loading_subscription_data": "Abonnementsdata laden...",
@@ -1631,7 +1631,10 @@
   "manage_old_subscription": "Manage old subscription",
   "rejoin_premium": "Rejoin premium",
   "rate_charger": "Rate charger",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
   "set_to": "Set to",
   "prefer": "prefer",
-  "default": "default"
+  "default": "default",
+  "no_gps_location_permission": "GPS denied"
 }

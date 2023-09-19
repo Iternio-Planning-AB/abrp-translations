@@ -1427,8 +1427,8 @@
   "premium_skip": "Hoppa över tills vidare",
   "premium_start_trial": "Starta 14 dagars gratis provperiod",
   "premium_select_plan": "Välj din plan",
-  "premium_monthly": "Månadsvis - 5€ / månad",
-  "premium_yearly": "Årsvis - 50€ / år",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Provider: {{provider}}",
   "premium_apple_watch": "Perfekt för att se status 'on the go'.\nSe din senaste laddnings- eller körstatus på klockan utan att behöva pilla med telefonen.",
   "loading_subscription_data": "Laddar prenumerationsdata...",
@@ -1631,7 +1631,10 @@
   "manage_old_subscription": "Manage old subscription",
   "rejoin_premium": "Rejoin premium",
   "rate_charger": "Rate charger",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
   "set_to": "Set to",
   "prefer": "prefer",
-  "default": "default"
+  "default": "default",
+  "no_gps_location_permission": "GPS denied"
 }

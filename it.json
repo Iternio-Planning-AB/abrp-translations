@@ -1427,8 +1427,8 @@
   "premium_skip": "Non adesso",
   "premium_start_trial": "Iniziare la prova gratuita di 14 giorni",
   "premium_select_plan": "Selezionare il piano",
-  "premium_monthly": "Mensile - 5€ / mese",
-  "premium_yearly": "Annuale - 50€ / anno",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Fornitore: {{provider}}",
   "premium_apple_watch": "Perfetto per osservare i progressi in movimento. ´Vedere lo stato di carica o di guida più aggiornato sull'orologio senza dover armeggiare con il telefono.",
   "loading_subscription_data": "Caricamento dei dati dell'abbonamento...",
@@ -1631,7 +1631,10 @@
   "manage_old_subscription": "Manage old subscription",
   "rejoin_premium": "Rejoin premium",
   "rate_charger": "Rate charger",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
   "set_to": "Set to",
   "prefer": "prefer",
-  "default": "default"
+  "default": "default",
+  "no_gps_location_permission": "GPS denied"
 }

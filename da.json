@@ -1427,8 +1427,8 @@
   "premium_skip": "Spring over",
   "premium_start_trial": "Start 14 dages gratis prøveperiode",
   "premium_select_plan": "Vælg din abb.",
-  "premium_monthly": "Månedligt - 5€ / måned",
-  "premium_yearly": "Årligt - 50€ / år",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Udbyder: {{provider}}",
   "premium_apple_watch": "Perfekt til at se dine fremskridt på farten.\nSe din mest opdaterede opladnings- eller kørestatus på dit ur uden at skulle rode med din telefon.",
   "loading_subscription_data": "Indlæser abonnementsdata...",
@@ -1631,7 +1631,10 @@
   "manage_old_subscription": "Administrer gammelt abonnement",
   "rejoin_premium": "Tilmeld dig premium igen",
   "rate_charger": "Bedøm lader",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
   "set_to": "Indstil til",
   "prefer": "foretrække",
-  "default": "Standard"
+  "default": "Standard",
+  "no_gps_location_permission": "GPS denied"
 }

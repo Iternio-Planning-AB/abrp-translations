@@ -1424,8 +1424,8 @@
   "premium_skip": "Omite pentru moment",
   "premium_start_trial": "Începe perioada gratuită de 14 zile",
   "premium_select_plan": "Selectează planul",
-  "premium_monthly": "Lunar - 5€ / lună",
-  "premium_yearly": "Anual - 50€ / an",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Furnizor: {{provider}}",
   "premium_apple_watch": "Perfect pentru a-ți urmări progresul din mers.\nVezi cea mai recentă stare a încărcării sau a conducerii pe ceas fără a fi nevoit să te joci cu telefonul.",
   "loading_subscription_data": "Se încarcă datele abonamentului...",
@@ -1628,7 +1628,10 @@
   "manage_old_subscription": "Manage old subscription",
   "rejoin_premium": "Rejoin premium",
   "rate_charger": "Rate charger",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
   "set_to": "Set to",
   "prefer": "prefer",
-  "default": "default"
+  "default": "default",
+  "no_gps_location_permission": "GPS denied"
 }

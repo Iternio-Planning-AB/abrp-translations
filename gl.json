@@ -1427,8 +1427,8 @@
   "premium_skip": "Desbotar polo de agora",
   "premium_start_trial": "Comezar a probar de balde por 15 días",
   "premium_select_plan": "Seleccionar plan",
-  "premium_monthly": "Mensualmente - 5€ / mes",
-  "premium_yearly": "Anualmente - 50€ / ano",
+  "premium_monthly": "Monthly",
+  "premium_yearly": "Annually",
   "premium_provider_x": "Provedor: {{provider}}",
   "premium_apple_watch": "Perfecto para ver o teu progreso durante a viaxe.\nMira o estado da carga ou a condución sen ter que coller o teu móbil.",
   "loading_subscription_data": "Cargando datos da subscrición...",
@@ -1633,5 +1633,8 @@
   "rate_charger": "Valorar cargador",
   "set_to": "Set to",
   "prefer": "prefer",
-  "default": "default"
+  "default": "default",
+  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
+  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
+  "no_gps_location_permission": "GPS denied"
 }
