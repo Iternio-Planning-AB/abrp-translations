@@ -1631,10 +1631,10 @@
   "manage_old_subscription": "Administrer gammelt abonnement",
   "rejoin_premium": "Tilmeld dig premium igen",
   "rate_charger": "Bedøm lader",
-  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
-  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
+  "premium_monthly_x": "Månedelig - {{price}}{{currency}} / pr. måned",
+  "premium_yearly_x": "Årligt - {{price}}{{currency}} / pr. år",
   "set_to": "Indstil til",
   "prefer": "foretrække",
   "default": "Standard",
-  "no_gps_location_permission": "GPS denied"
+  "no_gps_location_permission": "GPS afvist"
 }
