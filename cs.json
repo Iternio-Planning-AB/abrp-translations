@@ -1628,10 +1628,10 @@
   "manage_old_subscription": "Spravovat staré předplatné",
   "rejoin_premium": "Znovu se připojit k Premium",
   "rate_charger": "Ohodnotit nabíječku",
-  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
-  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
+  "premium_monthly_x": "Měsíční - {{price}}{{currency}} / měsíčně",
+  "premium_yearly_x": "Roční - {{price}}{{currency}} / ročně",
   "set_to": "Nastavit na",
   "prefer": "preferovat",
   "default": "výchozí",
-  "no_gps_location_permission": "GPS denied"
+  "no_gps_location_permission": "GPS zakázána"
 }
