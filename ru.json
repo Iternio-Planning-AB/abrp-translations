@@ -1629,12 +1629,12 @@
   "amenities_stop_at_time": "Остановиться в",
   "manage_subscription": "Управлять подпиской",
   "manage_old_subscription": "Управлять старой подпиской",
-  "rejoin_premium": "Переподключение к Premium",
-  "rate_charger": "Rate charger",
-  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
-  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
-  "set_to": "Set to",
-  "prefer": "prefer",
-  "default": "default",
-  "no_gps_location_permission": "GPS denied"
+  "rejoin_premium": "Переподключить на Premium",
+  "rate_charger": "Оценить зарядку",
+  "premium_monthly_x": "Ежемесячно - {{price}}{{currency}} / месяц",
+  "premium_yearly_x": "Ежегодно - {{price}}{{currency}} / год",
+  "set_to": "Установить на",
+  "prefer": "предпочитать",
+  "default": "по умолчанию",
+  "no_gps_location_permission": "GPS отклонено"
 }
