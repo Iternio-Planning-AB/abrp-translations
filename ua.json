@@ -1626,12 +1626,12 @@
   "amenities_stop_at_time": "Зупинка о",
   "manage_subscription": "Керувати підпискою",
   "manage_old_subscription": "Керувати старою підпискою",
-  "rejoin_premium": "Приєднатися знов до преміум-підписки",
-  "rate_charger": "Rate charger",
-  "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
-  "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
-  "set_to": "Set to",
-  "prefer": "prefer",
-  "default": "default",
-  "no_gps_location_permission": "GPS denied"
+  "rejoin_premium": "Приєднатися знов до Premium-підписки",
+  "rate_charger": "Оцінити зарядку",
+  "premium_monthly_x": "Щомісячно - {{price}}{{currency}} / місяць",
+  "premium_yearly_x": "Щорічно - {{price}}{{currency}} / рік",
+  "set_to": "Встановити на",
+  "prefer": "надати перевагу",
+  "default": "за замовчуванням",
+  "no_gps_location_permission": "GPS відхилено"
 }
