@@ -1640,6 +1640,6 @@
   "default": "Standard",
   "no_gps_location_permission": "GPS verweigert",
   "apply_settings": "Einstellungen werden übernommen...",
-  "no_activities_month": "No activites for this month",
-  "no_activities_day": "No activities for this day"
+  "no_activities_month": "Keine Aktivitäten für diesen Monat",
+  "no_activities_day": "Keine Aktivitäten für diesen Tag"
 }
