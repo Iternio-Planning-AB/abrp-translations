@@ -970,8 +970,24 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
-  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
+  "day_names": [
+    "Sonntag",
+    "Montag",
+    "Dienstag",
+    "Mittwoch",
+    "Donnerstag",
+    "Freitag",
+    "Samstag"
+  ],
+  "day_names_short": [
+    "So.",
+    "Mo.",
+    "Di.",
+    "Mi.",
+    "Do.",
+    "Fr.",
+    "Sa."
+  ],
   "today": "Heute",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP-QR-Code, um den Anmeldevorgang abzuschließen",
   "permission_camera_title": "Berechtigung Kamera",
@@ -1266,7 +1282,12 @@
   "ferry_arrival": "Ankunft der Fähre",
   "sorry": "Es tut uns leid",
   "unexpected_error": "Ein unerwarteter Fehler ist aufgetreten, bitte versuche es erneut. Für weitere Hilfe wende dich an unseren Support.",
-  "direction_count_x": ["erste", "zweite", "dritte", "vierte"],
+  "direction_count_x": [
+    "erste",
+    "zweite",
+    "dritte",
+    "vierte"
+  ],
   "read_faq": "Lese unsere FAQ",
   "clear_plan": "Plan löschen",
   "xx_minutes_faster": "{{x}} Min. schneller",
@@ -1348,9 +1369,11 @@
   "networks_exclude": "Ausschließen",
   "carmirror_toggle_to_x": "Umschalten auf {{x}}",
   "carmirror_gps_speed": "GPS Geschwindigkeit anzeigen",
-  "carmirror_charger_prefs_short_many_max_10_letters": "Kurz-viele",
-  "carmirror_charger_prefs_quickest_max_8_letters": "Schnell.",
-  "carmirror_charger_prefs_long_few_max_10_letters": "Wenig-lang",
+  "carmirror_charger_prefs_short_many_max_10_letters": "Kurz - viele",
+  "carmirror_charger_prefs_shorter_max_10_letters": "Kürzer",
+  "carmirror_charger_prefs_quickest_max_8_letters": "Schnell",
+  "carmirror_charger_prefs_longer_max_10_letters": "Länger",
+  "carmirror_charger_prefs_long_few_max_10_letters": "Wenige - lang",
   "carmirror_change_vehicle_config": "Fahrzeugkonfiguration ändern",
   "carmirror_available_chargers": "Verfügbare Ladepunkte",
   "carmirror_charger_alternatives": "Alternativen",
@@ -1615,5 +1638,8 @@
   "set_to": "Einstellen auf",
   "prefer": "Bevorzugen",
   "default": "Standard",
-  "no_gps_location_permission": "GPS verweigert"
+  "no_gps_location_permission": "GPS verweigert",
+  "apply_settings": "Einstellungen werden übernommen...",
+  "no_activities_month": "No activites for this month",
+  "no_activities_day": "No activities for this day"
 }

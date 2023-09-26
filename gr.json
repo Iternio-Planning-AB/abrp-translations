@@ -1636,5 +1636,10 @@
   "default": "προεπιλογή",
   "premium_monthly_x": "Monthly - {{price}}{{currency}} / month",
   "premium_yearly_x": "Annually - {{price}}{{currency}} / year",
-  "no_gps_location_permission": "GPS denied"
+  "no_gps_location_permission": "GPS denied",
+  "carmirror_charger_prefs_shorter_max_10_letters": "Shorter",
+  "carmirror_charger_prefs_longer_max_10_letters": "Longer",
+  "no_activities_month": "No activites for this month",
+  "no_activities_day": "No activities for this day",
+  "apply_settings": "Applying settings..."
 }
