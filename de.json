@@ -1624,7 +1624,7 @@
   "profile": "Profil",
   "carmirror_soc": "Manuelle SoC-Anpassung",
   "report_charger_incorrect_location_description_web": "Suche den richtigen Ort auf einer Karte und kopiere die Werte für Längen- und Breitengrad.",
-  "carmirror_set_soc": "SoC hinzufügen/entfernen",
+  "carmirror_set_soc": "SoC erhöhen/verringern",
   "waypoint_charger_duration": "Ladedauer einstellen",
   "waypoint_departure_time": "Abfahrtszeit einstellen",
   "amenities_stop_for_time": "Anhalten für",
