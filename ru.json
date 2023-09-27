@@ -1641,5 +1641,6 @@
   "carmirror_charger_prefs_longer_max_10_letters": "Дольше",
   "no_activities_month": "В этом месяце нет активностей",
   "no_activities_day": "В этот день нет активностей",
-  "apply_settings": "Применение настроек..."
+  "apply_settings": "Применение настроек...",
+  "display_mode_aa": "Automatic (reported by car)"
 }

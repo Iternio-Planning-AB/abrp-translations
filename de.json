@@ -1638,8 +1638,9 @@
   "set_to": "Einstellen auf",
   "prefer": "Bevorzugen",
   "default": "Standard",
+  "no_activities_month": "Keine Aktivitäten für diesen Monat",
+  "no_activities_day": "Keine Aktivitäten für diesen Tag",
   "no_gps_location_permission": "GPS verweigert",
   "apply_settings": "Einstellungen werden übernommen...",
-  "no_activities_month": "Keine Aktivitäten für diesen Monat",
-  "no_activities_day": "Keine Aktivitäten für diesen Tag"
+  "display_mode_aa": "Automatisch (vom Auto)"
 }

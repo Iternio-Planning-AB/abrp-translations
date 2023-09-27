@@ -1617,5 +1617,6 @@
   "no_activities_month": "No activites for this month",
   "no_activities_day": "No activities for this day",
   "no_gps_location_permission": "GPS denied",
-  "apply_settings": "Applying settings..."
+  "apply_settings": "Applying settings...",
+  "display_mode_aa": "Automatic (reported by car)"
 }
