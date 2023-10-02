@@ -1636,7 +1636,7 @@
   "default": "predefinido",
   "premium_monthly_x": "Mensualmente - {{price}}{{currency}} / mes",
   "premium_yearly_x": "Anualmente - {{price}}{{currency}} / ano",
-  "no_gps_location_permission": "Permisos do GPS rexeitados",
+  "no_gps_location_permission": "Permisos do GPS denegados",
   "carmirror_charger_prefs_shorter_max_10_letters": "Máis curto",
   "carmirror_charger_prefs_longer_max_10_letters": "Máis longo",
   "no_activities_month": "Sen actividade para este mes",
