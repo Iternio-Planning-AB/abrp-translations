@@ -521,10 +521,6 @@
   "old_password": "Jelenlegi jelszó",
   "change_password": "Jelszó megváltoztatása",
   "change_password_failed": "A jelszó megváltoztatása sikertelen",
-  "slow_chargers_zoom_level_world": "Megjelenítés a térképen történt közelítés mértékétől függetlenül",
-  "slow_chargers_zoom_level_country": "Megjelenítés országra közelítés esetén",
-  "slow_chargers_zoom_level_city": "Megjelenítés településre közelítés esetén",
-  "slow_chargers_zoom_level_street": "Megjelenítés utcára közelítés esetén",
   "add_ferry_line": "Kompjárat hozzáadása",
   "share_map_app_picker": "Melyik alkalmazást szeretnéd használni?",
   "there_is_a_faster_route": "Elérhető egy {{duration}}-al gyorsabb útvonal",
@@ -1639,5 +1635,14 @@
   "no_activities_month": "No activites for this month",
   "no_activities_day": "No activities for this day",
   "apply_settings": "Applying settings...",
-  "display_mode_aa": "Automatic (reported by car)"
+  "display_mode_aa": "Automatic (reported by car)",
+  "reference_consumption_error_dialog_title": "Reference consumption error",
+  "reference_consumption_error_dialog_description_1": "Your reference consumption ({{consumption}}) is to {{status}}. The default reference consumption for your vehicle is {{defaultConsumption}}.",
+  "reference_consumption_error_dialog_description_2": "Please reset your reference consumption in the car details page and reset/restart your live data connection. If this does not help please contact support!",
+  "reference_consumption_error_dialog_description_3": "Read more about this issue in our FAQ",
+  "high": "high",
+  "low": "low",
+  "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
+  "send_verification_email": "Send verification email",
+  "update_and_send_verification_email": "Update and send verification email"
 }

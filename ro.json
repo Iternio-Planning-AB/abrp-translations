@@ -531,10 +531,6 @@
   "old_password": "Parolă veche",
   "change_password": "Schimbare parolă",
   "change_password_failed": "Schimbarea parolei nu a reușit",
-  "slow_chargers_zoom_level_world": "Afișat la orice zoom de hartă",
-  "slow_chargers_zoom_level_country": "Afișat la zoom de țară",
-  "slow_chargers_zoom_level_city": "Afișat la zoom de oraș",
-  "slow_chargers_zoom_level_street": "Afișat la zoom de stradă",
   "add_ferry_line": "Adaugă o conexiune cu feribotul",
   "share_map_app_picker": "Ce aplicație dorești să utilizezi?",
   "there_is_a_faster_route": "Există un traseu cu {{duration}} mai rapid",
@@ -1639,5 +1635,14 @@
   "no_activities_month": "No activites for this month",
   "no_activities_day": "No activities for this day",
   "apply_settings": "Applying settings...",
-  "display_mode_aa": "Automatic (reported by car)"
+  "display_mode_aa": "Automatic (reported by car)",
+  "reference_consumption_error_dialog_title": "Reference consumption error",
+  "reference_consumption_error_dialog_description_1": "Your reference consumption ({{consumption}}) is to {{status}}. The default reference consumption for your vehicle is {{defaultConsumption}}.",
+  "reference_consumption_error_dialog_description_2": "Please reset your reference consumption in the car details page and reset/restart your live data connection. If this does not help please contact support!",
+  "reference_consumption_error_dialog_description_3": "Read more about this issue in our FAQ",
+  "high": "high",
+  "low": "low",
+  "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
+  "send_verification_email": "Send verification email",
+  "update_and_send_verification_email": "Update and send verification email"
 }

@@ -528,10 +528,6 @@
   "old_password": "Старый пароль",
   "change_password": "Изменить пароль",
   "change_password_failed": "Не удалось изменить пароль",
-  "slow_chargers_zoom_level_world": "Отображать в любом масштабе",
-  "slow_chargers_zoom_level_country": "Отображать в масштабе страны",
-  "slow_chargers_zoom_level_city": "Отображать в масштабе города",
-  "slow_chargers_zoom_level_street": "Отображать в масштабе улицы",
   "add_ferry_line": "Добавить паромную переправу",
   "share_map_app_picker": "Какое приложение Вы бы хотели использовать?",
   "there_is_a_faster_route": "Есть маршрут на {{duration}} короче",
@@ -1642,5 +1638,14 @@
   "no_activities_month": "В этом месяце нет активностей",
   "no_activities_day": "В этот день нет активностей",
   "apply_settings": "Применение настроек...",
-  "display_mode_aa": "Automatic (reported by car)"
+  "display_mode_aa": "Automatic (reported by car)",
+  "reference_consumption_error_dialog_title": "Reference consumption error",
+  "reference_consumption_error_dialog_description_1": "Your reference consumption ({{consumption}}) is to {{status}}. The default reference consumption for your vehicle is {{defaultConsumption}}.",
+  "reference_consumption_error_dialog_description_2": "Please reset your reference consumption in the car details page and reset/restart your live data connection. If this does not help please contact support!",
+  "reference_consumption_error_dialog_description_3": "Read more about this issue in our FAQ",
+  "high": "high",
+  "low": "low",
+  "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
+  "send_verification_email": "Send verification email",
+  "update_and_send_verification_email": "Update and send verification email"
 }

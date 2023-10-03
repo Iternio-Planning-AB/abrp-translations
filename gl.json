@@ -561,10 +561,6 @@
   "old_password": "Contrasinal anterior",
   "change_password": "Mudar contrasinal",
   "change_password_failed": "Fallo ao mudar o contrasinal",
-  "slow_chargers_zoom_level_world": "Detalle en calquera nivel de zoom",
-  "slow_chargers_zoom_level_country": "Detalle a nivel de país",
-  "slow_chargers_zoom_level_city": "Detalle a nivel de cidade",
-  "slow_chargers_zoom_level_street": "Detalle a nivel de rúa",
   "add_ferry_line": "Engadir liña de transbordador",
   "share_map_app_picker": "Que aplicación queres usar?",
   "there_is_a_faster_route": "Hai unha ruta {{duration}} máis rápida",
@@ -1642,5 +1638,14 @@
   "no_activities_month": "Sen actividade para este mes",
   "no_activities_day": "Sen actividade para este día",
   "apply_settings": "Aplicando axustes...",
-  "display_mode_aa": "Automático (informado polo coche)"
+  "display_mode_aa": "Automático (informado polo coche)",
+  "reference_consumption_error_dialog_title": "Reference consumption error",
+  "reference_consumption_error_dialog_description_1": "Your reference consumption ({{consumption}}) is to {{status}}. The default reference consumption for your vehicle is {{defaultConsumption}}.",
+  "reference_consumption_error_dialog_description_2": "Please reset your reference consumption in the car details page and reset/restart your live data connection. If this does not help please contact support!",
+  "reference_consumption_error_dialog_description_3": "Read more about this issue in our FAQ",
+  "high": "high",
+  "low": "low",
+  "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
+  "send_verification_email": "Send verification email",
+  "update_and_send_verification_email": "Update and send verification email"
 }
