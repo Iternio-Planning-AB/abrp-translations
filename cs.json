@@ -1636,13 +1636,13 @@
   "no_activities_day": "Žádné aktivity tento den",
   "apply_settings": "Aplikování nastavení...",
   "display_mode_aa": "Automaticky (hlášeno vozidlem)",
-  "reference_consumption_error_dialog_title": "Reference consumption error",
-  "reference_consumption_error_dialog_description_1": "Your reference consumption ({{consumption}}) is to {{status}}. The default reference consumption for your vehicle is {{defaultConsumption}}.",
-  "reference_consumption_error_dialog_description_2": "Please reset your reference consumption in the car details page and reset/restart your live data connection. If this does not help please contact support!",
-  "reference_consumption_error_dialog_description_3": "Read more about this issue in our FAQ",
-  "high": "high",
-  "low": "low",
-  "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
-  "send_verification_email": "Send verification email",
-  "update_and_send_verification_email": "Update and send verification email"
+  "reference_consumption_error_dialog_title": "Chyba referenční spotřeby",
+  "reference_consumption_error_dialog_description_1": "Vaše referenční spotřeba ({{consumption}}) je {{status}}. Výchozí referenční spotřeba pro Vaše vozidlo je {{defaultConsumption}}.",
+  "reference_consumption_error_dialog_description_2": "Resetujte Vaši referenční spotřebu na stránce s podrobnostmi o vozidle a resetujte/restartujte Vaše živé datové připojení. Pokud to nepomůže, kontaktujte naši podporu.",
+  "reference_consumption_error_dialog_description_3": "Více o tomto problému ve FAQ",
+  "high": "vysoká",
+  "low": "nízká",
+  "my_drives_logging_information": "Data telemetrie jsou logována a uložena na 24 hodin. Pokud chcete data ukládat déle, povolte položku 'Uložit moji aktivitu'",
+  "send_verification_email": "Odeslat ověřovací e-mail",
+  "update_and_send_verification_email": "Aktualizovat a odeslat ověřovací e-mail"
 }
