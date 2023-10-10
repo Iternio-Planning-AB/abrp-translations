@@ -1644,5 +1644,6 @@
   "low": "nízká",
   "my_drives_logging_information": "Data telemetrie jsou logována a uložena na 24 hodin. Pokud chcete data ukládat déle, povolte položku 'Uložit moji aktivitu'",
   "send_verification_email": "Odeslat ověřovací e-mail",
-  "update_and_send_verification_email": "Aktualizovat a odeslat ověřovací e-mail"
+  "update_and_send_verification_email": "Aktualizovat a odeslat ověřovací e-mail",
+  "rating_results_step_available": "Available"
 }

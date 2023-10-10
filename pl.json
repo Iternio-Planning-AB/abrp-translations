@@ -1647,5 +1647,6 @@
   "low": "niskie",
   "my_drives_logging_information": "Dane telemetryczne są rejestrowane i zapisywane przez 24 godz. Jeśli chcesz zapisać dane dłużej włącz 'Zapisz moje aktywności'",
   "send_verification_email": "Wyślij email weryfikacyjny",
-  "update_and_send_verification_email": "Zaktualizuj i wyślij email weryfikacyjny"
+  "update_and_send_verification_email": "Zaktualizuj i wyślij email weryfikacyjny",
+  "rating_results_step_available": "Available"
 }

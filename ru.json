@@ -1647,5 +1647,6 @@
   "low": "низкий",
   "my_drives_logging_information": "Данные телеметрии регистрируются и сохраняются в течение 24 часов. Если вы хотите сохранять данные дольше, включите опцию 'Сохранить мои действия'",
   "send_verification_email": "Отправить письмо с подтверждением",
-  "update_and_send_verification_email": "Обновить и отправить проверочное письмо"
+  "update_and_send_verification_email": "Обновить и отправить проверочное письмо",
+  "rating_results_step_available": "Available"
 }

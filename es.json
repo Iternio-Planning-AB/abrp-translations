@@ -1644,5 +1644,6 @@
   "low": "low",
   "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
   "send_verification_email": "Send verification email",
-  "update_and_send_verification_email": "Update and send verification email"
+  "update_and_send_verification_email": "Update and send verification email",
+  "rating_results_step_available": "Available"
 }
