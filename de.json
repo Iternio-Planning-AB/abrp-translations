@@ -1639,14 +1639,14 @@
   "no_gps_location_permission": "GPS verweigert",
   "apply_settings": "Einstellungen werden übernommen...",
   "display_mode_aa": "Automatisch (vom Auto)",
-  "reference_consumption_error_dialog_title": "Reference consumption error",
-  "reference_consumption_error_dialog_description_1": "Your reference consumption ({{consumption}}) is to {{status}}. The default reference consumption for your vehicle is {{defaultConsumption}}.",
-  "reference_consumption_error_dialog_description_2": "Please reset your reference consumption in the car details page and reset/restart your live data connection. If this does not help please contact support!",
-  "reference_consumption_error_dialog_description_3": "Read more about this issue in our FAQ",
-  "high": "high",
-  "low": "low",
+  "reference_consumption_error_dialog_title": "Fehler beim Referenzverbrauch",
+  "reference_consumption_error_dialog_description_1": "Dein Referenzverbrauch ({{consumption}}) ist zu {{status}}. Der Standard-Referenzverbrauch für dein Fahrzeug ist {{defaultConsumption}}.",
+  "reference_consumption_error_dialog_description_2": "Bitte setze deinen Referenzverbrauch auf der Fahrzeugdetailseite zurück und starte deine Live-Datenverbindung neu bzw. setze diese zurück. Wenn dies nicht hilft, kontaktiere bitte den Support!",
+  "reference_consumption_error_dialog_description_3": "Lese mehr über dieses Thema in unseren FAQ",
+  "high": "hoch",
+  "low": "niedrig",
   "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
-  "send_verification_email": "Send verification email",
-  "update_and_send_verification_email": "Update and send verification email",
-  "rating_results_step_available": "Available"
+  "send_verification_email": "Bestätigungs-E-Mail senden",
+  "update_and_send_verification_email": "Aktualisieren und Bestätigungs-E-Mail senden",
+  "rating_results_step_available": "Verfügbar"
 }
