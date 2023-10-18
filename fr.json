@@ -1156,7 +1156,6 @@
   "learn_more": "En savoir plus",
   "obdble_link_another_dongle": "Lier un autre dongle OBD",
   "Connected": "Connecté",
-  "learn-more": "En savoir plus",
   "plan_warning_header": "Certains paramètres de réglages peuvent entrainer l'échec de votre planification",
   "traffic": "Trafic",
   "type_of_chargers_tooltip": "Ce sont les connecteurs ou prises de charge que votre véhicule prend en compte ou pour lesquels vous avez des adaptateurs disponibles",
@@ -1645,5 +1644,16 @@
   "my_drives_logging_information": "Les données de télémétrie sont enregistrées et sauvegardées pendant 24 heures. Si vous souhaitez enregistrer les données plus longtemps, activez l'option 'Enregistrer mes activités.",
   "send_verification_email": "Envoyer un mail de vérification",
   "update_and_send_verification_email": "Mettre à jour et envoyer l'e-mail de vérification",
-  "rating_results_step_available": "Disponible"
+  "rating_results_step_available": "Disponible",
+  "report_charger_cant_find": "Can't find",
+  "charger_at_wrong_location": "Wrong location",
+  "report_charger_incorrect_location_title": "Have you found the charger but it's at another prosition that in the app or is the charger impossible to find?",
+  "waypoint_action_add_charging_station": "Add charging station",
+  "report_charge_error_new_charging_station": "",
+  "suggest_new_charger_title": "Suggest new charger to add",
+  "add_charger_description": "Add chargers at location, please be detailed and add photos (subject for review)",
+  "add_new_charger_find_network": "What charger network does the chargers belong to?",
+  "add_charger_link_more_information": "Link to charger information",
+  "add_charger_no_stalls_added": "No stalls added",
+  "network_name": "Network name"
 }

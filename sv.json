@@ -1156,7 +1156,6 @@
   "learn_more": "Läs mer",
   "obdble_link_another_dongle": "Länka en annan OBD-dongel",
   "Connected": "Ansluten",
-  "learn-more": "Läs mer",
   "plan_warning_header": "Vissa inställningar kan leda till att planering misslyckas",
   "traffic": "Trafik",
   "type_of_chargers_tooltip": "Det här är laddningskontakterna som din bil stöder eller du har tillgängliga adaptrar för",
@@ -1648,5 +1647,16 @@
   "my_drives_logging_information": "Telemetry data is logged and saved for 24 hours. If you want to save the data longer enable the 'Save my activites'",
   "send_verification_email": "Send verification email",
   "update_and_send_verification_email": "Update and send verification email",
-  "rating_results_step_available": "Available"
+  "rating_results_step_available": "Available",
+  "report_charger_cant_find": "Can't find",
+  "charger_at_wrong_location": "Wrong location",
+  "report_charger_incorrect_location_title": "Have you found the charger but it's at another prosition that in the app or is the charger impossible to find?",
+  "waypoint_action_add_charging_station": "Add charging station",
+  "report_charge_error_new_charging_station": "",
+  "suggest_new_charger_title": "Suggest new charger to add",
+  "add_charger_description": "Add chargers at location, please be detailed and add photos (subject for review)",
+  "add_new_charger_find_network": "What charger network does the chargers belong to?",
+  "add_charger_link_more_information": "Link to charger information",
+  "add_charger_no_stalls_added": "No stalls added",
+  "network_name": "Network name"
 }

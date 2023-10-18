@@ -1156,7 +1156,6 @@
   "learn_more": "Узнать больше",
   "obdble_link_another_dongle": "Подключите еще один OBD-донгл",
   "Connected": "Подключен",
-  "learn-more": "Узнать больше",
   "plan_warning_header": "Некоторые настройки могут привести к невозможности построить маршрут",
   "traffic": "Пробки",
   "type_of_chargers_tooltip": "Это зарядные штекеры, которые поддерживает ваш автомобиль или для которых у вас есть адаптеры.",
@@ -1648,5 +1647,16 @@
   "my_drives_logging_information": "Данные телеметрии регистрируются и сохраняются в течение 24 часов. Если вы хотите сохранять данные дольше, включите опцию 'Сохранить мои действия'",
   "send_verification_email": "Отправить письмо с подтверждением",
   "update_and_send_verification_email": "Обновить и отправить проверочное письмо",
-  "rating_results_step_available": "Available"
+  "rating_results_step_available": "Available",
+  "report_charger_cant_find": "Can't find",
+  "charger_at_wrong_location": "Wrong location",
+  "report_charger_incorrect_location_title": "Have you found the charger but it's at another prosition that in the app or is the charger impossible to find?",
+  "waypoint_action_add_charging_station": "Add charging station",
+  "report_charge_error_new_charging_station": "",
+  "suggest_new_charger_title": "Suggest new charger to add",
+  "add_charger_description": "Add chargers at location, please be detailed and add photos (subject for review)",
+  "add_new_charger_find_network": "What charger network does the chargers belong to?",
+  "add_charger_link_more_information": "Link to charger information",
+  "add_charger_no_stalls_added": "No stalls added",
+  "network_name": "Network name"
 }

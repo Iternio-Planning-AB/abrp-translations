@@ -1152,7 +1152,6 @@
   "writing": "Zapisování",
   "reading": "Čtení",
   "Connected": "Připojeno",
-  "learn-more": "Více informací",
   "plan_warning_header": "Některá nastavení mohou vést k selhání plánování.",
   "step_arrival_soc_warning": "Poznámka: Toto je stav nabití při příjezdu",
   "warning_step_has_high_arrival_soc": "Jedna nebo více nabíječek v plánu má vysoký stav nabití při příjezdu",
@@ -1645,5 +1644,16 @@
   "my_drives_logging_information": "Data telemetrie jsou logována a uložena na 24 hodin. Pokud chcete data ukládat déle, povolte položku 'Uložit moji aktivitu'",
   "send_verification_email": "Odeslat ověřovací e-mail",
   "update_and_send_verification_email": "Aktualizovat a odeslat ověřovací e-mail",
-  "rating_results_step_available": "Dostupné"
+  "rating_results_step_available": "Dostupné",
+  "report_charger_cant_find": "Can't find",
+  "charger_at_wrong_location": "Wrong location",
+  "report_charger_incorrect_location_title": "Have you found the charger but it's at another prosition that in the app or is the charger impossible to find?",
+  "waypoint_action_add_charging_station": "Add charging station",
+  "report_charge_error_new_charging_station": "",
+  "suggest_new_charger_title": "Suggest new charger to add",
+  "add_charger_description": "Add chargers at location, please be detailed and add photos (subject for review)",
+  "add_new_charger_find_network": "What charger network does the chargers belong to?",
+  "add_charger_link_more_information": "Link to charger information",
+  "add_charger_no_stalls_added": "No stalls added",
+  "network_name": "Network name"
 }
