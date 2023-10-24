@@ -1634,5 +1634,7 @@
   "send_verification_email": "Send verification email",
   "update_and_send_verification_email": "Update and send verification email",
   "rating_results_step_available": "Available",
-  "network_name": "Network name"
+  "network_name": "Network name",
+  "unknown_vehicle_delete_description": "This vehicle is incomplete or missing essential information. Would you like to delete it?",
+  "unknown_vehicle_delete_title": "Unknown vehicle"        
 }

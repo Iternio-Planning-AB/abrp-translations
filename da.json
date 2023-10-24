@@ -1658,5 +1658,7 @@
   "add_new_charger_find_network": "Hvilket opladernetværk tilhører opladerne?",
   "add_charger_link_more_information": "Link til opladeroplysninger",
   "add_charger_no_stalls_added": "Ingen oplader tilføjet",
-  "network_name": "Opladernetværks navn"
+  "network_name": "Opladernetværks navn",
+  "unknown_vehicle_delete_description": "This vehicle is incomplete or missing essential information. Would you like to delete it?",
+  "unknown_vehicle_delete_title": "Unknown vehicle"
 }

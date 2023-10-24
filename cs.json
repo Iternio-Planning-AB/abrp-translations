@@ -1655,5 +1655,7 @@
   "add_new_charger_find_network": "K jaké nabíjecí síti patří tato nabíječka?",
   "add_charger_link_more_information": "Odkaz k informacím o nabíječce",
   "add_charger_no_stalls_added": "Nebyly přidány žádné nabíječky",
-  "network_name": "Název sítě"
+  "network_name": "Název sítě",
+  "unknown_vehicle_delete_description": "This vehicle is incomplete or missing essential information. Would you like to delete it?",
+  "unknown_vehicle_delete_title": "Unknown vehicle"
 }

@@ -1658,5 +1658,7 @@
   "add_new_charger_find_network": "Vilket nätverk tillhör laddarna?",
   "add_charger_link_more_information": "Länk till information om laddare",
   "add_charger_no_stalls_added": "Inga laddare tillagda",
-  "network_name": "Nätverksnamn"
+  "network_name": "Nätverksnamn",
+  "unknown_vehicle_delete_description": "This vehicle is incomplete or missing essential information. Would you like to delete it?",
+  "unknown_vehicle_delete_title": "Unknown vehicle"
 }
