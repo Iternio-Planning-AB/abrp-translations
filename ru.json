@@ -1671,12 +1671,12 @@
   "report_image_fail_description": "При создании отчета об изображениях возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема сохраняется, обратитесь за помощью в нашу службу поддержки.",
   "upload_photos_legal_disclaimer": "Загружая фотографии, вы предоставляете компании Iternio Planning AB неограниченное право использовать и распространять контент по своему усмотрению.",
   "upload_image": "Загрузить изображения",
-  "select_configuration": "Select configuration",
-  "email_verified": "Your email address has been successfully verified",
-  "email_verification_failed": "Email verification failed",
-  "email_verification_failed_description": "Email verification failed. Please try again. If the issue persists, kindly contact our support team.",
-  "round_trip": "Round trip",
-  "back_to_start": "Back to start",
-  "reverse_destinations": "Reverse plan",
-  "new": "new"
+  "select_configuration": "Выбрать конфигурацию",
+  "email_verified": "Ваш адрес электронной почты успешно проверен",
+  "email_verification_failed": "Проверка электронной почты не прошла",
+  "email_verification_failed_description": "Проверка электронной почты не удалась. Пожалуйста, попробуйте еще раз. Если проблема не решена, обратитесь в нашу службу поддержки.",
+  "round_trip": "Поездка туда и обратно",
+  "back_to_start": "Назад к началу",
+  "reverse_destinations": "Обратный план",
+  "new": "новый"
 }
