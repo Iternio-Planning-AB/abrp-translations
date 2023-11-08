@@ -1360,9 +1360,6 @@
   "networks_exclude": "Исключить",
   "carmirror_toggle_to_x": "Переключиться на {{x}}",
   "carmirror_gps_speed": "Показать скорость по GPS",
-  "carmirror_charger_prefs_short_many_max_10_letters": "Чаще",
-  "carmirror_charger_prefs_quickest_max_8_letters": "Наибыстр",
-  "carmirror_charger_prefs_long_few_max_10_letters": "Реже",
   "carmirror_change_vehicle_config": "Изменить конфигурацию автомобиля",
   "carmirror_available_chargers": "Доступные зарядки",
   "carmirror_charger_alternatives": "Другие зарядки",
@@ -1632,8 +1629,6 @@
   "prefer": "предпочитать",
   "default": "по умолчанию",
   "no_gps_location_permission": "GPS отклонено",
-  "carmirror_charger_prefs_shorter_max_10_letters": "Короче",
-  "carmirror_charger_prefs_longer_max_10_letters": "Дольше",
   "no_activities_month": "В этом месяце нет активностей",
   "no_activities_day": "В этот день нет активностей",
   "apply_settings": "Применение настроек...",
@@ -1675,5 +1670,13 @@
   "report_image_fail_title": "Отчет об изображениях не удался",
   "report_image_fail_description": "При создании отчета об изображениях возникла проблема. Пожалуйста, попробуйте еще раз. Если проблема сохраняется, обратитесь за помощью в нашу службу поддержки.",
   "upload_photos_legal_disclaimer": "Загружая фотографии, вы предоставляете компании Iternio Planning AB неограниченное право использовать и распространять контент по своему усмотрению.",
-  "upload_image": "Загрузить изображения"
+  "upload_image": "Загрузить изображения",
+  "select_configuration": "Select configuration",
+  "email_verified": "Your email address has been successfully verified",
+  "email_verification_failed": "Email verification failed",
+  "email_verification_failed_description": "Email verification failed. Please try again. If the issue persists, kindly contact our support team.",
+  "round_trip": "Round trip",
+  "back_to_start": "Back to start",
+  "reverse_destinations": "Reverse plan",
+  "new": "new"
 }

@@ -1360,9 +1360,6 @@
   "networks_exclude": "Udelukke",
   "carmirror_toggle_to_x": "Skift til {{x}}",
   "carmirror_gps_speed": "Vis GPS-hastighed",
-  "carmirror_charger_prefs_short_many_max_10_letters": "Kort - mange",
-  "carmirror_charger_prefs_quickest_max_8_letters": "Hurtigst",
-  "carmirror_charger_prefs_long_few_max_10_letters": "Lang - få",
   "carmirror_change_vehicle_config": "Skift køretøjskonfiguration",
   "carmirror_available_chargers": "Tilgængelige opladere",
   "carmirror_charger_alternatives": "Alt. Opladere",
@@ -1632,8 +1629,6 @@
   "prefer": "foretrække",
   "default": "Standard",
   "no_gps_location_permission": "GPS afvist",
-  "carmirror_charger_prefs_shorter_max_10_letters": "Kortere",
-  "carmirror_charger_prefs_longer_max_10_letters": "Længere",
   "no_activities_month": "Ingen aktiviteter i denne måned",
   "no_activities_day": "Ingen aktiviteter denne dag",
   "apply_settings": "Anvender indstillinger...",
@@ -1675,5 +1670,13 @@
   "report_image_fail_title": "Indberetningen mislykkedes",
   "report_image_fail_description": "Indberetningen af ​​billeder er stødt på et problem. Prøv igen. Hvis problemet fortsætter, bedes du kontakte vores supportteam for at få hjælp.",
   "upload_photos_legal_disclaimer": "Ved at uploade billeder giver du Iternio Planning AB den ubegrænsede ret til at bruge og distribuere indholdet, som det finder passende.",
-  "upload_image": "Upload billeder"
+  "upload_image": "Upload billeder",
+  "select_configuration": "Select configuration",
+  "email_verified": "Your email address has been successfully verified",
+  "email_verification_failed": "Email verification failed",
+  "email_verification_failed_description": "Email verification failed. Please try again. If the issue persists, kindly contact our support team.",
+  "round_trip": "Round trip",
+  "back_to_start": "Back to start",
+  "reverse_destinations": "Reverse plan",
+  "new": "new"
 }

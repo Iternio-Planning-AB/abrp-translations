@@ -1360,9 +1360,6 @@
   "networks_exclude": "Wyklucz",
   "carmirror_toggle_to_x": "Przełącz do {{x}}",
   "carmirror_gps_speed": "Pokaż prędkość GPS",
-  "carmirror_charger_prefs_short_many_max_10_letters": "Dużo ale krótko",
-  "carmirror_charger_prefs_quickest_max_8_letters": "Najszybszy",
-  "carmirror_charger_prefs_long_few_max_10_letters": "Mało ale długo",
   "carmirror_change_vehicle_config": "Zmień konfigurację pojazdu",
   "carmirror_available_chargers": "Dostępne ładowarki",
   "carmirror_charger_alternatives": "Alternatywne ładowarki",
@@ -1632,8 +1629,6 @@
   "premium_monthly_x": "Miesięczne - {{price}}{{currency}} / miesiąc",
   "premium_yearly_x": "Rocznie - {{price}}{{currency}} / rok",
   "no_gps_location_permission": "GPS nie odpowiada",
-  "carmirror_charger_prefs_shorter_max_10_letters": "Krótszy",
-  "carmirror_charger_prefs_longer_max_10_letters": "Dłuższy",
   "no_activities_month": "Brak zajęć w tym miesiącu",
   "no_activities_day": "Brak zajęć w tym dniu",
   "apply_settings": "Zastosowanie ustawień...",
@@ -1675,5 +1670,13 @@
   "report_image_fail_title": "RZgłoszenie obrazu nie powiodło się",
   "report_image_fail_description": "Podczas raportowania obrazów napotkano problem. Proszę spróbuj ponownie. Jeśli problem będzie się powtarzał, skontaktuj się z naszym zespołem wsparcia w celu uzyskania pomocy.",
   "upload_photos_legal_disclaimer": "Przesyłając zdjęcia, udzielasz firmie Iternio Planning AB nieograniczonego prawa do wykorzystywania i rozpowszechniania treści według własnego uznania.",
-  "upload_image": "Prześlij zdjęcia"
+  "upload_image": "Prześlij zdjęcia",
+  "select_configuration": "Select configuration",
+  "email_verified": "Your email address has been successfully verified",
+  "email_verification_failed": "Email verification failed",
+  "email_verification_failed_description": "Email verification failed. Please try again. If the issue persists, kindly contact our support team.",
+  "round_trip": "Round trip",
+  "back_to_start": "Back to start",
+  "reverse_destinations": "Reverse plan",
+  "new": "new"
 }

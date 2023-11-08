@@ -646,6 +646,7 @@
   "thanks": "Thanks",
   "abrp_map": "ABRP map",
   "vehicle_configuration": "Configuration",
+  "select_configuration": "Select configuration",
   "vehicle_configuration_description": "Add configuration (e.g. trailer or ski box)",
   "add_new_configuration": "Add new configuration",
   "configuration_already_exists": "Configuration already exists",
@@ -1362,11 +1363,6 @@
   "title_address_input": "Where do you want to go?",
   "carmirror_toggle_to_x": "Toggle to {{x}}",
   "carmirror_gps_speed": "Show GPS speed",
-  "carmirror_charger_prefs_short_many_max_10_letters": "Short - many",
-  "carmirror_charger_prefs_shorter_max_10_letters": "Shorter",
-  "carmirror_charger_prefs_quickest_max_8_letters": "Quickest",
-  "carmirror_charger_prefs_longer_max_10_letters": "Longer",
-  "carmirror_charger_prefs_long_few_max_10_letters": "Long - few",
   "carmirror_change_vehicle_config": "Change vehicle configuration",
   "carmirror_available_chargers": "Available chargers",
   "carmirror_charger_alternatives": "Alt. chargers",
@@ -1651,5 +1647,12 @@
   "upload_photos_legal_disclaimer": "By uploading photos, you grant Iternio Planning AB the unrestricted right to use and distribute the content as it sees fit.",
   "upload_image": "Upload images",
   "unknown_vehicle_delete_description": "This vehicle is incomplete or missing essential information. Would you like to delete it?",
-  "unknown_vehicle_delete_title": "Unknown vehicle"        
+  "unknown_vehicle_delete_title": "Unknown vehicle",
+  "email_verified": "Your email address has been successfully verified",
+  "email_verification_failed": "Email verification failed",
+  "email_verification_failed_description": "Email verification failed. Please try again. If the issue persists, kindly contact our support team.",  
+  "round_trip": "Round trip",
+  "back_to_start" : "Back to start",
+  "reverse_destinations": "Reverse plan",
+  "new": "new"
 }
