@@ -1668,12 +1668,12 @@
   "report_image_fail_description": "Nahlášení obrázků skončilo s chybou. Zkuste to znovu. Pokud problém přetrvává, kontaktujte náš tým podpory.",
   "upload_photos_legal_disclaimer": "Nahráním fotek udělujete společnosti Iternio Planning AB neomezená práva pro jejich využití a distribuci obsahu, který je obsahuje.",
   "upload_image": "Nahrát obrázky",
-  "select_configuration": "Select configuration",
-  "email_verified": "Your email address has been successfully verified",
-  "email_verification_failed": "Email verification failed",
-  "email_verification_failed_description": "Email verification failed. Please try again. If the issue persists, kindly contact our support team.",
-  "round_trip": "Round trip",
-  "back_to_start": "Back to start",
-  "reverse_destinations": "Reverse plan",
-  "new": "new"
+  "select_configuration": "Vybrat konfiguraci",
+  "email_verified": "Vaše e-mailová adresa byla úspěšně ověřena",
+  "email_verification_failed": "Ověření e-mailu selhalo",
+  "email_verification_failed_description": "Ověření e-mailu selhalo. Zkuste to znovu. Pokud problém přetrvává, kontaktujte náš tým podpory.",
+  "round_trip": "Okružní cesta",
+  "back_to_start": "Zpět na začátek",
+  "reverse_destinations": "Obrátit plán",
+  "new": "nový"
 }
