@@ -1657,7 +1657,7 @@
   "unknown_vehicle_delete_description": "Dette køretøj er ufuldstændigt eller mangler væsentlige oplysninger. Vil du slette det?",
   "unknown_vehicle_delete_title": "Ukendt køretøj",
   "select_configuration": "Vælg konfiguration",
-  "no_image": Intet billede",
+  "no_image": "Intet billede",
   "submit_image_success_title": "Indsendelse lykkedes",
   "submit_image_success_description": "Tak for dit bidrag! Dine billeder er blevet indsendt og er nu under gennemgang.",
   "submit_image_fail_title": "Billedupload mislykkedes",
