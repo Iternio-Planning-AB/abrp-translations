@@ -1675,5 +1675,7 @@
   "round_trip": "Подорож туди і назад",
   "back_to_start": "Назад до початку",
   "reverse_destinations": "Зворотний план",
-  "new": "новий"
+  "new": "новий",
+  "report_charge_error_upload_camera": "Take photo",
+  "report_charge_error_upload_library": "Library"
 }

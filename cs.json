@@ -1675,5 +1675,7 @@
   "round_trip": "Okružní cesta",
   "back_to_start": "Zpět na začátek",
   "reverse_destinations": "Obrácený plán",
-  "new": "nový"
+  "new": "nový",
+  "report_charge_error_upload_camera": "Take photo",
+  "report_charge_error_upload_library": "Library"
 }

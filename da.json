@@ -1678,5 +1678,7 @@
   "round_trip": "Rundtur",
   "back_to_start": "Tilbage til start",
   "reverse_destinations": "Omvendt plan",
-  "new": "ny"
+  "new": "ny",
+  "report_charge_error_upload_camera": "Take photo",
+  "report_charge_error_upload_library": "Library"
 }

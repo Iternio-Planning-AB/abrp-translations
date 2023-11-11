@@ -1654,5 +1654,7 @@
   "round_trip": "Round trip",
   "back_to_start" : "Back to start",
   "reverse_destinations": "Reverse plan",
-  "new": "new"
+  "new": "new",
+  "report_charge_error_upload_camera": "Take photo",
+  "report_charge_error_upload_library": "Library"
 }
