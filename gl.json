@@ -1680,5 +1680,7 @@
   "reverse_destinations": "Ruta dende destino",
   "new": "novo",
   "report_charge_error_upload_camera": "Tirar foto",
-  "report_charge_error_upload_library": "Biblioteca"
+  "report_charge_error_upload_library": "Biblioteca",
+  "get_networks_failed": "Failed to Retrieve Networks",
+  "get_networks_failed_description": "The attempt to fetch networks has encountered an error."
 }

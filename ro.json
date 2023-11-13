@@ -1607,7 +1607,7 @@
   "feedback_answer_live_data_less": "Mai puțin ocupat",
   "feedback_answer_live_data_more": "Mai ocupat",
   "feedback_answer_live_data_occupied": "Toate standurile ocupate",
-  "feedback_question_close_button_title": "Închide"
+  "feedback_question_close_button_title": "Închide",
   "profile": "Profil",
   "carmirror_soc": "Ajustare manuală a SoC",
 "report_charger_incorrect_location_description_web": "Găsește locația corectă pe o hartă și copiază valorile de longitudine și latitudine.",
@@ -1615,7 +1615,7 @@
   "waypoint_charger_duration": "Setează durata de încărcare",
   "waypoint_departure_time": "Setează ora de plecare",
   "amenities_stop_for_time": "Oprește pentru",
-  "amenities_stop_at_time": "Oprește la"   
+  "amenities_stop_at_time": "Oprește la",
   "manage_subscription": "Gestionează abonamentul",
   "manage_old_subscription": "Gestionează abonamentul vechi",
   "rejoin_premium": "Redevin-o Premium",
@@ -1631,7 +1631,7 @@
   "no_activities_month": "Nu există activități pentru această lună",
   "no_activities_day": "Nu există activități pentru această zi",
   "apply_settings": "Aplicarea setărilor...",
-  "display_mode_aa": "Automat (reported by car)"
+  "display_mode_aa": "Automat (reported by car)",
   "reference_consumption_error_dialog_title": "Eroare consum de referință",
   "reference_consumption_error_dialog_description_1": "Consumul tău de referință ({{consumption}}) este la {{status}}. Consumul de referință implicit pentru vehiculul tău este {{defaultConsumption}}.",
   "reference_consumption_error_dialog_description_2": "Te rugăm să resetezi consumul de referință în pagina cu detaliile mașinii și să resetezi/repornești conexiunea de date live. Dacă acest lucru nu ajută, te rugăm să contactezi asistența!",
@@ -1640,7 +1640,7 @@
   "low": "scăzut",
   "my_drives_logging_information": "Datele de telemetrie sunt înregistrate și salvate timp de 24 de ore. Dacă dorești să salvezi datele mai mult timp, activează „Salvează activitățile mele”",
   "send_verification_email": "Trimite emailul de verificare",
-  "update_and_send_verification_email": "Actualizează și trimite e-mail de verificare"
+  "update_and_send_verification_email": "Actualizează și trimite e-mail de verificare",
   "rating_results_step_available": "Disponibil",
   "report_charger_cant_find": "Nu pot găsi",
   "charger_at_wrong_location": "Locație greșită",
@@ -1669,7 +1669,7 @@
   "report_image_fail_title": "Raportul de imagine a eșuat",
   "report_image_fail_description": "Raportarea imaginilor a întâmpinat o problemă. Te rugăm să încerci din nou. Dacă problema persistă, te rugăm să contactezi echipa noastră de suport pentru asistență.",
   "upload_photos_legal_disclaimer": "Prin încărcarea fotografiilor, acorzi Iternio Planning AB dreptul nerestricționat de a utiliza și distribui conținutul așa cum crede de cuviință.",
-  "upload_image": "Încărcare imagini"
+  "upload_image": "Încărcare imagini",
   "email_verified": "Adresa ta de e-mail a fost verificată cu succes",
   "email_verification_failed": "Verificarea e-mailului a eșuat",
   "email_verification_failed_description": "Verificarea e-mailului a eșuat. Te rugăm să încerci din nou. Dacă problema persistă, te rugăm să contactezi echipa noastră de asistență.",

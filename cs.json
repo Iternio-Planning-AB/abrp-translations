@@ -1677,5 +1677,7 @@
   "reverse_destinations": "Obrácený plán",
   "new": "nový",
   "report_charge_error_upload_camera": "Take photo",
-  "report_charge_error_upload_library": "Library"
+  "report_charge_error_upload_library": "Library",
+  "get_networks_failed": "Failed to Retrieve Networks",
+  "get_networks_failed_description": "The attempt to fetch networks has encountered an error."
 }
