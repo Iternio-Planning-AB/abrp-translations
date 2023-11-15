@@ -1679,5 +1679,16 @@
   "report_charge_error_upload_camera": "Prendre photo",
   "report_charge_error_upload_library": "Bibliothèque",
   "get_networks_failed": "Échec de la récupération des réseaux",
-  "get_networks_failed_description": "La tentative de récupération des réseaux a rencontré une erreur."
+  "get_networks_failed_description": "La tentative de récupération des réseaux a rencontré une erreur.",
+  "direction_offramp_ref": "Take the ramp {{direction}} to {{ref}}",
+  "direction_offramp_exit": "Take exit {{exit}}",
+  "sorted_plans": "Sorted plans",
+  "by_you": "By you",
+  "by_date": "By date",
+  "open_point": "Open details",
+  "go_here": "Go here",
+  "direction_roundabout_nodir": "Take {{exit}} exit",
+  "direction_roundabout_nodir_ref": "Take {{exit}} exit to {{ref}}",
+  "direction_roundabout_nodir_destination": "Take {{exit}} exit towards {{destination}}",
+  "direction_roundabout_nodir_ref_destination": "Take {{exit}} exit to {{ref}} towards {{destination}}"
 }

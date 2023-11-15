@@ -1679,5 +1679,16 @@
   "report_charge_error_upload_camera": "Pořídit fotku",
   "report_charge_error_upload_library": "Knihovna",
   "get_networks_failed": "Selhalo získání sítí",
-  "get_networks_failed_description": "Při pokusu o získání sítí se vyskytla chyba."
+  "get_networks_failed_description": "Při pokusu o získání sítí se vyskytla chyba.",
+  "direction_offramp_ref": "Take the ramp {{direction}} to {{ref}}",
+  "direction_offramp_exit": "Take exit {{exit}}",
+  "sorted_plans": "Sorted plans",
+  "by_you": "By you",
+  "by_date": "By date",
+  "open_point": "Open details",
+  "go_here": "Go here",
+  "direction_roundabout_nodir": "Take {{exit}} exit",
+  "direction_roundabout_nodir_ref": "Take {{exit}} exit to {{ref}}",
+  "direction_roundabout_nodir_destination": "Take {{exit}} exit towards {{destination}}",
+  "direction_roundabout_nodir_ref_destination": "Take {{exit}} exit to {{ref}} towards {{destination}}"
 }
