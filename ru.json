@@ -1693,5 +1693,9 @@
   "direction_roundabout_nodir": "Воспользуйтесь съездом {{exit}}",
   "direction_roundabout_nodir_ref": "Воспользуйтесь съездом {{exit}} на {{ref}}",
   "direction_roundabout_nodir_destination": "Воспользуйтесь съездом {{exit}} в направлении {{destination}}",
-  "direction_roundabout_nodir_ref_destination": "Воспользуйтесь съездом {{exit}} на {{ref}} в направлении {{destination}}"
+  "direction_roundabout_nodir_ref_destination": "Воспользуйтесь съездом {{exit}} на {{ref}} в направлении {{destination}}",
+  "my_plans": "My plans",
+  "saved_on": "Saved on",
+  "sort_by": "Sort by",
+  "custom": "Custom"
 }

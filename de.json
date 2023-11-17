@@ -1693,5 +1693,9 @@
   "by_you": "Durch dich",
   "by_date": "Nach Datum",
   "open_point": "Details öffnen",
-  "go_here": "Hierher gehen"
+  "go_here": "Hierher gehen",
+  "my_plans": "My plans",
+  "saved_on": "Saved on",
+  "sort_by": "Sort by",
+  "custom": "Custom"
 }

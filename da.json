@@ -1693,5 +1693,9 @@
   "direction_roundabout_nodir": "Tag {{exit}} afkørsel",
   "direction_roundabout_nodir_ref": "Tag {{exit}} afkørsel til {{ref}}",
   "direction_roundabout_nodir_destination": "Tag {{exit}} afkørsel mod {{destination}}",
-  "direction_roundabout_nodir_ref_destination": "Tag {{exit}} frakørsel til {{ref}} mod {{destination}}"
+  "direction_roundabout_nodir_ref_destination": "Tag {{exit}} frakørsel til {{ref}} mod {{destination}}",
+  "my_plans": "My plans",
+  "saved_on": "Saved on",
+  "sort_by": "Sort by",
+  "custom": "Custom"
 }
