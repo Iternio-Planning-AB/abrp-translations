@@ -1691,8 +1691,8 @@
   "direction_roundabout_nodir_ref": "Ia {{exit}} ieșirea către {{ref}}",
   "direction_roundabout_nodir_destination": "Ia {{exit}} ieșirea spre {{destination}}",
   "direction_roundabout_nodir_ref_destination": "Ia {{exit}} ieșirea {{ref}} către {{destination}}",
-  "my_plans": "My plans",
-  "saved_on": "Saved on",
-  "sort_by": "Sort by",
-  "custom": "Custom"
+  "my_plans": "Planurile mele",
+  "saved_on": "Salvat pe",
+  "sort_by": "Sortează după",
+  "custom": "Personalizat"
 }
