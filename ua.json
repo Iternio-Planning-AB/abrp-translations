@@ -1691,8 +1691,8 @@
   "direction_roundabout_nodir_ref": "Скористайтеся з'їздом {{exit}} на {{ref}}",
   "direction_roundabout_nodir_destination": "Скористайтеся з'їздом {{exit}} у напрямку {{destination}}",
   "direction_roundabout_nodir_ref_destination": "Скористайтеся з'їздом {{exit}} на {{ref}} в напрямку {{destination}}",
-  "my_plans": "My plans",
-  "saved_on": "Saved on",
-  "sort_by": "Sort by",
-  "custom": "Custom"
+  "my_plans": "Мої плани",
+  "saved_on": "Збережено на",
+  "sort_by": "Сортувати за",
+  "custom": "Індивідуально"
 }
