@@ -1673,5 +1673,6 @@
   "direction_roundabout_nodir": "Take {{exit}} exit",
   "direction_roundabout_nodir_ref": "Take {{exit}} exit to {{ref}}",
   "direction_roundabout_nodir_destination": "Take {{exit}} exit towards {{destination}}",
-  "direction_roundabout_nodir_ref_destination": "Take {{exit}} exit to {{ref}} towards {{destination}}"
+  "direction_roundabout_nodir_ref_destination": "Take {{exit}} exit to {{ref}} towards {{destination}}",
+  "plan_summary": "Plan summary"
 }
