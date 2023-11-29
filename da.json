@@ -1677,7 +1677,7 @@
   "email_verification_failed_description": "E-mailbekræftelse mislykkedes. Prøv igen. Hvis problemet fortsætter, bedes du kontakte vores supportteam.",
   "round_trip": "Rundtur",
   "back_to_start": "Tilbage til start",
-  "reverse_destinations": "Omvendt plan",
+  "reverse_destinations": "Omvendt retning",
   "new": "ny",
   "report_charge_error_upload_camera": "Tag et billede",
   "report_charge_error_upload_library": "Bibliotek",
@@ -1694,9 +1694,9 @@
   "direction_roundabout_nodir_ref": "Tag {{exit}} afkørsel til {{ref}}",
   "direction_roundabout_nodir_destination": "Tag {{exit}} afkørsel mod {{destination}}",
   "direction_roundabout_nodir_ref_destination": "Tag {{exit}} frakørsel til {{ref}} mod {{destination}}",
-  "my_plans": "My plans",
-  "saved_on": "Saved on",
-  "sort_by": "Sort by",
-  "custom": "Custom",
-  "plan_summary": "Plan summary"
+  "my_plans": "Mine planer",
+  "saved_on": "Gemt på",
+  "sort_by": "Sorter efter",
+  "custom": "Brugerdefinerede",
+  "plan_summary": "Planoversigt"
 }
