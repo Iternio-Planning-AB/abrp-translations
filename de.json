@@ -1694,9 +1694,9 @@
   "by_date": "Nach Datum",
   "open_point": "Details öffnen",
   "go_here": "Hierher gehen",
-  "my_plans": "My plans",
-  "saved_on": "Saved on",
-  "sort_by": "Sort by",
-  "custom": "Custom",
-  "plan_summary": "Plan summary"
+  "my_plans": "Meine Pläne",
+  "saved_on": "Gespeichert am",
+  "sort_by": "Sortieren nach",
+  "custom": "Benutzerdefiniert",
+  "plan_summary": "Zusammenfassung des Plans"
 }
