@@ -1695,5 +1695,10 @@
   "saved_on": "Saved on",
   "sort_by": "Sort by",
   "custom": "Custom",
-  "plan_summary": "Plan summary"
+  "plan_summary": "Plan summary",
+  "suggest_new_charger_success_title": "Thanks for suggesting a new charger!",
+  "suggest_new_charger_success_description": "We will look into your suggestion and add it to the map if it is correct.",
+  "suggest_new_charger_failed_title": "Error submitting your suggestion",
+  "suggest_new_charger_failed_description": "An unknown error occurred when submitting your suggestion. Please contact support if the error persists.",
+  "carmirror_adjust_soc": "Adjust SoC"
 }

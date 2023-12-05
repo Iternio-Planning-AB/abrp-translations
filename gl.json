@@ -1698,5 +1698,10 @@
   "saved_on": "Gardada o",
   "sort_by": "Odernar por",
   "custom": "Personalizado",
-  "plan_summary": "Resumo da ruta"
+  "plan_summary": "Resumo da ruta",
+  "suggest_new_charger_success_title": "Thanks for suggesting a new charger!",
+  "suggest_new_charger_success_description": "We will look into your suggestion and add it to the map if it is correct.",
+  "suggest_new_charger_failed_title": "Error submitting your suggestion",
+  "suggest_new_charger_failed_description": "An unknown error occurred when submitting your suggestion. Please contact support if the error persists.",
+  "carmirror_adjust_soc": "Adjust SoC"
 }
