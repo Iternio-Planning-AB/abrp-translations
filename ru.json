@@ -1698,10 +1698,10 @@
   "saved_on": "Сохранено на",
   "sort_by": "Сортировать по",
   "custom": "Индивидуально",
-  "plan_summary": "Plan summary",
-  "suggest_new_charger_success_title": "Thanks for suggesting a new charger!",
-  "suggest_new_charger_success_description": "We will look into your suggestion and add it to the map if it is correct.",
-  "suggest_new_charger_failed_title": "Error submitting your suggestion",
-  "suggest_new_charger_failed_description": "An unknown error occurred when submitting your suggestion. Please contact support if the error persists.",
-  "carmirror_adjust_soc": "Adjust SoC"
+  "plan_summary": "Краткое содержание плана",
+  "suggest_new_charger_success_title": "Спасибо, что предложили новую зарядную станцию!",
+  "suggest_new_charger_success_description": "Мы рассмотрим ваше предложение и добавим его на карту, если оно верно",
+  "suggest_new_charger_failed_title": "Ошибка при отправке вашего предложения",
+  "suggest_new_charger_failed_description": "При отправке вашего предложения произошла неизвестная ошибка. Пожалуйста, свяжитесь со службой поддержки, если ошибка не исчезла.",
+  "carmirror_adjust_soc": "Отрегулировать SoC"
 }
