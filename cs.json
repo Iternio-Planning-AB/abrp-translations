@@ -1696,9 +1696,9 @@
   "sort_by": "Seřazeno",
   "custom": "Vlastní",
   "plan_summary": "Přehled plánu",
-  "suggest_new_charger_success_title": "Thanks for suggesting a new charger!",
-  "suggest_new_charger_success_description": "We will look into your suggestion and add it to the map if it is correct.",
-  "suggest_new_charger_failed_title": "Error submitting your suggestion",
-  "suggest_new_charger_failed_description": "An unknown error occurred when submitting your suggestion. Please contact support if the error persists.",
-  "carmirror_adjust_soc": "Adjust SoC"
+  "suggest_new_charger_success_title": "Děkujeme za navržení nové nabíječky!",
+  "suggest_new_charger_success_description": "Na Váš návrh se podíváme a pokud to bude v pořádku, přidáme jej do mapy.",
+  "suggest_new_charger_failed_title": "Chyba při odesílání Vašeho návrhu",
+  "suggest_new_charger_failed_description": "Při odesílání Vašeho návrhu se vyskytla neznámá chyba. Pokud chyba přetrvává, kontaktujte naši podporu.",
+  "carmirror_adjust_soc": "Upravit SoC"
 }
