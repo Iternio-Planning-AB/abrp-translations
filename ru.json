@@ -1703,5 +1703,22 @@
   "suggest_new_charger_success_description": "Мы рассмотрим ваше предложение и добавим его на карту, если оно верно",
   "suggest_new_charger_failed_title": "Ошибка при отправке вашего предложения",
   "suggest_new_charger_failed_description": "При отправке вашего предложения произошла неизвестная ошибка. Пожалуйста, свяжитесь со службой поддержки, если ошибка не исчезла.",
-  "carmirror_adjust_soc": "Отрегулировать SoC"
+  "carmirror_adjust_soc": "Отрегулировать SoC",
+  "show_all_car_models": "Show all",
+  "details_title_charger_characteristics": "Charger characteristics",
+  "details_title_avilable_plus": "Available plugs",
+  "details_title_amenities": "Amenities nearby",
+  "charger_status_available": "available",
+  "charger_status_busy": "busy",
+  "charger_status_unknown": "unknown",
+  "charger_details_plugs": "Available plugs",
+  "submit_image_issue_fail": "Report failed",
+  "submit_image_issue_fail_description": "Reporting of the image failed. Please try again. If the issue persists, kindly contact our support team.",
+  "submit_image_issue_success": "Report submitted",
+  "submit_image_issue_success_description": "Thank you for submitting your report. We will review it promptly and take appropriate action.",
+  "issues": "Issues",
+  "tesla_fleet_live_data": "Tesla Live Data",
+  "tesla_fleet_description": "The official Tesla API supports live data from all Tesla vehicles, using the built-in cellular connection of the vehicle.",
+  "share_plan": "Share plan",
+  "planning": "Planning..."
 }
