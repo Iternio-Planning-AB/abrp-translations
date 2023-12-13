@@ -1717,5 +1717,20 @@
   "tesla_fleet_live_data": "Tesla Live Data",
   "tesla_fleet_description": "The official Tesla API supports live data from all Tesla vehicles, using the built-in cellular connection of the vehicle.",
   "share_plan": "Share plan",
-  "planning": "Planning..."
+  "planning": "Planning...",
+  "details_page_charger": "Charger details",
+  "navigate_here": "Navigate",
+  "details_page_marker": "Dropped pin",
+  "details_page_ferry": "Ferry details",
+  "activity": "Activty",
+  "amenity_search": "Amenity search",
+  "point_on_route": "Point on route",
+  "charger_alternatives": "Charger alternatives",
+  "edit_quick_settings": "Edit quick settings",
+  "car_details": "Car details",
+  "add_charger_to_route": "Add to route",
+  "fake_drive": "Fake drive",
+  "volume": "Volume",
+  "avoid_prefer": "Avoid / Prefer",
+  "prefer_avoid_network": "Prefer or avoid network"
 }
