@@ -1700,7 +1700,7 @@
   "suggest_new_charger_success_description": "Îți vom analiza sugestia și o vom adăuga pe hartă dacă este corectă.",
   "suggest_new_charger_failed_title": "Eroare la trimiterea sugestiei",
   "suggest_new_charger_failed_description": "A apărut o eroare necunoscută la trimiterea sugestiei tale. Te rugăm să contactezi asistența dacă eroarea persistă.",
-  "carmirror_adjust_soc": "Ajustează SoC"
+  "carmirror_adjust_soc": "Ajustează SoC",
   "show_all_car_models": "Arată tot",
   "details_title_charger_characteristics": "Caracteristicile încărcătorului",
   "details_title_avilable_plus": "Prize disponibile",
