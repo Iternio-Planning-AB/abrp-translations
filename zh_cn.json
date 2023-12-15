@@ -1732,5 +1732,7 @@
   "fake_drive": "Fake drive",
   "volume": "Volume",
   "avoid_prefer": "Avoid / Prefer",
-  "prefer_avoid_network": "Prefer or avoid network"
+  "prefer_avoid_network": "Prefer or avoid network",
+  "main_action_drive": "Drive",
+  "main_action_plan_canceled": "Plan canceled"
 }

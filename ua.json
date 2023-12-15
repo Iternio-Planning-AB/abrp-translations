@@ -1732,5 +1732,7 @@
   "fake_drive": "Фальшивий диск",
   "volume": "Обсяг",
   "avoid_prefer": "Уникати / Віддавати перевагу",
-  "prefer_avoid_network": "Віддавати перевагу або уникати мережу"
+  "prefer_avoid_network": "Віддавати перевагу або уникати мережу",
+  "main_action_drive": "Drive",
+  "main_action_plan_canceled": "Plan canceled"
 }

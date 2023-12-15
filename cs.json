@@ -1732,5 +1732,7 @@
   "fake_drive": "Simulovaná jízda",
   "volume": "Hlasitost",
   "avoid_prefer": "Preferovat/Vyhýbat se",
-  "prefer_avoid_network": "Preferovat nebo vyhýbat se síti"
+  "prefer_avoid_network": "Preferovat nebo vyhýbat se síti",
+  "main_action_drive": "Drive",
+  "main_action_plan_canceled": "Plan canceled"
 }

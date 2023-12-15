@@ -1694,7 +1694,7 @@
   "submit_image_issue_success_description": "Thank you for submitting your report. We will review it promptly and take appropriate action.",
   "issues": "Issues",
   "share_plan":"Share plan",
-  "planning" : "Planing...",
+  "planning" : "Planning...",
   "details_page_charger": "Charger details",
   "navigate_here": "Navigate",
   "details_page_marker": "Dropped pin",
@@ -1711,5 +1711,7 @@
   "tesla_fleet_live_data": "Tesla Live Data",
   "tesla_fleet_description": "The official Tesla API supports live data from all Tesla vehicles, using the built-in cellular connection of the vehicle.",
   "avoid_prefer": "Avoid / Prefer",
-  "prefer_avoid_network": "Prefer or avoid network"
+  "prefer_avoid_network": "Prefer or avoid network",
+  "main_action_drive": "Drive",
+  "main_action_plan_canceled": "Plan canceled"
 }

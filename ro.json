@@ -1732,5 +1732,7 @@
   "fake_drive": "Condus fals",
   "volume": "Volum",
   "avoid_prefer": "Evită / Preferă",
-  "prefer_avoid_network": "Preferă sau evită rețeaua"
+  "prefer_avoid_network": "Preferă sau evită rețeaua",
+  "main_action_drive": "Drive",
+  "main_action_plan_canceled": "Plan canceled"
 }

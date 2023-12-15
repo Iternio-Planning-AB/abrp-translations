@@ -1732,5 +1732,7 @@
   "fake_drive": "Mauvaise route",
   "volume": "Volume",
   "avoid_prefer": "Éviter / Préférer",
-  "prefer_avoid_network": "Préférer ou éviter ce réseau"
+  "prefer_avoid_network": "Préférer ou éviter ce réseau",
+  "main_action_drive": "Drive",
+  "main_action_plan_canceled": "Plan canceled"
 }
