@@ -1735,10 +1735,10 @@
   "prefer_avoid_network": "Préférer ou éviter ce réseau",
   "main_action_drive": "Conduire",
   "main_action_plan_canceled": "Plan annulé",
-  "action_prefer": "Prefer",
-  "action_avoid": "Avoid",
-  "avoid_x_network": "Avoid {{network}} network",
-  "exclude_x_network": "Avoid {{network}} network",
-  "prefer_x_network": "Prefer {{network}} network",
-  "super_prefer_x_network": "Like and prefer {{network}} network"
+  "action_prefer": "Préférer",
+  "action_avoid": "Eviter",
+  "avoid_x_network": "Eviter le réseau/opérateur {{network}}",
+  "exclude_x_network": "Exclure le réseau/opérateur {{network}}",
+  "prefer_x_network": "Préférer le réseau/opérateur {{network}}",
+  "super_prefer_x_network": "J'aime et je préfère le réseau/opérateur {{network}}"
 }
