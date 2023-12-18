@@ -1737,5 +1737,11 @@
   "avoid_prefer": "Undgå / foretrækker",
   "prefer_avoid_network": "Foretrække eller undgå netværk",
   "main_action_drive": "Kør",
-  "main_action_plan_canceled": "Plan annulleret"
+  "main_action_plan_canceled": "Plan annulleret",
+  "action_prefer": "Prefer",
+  "action_avoid": "Avoid",
+  "avoid_x_network": "Avoid {{network}} network",
+  "exclude_x_network": "Avoid {{network}} network",
+  "prefer_x_network": "Prefer {{network}} network",
+  "super_prefer_x_network": "Like and prefer {{network}} network"
 }
