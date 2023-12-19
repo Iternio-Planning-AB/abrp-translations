@@ -1733,12 +1733,12 @@
   "volume": "Volum",
   "avoid_prefer": "Evită / Preferă",
   "prefer_avoid_network": "Preferă sau evită rețeaua",
-  "main_action_drive": "Drive",
-  "main_action_plan_canceled": "Plan canceled",
-  "action_prefer": "Prefer",
-  "action_avoid": "Avoid",
-  "avoid_x_network": "Avoid {{network}} network",
-  "exclude_x_network": "Avoid {{network}} network",
-  "prefer_x_network": "Prefer {{network}} network",
-  "super_prefer_x_network": "Like and prefer {{network}} network"
+  "main_action_drive": "Condus",
+  "main_action_plan_canceled": "Plan anulat",
+  "action_prefer": "Preferă",
+  "action_avoid": "Evită",
+  "avoid_x_network": "Evită {{network}} reţeaua",
+  "exclude_x_network": "Evită {{network}} reţeaua",
+  "prefer_x_network": "Preferă {{network}} reţeaua",
+  "super_prefer_x_network": "Îmi place și prefer {{network}} reţeaua"
 }
