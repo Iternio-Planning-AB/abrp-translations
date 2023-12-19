@@ -1719,5 +1719,7 @@
   "avoid_x_network": "Avoid {{network}} network",
   "exclude_x_network": "Avoid {{network}} network",
   "prefer_x_network": "Prefer {{network}} network",
-  "super_prefer_x_network": "Like and prefer {{network}} network"
+  "super_prefer_x_network": "Like and prefer {{network}} network",
+  "charger_stalls": "stalls",
+  "details_title_charger_images": "Charger images"
 }
