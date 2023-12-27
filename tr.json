@@ -747,7 +747,12 @@
   "direction_turn_ref_destination": "{{direction}} dön, {{ref}} yönüne {{destination}}'a doğru",
   "direction_turn_destination": "{{direction}}'a dön, {{destination}}'e doğru",
   "direction_turn_ref": "{{direction}}'a dön, {{ref}}'e",
-  "direction_count_x": ["ilk", "ikinci", "üçüncü", "dördüncü"],
+  "direction_count_x": [
+    "ilk",
+    "ikinci",
+    "üçüncü",
+    "dördüncü"
+  ],
   "direction_count_1": "ilk",
   "direction_count_2": "ikinci",
   "direction_count_3": "üçüncü",
@@ -1008,8 +1013,24 @@
     "Kas.",
     "Ara."
   ],
-  "day_names": ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
-  "day_names_short": ["Paz.", "Pzt.", "Sal.", "Çar.", "Per.", "Cum.", "Cmt."],
+  "day_names": [
+    "Pazar",
+    "Pazartesi",
+    "Salı",
+    "Çarşamba",
+    "Perşembe",
+    "Cuma",
+    "Cumartesi"
+  ],
+  "day_names_short": [
+    "Paz.",
+    "Pzt.",
+    "Sal.",
+    "Çar.",
+    "Per.",
+    "Cum.",
+    "Cmt."
+  ],
   "today": "Bugün",
   "login_remote_app": "Uzak uygulamaya giriş",
   "scan_abrp_qrcode_to_complete_login": "Girişi tamamlamak için ABRP QR kodunu tarayın",
@@ -1720,5 +1741,8 @@
   "charger_stalls": "yer",
   "details_title_charger_images": "Şarj cihazı fotoğrafları",
   "add_charger_image": "Bir şarj cihazı fotoğrafı ekle",
-  "add_charger_image_description": "Şarj noktasının fotoğrafını yükleyerek şarj cihazı bilgilerimizi geliştirmemize yardımcı olun"
+  "add_charger_image_description": "Şarj noktasının fotoğrafını yükleyerek şarj cihazı bilgilerimizi geliştirmemize yardımcı olun",
+  "delete_activities_rejected": "Activities could not be deleted",
+  "delete_all_activities_warning": "This action cannot be undone",
+  "delete_all_activities_warning_description": "Deleted activities cannot be restored. Are you sure that you want to delete ALL activities of the following vehicle"
 }
