@@ -1742,7 +1742,7 @@
   "prefer_x_network": "Préférer le réseau/opérateur {{network}}",
   "super_prefer_x_network": "J'aime et je préfère le réseau/opérateur {{network}}",
   "charger_stalls": "stalles",
-  "details_title_charger_images": "Images du chargeur",
-  "add_charger_image": "Add a charger photo",
-  "add_charger_image_description": "Help us improve charger information by uploading a picture of the charging site"
+  "details_title_charger_images": "Images des bornes de recharge",
+  "add_charger_image": "Ajouter une photo du chargeur ou des bornes",
+  "add_charger_image_description": "Aidez-nous à améliorer les informations sur les bornes de recharge en téléchargeant une photo du site de recharge"
 }
