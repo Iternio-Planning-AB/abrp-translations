@@ -1518,7 +1518,7 @@
   "report_charge_error_issues_charging": "Проблемы с зарядкой",
   "amount_affix": "шт",
   "report_error_charger_not_accessible_sub_title": "Почему нет доступа к зарядной станции?",
-  "report_error_select_alternative": "Выберите вариант, {{cat}}...",
+  "report_error_select_alternative": "Выберите вариант:",
   "report_error_incorrect_price_input": "Какова правильная цена:",
   "report_error_incorrect_price_charge_card_input": "Вы пользовались зарядной картой, назовите ее?",
   "type": "Тип",
@@ -1747,5 +1747,7 @@
   "charger_stalls": "колонки",
   "details_title_charger_images": "Изображения зарядной станции",
   "add_charger_image": "Добавить фотографию зарядной станции",
-  "add_charger_image_description": "Помогите нам улучшить информацию о зарядной станции, загрузив фотографию места зарядки"
+  "add_charger_image_description": "Помогите нам улучшить информацию о зарядной станции, загрузив фотографию места зарядки",
+  "there_is_a_better_route": "There is a better route",
+  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
 }

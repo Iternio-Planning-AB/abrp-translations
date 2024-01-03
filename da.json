@@ -1518,7 +1518,7 @@
   "report_charge_error_issues_charging": "Problemer med opladning",
   "amount_affix": "stk",
   "report_error_charger_not_accessible_sub_title": "Hvorfor er opladeren ikke tilgængelig?",
-  "report_error_select_alternative": "Vælg en mulighed, {{cat}}...",
+  "report_error_select_alternative": "Vælg en mulighed:",
   "report_error_incorrect_price_input": "Hvad er den rigtige pris:",
   "report_error_incorrect_price_charge_card_input": "Brugte du et betalingskort, navngiv det?",
   "type": "Type",
@@ -1747,5 +1747,7 @@
   "charger_stalls": "pladser",
   "details_title_charger_images": "Billeder af oplader",
   "add_charger_image": "Tilføj et billede af oplader",
-  "add_charger_image_description": "Hjælp os med at forbedre oplysningerne ved at uploade et billede af opladningsstedet"
+  "add_charger_image_description": "Hjælp os med at forbedre oplysningerne ved at uploade et billede af opladningsstedet",
+  "there_is_a_better_route": "There is a better route",
+  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
 }

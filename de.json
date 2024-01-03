@@ -1520,7 +1520,7 @@
   "report_charge_error_issues_charging": "Probleme beim Laden",
   "amount_affix": "Stück",
   "report_error_charger_not_accessible_sub_title": "Warum ist der Ladepunkt nicht zugänglich?",
-  "report_error_select_alternative": "Wähle eine Option, {{cat}}...",
+  "report_error_select_alternative": "Wähle eine Option:",
   "report_error_incorrect_price_input": "Was ist der richtige Preis?",
   "report_error_incorrect_price_charge_card_input": "Hast du eine Ladekarte verwendet, und wie lautet diese?",
   "type": "Typ",
@@ -1747,5 +1747,7 @@
   "charger_stalls": "Ladeanschlüße",
   "details_title_charger_images": "Bilder der Ladesäule",
   "add_charger_image": "Ein Foto der Ladestation hinzufügen",
-  "add_charger_image_description": "Hilf uns, die Informationen zur Ladestation zu verbessern, indem du ein Bild des Ladeplatzes hochlädst."
+  "add_charger_image_description": "Hilf uns, die Informationen zur Ladestation zu verbessern, indem du ein Bild des Ladeplatzes hochlädst.",
+  "there_is_a_better_route": "There is a better route",
+  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
 }

@@ -1518,7 +1518,7 @@
   "report_charge_error_issues_charging": "Problemi di ricarica",
   "amount_affix": "pz",
   "report_error_charger_not_accessible_sub_title": "Perché la colonnina non è accessibile?",
-  "report_error_select_alternative": "Seleziona un'opzione, {{cat}}...",
+  "report_error_select_alternative": "Seleziona un'opzione:",
   "report_error_incorrect_price_input": "Qual è il prezzo corretto:",
   "report_error_incorrect_price_charge_card_input": "Avete usato una tessera di ricarica, e l'avete nominata?",
   "type": "Tipo",
@@ -1747,5 +1747,7 @@
   "charger_stalls": "stalls",
   "details_title_charger_images": "Charger images",
   "add_charger_image": "Add a charger photo",
-  "add_charger_image_description": "Help us improve charger information by uploading a picture of the charging site"
+  "add_charger_image_description": "Help us improve charger information by uploading a picture of the charging site",
+  "there_is_a_better_route": "There is a better route",
+  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
 }

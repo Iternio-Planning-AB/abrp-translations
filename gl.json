@@ -1518,7 +1518,7 @@
   "report_charge_error_issues_charging": "Problemas coa carga",
   "amount_affix": "pcs",
   "report_error_charger_not_accessible_sub_title": "Por que o cargador non está accesíbel?",
-  "report_error_select_alternative": "Selecciona unha opción, {{cat}}...",
+  "report_error_select_alternative": "Selecciona unha opción:",
   "report_error_incorrect_price_input": "Cal é o prezo correcto:",
   "report_error_incorrect_price_charge_card_input": "Empregaches un cartón de carga, cal?",
   "type": "Tipo",
@@ -1747,5 +1747,7 @@
   "charger_stalls": "puntos",
   "details_title_charger_images": "Imaxes do cargador",
   "add_charger_image": "Engadir unha imaxe do cargador",
-  "add_charger_image_description": "Axúdanos a mellorar a información do cargador subindo unha foto do sitio de carga"
+  "add_charger_image_description": "Axúdanos a mellorar a información do cargador subindo unha foto do sitio de carga",
+  "there_is_a_better_route": "There is a better route",
+  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
 }

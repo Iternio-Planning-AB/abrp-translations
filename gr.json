@@ -1518,7 +1518,7 @@
   "report_charge_error_issues_charging": "Προβλήματα με την φόρτιση",
   "amount_affix": "τεμ.",
   "report_error_charger_not_accessible_sub_title": "Γιατί ο φορτιστής δεν είναι προσβάσιμος;",
-  "report_error_select_alternative": "Επιλέξτε μια επιλογή, {{cat}}...",
+  "report_error_select_alternative": "Επιλέξτε μια επιλογή:",
   "report_error_incorrect_price_input": "Ποια είναι η σωστή τιμή:",
   "report_error_incorrect_price_charge_card_input": "Χρησιμοποιήσατε μια κάρτα φόρτισης, ονομάστε την;",
   "type": "Τύπος",
@@ -1747,5 +1747,7 @@
   "charger_stalls": "stalls",
   "details_title_charger_images": "Charger images",
   "add_charger_image": "Add a charger photo",
-  "add_charger_image_description": "Help us improve charger information by uploading a picture of the charging site"
+  "add_charger_image_description": "Help us improve charger information by uploading a picture of the charging site",
+  "there_is_a_better_route": "There is a better route",
+  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
 }

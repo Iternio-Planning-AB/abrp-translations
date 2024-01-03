@@ -1529,7 +1529,7 @@
   "report_charge_error_issues_charging": "Şarj etme sorunları",
   "amount_affix": "adet",
   "report_error_charger_not_accessible_sub_title": "Neden şarj cihazına erişilemiyor?",
-  "report_error_select_alternative": "Seçenek Seçin, {{cat}}...",
+  "report_error_select_alternative": "Seçenek Seçin:",
   "report_error_incorrect_price_input": "Doğru fiyat nedir:",
   "report_error_incorrect_price_charge_card_input": "Bir şarj kartı kullandınız mı, ismi nedir?",
   "type": "Tür",
@@ -1744,5 +1744,7 @@
   "add_charger_image_description": "Şarj noktasının fotoğrafını yükleyerek şarj cihazı bilgilerimizi geliştirmemize yardımcı olun",
   "delete_activities_rejected": "Activities could not be deleted",
   "delete_all_activities_warning": "This action cannot be undone",
-  "delete_all_activities_warning_description": "Deleted activities cannot be restored. Are you sure that you want to delete ALL activities of the following vehicle"
+  "delete_all_activities_warning_description": "Deleted activities cannot be restored. Are you sure that you want to delete ALL activities of the following vehicle",
+  "there_is_a_better_route": "There is a better route",
+  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
 }
