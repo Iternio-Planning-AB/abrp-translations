@@ -1729,7 +1729,7 @@
   "edit_quick_settings": "Editează setările rapide",
   "car_details": "Detalii auto",
   "add_charger_to_route": "Adaugă la traseu",
-  "fake_drive": "Condus fals",
+  "fake_drive": "Simulare",
   "volume": "Volum",
   "avoid_prefer": "Evită / Preferă",
   "prefer_avoid_network": "Preferă sau evită rețeaua",
@@ -1741,10 +1741,10 @@
   "exclude_x_network": "Evită {{network}} reţeaua",
   "prefer_x_network": "Preferă {{network}} reţeaua",
   "super_prefer_x_network": "Îmi place și prefer {{network}} reţeaua",
-  "charger_stalls": "stalls",
-  "details_title_charger_images": "Charger images",
-  "add_charger_image": "Add a charger photo",
-  "add_charger_image_description": "Help us improve charger information by uploading a picture of the charging site",
-  "there_is_a_better_route": "There is a better route",
-  "save_plan_summary_description": "Select the waypoints you want to save in your plan."
+  "charger_stalls": "standuri",
+  "details_title_charger_images": "Imagini încărcător",
+  "add_charger_image": "Adaugă o fotografie a încărcătorului",
+  "add_charger_image_description": "Ajută-ne să îmbunătățim informațiile despre încărcător încărcând o fotografie a locului de încărcare"
+  "there_is_a_better_route": "Există un traseu mai bun",
+  "save_plan_summary_description": "Selectează punctele intermediare pe care dorești să le salvezi în planul tău"
 }
