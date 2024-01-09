@@ -1744,7 +1744,7 @@
   "exclude_x_network": "Schliesse {{network}} Netzwerk aus",
   "prefer_x_network": "Bevorzuge {{network}} Netzwerk",
   "super_prefer_x_network": "Bevorzuge {{network}} Netzwerk äußerst",
-  "charger_stalls": "Ladeanschlüße",
+  "charger_stalls": "Ladeanschlüsse",
   "details_title_charger_images": "Bilder der Ladesäule",
   "add_charger_image": "Ein Foto der Ladestation hinzufügen",
   "add_charger_image_description": "Hilf uns, die Informationen zur Ladestation zu verbessern, indem du ein Bild des Ladeplatzes hochlädst.",
