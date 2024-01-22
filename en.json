@@ -1453,7 +1453,7 @@
   "report_charge_error_description_placeholder": "Try to give us as many details as possible",
   "report_charge_error_upload": "Upload photo",
   "report_charge_error_upload_more": "Add more photos",
-  "report_charge_error_photo_access_denied": "Please give us access to your camera. Go to settings -> apps -> A better route planner and change permissions",
+  "report_charge_error_photo_access_denied": "Please give us access to your camera. Go to settings -> apps -> ABRP and change permissions",
   "driving_mode_final_destination": "Destination",
   "driving_mode_next_charger": "Next charging stop",
   "driving_mode_next_stop": "Next stop",
