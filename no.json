@@ -274,7 +274,7 @@
   "about_1": "A Better Routeplanner (ABRP) er verdens mest respekterte ruteplanlegger for elektriske kjøretøy.",
   "about_2": "Velg din bilmodell og velg destinasjon for å få en rute som tar deg til din destinasjon på raskeste måte inkludert ladestopp.",
   "about_3": "Når du er klar for å kjøre, gå inn i kjøremodus og bruk ABRP som navigasjon. Du kan endre ruten underveis og få opppdatert ruteinformasjon.",
-  "about_4": "ABRP is developed by Iternio, owned and operated by the ABRP founders. Go to our website to explore our business APIs!",
+  "about_4": "ABRP er utviklet av Iternio, som ble en del av Rivian i 2023. Gå til vår hjemmeside for å utforske våre Business API -er!",
   "about_signature": "Bo and the Iternio team",
   "could_not_update_vehicle": "Kunne ikke oppdatere kjøretøyet",
   "could_not_logout": "Kunne ikke logge av",
@@ -1772,5 +1772,15 @@
   "vehicle_sharing": "Vehicle sharing",
   "vehicle_sharing_description": "Share your vehicle with a family member or friend. They will be able to use your vehicle in their ABRP app.",
   "delete_vehicle": "Delete vehicle",
-  "remove_shared_vehicle": "Remove shared vehicle"
+  "remove_shared_vehicle": "Remove shared vehicle",
+  "delete_configuration": "Delete configuration",
+  "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
+  "no_response_since": "{{diff}} without OBD data",
+  "welcome_new_premium": "Welcome to ABRP Premium!",
+  "premium_presentation_description_new_premium": "Elevate your ABRP experience with a premium subscription. Explore the exciting new features that come with your subscription below, and make the most out of your journey.",
+  "premium_new_close_button": "Get started with Premium",
+  "change_email_failed_email_used": "The email is already in use",
+  "historical_data_shared": "Historical data shared",
+  "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
 }

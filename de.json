@@ -301,7 +301,7 @@
   "about_1": "A Better Routeplanner (ABRP) ist der weltweit angesehenste Dienst zum Planen, Lernen und Träumen von Elektrofahrzeugen",
   "about_2": "Wähle einfach dein Fahrzeugmodell aus, gib dein Ziel ein und klicke auf Planen, um einen vollständigen Reiseplan mit Ladestopps und Reisedauer zu erhalten",
   "about_3": "Wenn du fahrbereit bist, wechsle einfach in den Fahrmodus und verwende ABRP als Echtzeit-Planverfolgungstool und Navigationshilfe, plane nach Bedarf um und erhalte laufend aktualisierte Informationen über deine Reise",
-  "about_4": "ABRP wird von Iternio entwickelt, das den ABRP-Gründern gehört und von ihnen betrieben wird. Besuche unsere Website, um unsere Business-APIs kennenzulernen!",
+  "about_4": "ABRP wurde von Iternio entwickelt, das 2023 Teil von Rivian wurde. Gehen Sie zu unserer Website, um unsere Geschäfts -APIs zu erkunden!",
   "about_classic": "Auf der Suche nach dem klassischen ABRP-Webdienst? Er ist umgezogen und nun hier zu finden: http://abetterrouteplanner.com/classic",
   "about_signature": "Bo und das Team von Iternio",
   "could_not_update_vehicle": "ABRP konnte das Fahrzeug nicht aktualisieren",
@@ -1772,5 +1772,15 @@
   "vehicle_sharing": "Gemeinsame Nutzung von Fahrzeugen",
   "vehicle_sharing_description": "Teile dein Fahrzeug mit einem Familienmitglied oder einem Freund. Diese können dein Fahrzeug in ihrer ABRP-App nutzen.",
   "delete_vehicle": "Fahrzeug löschen",
-  "remove_shared_vehicle": "Gemeinsames Fahrzeug entfernen"
+  "remove_shared_vehicle": "Gemeinsames Fahrzeug entfernen",
+  "no_response_since": "{{diff}} keine OBD-Daten",
+  "charger_status_unknown_stalls_count_one": "Status unbekannt • {{count}} Ladepunkt",
+  "charger_status_unknown_stalls_count_other": "Status unbekannt • {{count}} Ladepunkte",
+  "delete_configuration": "Delete configuration",
+  "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
+  "welcome_new_premium": "Welcome to ABRP Premium!",
+  "premium_presentation_description_new_premium": "Elevate your ABRP experience with a premium subscription. Explore the exciting new features that come with your subscription below, and make the most out of your journey.",
+  "premium_new_close_button": "Get started with Premium",
+  "change_email_failed_email_used": "The email is already in use",
+  "historical_data_shared": "Historical data shared"
 }

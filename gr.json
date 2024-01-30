@@ -299,7 +299,7 @@
   "about_1": "A Better Routeplanner (ABRP) είναι η πιο σεβαστή υπηρεσία παγκοσμίως στον προγραμματισμό, μάθηση και όνειρα για Ηλεκτρικά Οχήματα - EVs.",
   "about_2": "Απλά επιλέξτε το μοντέλο του οχήματός σας, εισάγετε τον προορισμός σας και πατήστε σχεδιασμός για να πάρετε ένα πλήρες πρόγραμμα ταξιδίου που συμπεριλαμβάνει στάσεις για φόρτιση και διάρκεια ταξιδίου.",
   "about_3": "Όταν είστε έτοιμοι να το οδηγήσετε, απλά πηγαίνετε στη λειτουργία οδήγησης και χρησιμοποιείτε το ABRP ως εργαλείο για να κατευθυνθείτε και να σχεδιάσετε το ταξίδι σας σε πραγματικό χρόνο, επανασχεδιάστε όποτε χρειαστεί και έχετε συνεχείς πληροφορίες για το ταξίδι σας.",
-  "about_4": "Το ABRP αναπτύσσεται από την Iternio, η οποία ανήκει και διαχειρίζεται από τους ιδρυτές του ABRP. Πηγαίνεται στην ιστοσελίδα μας για να εξερευνήσετε τα εταιρικά μας API!",
+  "about_4": "Το ABRP αναπτύσσεται από τον Iternio, το οποίο έγινε μέρος του Rivian το 2023. Πηγαίνετε στην ιστοσελίδα μας για να εξερευνήσετε τα επιχειρηματικά μας API!",
   "about_classic": "Ψάχνετε την κλασσική έκδοση της ABRP web υπηρεσίας; Έχει μετακινηθεί σε ένα καινούριο σπίτι, http://abetterrouteplanner.com/classic.",
   "about_signature": "Ο Bo και η ομάδα της Iternio",
   "could_not_update_vehicle": "Δεν μπορούσαμε να αναβαθμίσουμε το όχημα",
@@ -1772,5 +1772,15 @@
   "vehicle_sharing": "Vehicle sharing",
   "vehicle_sharing_description": "Share your vehicle with a family member or friend. They will be able to use your vehicle in their ABRP app.",
   "delete_vehicle": "Delete vehicle",
-  "remove_shared_vehicle": "Remove shared vehicle"
+  "remove_shared_vehicle": "Remove shared vehicle",
+  "delete_configuration": "Delete configuration",
+  "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
+  "no_response_since": "{{diff}} without OBD data",
+  "welcome_new_premium": "Welcome to ABRP Premium!",
+  "premium_presentation_description_new_premium": "Elevate your ABRP experience with a premium subscription. Explore the exciting new features that come with your subscription below, and make the most out of your journey.",
+  "premium_new_close_button": "Get started with Premium",
+  "change_email_failed_email_used": "The email is already in use",
+  "historical_data_shared": "Historical data shared",
+  "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
 }

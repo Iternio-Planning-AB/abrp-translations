@@ -301,7 +301,7 @@
   "about_1": "Parempi reittisuunnittelija (ABRP) on maailman arvostetuin palvelu, joka suunnittelee, oppii ja haaveilee sähköajoneuvoista.",
   "about_2": "Valitse vain ajoneuvosi malli, kirjoita määränpääsi ja osuussuunnitelma saadaksesi täyden matkasuunnitelman, mukaan lukien latauspysäkit ja matkan kesto.",
   "about_3": "Kun olet valmis ajamaan sitä, siirry vain ajotilaan ja käytä ABRP: tä reaaliaikaisena suunnitelman seurantatyökaluna ja jopa navigaattorina, suunnittele uudelleen tarvittaessa ja saat jatkuvasti päivitettävää tietoa matkastasi.",
-  "about_4": "ABRP: n on kehittänyt Iternio, jonka omistavat ja ylläpitävät ABRP: n perustajat. Mene verkkosivustollemme tutustumaan liiketoiminnan sovellusliittymiin!",
+  "about_4": "ABRP: n on kehittänyt Iternio, josta tuli osa Riviania vuonna 2023. Mene verkkosivustollemme tutkimaan liiketoimintaliiketoimintamme!",
   "about_classic": "Etsitkö klassista ABRP-verkkopalvelua? Se on juuri muuttanut uuteen kotiin, http://abetterrouteplanner.com/classic.",
   "about_signature": "Bo ja Iternio-tiimi",
   "could_not_update_vehicle": "Autoa ei voitu päivittää",
@@ -1772,5 +1772,15 @@
   "vehicle_sharing": "Vehicle sharing",
   "vehicle_sharing_description": "Share your vehicle with a family member or friend. They will be able to use your vehicle in their ABRP app.",
   "delete_vehicle": "Delete vehicle",
-  "remove_shared_vehicle": "Remove shared vehicle"
+  "remove_shared_vehicle": "Remove shared vehicle",
+  "delete_configuration": "Delete configuration",
+  "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
+  "no_response_since": "{{diff}} without OBD data",
+  "welcome_new_premium": "Welcome to ABRP Premium!",
+  "premium_presentation_description_new_premium": "Elevate your ABRP experience with a premium subscription. Explore the exciting new features that come with your subscription below, and make the most out of your journey.",
+  "premium_new_close_button": "Get started with Premium",
+  "change_email_failed_email_used": "The email is already in use",
+  "historical_data_shared": "Historical data shared",
+  "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
 }

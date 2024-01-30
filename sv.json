@@ -284,7 +284,7 @@
   "about_1": "A Better Routeplanner (ABRP) är världens mest respekterade tjänst för att planera resor med elbilar och elfordon.",
   "about_2": "Välj din fordonsmodell och tryck på planera för att få en plan över hur du snabbast möjligt når din destination, inklusive laddstopp.",
   "about_3": "När du är redo att köra, gå in i körläget och få en uppföljning av planen i realtid, och till och med väganvisningar. Planera om när det behövs!",
-  "about_4": "ABRP utvecklas av Iternio, som ägs och utvecklas av ABRP-grundarna. Gå till vår websida iternio.com för att se hur vi kan hjälpa ditt företag med våra APIer.",
+  "about_4": "ABRP är utvecklad av Iternio, som blev en del av Rivian 2023. Gå till vår webbplats för att utforska våra affärs -API: er!",
   "about_signature": "Bo och Iternio-teamet",
   "could_not_update_vehicle": "Kunde inte uppdatera fordonet",
   "could_not_logout": "Kunde inte logga ut",
@@ -1772,5 +1772,15 @@
   "vehicle_sharing": "Fordonsdelning",
   "vehicle_sharing_description": "Dela ditt fordon med en familjemedlem eller vän. De kommer att kunna använda ditt fordon i sin ABRP-app.",
   "delete_vehicle": "Radera fordon",
-  "remove_shared_vehicle": "Ta bort delat fordon"
+  "remove_shared_vehicle": "Ta bort delat fordon",
+  "delete_configuration": "Delete configuration",
+  "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
+  "no_response_since": "{{diff}} without OBD data",
+  "welcome_new_premium": "Welcome to ABRP Premium!",
+  "premium_presentation_description_new_premium": "Elevate your ABRP experience with a premium subscription. Explore the exciting new features that come with your subscription below, and make the most out of your journey.",
+  "premium_new_close_button": "Get started with Premium",
+  "change_email_failed_email_used": "The email is already in use",
+  "historical_data_shared": "Historical data shared",
+  "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
 }
