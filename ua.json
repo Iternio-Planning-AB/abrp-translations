@@ -1770,14 +1770,14 @@
   "vehicle_sharing_description": "Поділіться своїм автомобілем із членом сім'ї або другом. Вони зможуть використовувати ваш автомобіль у своєму додатку ABRP.",
   "delete_vehicle": "Видалити автомобіль",
   "remove_shared_vehicle": "Видалити спільний автомобіль",
-  "delete_configuration": "Delete configuration",
-  "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
-  "no_response_since": "{{diff}} without OBD data",
-  "welcome_new_premium": "Welcome to ABRP Premium!",
-  "premium_presentation_description_new_premium": "Elevate your ABRP experience with a premium subscription. Explore the exciting new features that come with your subscription below, and make the most out of your journey.",
-  "premium_new_close_button": "Get started with Premium",
-  "change_email_failed_email_used": "The email is already in use",
-  "historical_data_shared": "Historical data shared",
-  "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "delete_configuration": "Видалити конфігурацію",
+  "delete_configuration_description": "Це назавжди видалить вашу конфігурацію.\n\n Ви впевнені?",
+  "no_response_since": "{{diff}} без даних OBD",
+  "welcome_new_premium": "Ласкаво просимо в ABRP Premium!",
+  "premium_presentation_description_new_premium": "Розширте свої можливості ABRP за допомогою преміум-підписки. Ознайомтеся з новими цікавими функціями, що надаються в рамках підписки, та отримайте максимум задоволення від своєї подорожі."
+  "premium_new_close_button": "Почати роботу з Premium",
+  "change_email_failed_email_used": "Електронна пошта вже використовується",
+  "historical_data_shared": "Спільне використання історичних даних",
+  "charger_status_unknown_stalls_count_one": "Невідомий статус - {{count}} станція",
+  "charger_status_unknown_stalls_count_other": "невідомий статус - {{count}} станції"
 }
