@@ -1101,7 +1101,7 @@
   "obdble_connect_car_partial_success": "Wir konnten eine Verbindung zu deinem Auto herstellen, jedoch nicht alle uns bekannten Telemetriewerte abrufen. Sieh dir die gemeldeten Live-Daten im Einrichtungsdialog an. Wenn du möchtest, kannst du den Dongle trotzdem verknüpfen, indem du auf die Schaltfläche „Speichern“ drückst.\nÜber einen Bugreport zur Verbesserung deines Automodells würden wir uns freuen!",
   "obdble_bug_report_share_uuid": "Falls du einen Fehler melden möchtest, leiten wir dich zu unserem öffentlichen Bug-Tracker weiter. Bitte erstelle dort einen neuen Fehlerbericht und füge die ID aus der Zwischenablage ein, um uns über deine Schwierigkeiten zu informieren.",
   "merge_automotive_vehicle_title": "Wir haben ein identisches Fahrzeug in deinem Konto gefunden",
-  "merge_automotive_vehicle_message": "{{newVehicle}} scheint identisch zu {{originalVehicle}} zu sein.\nSollen wir die Fahrzeuge zu {{originalVehicle}} zusammenführen",
+  "merge_automotive_vehicle_message": "{{newVehicle}} scheint identisch zu {{originalVehicle}} zu sein.\nSollen wir die Fahrzeuge zu {{originalVehicle}} zusammenführen?",
   "merge_automotive_vehicle_error": "Beim Zusammenführen deiner Fahrzeuge ist etwas schief gelaufen, bitte versuche es erneut.",
   "charge_cards_no_cards_selected": "Füge deinem Konto Ladekarten hinzu die du besitzt, und wir beraten dich wo du aufladen solltest",
   "add_new_card": "neue Karte hinzufügen",
