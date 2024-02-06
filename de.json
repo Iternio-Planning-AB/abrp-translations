@@ -921,7 +921,7 @@
   "low_soc_notifications_body": "Der nächste Ladepunkt ist {} weg. Name: {}. Adresse: {}",
   "charging_complete_notifications_title": "{{vehicle_name}} Batterie geladen",
   "charging_complete_notifications_body": "Akkustand ist 100%",
-  "geofence_notification_bodygeofence_notification_body": "Akkustand: {} %",
+  "geofence_notification_body": "Akkustand: {} %",
   "radius": "Radius",
   "radius_description": "ABRP benachrichtigt dich, wenn das Fahrzeug diesen Radius betritt/verlässt. Stell sicher, dass der Parkplatz enthalten ist.",
   "connect_session_title": "Remote-App Anmeldung",
