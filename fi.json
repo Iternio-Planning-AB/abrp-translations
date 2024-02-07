@@ -867,7 +867,7 @@
   "coordinates": "Koordinaatit",
   "address": "Osoite",
   "long_press_set_destination": "Vinkki: Paina pitkään asettaaksesi määränpääksi.",
-  "invalid_network_replaced": "Verkko ei ole enää kelvollinen, poista se ja käytä sen sijaan {{substit_by}}.",
+  "invalid_network_replaced": "Verkko ei ole enää kelvollinen, poista se ja käytä sen sijaan {{replaced_by}}.",
   "invalid_network": "Verkko ei ole enää voimassa, poista se välttääksesi suunnitteluongelmia.",
   "missing_tlm_details": "Valitettavasti ajoneuvosi ei tarjoa tarpeeksi tietoja antamaan sinulle lisätietoja täällä.",
   "geofence_notifications_description": "Vastaanota autosi lähtö- tai saapumisilmoituksia.",
@@ -1370,7 +1370,7 @@
   "carmirror_map_display": "Map & Display",
   "carmirror_map_settings": "Map Settings",
   "carmirror_display_settings": "Display Settings",
-  "carmirror_route_options": "Route Options",
+  "carmirror_route_options": "Vältä matkalla",
   "carmirror_select_map": "Select a Map",
   "carmirror_unnamed_config": "Unnamed Config",
   "carmirror_final_destination": "Final destination",
@@ -1782,5 +1782,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }

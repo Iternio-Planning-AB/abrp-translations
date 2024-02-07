@@ -1367,7 +1367,7 @@
   "carmirror_map_display": "Mapa a zobrazení",
   "carmirror_map_settings": "Nastavení mapy",
   "carmirror_display_settings": "Nastavení zobrazení",
-  "carmirror_route_options": "Volby trasy",
+  "carmirror_route_options": "Vyhněte se na cestě",
   "carmirror_select_map": "Zvolte mapu",
   "carmirror_unnamed_config": "Nepojmenovaná konfigurace",
   "carmirror_final_destination": "Cílová destinace",
@@ -1779,5 +1779,6 @@
   "change_email_failed_email_used": "E-mail se již používá",
   "historical_data_shared": "Sdílená historická data",
   "charger_status_unknown_stalls_count_one": "neznámý stav • {{count}} stojan",
-  "charger_status_unknown_stalls_count_other": "neznámý stav • {{count}} stojanů"
+  "charger_status_unknown_stalls_count_other": "neznámý stav • {{count}} stojanů",
+  "start_from_here": "Start from here"
 }

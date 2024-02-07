@@ -1370,7 +1370,7 @@
   "carmirror_map_display": "Χάρτης & Εμφάνιση",
   "carmirror_map_settings": "Ρυθμίσεις χάρτη",
   "carmirror_display_settings": "Ρυθμίσεις εμφάνισης",
-  "carmirror_route_options": "Επιλογές διαδρομής",
+  "carmirror_route_options": "Αποφύγετε καθ 'οδόν",
   "carmirror_select_map": "Επιλέξτε έναν Χάρτη",
   "carmirror_unnamed_config": "Διαμόρφωση χωρίς όνομα",
   "carmirror_final_destination": "Τελικός προορισμός",
@@ -1782,5 +1782,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }

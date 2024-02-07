@@ -1370,7 +1370,7 @@
   "carmirror_map_display": "Карта и отображение",
   "carmirror_map_settings": "Настройки карты",
   "carmirror_display_settings": "Настройки отображения",
-  "carmirror_route_options": "Параметры маршрута",
+  "carmirror_route_options": "Избегайте в пути",
   "carmirror_select_map": "Выберите карту",
   "carmirror_unnamed_config": "Безымянная конфигурация",
   "carmirror_final_destination": "Конечный пункт назначения",
@@ -1777,10 +1777,11 @@
   "delete_configuration_description": "Это навсегда удалит вашу конфигурацию.\n\n Вы уверены?",
   "no_response_since": "{{diff}} без данных OBD",
   "welcome_new_premium": "Добро пожаловать в ABRP Premium!",
-  "premium_presentation_description_new_premium": "Расширьте свои возможности ABRP с помощью премиум-подписки. Ознакомьтесь с новыми интересными функциями, которые предоставляются в рамках подписки, и получите максимум удовольствия от своего путешествия."
+  "premium_presentation_description_new_premium": "Расширьте свои возможности ABRP с помощью премиум-подписки. Ознакомьтесь с новыми интересными функциями, которые предоставляются в рамках подписки, и получите максимум удовольствия от своего путешествия.",
   "premium_new_close_button": "Начать работу с Premium",
   "change_email_failed_email_used": "Электронная почта уже используется",
   "historical_data_shared": "Совместное использование исторических данных",
   "charger_status_unknown_stalls_count_one": "Неизвестный статус - {{count}} станция",
-  "charger_status_unknown_stalls_count_other": "неизвестный статус - {{count}} станции"
+  "charger_status_unknown_stalls_count_other": "неизвестный статус - {{count}} станции",
+  "start_from_here": "Start from here"
 }

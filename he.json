@@ -873,7 +873,7 @@
   "coordinates": "קואורדינטות",
   "address": "כתובת",
   "long_press_set_destination": "עֵצָה",
-  "invalid_network_replaced": "הרשת אינה תקפה יותר, אנא הסר אותה והשתמש במקום זאת ב {{replected_by}}.",
+  "invalid_network_replaced": "הרשת אינה תקפה יותר, אנא הסר אותה והשתמש במקום זאת ב {{replaced_by}}.",
   "invalid_network": "הרשת אינה תקפה יותר, אנא הסר אותה כדי להימנע מבעיות תכנון.",
   "missing_tlm_details": "סליחה שהרכב שלך לא מספק מספיק נתונים כדי לספק לך פרטים נוספים כאן.",
   "geofence_notifications_description": "קבל הודעות דחיפה כאשר המכונית שלך מגיעה או תצא ממקומות מסוימים.",
@@ -1370,7 +1370,7 @@
   "carmirror_map_display": "Map & Display",
   "carmirror_map_settings": "Map Settings",
   "carmirror_display_settings": "Display Settings",
-  "carmirror_route_options": "Route Options",
+  "carmirror_route_options": "להימנע מלהשתמש ...",
   "carmirror_select_map": "Select a Map",
   "carmirror_unnamed_config": "Unnamed Config",
   "carmirror_final_destination": "Final destination",
@@ -1782,5 +1782,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }

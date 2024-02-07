@@ -1369,7 +1369,7 @@
   "carmirror_map_display": "Kart & Skjerm",
   "carmirror_map_settings": "Kartinnstillinger",
   "carmirror_display_settings": "Skjerminnstillinger",
-  "carmirror_route_options": "Rutevalg",
+  "carmirror_route_options": "Unngå underveis",
   "carmirror_select_map": "Velg et kart",
   "carmirror_unnamed_config": "Konfigurasjon uten navn",
   "carmirror_final_destination": "Endelig destinasjon",
@@ -1782,5 +1782,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }

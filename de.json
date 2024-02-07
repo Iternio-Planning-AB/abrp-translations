@@ -897,7 +897,7 @@
   "apple_carplay_1": "Folge der Route auf dem Bildschirm des Autos mit Apple CarPlay.",
   "long_press_set_destination": "Tipp: Lange drücken, um als Ziel einzufügen.",
   "waypoint_actions": "Wegpunkt-Aktionen",
-  "invalid_network_replaced": "Das Ladenetz ist nicht mehr gültig. Bitte entferne es und verwende stattdessen {{replace_by}}.",
+  "invalid_network_replaced": "Das Ladenetz ist nicht mehr gültig. Bitte entferne es und verwende stattdessen {{replaced_by}}.",
   "invalid_network": "Das Ladenetz ist nicht mehr gültig. Bitte entferne es, um Planungsprobleme zu vermeiden.",
   "missing_tlm_details": "Tut uns leid, dein Fahrzeug stellt leider nicht genug Daten bereit, um dir hier mehr anzuzeigen.",
   "guidepoint": "Leitpunkt",
@@ -1376,7 +1376,7 @@
   "carmirror_map_display": "Karte & Anzeige",
   "carmirror_map_settings": "Karteneinstellungen",
   "carmirror_display_settings": "Anzeigeeinstellungen",
-  "carmirror_route_options": "Routenoptionen",
+  "carmirror_route_options": "Auf der Route vermeiden",
   "carmirror_select_map": "Wähle eine Karte",
   "carmirror_unnamed_config": "Unbenannte Konfiguration",
   "carmirror_final_destination": "Zielort",
@@ -1782,5 +1782,6 @@
   "premium_presentation_description_new_premium": "Erweitere deine ABRP -Erfahrung mit einem Premium-Account. Entdecke die aufregenden neuen Möglichkeiten, die du mit deinem Abo erhältst. Mache mehr aus deiner Reise!",
   "premium_new_close_button": "Entdecke Premium",
   "change_email_failed_email_used": "Diese Email ist schon registriert",
-  "historical_data_shared": "Historische Daten geteilt"
+  "historical_data_shared": "Historische Daten geteilt",
+  "start_from_here": "Start from here"
 }

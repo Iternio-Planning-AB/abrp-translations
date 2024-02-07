@@ -1370,7 +1370,7 @@
   "carmirror_map_display": "Map & Display",
   "carmirror_map_settings": "Map Settings",
   "carmirror_display_settings": "Display Settings",
-  "carmirror_route_options": "Route Options",
+  "carmirror_route_options": "Undvik på väg",
   "carmirror_select_map": "Select a Map",
   "carmirror_unnamed_config": "Unnamed Config",
   "carmirror_final_destination": "Final destination",
@@ -1782,5 +1782,6 @@
   "change_email_failed_email_used": "Mejladressen är redan i bruk",
   "historical_data_shared": "Historisk data delas",
   "charger_status_unknown_stalls_count_one": "okänd status • {{count}} laddbås",
-  "charger_status_unknown_stalls_count_other": "okänd status • {{count}} laddbås"
+  "charger_status_unknown_stalls_count_other": "okänd status • {{count}} laddbås",
+  "start_from_here": "Start from here"
 }

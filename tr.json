@@ -1400,7 +1400,7 @@
   "carmirror_map_display": "Harita & göster",
   "carmirror_map_settings": "Harita ayarları",
   "carmirror_display_settings": "Görüntü ayarları",
-  "carmirror_route_options": "Rota seçenekleri",
+  "carmirror_route_options": "Kullanmaktan kaçın ...",
   "carmirror_select_map": "Bir harita seçin",
   "carmirror_unnamed_config": "Adlandırılmamış yapılandırma",
   "carmirror_final_destination": "Son varış noktası",
@@ -1779,5 +1779,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }

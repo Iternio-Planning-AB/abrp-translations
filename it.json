@@ -1370,7 +1370,7 @@
   "carmirror_map_display": "Mappa e visualizzazione",
   "carmirror_map_settings": "Impostazioni della mappa",
   "carmirror_display_settings": "Impostazioni del display",
-  "carmirror_route_options": "Opzioni di percorso",
+  "carmirror_route_options": "Evitare di utilizzare ...",
   "carmirror_select_map": "Selezionare una mappa",
   "carmirror_unnamed_config": "Configurazione senza nome",
   "carmirror_final_destination": "Destinazione finale",
@@ -1782,5 +1782,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }

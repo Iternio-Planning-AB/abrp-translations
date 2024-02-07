@@ -871,7 +871,7 @@
   "coordinates": "Coordonate",
   "address": "Adresă",
   "long_press_set_destination": "Tip: Apasă lung pentru a seta ca destinație.",
-  "invalid_network_replaced": "Rețeaua nu mai este validă, te rugăm să o elimini și să utilizezi în schimb {{substituit_by}}.",
+  "invalid_network_replaced": "Rețeaua nu mai este validă, te rugăm să o elimini și să utilizezi în schimb {{replaced_by}}.",
   "invalid_network": "Rețeaua nu mai este valabilă, te rugăm să o elimini pentru a evita probleme de planificare.",
   "missing_tlm_details": "Ne pare rău , dar vehiculul tău nu oferă suficiente date pentru a-ți oferi mai multe detalii.",
   "geofence_notifications_description": "Primești notificări push atunci când mașina ajunge sau pleacă din anumite locuri.",
@@ -1367,7 +1367,7 @@
   "carmirror_map_display": "Hartă și afișare",
   "carmirror_map_settings": "Setări hartă",
   "carmirror_display_settings": "Setări de afișare",
-  "carmirror_route_options": "Opțiuni traseu",
+  "carmirror_route_options": "Evitați pe traseu",
   "carmirror_select_map": "Selectează o hartă",
   "carmirror_unnamed_config": "Configurație fără nume",
   "carmirror_final_destination": "Destinație finală",
@@ -1779,5 +1779,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }

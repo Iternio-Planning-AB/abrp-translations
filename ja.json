@@ -955,7 +955,7 @@
   "coordinates": "座標",
   "address": "住所",
   "long_press_set_destination": "ヒント：宛先として設定するためにロングプレス。",
-  "invalid_network_replaced": "ネットワークはもう無効ではありません。代わりに削除して{{cheded_by}}を使用してください。",
+  "invalid_network_replaced": "ネットワークはもう無効ではありません。代わりに削除して{{replaced_by}}を使用してください。",
   "invalid_network": "ネットワークはもう無効ではありません。計画の問題を避けるために削除してください。",
   "missing_tlm_details": "申し訳ありませんが、あなたの車両はここで詳細を提供するのに十分なデータを提供していません。",
   "geofence_notifications_description": "車が到着したり、いくつかの場所を離れるときにプッシュ通知を受け取ります。",
@@ -1402,7 +1402,7 @@
   "carmirror_map_display": "マップとディスプレイ",
   "carmirror_map_settings": "マップ設定",
   "carmirror_display_settings": "ディスプレイの設定",
-  "carmirror_route_options": "ルートオプション",
+  "carmirror_route_options": "途中では避けてください",
   "carmirror_select_map": "マップを選択します",
   "carmirror_unnamed_config": "名前のない構成",
   "carmirror_final_destination": "最終目的地",
@@ -1779,5 +1779,6 @@
   "change_email_failed_email_used": "The email is already in use",
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls"
+  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
+  "start_from_here": "Start from here"
 }
