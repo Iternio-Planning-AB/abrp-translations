@@ -104,7 +104,7 @@
   "dry_roads": "Сухие дороги",
   "rain_or_snow": "Дождь или снег",
   "heavy_rain_or_snow": "Ливень или снег",
-  "avoid_on_route": "Исключить на пути",
+  "avoid_on_route": "Избегать на маршруте",
   "avoid_on_route_description": "Исключить маршрут с автомагистралями, паромными переправами, платными дорогами или пограничеными переходами.",
   "ferries": "Паромы",
   "highways": "Автомагистрали",
@@ -690,11 +690,11 @@
   "direction_return_variant": "назад",
   "direction_uturn": "Сделать разворот",
   "direction_turn": "Повернуть {{direction}}",
-  "direction_count_1": "1",
-  "direction_count_2": "2",
-  "direction_count_3": "3",
-  "direction_count_4": "4",
-  "direction_count_nth": "{{count}}",
+  "direction_count_1": "первый",
+  "direction_count_2": "второй",
+  "direction_count_3": "третий",
+  "direction_count_4": "четвертый",
+  "direction_count_nth": "{{count}}-й",
   "direction_roundabout": "Следуйте к развязке {{direction}}, затем будет выезд {{exit}}",
   "direction_roundabout_short": "{{exit}} выезд",
   "direction_roundabout_exit": "Выехать с развязки",
@@ -1783,5 +1783,5 @@
   "historical_data_shared": "Совместное использование исторических данных",
   "charger_status_unknown_stalls_count_one": "Неизвестный статус - {{count}} станция",
   "charger_status_unknown_stalls_count_other": "неизвестный статус - {{count}} станции",
-  "start_from_here": "Start from here"
+  "start_from_here": "Начните отсюда"
 }
