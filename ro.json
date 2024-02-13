@@ -859,7 +859,7 @@
   "import_result": "Rezumatul importului: \n- activități adăugate: {{activities_added}}\n- Activități eliminate din cauza duplicatelor: {{activities_not_added_repeated}}\n- Activități eliminate din cauza formatului incorect: {{activities_not_added_wrong_format}}",
   "delete_account": "Ștergere cont",
   "delete_account_description": "Contul tău ABRP va fi șters definitiv, nu există nicio modalitate de a-l restabili!\n Ești sigur?",
-  "delete_account_premium": "Dacă ți-ai anulat deja abonamentul Premium, îți poți șterge contul ABRP.\n\nEști sigur că vrei să-l ștergi?",
+  "delete_account_premium": "Dacă ți-ai anulat deja abonamentul Premium, îți poți șterge contul ABRP.",
   "delete_account_for_real_description": "Cu siguranță? Contul tău va fi șters pentru totdeauna.",
   "yes_absolutely_sure": "Da, sunt absolut sigur!",
   "delete_account_error": "Eroare la ștergerea contului, încearcă din nou mai târziu.",
@@ -1780,5 +1780,12 @@
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
   "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
-  "start_from_here": "Start from here"
+  "start_from_here": "Start from here",
+  "delete_account_confirmation": "Ești sigur că vrei să-l ștergi?",
+  "reference_consumption_tooltip": "Reference consumption is utilized to calculate your consumption and range. The value differs from the mean value displayed in the car. While the car value reflects your historical consumption, this reference serves as a baseline representation.",
+  "reference_consumption_tooltip_unit": "You can switch to a more comfortable unit, which can also be adjusted in the the '{{section}}' section.",
+  "consumption_unit": "Preferred unit for consumption",
+  "reference_consumption_at": "Reference consumption {{at}}",
+  "reference_consumption_short_at": "Ref. consumption {{at}}",
+  "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed."
 }

@@ -903,7 +903,7 @@
   "in_use": "Зайнята",
   "operational": "Робоча",
   "broken": "Зламана",
-  "delete_account_premium": "Якщо ви вже скасували підписку Premium, ви можете видалити її ABRP акаунт.\n\nВи впевнені, що хочете видалити?",
+  "delete_account_premium": "Якщо ви вже скасували підписку Premium, ви можете видалити її ABRP акаунт.",
   "month_names": [
     "Січень",
     "Лютий",
@@ -1780,5 +1780,12 @@
   "historical_data_shared": "Спільне використання історичних даних",
   "charger_status_unknown_stalls_count_one": "Невідомий статус - {{count}} станція",
   "charger_status_unknown_stalls_count_other": "невідомий статус - {{count}} станції",
-  "start_from_here": "Почніть звідси"
+  "start_from_here": "Почніть звідси",
+  "delete_account_confirmation": "Ви впевнені, що хочете видалити?",
+  "reference_consumption_tooltip": "Reference consumption is utilized to calculate your consumption and range. The value differs from the mean value displayed in the car. While the car value reflects your historical consumption, this reference serves as a baseline representation.",
+  "reference_consumption_tooltip_unit": "You can switch to a more comfortable unit, which can also be adjusted in the the '{{section}}' section.",
+  "consumption_unit": "Preferred unit for consumption",
+  "reference_consumption_at": "Reference consumption {{at}}",
+  "reference_consumption_short_at": "Ref. consumption {{at}}",
+  "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed."
 }

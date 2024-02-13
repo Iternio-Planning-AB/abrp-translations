@@ -903,7 +903,7 @@
   "in_use": "En uso",
   "operational": "Operativo",
   "broken": "Fuera de servicio",
-  "delete_account_premium": "Si ya canceló su suscripción Premium, puede eliminar su cuenta ABRP. \n\n ¿Está seguro de que desea eliminarla?",
+  "delete_account_premium": "Si ya canceló su suscripción Premium, puede eliminar su cuenta ABRP.",
   "month_names": [
     "enero",
     "febrero",
@@ -1780,5 +1780,12 @@
   "historical_data_shared": "Historical data shared",
   "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
   "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
-  "start_from_here": "Start from here"
+  "start_from_here": "Start from here",
+  "delete_account_confirmation": "¿Está seguro de que desea eliminarla?",
+  "reference_consumption_tooltip": "Reference consumption is utilized to calculate your consumption and range. The value differs from the mean value displayed in the car. While the car value reflects your historical consumption, this reference serves as a baseline representation.",
+  "reference_consumption_tooltip_unit": "You can switch to a more comfortable unit, which can also be adjusted in the the '{{section}}' section.",
+  "consumption_unit": "Preferred unit for consumption",
+  "reference_consumption_at": "Reference consumption {{at}}",
+  "reference_consumption_short_at": "Ref. consumption {{at}}",
+  "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed."
 }
