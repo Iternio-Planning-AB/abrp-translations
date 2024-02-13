@@ -1770,15 +1770,15 @@
   "vehicle_sharing_description": "Partagez votre véhicule avec un membre de votre famille ou un ami. Ils pourront utiliser votre véhicule dans leur application ABRP.",
   "delete_vehicle": "Supprimer le véhicule",
   "remove_shared_vehicle": "Supprimer le véhicule partagé",
-  "delete_configuration": "Delete configuration",
-  "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
-  "no_response_since": "{{diff}} without OBD data",
-  "welcome_new_premium": "Welcome to ABRP Premium!",
-  "premium_presentation_description_new_premium": "Elevate your ABRP experience with a premium subscription. Explore the exciting new features that come with your subscription below, and make the most out of your journey.",
-  "premium_new_close_button": "Get started with Premium",
-  "change_email_failed_email_used": "The email is already in use",
-  "historical_data_shared": "Historical data shared",
-  "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
-  "charger_status_unknown_stalls_count_other": "unknown status • {{count}} stalls",
-  "start_from_here": "Start from here"
+  "delete_configuration": "Supprimer la configuration",
+  "delete_configuration_description": "Cela supprimera définitivement votre configuration.\n\n Etes-vous sûr ?",
+  "no_response_since": "{{diff}} sans données OBD",
+  "welcome_new_premium": "Bienvenue sur ABRP Premium !",
+  "premium_presentation_description_new_premium": "Améliorez votre expérience ABRP avec un abonnement Premium. Découvrez ci-dessous les nouvelles fonctionnalités intéressantes fournies avec votre abonnement et tirez le meilleur parti de votre voyage.",
+  "premium_new_close_button": "Démarrez avec Premium",
+  "change_email_failed_email_used": "Cet email est déjà utilisé",
+  "historical_data_shared": "Données historiques partagées",
+  "charger_status_unknown_stalls_count_one": "statut inconnu • stalle {{count}}",
+  "charger_status_unknown_stalls_count_other": "statut inconnu • stalles {{count}}"
+  "start_from_here": "Commencer à partir d'ici"
 }
