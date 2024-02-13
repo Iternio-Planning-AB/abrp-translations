@@ -1694,7 +1694,7 @@
   "by_you": "Durch dich",
   "by_date": "Nach Datum",
   "open_point": "Details öffnen",
-  "go_here": "Hierher gehen",
+  "go_here": "Hierher fahren",
   "my_plans": "Meine Pläne",
   "saved_on": "Gespeichert am",
   "sort_by": "Sortieren nach",
@@ -1776,12 +1776,12 @@
   "no_response_since": "{{diff}} keine OBD-Daten",
   "charger_status_unknown_stalls_count_one": "Status unbekannt • {{count}} Ladepunkt",
   "charger_status_unknown_stalls_count_other": "Status unbekannt • {{count}} Ladepunkte",
-  "delete_configuration": "Delete configuration",
+  "delete_configuration": "Konfiguration löschen",
   "delete_configuration_description": "Deine Konfiguration wird gelöscht.\n\n Bist du sicher?",
   "welcome_new_premium": "Willkommen bei ABRP Premium!",
   "premium_presentation_description_new_premium": "Erweitere deine ABRP -Erfahrung mit einem Premium-Account. Entdecke die aufregenden neuen Möglichkeiten, die du mit deinem Abo erhältst. Mache mehr aus deiner Reise!",
   "premium_new_close_button": "Entdecke Premium",
   "change_email_failed_email_used": "Diese Email ist schon registriert",
   "historical_data_shared": "Historische Daten geteilt",
-  "start_from_here": "Start from here"
+  "start_from_here": "Von hier aus starten"
 }
