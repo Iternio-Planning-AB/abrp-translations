@@ -1790,5 +1790,6 @@
   "reference_consumption_at": "Reference consumption {{at}}",
   "reference_consumption_short_at": "Ref. consumption {{at}}",
   "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed.",
-  "delete_account_confirmation": "Are you sure?"
+  "delete_account_confirmation": "Are you sure?",
+  "details_title_charger_on_route": "Charger on route"
 }
