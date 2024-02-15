@@ -1782,11 +1782,11 @@
   "charger_status_unknown_stalls_count_other": "neznámý stav • {{count}} stojanů",
   "start_from_here": "Začít zde",
   "delete_account_confirmation": "Opravdu chcete pokračovat?",
-  "reference_consumption_tooltip": "Reference consumption is utilized to calculate your consumption and range. The value differs from the mean value displayed in the car. While the car value reflects your historical consumption, this reference serves as a baseline representation.",
-  "reference_consumption_tooltip_unit": "You can switch to a more comfortable unit, which can also be adjusted in the the '{{section}}' section.",
-  "consumption_unit": "Preferred unit for consumption",
-  "reference_consumption_at": "Reference consumption {{at}}",
-  "reference_consumption_short_at": "Ref. consumption {{at}}",
-  "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed.",
-  "details_title_charger_on_route": "Charger on route"
+  "reference_consumption_tooltip": "K výpočtu spotřeby a dojezdu se používá referenční spotřeba. Tato hodnota se liší od průměrné hodnoty zobrazené ve vozidle. Zatímco hodnota ve vozidle odráží Vaši historickou spotřebu, tato referenční hodnota slouží jako základní reprezentace.",
+  "reference_consumption_tooltip_unit": "Můžete přepnout na pohodlnější jednotku, kterou lze také nastavit v sekci '{{section}}'.",
+  "consumption_unit": "Preferovaná jednotka pro spotřebu",
+  "reference_consumption_at": "Referenční spotřeba {{at}}",
+  "reference_consumption_short_at": "Ref. spotřeba {{at}}",
+  "delete_account_chargebee": "Smazáním účtu budou všechna související data v Chargebee trvale smazána.",
+  "details_title_charger_on_route": "Nabíječka na trase"
 }
