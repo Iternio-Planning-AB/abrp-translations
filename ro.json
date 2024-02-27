@@ -1789,5 +1789,5 @@
   "reference_consumption_short_at": "Consum de ref. {{at}}",
   "delete_account_chargebee": "Prin ștergerea contului, toate datele asociate din Chargebee vor fi eliminate definitiv.",
   "details_title_charger_on_route": "Încărcător pe traseu",
-  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
+  "save_destination": "Save destination"
 }
