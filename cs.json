@@ -1788,5 +1788,6 @@
   "reference_consumption_at": "Referenční spotřeba {{at}}",
   "reference_consumption_short_at": "Ref. spotřeba {{at}}",
   "delete_account_chargebee": "Smazáním účtu budou všechna související data v Chargebee trvale smazána.",
-  "details_title_charger_on_route": "Nabíječka na trase"
+  "details_title_charger_on_route": "Nabíječka na trase",
+  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
 }

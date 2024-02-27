@@ -1779,7 +1779,7 @@
   "change_email_failed_email_used": "E-mailul este deja utilizat",
   "historical_data_shared": "Date istorice partajate",
   "charger_status_unknown_stalls_count_one": "stare necunoscută • {{count}} stand",
-  "charger_status_unknown_stalls_count_other": "stare necunoscută • {{count}} standuri"
+  "charger_status_unknown_stalls_count_other": "stare necunoscută • {{count}} standuri",
   "start_from_here": "Pornește de aici",
   "delete_account_confirmation": "Ești sigur că vrei să-l ștergi?",
   "reference_consumption_tooltip": "Consumul de referință este utilizat pentru a calcula consumul și distanța. Valoarea diferă de valoarea medie afișată în mașină. În timp ce valoarea afișată în mașină reflectă consumul tău istoric, această referință servește ca reprezentare de bază.",
@@ -1788,5 +1788,6 @@
   "reference_consumption_at": "Consum de referință {{at}}",
   "reference_consumption_short_at": "Consum de ref. {{at}}",
   "delete_account_chargebee": "Prin ștergerea contului, toate datele asociate din Chargebee vor fi eliminate definitiv.",
-  "details_title_charger_on_route": "Încărcător pe traseu"
+  "details_title_charger_on_route": "Încărcător pe traseu",
+  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
 }
