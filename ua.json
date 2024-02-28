@@ -1789,5 +1789,6 @@
   "reference_consumption_short_at": "Етал. витр. {{at}}",
   "delete_account_chargebee": "При видаленні вашого облікового запису всі пов'язані з ним дані в Chargebee будуть видалені назавжди.",
   "details_title_charger_on_route": "Зарядна станція на маршруті",
-  "save_destination": "Save destination"
+  "save_destination": "Save destination",
+  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
 }
