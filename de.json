@@ -1793,5 +1793,5 @@
   "delete_account_chargebee": "Wenn du dein Konto löschst, werden alle damit verbundenen Daten in Chargebee dauerhaft entfernt.",
   "details_title_charger_on_route": "Ladestation auf der Route",
   "route_charger_title_index_total": "Halt bei {{current}} von {{total}}",
-  "save_destination": "Save destination"
+  "save_destination": "Ziel speichern"
 }
