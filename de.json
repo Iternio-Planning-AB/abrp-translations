@@ -1299,9 +1299,9 @@
   "missing_parameter_x": "Du hast einen fehlenden Parameter, der benötigt wird um einen Plan zu berechnen. Der fehlende Parameter ist '{{parameter}}'",
   "charging_x_kw": "Aufladen mit {{power}} kW",
   "merge_manual_vehicle_message": "Bist du sicher, dass du {{mergeFrom}} in {{mergeTo}} zusammenführen willst? \n\n{{mergeFrom}} wird gelöscht und alle Daten werden mit {{mergeTo}} kombiniert. Diese Aktion ist unumkehrbar!",
-  "manual_merge_vehicle": "Fahrzeug zusammenführen in",
+  "manual_merge_vehicle": "Fahrzeug zusammenführen mit",
   "manual_merge_vehicle_description": "Dieses Fahrzeug mit einem anderen deiner gespeicherten Fahrzeuge zusammenführen",
-  "select_vehicle_to_merge": "Zusammenführen in",
+  "select_vehicle_to_merge": "Zusammenführen mit",
   "active_charge_cards": "Aktive Ladekarten",
   "all_settings": "Alle Einstellungen",
   "charger_stops_title": "Ladepausen",
@@ -1793,5 +1793,5 @@
   "delete_account_chargebee": "Wenn du dein Konto löschst, werden alle damit verbundenen Daten in Chargebee dauerhaft entfernt.",
   "details_title_charger_on_route": "Ladestation auf der Route",
   "route_charger_title_index_total": "Halt bei {{current}} von {{total}}",
-  "save_destination": "Save destination"
+  "save_destination": "Ziel speichern"
 }
