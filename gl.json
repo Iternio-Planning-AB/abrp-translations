@@ -1793,5 +1793,7 @@
   "delete_account_chargebee": "Ao eliminar a túa conta, todos os datos asociados no Chargebee eliminaranse de xeito permanente.",
   "details_title_charger_on_route": "Cargador na ruta",
   "save_destination": "Gardar destino",
-  "route_charger_title_index_total": "Parada {{current}} de {{total}}"
+  "route_charger_title_index_total": "Parada {{current}} de {{total}}",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "leave_edit_mode": "Leave edit"
 }

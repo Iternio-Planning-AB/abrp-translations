@@ -1473,6 +1473,7 @@
   "premium_option_payment_desription": "then {{price}} every {{duration}}. Cancel any time",
   "premium_skip": "Skip for now",
   "premium_start_trial": "Start free 14-day trial",
+  "premium_trial_disclaimer": "Trial can only be started from web",
   "premium_select_plan": "Select your plan",
   "premium_monthly": "Monthly",
   "premium_yearly": "Annually",
@@ -1769,5 +1770,6 @@
   "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed.",
   "delete_account_confirmation": "Are you sure?",
   "details_title_charger_on_route": "Charger on route",
-  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
+  "route_charger_title_index_total": "Stop {{current}} of {{total}}",
+  "leave_edit_mode": "Leave edit"
 }

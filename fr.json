@@ -1790,5 +1790,7 @@
   "delete_account_chargebee": "En supprimant votre compte, toutes les données associées dans Chargebee seront définitivement supprimées.",
   "details_title_charger_on_route": "Chargeur sur route",
   "save_destination": "Enregistrer la destination",
-  "route_charger_title_index_total": "Arrêt {{current}} sur {{total}}"
+  "route_charger_title_index_total": "Arrêt {{current}} sur {{total}}",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "leave_edit_mode": "Leave edit"
 }

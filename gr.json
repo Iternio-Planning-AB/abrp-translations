@@ -1793,5 +1793,7 @@
   "delete_account_confirmation": "Είστε σίγουροι;",
   "details_title_charger_on_route": "Φορτιστής στη διαδρομή",
   "save_destination": "Αποθήκευση προορισμού",
-  "route_charger_title_index_total": "Στάση {{current}} από {{total}}"
+  "route_charger_title_index_total": "Στάση {{current}} από {{total}}",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "leave_edit_mode": "Leave edit"
 }

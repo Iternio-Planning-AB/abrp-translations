@@ -1793,5 +1793,7 @@
   "delete_account_confirmation": "Er du sikker?",
   "details_title_charger_on_route": "Oplader på ruten",
   "save_destination": "Gem destination",
-  "route_charger_title_index_total": "Stop {{current}} af {{total}}"
+  "route_charger_title_index_total": "Stop {{current}} af {{total}}",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "leave_edit_mode": "Leave edit"
 }
