@@ -1790,5 +1790,7 @@
   "delete_account_chargebee": "Prin ștergerea contului, toate datele asociate din Chargebee vor fi eliminate definitiv.",
   "details_title_charger_on_route": "Încărcător pe traseu",
   "save_destination": "Save destination",
-  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
+  "route_charger_title_index_total": "Stop {{current}} of {{total}}",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "leave_edit_mode": "Leave edit"
 }

@@ -1793,5 +1793,7 @@
   "delete_account_chargebee": "При удалении вашей учетной записи все связанные с ней данные в Chargebee будут удалены навсегда.",
   "details_title_charger_on_route": "Зарядная станция на маршруте",
   "save_destination": "Save destination",
-  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
+  "route_charger_title_index_total": "Stop {{current}} of {{total}}",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "leave_edit_mode": "Leave edit"
 }

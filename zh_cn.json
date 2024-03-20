@@ -1017,8 +1017,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-  "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
+  "day_names": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "day_names_short": [
+    "Sun.",
+    "Mon.",
+    "Tue.",
+    "Wed.",
+    "Thu.",
+    "Fri.",
+    "Sat."
+  ],
   "today": "今天",
   "login_remote_app": "登录远程应用",
   "scan_abrp_qrcode_to_complete_login": "通过扫描ABRP QR代码来完成登录",
@@ -1769,5 +1785,7 @@
   "delete_account_chargebee": "通过删除您的帐户, ChargeBee中的所有相关数据将被永久删除。",
   "delete_account_confirmation": "你确定吗？",
   "details_title_charger_on_route": "路线上的充电器",
-  "route_charger_title_index_total": "停止{{total}}的{{current}}"
+  "route_charger_title_index_total": "停止{{total}}的{{current}}",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "leave_edit_mode": "Leave edit"
 }
