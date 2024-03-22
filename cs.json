@@ -1790,5 +1790,7 @@
   "delete_account_chargebee": "Smazáním účtu budou všechna související data v Chargebee trvale smazána.",
   "details_title_charger_on_route": "Nabíječka na trase",
   "save_destination": "Uložit cíl",
-  "route_charger_title_index_total": "Zastávka {{current}} z {{total}}"
+  "route_charger_title_index_total": "Zastávka {{current}} z {{total}}",
+  "premium_trial_disclaimer": "Zkušební doba může být spuštěna jen z webu",
+  "leave_edit_mode": "Opustit úpravy"
 }
