@@ -1791,6 +1791,6 @@
   "details_title_charger_on_route": "Chargeur sur route",
   "save_destination": "Enregistrer la destination",
   "route_charger_title_index_total": "Arrêt {{current}} sur {{total}}",
-  "premium_trial_disclaimer": "Trial can only be started from web",
-  "leave_edit_mode": "Leave edit"
+  "premium_trial_disclaimer": "La version d'essai ne peut être démarrée qu'à partir du Web",
+  "leave_edit_mode": "Quitter la modification"
 }
