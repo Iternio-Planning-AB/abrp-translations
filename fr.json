@@ -1793,10 +1793,10 @@
   "route_charger_title_index_total": "Arrêt {{current}} sur {{total}}",
   "premium_trial_disclaimer": "La version d'essai ne peut être démarrée qu'à partir du Web",
   "leave_edit_mode": "Quitter la modification",
-  "any_speed": "Any speed",
-  "calib_confidence": "Confidence",
-  "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
-  "no_amenity_to_display": "No amenities for this charger",
-  "amenity_search_cleared": "Refreshed Amenity Search",
-  "amenity_search_cleared_description": "We could not find any suitable charger with the requested amenities to add to the plan."
+  "any_speed": "N'importe quelle vitesse",
+  "calib_confidence": "Confiance",
+  "calib_ref_cons_confidence_soc_only_description": "L'étalonnage est basé sur ce que nous mesurons sur la voiture lors de la conduite dans différentes conditions. Plus l'indice de confiance est proche de 100 %, plus nous sommes certains de la consommation. Votre véhicule ne signale que le SoC et aucune puissance, ce qui signifie que l'étalonnage sera moins précis qu'autrement.",
+  "no_amenity_to_display": "Aucune commodité pour ce chargeur",
+  "amenity_search_cleared": "Recherche de commodités actualisée",
+  "amenity_search_cleared_description": "Nous n'avons trouvé aucun chargeur approprié avec les commodités demandées à ajouter sur votre trajet."
 }
