@@ -1793,10 +1793,10 @@
   "route_charger_title_index_total": "Zastávka {{current}} z {{total}}",
   "premium_trial_disclaimer": "Zkušební doba může být spuštěna jen z webu",
   "leave_edit_mode": "Opustit úpravy",
-  "any_speed": "Any speed",
-  "calib_confidence": "Confidence",
-  "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
-  "no_amenity_to_display": "No amenities for this charger",
-  "amenity_search_cleared": "Refreshed Amenity Search",
-  "amenity_search_cleared_description": "We could not find any suitable charger with the requested amenities to add to the plan."
+  "any_speed": "Jakákoli rychlost",
+  "calib_confidence": "Spolehlivost",
+  "calib_ref_cons_confidence_soc_only_description": "Kalibrace vychází z toho, co naměříme z vozu při jízdě za různých podmínek. Čím více se číslo spolehlivosti blíží 100 %, tím větší máme jistotu ohledně spotřeby. Vaše vozidlo hlásí jen SoC a ne výkon, což znamená, že kalibrace bude méně přesná než v opačném případě.",
+  "no_amenity_to_display": "Žádné vybavení pro tuto nabíječku",
+  "amenity_search_cleared": "Obnovené vyhledávání vybavení",
+  "amenity_search_cleared_description": "Nepodařilo se nám najít žádnou vhodnou nabíječku s požadovaným vybavením, kterou bychom mohli přidat do plánu."
 }
