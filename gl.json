@@ -1793,13 +1793,5 @@
   "delete_account_chargebee": "Ao eliminar a túa conta, todos os datos asociados no Chargebee eliminaranse de xeito permanente.",
   "details_title_charger_on_route": "Cargador na ruta",
   "save_destination": "Gardar destino",
-  "route_charger_title_index_total": "Parada {{current}} de {{total}}",
-  "premium_trial_disclaimer": "Só se pode activar o período de probas dende a web",
-  "leave_edit_mode": "Cancelar edición",
-  "any_speed": "Calquera velocidade",
-  "calib_confidence": "Confianza",
-  "calib_ref_cons_confidence_soc_only_description": "A calibración está baseada nas medicións feitas durante a conducción en diferentes condicións. Canto máis preto estea o número de confianza do 100% máis seguros estaremos do consumo. O teu vehículo só informa do SoC sen a enerxía, o que significa que a calibración será menos precisa que do outro xeito.",
-  "no_amenity_to_display": "Sen servizos preto deste cargador",
-  "amenity_search_cleared": "Procura de servizos actualizada",
-  "amenity_search_cleared_description": "Non foi posíbel atopar ningún cargador axeitado para engadir á ruta segundo os servizos solicitados."
+  "route_charger_title_index_total": "Parada {{current}} de {{total}}"
 }

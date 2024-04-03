@@ -554,11 +554,8 @@
   "low_speed": "Low speed",
   "medium_speed": "Medium speed",
   "high_speed": "High speed",
-  "any_speed": "Any speed",
-  "calib_confidence": "Confidence",
   "calib_ref_cons_confidence": "Calibrated reference consumption confidence",
   "calib_ref_cons_confidence_description": "The calibration is based on what we measure from the car while driving at different conditions. For example, we need a certain amount of low, medium, and high-speed driving to get a complete picture of the consumption. The closer the confidence numbers are to 100% the more certain we are of the consumption.",
-  "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
   "not_on_route": "You are not on the route",
   "owned_by": "Owned by",
   "reset_settings": "Reset settings",
@@ -1476,7 +1473,6 @@
   "premium_option_payment_desription": "then {{price}} every {{duration}}. Cancel any time",
   "premium_skip": "Skip for now",
   "premium_start_trial": "Start free 14-day trial",
-  "premium_trial_disclaimer": "Trial can only be started from web",
   "premium_select_plan": "Select your plan",
   "premium_monthly": "Monthly",
   "premium_yearly": "Annually",
@@ -1773,9 +1769,5 @@
   "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed.",
   "delete_account_confirmation": "Are you sure?",
   "details_title_charger_on_route": "Charger on route",
-  "route_charger_title_index_total": "Stop {{current}} of {{total}}",
-  "no_amenity_to_display": "No amenities for this charger",
-  "leave_edit_mode": "Leave edit",
-  "amenity_search_cleared": "Refreshed Amenity Search",
-  "amenity_search_cleared_description": "We could not find any suitable charger with the requested amenities to add to the plan."
+  "route_charger_title_index_total": "Stop {{current}} of {{total}}"
 }

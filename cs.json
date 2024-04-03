@@ -1790,13 +1790,5 @@
   "delete_account_chargebee": "Smazáním účtu budou všechna související data v Chargebee trvale smazána.",
   "details_title_charger_on_route": "Nabíječka na trase",
   "save_destination": "Uložit cíl",
-  "route_charger_title_index_total": "Zastávka {{current}} z {{total}}",
-  "premium_trial_disclaimer": "Zkušební doba může být spuštěna jen z webu",
-  "leave_edit_mode": "Opustit úpravy",
-  "any_speed": "Jakákoli rychlost",
-  "calib_confidence": "Spolehlivost",
-  "calib_ref_cons_confidence_soc_only_description": "Kalibrace vychází z toho, co naměříme z vozu při jízdě za různých podmínek. Čím více se číslo spolehlivosti blíží 100 %, tím větší máme jistotu ohledně spotřeby. Vaše vozidlo hlásí jen SoC a ne výkon, což znamená, že kalibrace bude méně přesná než v opačném případě.",
-  "no_amenity_to_display": "Žádné vybavení pro tuto nabíječku",
-  "amenity_search_cleared": "Obnovené vyhledávání vybavení",
-  "amenity_search_cleared_description": "Nepodařilo se nám najít žádnou vhodnou nabíječku s požadovaným vybavením, kterou bychom mohli přidat do plánu."
+  "route_charger_title_index_total": "Zastávka {{current}} z {{total}}"
 }

@@ -1793,13 +1793,5 @@
   "delete_account_chargebee": "Usunięcie konta spowoduje trwałe usunięcie wszystkich danych powiązanych z Chargebee.",
   "details_title_charger_on_route": "Ładowarka w trasie",
   "save_destination": "Zapisz cel",
-  "route_charger_title_index_total": "Zatrzymaj {{current}} z {{total}}",
-  "premium_trial_disclaimer": "Wersja próbna może zostać rozpoczęta wyłącznie z poziomu Internetu",
-  "leave_edit_mode": "Opuść edycję",
-  "any_speed": "Dowolna prędkość",
-  "calib_confidence": "Zaufanie",
-  "calib_ref_cons_confidence_soc_only_description": "Kalibracja opiera się na tym, co zmierzyliśmy z samochodu podczas jazdy w różnych warunkach. Im stopień ufności jest bliższy 100%, tym większa jest pewność zużycia. Twój pojazd zgłasza tylko SoC i brak zasilania, co oznacza, że kalibracja będzie mniej precyzyjna niż w innym przypadku.",
-  "no_amenity_to_display": "Brak udogodnień dla tej ładowarki",
-  "amenity_search_cleared": "Odświeżone wyszukiwanie udogodnień",
-  "amenity_search_cleared_description": "Nie znaleźliśmy żadnej odpowiedniej ładowarki z wymaganymi udogodnieniami, którą można by dodać do planu."
+  "route_charger_title_index_total": "Zatrzymaj {{current}} z {{total}}"
 }

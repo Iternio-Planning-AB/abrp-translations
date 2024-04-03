@@ -1790,13 +1790,5 @@
   "delete_account_chargebee": "Prin ștergerea contului, toate datele asociate din Chargebee vor fi eliminate definitiv.",
   "details_title_charger_on_route": "Încărcător pe traseu",
   "save_destination": "Salvează destinația",
-  "route_charger_title_index_total": "Oprește {{current}} din {{total}}",
-  "premium_trial_disclaimer": "Perioada de încercare poate fi pornită numai de pe web",
-  "leave_edit_mode": "Lasă editarea",
-  "any_speed": "Orice viteză",
-  "calib_confidence": "Încredere",
-  "calib_ref_cons_confidence_soc_only_description": "Calibrarea se bazează pe măsurătorile din mașină în timpul conducerii în diferite condiții. Cu cât numărul de încredere este mai aproape de 100%, cu atât suntem mai siguri de consum. Vehiculul raportează doar SoC și nu puterea, ceea ce înseamnă că calibrarea va fi mai puțin precisă.",
-  "no_amenity_to_display": "Fără facilități pentru acest încărcător",
-  "amenity_search_cleared": "Căutare reîmprospătată de facilități",
-  "amenity_search_cleared_description": "Nu am putut găsi niciun încărcător potrivit cu facilitățile solicitate pentru al adăuga la plan."
+  "route_charger_title_index_total": "Oprește {{current}} din {{total}}"
 }

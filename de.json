@@ -1793,13 +1793,5 @@
   "delete_account_chargebee": "Wenn du dein Konto löschst, werden alle damit verbundenen Daten in Chargebee dauerhaft entfernt.",
   "details_title_charger_on_route": "Ladestation auf der Route",
   "route_charger_title_index_total": "Halt bei {{current}} von {{total}}",
-  "save_destination": "Ziel speichern",
-  "premium_trial_disclaimer": "Die Testphase kann nur über das Internet gestartet werden",
-  "leave_edit_mode": "Bearbeitung verlassen",
-  "any_speed": "Beliebige Geschwindigkeit",
-  "calib_confidence": "Vertrauen",
-  "calib_ref_cons_confidence_soc_only_description": "Die Kalibrierung basiert auf dem, was wir beim Fahren unter verschiedenen Bedingungen messen. Je näher die Konfidenzzahl an 100% liegt, desto sicherer sind wir uns des Verbrauchs. Dein Fahrzeug meldet nur den SoC und keine Leistung, was bedeutet, dass die Kalibrierung weniger genau sein wird als sonst.",
-  "no_amenity_to_display": "Keine Annehmlichkeiten für dies Ladestation",
-  "amenity_search_cleared": "Neu gestaltete Suche nach Annehmlichkeiten",
-  "amenity_search_cleared_description": "Wir konnten keine geeignete Ladestation mit den gewünschten Annehmlichkeiten finden, die wir in den Plan aufnehmen konnten."
+  "save_destination": "Ziel speichern"
 }

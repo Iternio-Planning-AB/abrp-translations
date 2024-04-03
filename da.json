@@ -1793,13 +1793,5 @@
   "delete_account_confirmation": "Er du sikker?",
   "details_title_charger_on_route": "Oplader på ruten",
   "save_destination": "Gem destination",
-  "route_charger_title_index_total": "Stop {{current}} af {{total}}",
-  "premium_trial_disclaimer": "Prøveversion kan kun startes fra nettet",
-  "leave_edit_mode": "Forlad redigering",
-  "any_speed": "Enhver hastighed",
-  "calib_confidence": "Tillid",
-  "calib_ref_cons_confidence_soc_only_description": "Kalibreringen er baseret på, hvad vi måler fra bilen, mens vi kører under forskellige forhold. Jo tættere konfidenstallet er på 100 %, jo mere sikre er vi på forbruget. Dit køretøj rapporterer kun SoC og ingen strøm, hvilket betyder, at kalibreringen bliver mindre præcis end ellers.",
-  "no_amenity_to_display": "Ingen faciliteter til denne oplader",
-  "amenity_search_cleared": "Opdateret søgning efter faciliteter",
-  "amenity_search_cleared_description": "Vi kunne ikke finde nogen passende oplader med de ønskede faciliteter til at tilføje til planen."
+  "route_charger_title_index_total": "Stop {{current}} af {{total}}"
 }

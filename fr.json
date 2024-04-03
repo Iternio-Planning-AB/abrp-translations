@@ -1790,13 +1790,5 @@
   "delete_account_chargebee": "En supprimant votre compte, toutes les données associées dans Chargebee seront définitivement supprimées.",
   "details_title_charger_on_route": "Chargeur sur route",
   "save_destination": "Enregistrer la destination",
-  "route_charger_title_index_total": "Arrêt {{current}} sur {{total}}",
-  "premium_trial_disclaimer": "La version d'essai ne peut être démarrée qu'à partir du Web",
-  "leave_edit_mode": "Quitter la modification",
-  "any_speed": "N'importe quelle vitesse",
-  "calib_confidence": "Confiance",
-  "calib_ref_cons_confidence_soc_only_description": "L'étalonnage est basé sur ce que nous mesurons sur la voiture lors de la conduite dans différentes conditions. Plus l'indice de confiance est proche de 100 %, plus nous sommes certains de la consommation. Votre véhicule ne signale que le SoC et aucune puissance, ce qui signifie que l'étalonnage sera moins précis qu'autrement.",
-  "no_amenity_to_display": "Aucune commodité pour ce chargeur",
-  "amenity_search_cleared": "Recherche de commodités actualisée",
-  "amenity_search_cleared_description": "Nous n'avons trouvé aucun chargeur approprié avec les commodités demandées à ajouter sur votre trajet."
+  "route_charger_title_index_total": "Arrêt {{current}} sur {{total}}"
 }
