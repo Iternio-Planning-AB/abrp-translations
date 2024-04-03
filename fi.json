@@ -39,7 +39,7 @@
   "settings": "Asetukset",
   "start_driving": "Aloita ajaminen",
   "charger": {
-    "zero": "Ei maksuja",
+    "zero": "Ei latauksia",
     "one": "Yksi lataus",
     "other": "{{count}} latausta"
   },
@@ -346,7 +346,7 @@
   "network_preferences": "Verkkoasetukset",
   "network_preferences_description": "Vältä, suosittele tai käytä yksinomaan joitain verkkoja.",
   "no_network_preferences": "Sinulla ei ole verkkoasetuksia. Muuta tätä käyttämällä hakua tai napsauttamalla laturia kartalla tai suunnitelmassa.",
-  "allow_this_charger": "Salli tämä latausasemai",
+  "allow_this_charger": "Salli tämä latausasema",
   "offline": "Offline",
   "charger_url": "Laturin verkkosivusto",
   "charts": "Kaaviot",
@@ -903,7 +903,7 @@
   "in_use": "Käytössä",
   "operational": "Toiminnassa",
   "broken": "Epäkunnossa",
-  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.",
+  "delete_account_premium": "Jos olet jo peruuttanut Premium-tilauksesi, voit poistaa ABRP-tilisi.",
   "month_names": [
     "tammikuuta",
     "helmikuuta",
@@ -951,7 +951,7 @@
     "la"
   ],
   "today": "Tänään",
-  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
+  "scan_abrp_qrcode_to_complete_login": "Viimeistele kirjautuminen skannaamalla ABRP QR-koodi",
   "permission_camera_title": "Permission to use camera",
   "permission_camera_message": "To scan the barcode, we need permission to use your phone's camera",
   "permission_mic_title": "Permission to use audio recording",
