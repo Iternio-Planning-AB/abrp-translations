@@ -1781,7 +1781,7 @@
   "premium_new_close_button": "Zacznij korzystać z Premium",
   "change_email_failed_email_used": "Adres e-mail jest już używany",
   "historical_data_shared": "Udostępniono dane historyczne",
-  "charger_status_unknown_stalls_count_one": "status nieznany • {{count}} stoisko",
+  "charger_status_unknown_stalls_count_one": "status nieznany • {{count}} stanowisko",
   "charger_status_unknown_stalls_count_other": "status nieznany • {{count}} stanowiska",
   "start_from_here": "Zacznij stąd",
   "delete_account_confirmation": "Czy jesteś pewien, że chcesz usunąć?",
