@@ -1793,5 +1793,18 @@
   "delete_account_chargebee": "При удалении вашей учетной записи все связанные с ней данные в Chargebee будут удалены навсегда.",
   "details_title_charger_on_route": "Зарядная станция на маршруте",
   "save_destination": "Сохранить пункт назначения",
-  "route_charger_title_index_total": "Остановка {{current}} из {{total}}"
+  "route_charger_title_index_total": "Остановка {{current}} из {{total}}",
+  "any_speed": "Any speed",
+  "calib_confidence": "Confidence",
+  "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
+  "premium_trial_disclaimer": "Trial can only be started from web",
+  "no_amenity_to_display": "No amenities for this charger",
+  "leave_edit_mode": "Leave edit",
+  "amenity_search_cleared": "Refreshed Amenity Search",
+  "amenity_search_cleared_description": "We could not find any suitable charger with the requested amenities to add to the plan.",
+  "issues_with_x_tlm_connection": "Issues found with your {{tlm_type}} connection",
+  "tlm_issues": "Connection issues",
+  "arrive": "Arrive",
+  "battery": "Battery",
+  "current_route": "Current Route"
 }
