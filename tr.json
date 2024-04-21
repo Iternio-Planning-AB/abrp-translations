@@ -1793,4 +1793,17 @@
   "route_charger_title_index_total": "{{current}} / {{total}}'ı durdur",
   "premium_trial_disclaimer": "Deneme sürümü sadece WEB'den başlatılabilir",
   "leave_edit_mode": "Düzenlemeden çık"
+  "any_speed": "Herhangi bir hız",
+  "calib_confidence": "Güven",
+  "calib_ref_cons_confidence_soc_only_description": "Kalibrasyonumuz, farklı koşullarda araçtan ölçtüğümüz değerlere dayanır. Güven düzeyinin %100'e ne kadar yakın olması, tüketim konusunda o kadar emin olduğumuzu gösterir. Aracınız sadece SoC (Şarj Durumu) ve güç bildirir, bu da kalibrasyonun diğer durumlara göre daha az hassas olacağı anlamına gelir.",
+  "premium_trial_disclaimer": "Deneme yalnızca web üzerinden başlatılabilir",
+  "no_amenity_to_display": "Bu şarj ünitesi için herhangi bir imkan bulunamadı",
+  "leave_edit_mode": "Düzenleme modundan çık",
+  "amenity_search_cleared": "İmkan Araması Yenilendi",
+  "amenity_search_cleared_description": "İstekli olduğunuz imkanlara sahip uygun bir şarj ünitesi bulamadık ve plana ekleyemedik.",
+  "issues_with_x_tlm_connection": "{{tlm_type}} bağlantınızda sorunlar bulundu",
+  "tlm_issues": "Bağlantı sorunları",
+  "arrive": "Varış",
+  "battery": "Batarya",
+  "current_route": "Mevcut Rota"
 }

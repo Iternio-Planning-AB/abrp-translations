@@ -39,7 +39,7 @@
   "settings": "Asetukset",
   "start_driving": "Aloita ajaminen",
   "charger": {
-    "zero": "Ei maksuja",
+    "zero": "Ei latauksia",
     "one": "Yksi lataus",
     "other": "{{count}} latausta"
   },
@@ -346,7 +346,7 @@
   "network_preferences": "Verkkoasetukset",
   "network_preferences_description": "Vältä, suosittele tai käytä yksinomaan joitain verkkoja.",
   "no_network_preferences": "Sinulla ei ole verkkoasetuksia. Muuta tätä käyttämällä hakua tai napsauttamalla laturia kartalla tai suunnitelmassa.",
-  "allow_this_charger": "Salli tämä latausasemai",
+  "allow_this_charger": "Salli tämä latausasema",
   "offline": "Offline",
   "charger_url": "Laturin verkkosivusto",
   "charts": "Kaaviot",
@@ -903,7 +903,7 @@
   "in_use": "Käytössä",
   "operational": "Toiminnassa",
   "broken": "Epäkunnossa",
-  "delete_account_premium": "If you have already cancelled your Premium subsciption, you may delete your ABRP account.",
+  "delete_account_premium": "Jos olet jo peruuttanut Premium-tilauksesi, voit poistaa ABRP-tilisi.",
   "month_names": [
     "tammikuuta",
     "helmikuuta",
@@ -951,7 +951,7 @@
     "la"
   ],
   "today": "Tänään",
-  "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
+  "scan_abrp_qrcode_to_complete_login": "Viimeistele kirjautuminen skannaamalla ABRP QR-koodi",
   "permission_camera_title": "Permission to use camera",
   "permission_camera_message": "To scan the barcode, we need permission to use your phone's camera",
   "permission_mic_title": "Permission to use audio recording",
@@ -1794,6 +1794,17 @@
   "details_title_charger_on_route": "Charger on route",
   "save_destination": "Save destination",
   "route_charger_title_index_total": "Stop {{current}} of {{total}}",
+  "any_speed": "Any speed",
+  "calib_confidence": "Confidence",
+  "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
   "premium_trial_disclaimer": "Trial can only be started from web",
-  "leave_edit_mode": "Leave edit"
+  "no_amenity_to_display": "No amenities for this charger",
+  "leave_edit_mode": "Leave edit",
+  "amenity_search_cleared": "Refreshed Amenity Search",
+  "amenity_search_cleared_description": "We could not find any suitable charger with the requested amenities to add to the plan.",
+  "issues_with_x_tlm_connection": "Issues found with your {{tlm_type}} connection",
+  "tlm_issues": "Connection issues",
+  "arrive": "Arrive",
+  "battery": "Battery",
+  "current_route": "Current Route"
 }
