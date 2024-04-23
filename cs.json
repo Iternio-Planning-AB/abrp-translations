@@ -1790,7 +1790,7 @@
   "delete_account_chargebee": "Smazáním účtu budou všechna související data v Chargebee trvale smazána.",
   "details_title_charger_on_route": "Nabíječka na trase",
   "save_destination": "Uložit cíl",
-  "route_charger_title_index_total": "Zastávka {{current}} z {{total}}",
+  "route_charger_title_index_total": "Charging stop {{current}} of {{total}}",
   "any_speed": "Jakákoli rychlost",
   "calib_confidence": "Důvěryhodnost",
   "calib_ref_cons_confidence_soc_only_description": "Kalibrace je založena na tom, co naměříme z auta při jízdě za různých podmínek. Čím blíže jsou čísla důvěryhodnosti ke 100 %, tím jsme si spotřebou jistější. Vaše vozidlo hlásí jen SoC a žádný výkon, což znamená, že kalibrace bude méně přesná než v opačném případě.",
@@ -1803,5 +1803,9 @@
   "tlm_issues": "Problémy s připojením",
   "arrive": "Příjezd",
   "battery": "Baterie",
-  "current_route": "Aktuální trasa"
+  "current_route": "Aktuální trasa",
+  "driving_stops": "Stop",
+  "notiffication_settings": "Notification settings",
+  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
+  "notification_type_charging": "Charging completion"
 }

@@ -1793,7 +1793,7 @@
   "delete_account_confirmation": "Er du sikker?",
   "details_title_charger_on_route": "Oplader på ruten",
   "save_destination": "Gem destination",
-  "route_charger_title_index_total": "Stop {{current}} af {{total}}",
+  "route_charger_title_index_total": "Charging stop {{current}} of {{total}}",
   "any_speed": "Enhver hastighed",
   "calib_confidence": "Tillid",
   "calib_ref_cons_confidence_soc_only_description": "Kalibreringen er baseret på, hvad vi måler fra bilen, mens vi kører under forskellige forhold. Jo tættere konfidenstallet er på 100 %, jo mere sikre er vi på forbruget. Dit køretøj rapporterer kun SoC og ingen strøm, hvilket betyder, at kalibreringen bliver mindre præcis end ellers.",
@@ -1806,5 +1806,9 @@
   "tlm_issues": "Forbindelsesproblemer",
   "arrive": "Ankomme",
   "battery": "Batteri",
-  "current_route": "Aktuelle rute"
+  "current_route": "Aktuelle rute",
+  "driving_stops": "Stop",
+  "notiffication_settings": "Notification settings",
+  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
+  "notification_type_charging": "Charging completion"
 }

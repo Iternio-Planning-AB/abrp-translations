@@ -1785,11 +1785,11 @@
   "delete_account_chargebee": "通过删除您的帐户, ChargeBee中的所有相关数据将被永久删除。",
   "delete_account_confirmation": "你确定吗？",
   "details_title_charger_on_route": "路线上的充电器",
-  "route_charger_title_index_total": "停止{{total}}的{{current}}",
+  "route_charger_title_index_total": "Charging stop {{current}} of {{total}}",
   "any_speed": "Any speed",
   "calib_confidence": "Confidence",
   "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
-  "premium_trial_disclaimer": "Trial can only be started from web",
+  "premium_trial_disclaimer": "Note: Trial can only be started from web",
   "no_amenity_to_display": "No amenities for this charger",
   "leave_edit_mode": "Leave edit",
   "amenity_search_cleared": "Refreshed Amenity Search",
@@ -1798,5 +1798,9 @@
   "tlm_issues": "Connection issues",
   "arrive": "Arrive",
   "battery": "Battery",
-  "current_route": "Current Route"
+  "current_route": "Current Route",
+  "driving_stops": "Stop",
+  "notiffication_settings": "Notification settings",
+  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
+  "notification_type_charging": "Charging completion"
 }

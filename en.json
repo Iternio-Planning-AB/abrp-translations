@@ -757,7 +757,12 @@
   "direction_turn_ref_destination": "Turn {{direction}} to {{ref}} towards {{destination}}",
   "direction_turn_destination": "Turn {{direction}} towards {{destination}}",
   "direction_turn_ref": "Turn {{direction}} to {{ref}}",
-  "direction_count_x": ["first", "second", "third", "fourth"],
+  "direction_count_x": [
+    "first",
+    "second",
+    "third",
+    "fourth"
+  ],
   "direction_count_1": "first",
   "direction_count_2": "second",
   "direction_count_3": "third",
@@ -1020,8 +1025,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-  "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
+  "day_names": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "day_names_short": [
+    "Sun.",
+    "Mon.",
+    "Tue.",
+    "Wed.",
+    "Thu.",
+    "Fri.",
+    "Sat."
+  ],
   "today": "Today",
   "login_remote_app": "Login remote app",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
@@ -1476,7 +1497,7 @@
   "premium_option_payment_desription": "then {{price}} every {{duration}}. Cancel any time",
   "premium_skip": "Skip for now",
   "premium_start_trial": "Start free 14-day trial",
-  "premium_trial_disclaimer": "Trial can only be started from web",
+  "premium_trial_disclaimer": "Note: Trial can only be started from web",
   "premium_select_plan": "Select your plan",
   "premium_monthly": "Monthly",
   "premium_yearly": "Annually",
@@ -1773,7 +1794,7 @@
   "delete_account_chargebee": "By deleting your account, all associated data in Chargebee will be permanently removed.",
   "delete_account_confirmation": "Are you sure?",
   "details_title_charger_on_route": "Charger on route",
-  "route_charger_title_index_total": "Stop {{current}} of {{total}}",
+  "route_charger_title_index_total": "Charging stop {{current}} of {{total}}",
   "no_amenity_to_display": "No amenities for this charger",
   "leave_edit_mode": "Leave edit",
   "amenity_search_cleared": "Refreshed Amenity Search",
@@ -1782,5 +1803,9 @@
   "tlm_issues": "Connection issues",
   "arrive": "Arrive",
   "battery": "Battery",
-  "current_route": "Current Route"
+  "current_route": "Current Route",
+  "driving_stops": "Stop",
+  "notiffication_settings": "Notification settings",
+  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
+  "notification_type_charging": "Charging completion"
 }

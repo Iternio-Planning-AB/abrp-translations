@@ -1789,8 +1789,8 @@
   "reference_consumption_short_at": "Consum de ref. {{at}}",
   "delete_account_chargebee": "Prin ștergerea contului, toate datele asociate din Chargebee vor fi eliminate definitiv.",
   "details_title_charger_on_route": "Încărcător pe traseu",
-  "save_destination": "Salvează destinația",
-  "route_charger_title_index_total": "Oprește {{current}} din {{total}}",
+  "save_destination": "Save destination",
+  "route_charger_title_index_total": "Charging stop {{current}} of {{total}}",
   "any_speed": "Orice viteză",
   "calib_confidence": "Încredere",
   "calib_ref_cons_confidence_soc_only_description": "Calibrarea se bazează pe ceea ce măsurăm din mașină în timpul conducerii în diferite condiții. Cu cât cifra încrederii este mai aproape de 100%, cu atât suntem mai siguri de consum. Vehiculul dumneavoastră raportează doar SoC și nicio putere, ceea ce înseamnă că calibrarea va fi mai puțin precisă.",
@@ -1803,5 +1803,9 @@
   "tlm_issues": "Probleme de conexiune",
   "arrive": "Sosire",
   "battery": "Baterie",
-  "current_route": "Ruta curentă"
+  "current_route": "Ruta curentă",
+  "driving_stops": "Stop",
+  "notiffication_settings": "Notification settings",
+  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
+  "notification_type_charging": "Charging completion"
 }

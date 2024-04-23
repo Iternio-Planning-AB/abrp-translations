@@ -1792,8 +1792,8 @@
   "reference_consumption_short_at": "Ref.-verbrauch {{at}}",
   "delete_account_chargebee": "Wenn du dein Konto löschst, werden alle damit verbundenen Daten in Chargebee dauerhaft entfernt.",
   "details_title_charger_on_route": "Ladestation auf der Route",
-  "route_charger_title_index_total": "Halt bei {{current}} von {{total}}",
-  "save_destination": "Ziel speichern",
+  "route_charger_title_index_total": "Charging stop {{current}} of {{total}}",
+  "save_destination": "Save destination",
   "any_speed": "Beliebige Geschwindigkeit",
   "calib_confidence": "Sicherheit",
   "calib_ref_cons_confidence_soc_only_description": "Die Kalibrierung basiert auf dem, was wir beim Fahren unter verschiedenen Bedingungen messen. Je näher die Konfidenzzahl an 100% liegt, desto sicherer sind wir uns des Verbrauchs. Dein Fahrzeug meldet nur SoC und keine Leistung, was bedeutet, dass die Kalibrierung weniger genau sein wird als sonst.",
@@ -1806,5 +1806,9 @@
   "tlm_issues": "Verbindungsprobleme",
   "arrive": "Ankunft",
   "battery": "Batterie",
-  "current_route": "Aktuelle Route"
+  "current_route": "Aktuelle Route",
+  "driving_stops": "Stop",
+  "notiffication_settings": "Notification settings",
+  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
+  "notification_type_charging": "Charging completion"
 }

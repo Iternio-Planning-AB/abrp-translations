@@ -1789,8 +1789,8 @@
   "reference_consumption_short_at": "Consommation réf. {{at}}",
   "delete_account_chargebee": "En supprimant votre compte, toutes les données associées dans Chargebee seront définitivement supprimées.",
   "details_title_charger_on_route": "Chargeur sur route",
-  "save_destination": "Enregistrer la destination",
-  "route_charger_title_index_total": "Arrêt {{current}} sur {{total}}",
+  "save_destination": "Save destination",
+  "route_charger_title_index_total": "Charging stop {{current}} of {{total}}",
   "any_speed": "N'importe quelle vitesse",
   "calib_confidence": "Confiance",
   "calib_ref_cons_confidence_soc_only_description": "L'étalonnage est basé sur ce que nous mesurons sur le véhicule lors de la conduite dans différentes conditions. Plus l'indice de confiance est proche de 100 %, plus nous sommes certains de la consommation. Votre véhicule ne signale que le SoC et aucune puissance, ce qui signifie que l'étalonnage sera moins précis qu'autrement.",
@@ -1803,5 +1803,9 @@
   "tlm_issues": "Problèmes de connexion",
   "arrive": "Arrivée",
   "battery": "Batterie",
-  "current_route": "Itinéraire actuel"
+  "current_route": "Itinéraire actuel",
+  "driving_stops": "Stop",
+  "notiffication_settings": "Notification settings",
+  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
+  "notification_type_charging": "Charging completion"
 }
