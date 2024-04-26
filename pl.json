@@ -1440,7 +1440,7 @@
   "driving_mode_next_step": "Następny krok",
   "driving_mode_actions": "Działania",
   "driving_mode_plan_steps": "Zaplanuj kroki",
-  "driving_mode_charging_next_leg": "Następna noga",
+  "driving_mode_charging_next_leg": "Następny krok",
   "driving_mode_next_waypoint": "Następny punkt trasy",
   "driving_mode_final_waypoint": "Adres docelowy",
   "charging_time_left": "Pozostały czas",
@@ -1808,7 +1808,7 @@
   "battery": "Bateria",
   "current_route": "Aktualna trasa",
   "driving_stops": "Stop",
-  "notiffication_settings": "Notification settings",
-  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
-  "notification_type_charging": "Charging completion"
+  "notiffication_settings": "Ustawienia powiadomień",
+  "notification_settings_description": "Dostosuj powiadomienia otrzymywane z aplikacji ABRP.",
+  "notification_type_charging": "Zakończenie ładowania"
 }
