@@ -1804,8 +1804,8 @@
   "arrive": "Příjezd",
   "battery": "Baterie",
   "current_route": "Aktuální trasa",
-  "driving_stops": "Stop",
-  "notiffication_settings": "Notification settings",
-  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
-  "notification_type_charging": "Charging completion"
+  "driving_stops": "Zastávka",
+  "notiffication_settings": "Nastavení oznámení",
+  "notification_settings_description": "Upravuje oznámení přijímaná z aplikace ABRP.",
+  "notification_type_charging": "Dokončení nabíjení"
 }
