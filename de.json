@@ -1808,7 +1808,7 @@
   "battery": "Batterie",
   "current_route": "Aktuelle Route",
   "driving_stops": "Stop",
-  "notiffication_settings": "Notification settings",
-  "notification_settings_description": "Customise the notifications you receive from ABRP app.",
-  "notification_type_charging": "Charging completion"
+  "notiffication_settings": "Benachrichtigungseinstellungen",
+  "notification_settings_description": "Passe die Benachrichtigungen an, die du von der ABRP-App erhältst.",
+  "notification_type_charging": "Beendigung der Aufladung"
 }
