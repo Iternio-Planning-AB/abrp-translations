@@ -1813,7 +1813,7 @@
   "notification_type_charging": "Carga completada",
   "charger_status_operational": "operativo",
   "charger_accessibility_under_construction": "O cargador está en construción e non será empregado na planificación automática",
-  "charger_accessibility_is_closed": "TODO @mattias O cargador está pechado e non será empregado na planificación automática",
+  "charger_accessibility_is_closed": "O cargador está pechado e non será empregado na planificación automática",
   "charger_accessibility_none_public": "O cargador non está dispoñíbel para o público e non será empregado na planificación automática",
   "sort_nearby_chargers_relevance": "Relevancia",
   "sort_nearby_chargers_distance": "Distancia",
