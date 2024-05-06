@@ -1813,7 +1813,7 @@
   "notification_type_charging": "Fuldførelse af opladning",
   "charger_status_operational": "operationelle",
   "charger_accessibility_under_construction": "Opladeren er under opbygning og bruges ikke i automatisk planlægning",
-  "charger_accessibility_is_closed": "TODO @mattias Charger er lukket og bruges ikke i automatisk planlægning",
+  "charger_accessibility_is_closed": "Charger er lukket og bruges ikke i automatisk planlægning",
   "charger_accessibility_none_public": "Oplader er ikke tilgængelig for offentligheden og bruges ikke i automatisk planlægning",
   "sort_nearby_chargers_relevance": "Relevans",
   "sort_nearby_chargers_distance": "Afstand",
