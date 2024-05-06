@@ -1810,7 +1810,7 @@
   "notification_type_charging": "Finalizarea încărcării",
   "charger_status_operational": "operațional",
   "charger_accessibility_under_construction": "Încărcătorul este în construcție și nu este utilizat în planificarea automată",
-  "charger_accessibility_is_closed": "Încărcătorul TODO @mattias este închis și nu este utilizat în planificarea automată",
+  "charger_accessibility_is_closed": "Încărcătorul este închis și nu este utilizat în planificarea automată",
   "charger_accessibility_none_public": "Încărcătorul nu este disponibil publicului și nu este utilizat în planificarea automată",
   "sort_nearby_chargers_relevance": "Relevanţă",
   "sort_nearby_chargers_distance": "Distanţă",
