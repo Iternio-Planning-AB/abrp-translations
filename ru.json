@@ -1832,16 +1832,16 @@
   "charger_filter_trailer": "Удобно для трейлеров",
   "charger_filter_open_restrooms": "Туалеты",
   "charger_filter_playground": "Детская площадка",
-  "live_data_privacy_notice": "By linking your vehicle you accept our <url>Privacy Policy</url>.",
-  "cookies_message_privacy": "This website uses Cookies to improve your browsing experience and analyze site traffic. When cookies are used, very small text files are stored on your device. By clicking 'Accept' you consent to our use of Cookies. If you click on ‘Reject’, we will only use strictly necessary Cookies. By clicking ‘Customize’ you will be able to manage your Cookie preferences. <url>See our Privacy Notice for more information</url>.",
-  "entry_screen_title": "Welcome to A Better Routeplanner",
-  "entry_screen_description": "Optimize your EV journey with A Better Routeplanner! Find efficient routes, manage charging stops, and navigate live for stress-free travel.",
-  "entry_screen_login_button_text": "Log in / Sign up",
-  "entry_screen_option_delimiter": "or",
-  "entry_screen_explore_button_text": "Explore ABRP without an account",
-  "logout_success_message": "You were logged out, bye!",
-  "login_with": "{{provider}} sign-in",
-  "grant_permissions": "Grant permissions",
-  "check_location_service": "Location service are not available, please go to system settings and enable location services.",
-  "open_settings": "Open settings"
+  "live_data_privacy_notice": " Присоединив свой автомобиль, вы принимаете нашу <url>Политику конфиденциальности</url>.",
+  "cookies_message_privacy": "Этот сайт использует файлы Cookies для улучшения качества просмотра и анализа посещаемости сайта. При использовании cookies на вашем устройстве сохраняются очень маленькие текстовые файлы. Нажимая "Принять", вы соглашаетесь с использованием нами файлов Cookies. Если вы нажмете "Отклонить", мы будем использовать только строго необходимые Cookies. Нажав "Настроить", вы сможете управлять своими предпочтениями в отношении Cookies. <url>Для получения дополнительной информации ознакомьтесь с нашим Уведомлением о конфиденциальности</url>.",
+  "entry_screen_title": "Добро пожаловать в A Better Routeplanner",
+  "entry_screen_description": "Оптимизируйте свое путешествие на электромобиле с помощью A Better Routeplanner! Находите эффективные маршруты, управляйте остановками для зарядки и пользуйтесь навигацией в реальном времени, чтобы путешествовать без стресса."
+  "entry_screen_login_button_text": "Войти / Зарегистрироваться",
+  "entry_screen_option_delimiter": "или",
+  "entry_screen_explore_button_text": "Исследуйте ABRP без учетной записи",
+  "logout_success_message": "Вы вышли из системы, до свидания!",
+  "login_with": "Войти с {{provider}}",
+  "grant_permissions": "Предоставить разрешения",
+  "check_location_service": "Служба определения местоположения недоступна, перейдите в настройки системы и включите службу определения местоположения.",
+  "open_settings": "Открыть настройки"
 }
