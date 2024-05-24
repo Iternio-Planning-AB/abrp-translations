@@ -1819,5 +1819,6 @@
   "login_with": "{{provider}} sign-in",
   "grant_permissions": "Grant permissions",
   "check_location_service": "Location service are not available, please go to system settings and enable location services.",
-  "open_settings": "Open settings"
+  "open_settings": "Open settings",
+  "charging_adapter": "{{charger_type}} adapter"
 }
