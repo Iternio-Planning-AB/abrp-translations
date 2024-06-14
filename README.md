@@ -14,3 +14,7 @@ The translations themselves are published under the open Apache license, however
 Thank you so much for helping out!
 
 Bo and the Iternio Team
+
+---
+
+If you'd like to be part of our beta testers group, here's a [Apple Testflight invite URL](https://testflight.apple.com/join/uX9LuvcQ).
