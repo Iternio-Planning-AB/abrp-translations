@@ -754,7 +754,12 @@
   "direction_turn_ref_destination": "Turn {{direction}} to {{ref}} towards {{destination}}",
   "direction_turn_destination": "Turn {{direction}} towards {{destination}}",
   "direction_turn_ref": "Turn {{direction}} to {{ref}}",
-  "direction_count_x": ["first", "second", "third", "fourth"],
+  "direction_count_x": [
+    "first",
+    "second",
+    "third",
+    "fourth"
+  ],
   "direction_count_1": "first",
   "direction_count_2": "second",
   "direction_count_3": "third",
@@ -1017,8 +1022,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-  "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
+  "day_names": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "day_names_short": [
+    "Sun.",
+    "Mon.",
+    "Tue.",
+    "Wed.",
+    "Thu.",
+    "Fri.",
+    "Sat."
+  ],
   "today": "Today",
   "login_remote_app": "Login remote app",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
@@ -1873,5 +1894,10 @@
   "premium_charger_features_1": "Make plans with trailer or dog friendly chargers.",
   "premium_charger_features_2": "Also use forecasts to avoid the busiest chargers at rush hour.",
   "charge_price": "Charging price",
-  "rivian_eula": "I understand and agree to the <url>Rivian Terms of Use</url>, <url2>Rivian Data Privacy Notice</url2> and <url3>Iternio Data Privacy Notice</url3>"
+  "rivian_eula": "I understand and agree to the <url>Rivian Terms of Use</url>, <url2>Rivian Data Privacy Notice</url2> and <url3>Iternio Data Privacy Notice</url3>",
+  "any_speed": "Any speed",
+  "calib_confidence": "Confidence",
+  "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
+  "premium_trial_disclaimer": "Note: Trial can only be started from web",
+  "charger_status_operational": "operational"
 }
