@@ -1564,7 +1564,7 @@
   "display_theme": "Thema",
   "user_provided_charger_information": "Von Benutzern bereitgestellte Informationen",
   "eventlog_description_fail": "Bitte teste das Hochladen erneut! Wenn es immer noch nicht funktioniert, melde uns das Problem auf unserer Upvoty-Seite.",
-  "charging_speed": "Ladegeschwindigkeit",
+  "charging_speed": "Ladeleistung",
   "saved_destination_is_charger": "Die Ladeinformationen werden dem gespeicherten Ziel automatisch hinzugefügt.",
   "driving_settings_changed": "Einstellungen geändert",
   "driving_settings_changed_description": "Eine Neuplanung ist erforderlich, damit diese Änderungen in deinem aktuellen Plan berücksichtigt werden.",
