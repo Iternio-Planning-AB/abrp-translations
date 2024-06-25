@@ -1833,7 +1833,7 @@
   "notification_settings_description": "Passe die Benachrichtigungen an, die du von der ABRP-App erhältst.",
   "notification_type_charging": "Abschluss des Ladevorgangs",
   "live_data_privacy_notice": "Mit der Verknüpfung deines Fahrzeugs akzeptierst du unsere <url>Datenschutzrichtlinie</url>.",
-  "cookies_message_privacy": "Diese Website verwendet Cookies, um dein Surferlebnis zu verbessern und den Websiteverkehr zu analysieren. Wenn Cookies verwendet werden, werden sehr kleine Textdateien auf deinem Gerät gespeichert. Wenn du auf "Akzeptieren" klickst, stimmst du unserer Verwendung von Cookies zu. Wenn du auf "Ablehnen" klickst, verwenden wir nur die unbedingt notwendigen Cookies. Wenn du auf 'Anpassen' klickst, kannst du deine Cookie-Einstellungen verwalten. <url>Weitere Informationen findest du in unserem Datenschutzhinweis</url>.",
+  "cookies_message_privacy": "Diese Website verwendet Cookies, um dein Surferlebnis zu verbessern und den Websiteverkehr zu analysieren. Wenn Cookies verwendet werden, werden sehr kleine Textdateien auf deinem Gerät gespeichert. Wenn du auf \"Akzeptieren\" klickst, stimmst du unserer Verwendung von Cookies zu. Wenn du auf \"Ablehnen\" klickst, verwenden wir nur die unbedingt notwendigen Cookies. Wenn du auf 'Anpassen' klickst, kannst du deine Cookie-Einstellungen verwalten. <url>Weitere Informationen findest du in unserem Datenschutzhinweis</url>.",
   "charging_score": "Aufladeergebnis",
   "charging_score_provider": "Daten bereitgestellt von Rivian",
   "average_speed": "Durchschnittsgeschwindigkeit",
