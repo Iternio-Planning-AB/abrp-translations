@@ -1835,7 +1835,7 @@
   "entry_screen_login_button_text": "Connexion / Inscription",
   "entry_screen_option_delimiter": "ou",
   "entry_screen_explore_button_text": "Explorez ABRP sans compte",
-  "logout_success_message": ""Vous êtes déconnecté, à bientôt !"",
+  "logout_success_message": "Vous êtes déconnecté, à bientôt !",
   "login_with": "Connexion {{provider}}",
   "grant_permissions": "Accorder les autorisations",
   "check_location_service": "Le service de localisation n'est pas disponible, veuillez accéder aux paramètres système et activer les services de localisation.",
