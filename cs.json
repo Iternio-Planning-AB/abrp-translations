@@ -967,24 +967,8 @@
     "lis",
     "pro"
   ],
-  "day_names": [
-    "neděle",
-    "pondělí",
-    "úterý",
-    "středa",
-    "čtvrtek",
-    "pátek",
-    "sobota"
-  ],
-  "day_names_short": [
-    "Ne",
-    "Po",
-    "Út",
-    "St",
-    "Čt",
-    "Pá",
-    "So"
-  ],
+  "day_names": ["neděle", "pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota"],
+  "day_names_short": ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
   "today": "Dnes",
   "scan_abrp_qrcode_to_complete_login": "Dokončete přihlášení naskenováním QR kódu ABRP.",
   "permission_camera_title": "Oprávnění pro fotoaparát",
@@ -1249,12 +1233,7 @@
   "report_charger_information": "Informace, které potřebujeme, byly zkopírovány do Vaší schránky. Klepněte na 'Hotovo' a budete přesměrováni na Upvoty, kde můžete vytvořit hlášení a vložte zde tuto informaci.",
   "ferry_departure": "Odjezd trajektu",
   "ferry_arrival": "Příjezd trajektu",
-  "direction_count_x": [
-    "první",
-    "druhý",
-    "třetí",
-    "čtvrtý"
-  ],
+  "direction_count_x": ["první", "druhý", "třetí", "čtvrtý"],
   "obdble_unknown_device_failed": "Tomuto zařízení chybí některé základní funkce a proto jej nelze použít pro připojení k OBD.",
   "obdble_unknown_device": "Nepodporované zařízení!",
   "obdble_unknown_device_attempt": "Toto je nepodporované zařízení. Chcete i nadále zkusit připojení?",

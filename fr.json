@@ -932,24 +932,8 @@
     "Nov.",
     "Déc."
   ],
-  "day_names": [
-    "Dimanche",
-    "Lundi",
-    "Mardi",
-    "Mercredi",
-    "Jeudi",
-    "Vendredi",
-    "Samedi"
-  ],
-  "day_names_short": [
-    "Dim.",
-    "Lun.",
-    "Mar.",
-    "Mer.",
-    "Jeu.",
-    "Ven.",
-    "Sam."
-  ],
+  "day_names": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
   "today": "Aujourd'hui",
   "scan_abrp_qrcode_to_complete_login": "Terminez la connexion en scannant le QR-code ABRP",
   "permission_camera_title": "Autorisation d'utiliser la caméra",
@@ -1249,12 +1233,7 @@
   "report_charger_information": "Les informations dont nous avons besoin pour enquêter ont été copiées dans votre presse-papiers. Cliquez sur 'Terminé' et vous serez redirigé vers Upvoty où vous pourrez créer un rapport et coller ces informations",
   "ferry_departure": "Départ du ferry",
   "ferry_arrival": "Arrivée du ferry",
-  "direction_count_x": [
-    "première",
-    "seconde",
-    "troisième",
-    "quatrième"
-  ],
+  "direction_count_x": ["première", "seconde", "troisième", "quatrième"],
   "obdble_unknown_device_failed": "Il manque certaines fonctionnalités essentielles à cet appareil, nous ne pouvons pas l'utiliser pour les connexions OBD.",
   "obdble_unknown_device": "Appareil non pris en charge !",
   "obdble_unknown_device_attempt": "Cet appareil n'est pas pris en charge, voulez-vous toujours essayer de vous connecter ?",

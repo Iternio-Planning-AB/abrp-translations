@@ -1798,7 +1798,7 @@
   "notification_settings_description": "Anpassa aviseringarna du får från ABRP-appen.",
   "notification_type_charging": "Notis när laddning är klar",
   "charger_accessibility_under_construction": "Laddaren är under konstruktion och används inte i automatisk planering",
-  "charger_accessibility_is_closed": "TODO @mattias Charger is closed and is not used in automatic planning",
+  "charger_accessibility_is_closed": "The charger has been closed and is no longer included in automatic planning.",
   "charger_accessibility_none_public": "Laddaren är inte tillgänglig för allmänheten och används inte i automatisk planering",
   "sort_nearby_chargers_relevance": "Relevans",
   "sort_nearby_chargers_distance": "Avstånd",
