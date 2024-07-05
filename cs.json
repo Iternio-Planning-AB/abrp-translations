@@ -1855,7 +1855,7 @@
   "complete_your_profile_live_data_title": "Připojit živá data",
   "complete_your_profile_live_data_description": "Připojí živá data k vozidlu pro získání co nejpřesnějších plánů a zkušeností z jízdy.",
   "complete_your_profile_live_data_button": "Připojit",
-  "complete_your_profile_done_title": "GRatulujeme, Váš profil je kompletní",
+  "complete_your_profile_done_title": "Gratulujeme, Váš profil je kompletní",
   "complete_your_profile_done_description": "Užijte si používání aplikace.",
   "complete_your_profile_done_description_skipped_previous": "V nabídce nastavení vozidla můžete vždy přidat živá data k vozidlu. Užijte si používání aplikace.",
   "complete_your_profile_done_button": "Zavřít",
@@ -1875,7 +1875,7 @@
   "charge_price": "Cena za nabíjení",
   "rivian_eula": "Přijímám <url>Podmínky použití Rivian</url>, <url2>DPN Rivian</url2> a <url3>DPN Iternio</url3>",
   "any_speed": "Jakákoli rychlost",
-  "calib_confidence": "Confidence",
+  "calib_confidence": "Spolehlivost",
   "calib_ref_cons_confidence_soc_only_description": "Kalibrace vychází z toho, co naměříme z vozidla při jízdě za různých podmínek. Čím více se číslo spolehlivosti blíží 100 %, tím větší máme jistotu ohledně spotřeby. Vaše vozidlo hlásí pouze SoC a ne výkon, což znamená, že kalibrace bude méně přesná než v opačném případě.",
   "premium_trial_disclaimer": "Poznámka: Zkušební doba může být spuštěna jen z webu.",
   "charger_status_operational": "funkční"
