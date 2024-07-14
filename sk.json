@@ -1798,7 +1798,7 @@
   "notification_settings_description": "Customise the notifications you receive from ABRP app.",
   "notification_type_charging": "Charging completion",
   "charger_accessibility_under_construction": "The charger is under construction and is not used in automatic planning",
-  "charger_accessibility_is_closed": "TODO @mattias Charger is closed and is not used in automatic planning",
+  "charger_accessibility_is_closed": "The charger has been closed and is no longer included in automatic planning.",
   "charger_accessibility_none_public": "Charger is not available to the public and is not used in automatic planning",
   "sort_nearby_chargers_relevance": "Relevance",
   "sort_nearby_chargers_distance": "Distance",

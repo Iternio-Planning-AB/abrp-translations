@@ -970,24 +970,8 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": [
-    "Domingo",
-    "Luns",
-    "Martes",
-    "Mércores",
-    "Xoves",
-    "Venres",
-    "Sábado"
-  ],
-  "day_names_short": [
-    "Dom.",
-    "Luns",
-    "Mar.",
-    "Mér.",
-    "Xov.",
-    "Ven.",
-    "Sáb."
-  ],
+  "day_names": ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],
+  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
   "today": "hoxe",
   "scan_abrp_qrcode_to_complete_login": "Inicio completo ao escanear o código QR do ABRP",
   "permission_camera_title": "Permiso para empregar a cámara",
@@ -1253,12 +1237,7 @@
   "report_charger_information": "A información que precisamos para investigar foi copiada ao portarretallos. Preme en 'Feito' para ser redirixido ao apartado de votos a favor para crear un informe e pegar a información.",
   "ferry_departure": "Saída do transbordador",
   "ferry_arrival": "Chegada do transbordador",
-  "direction_count_x": [
-    "primeira",
-    "segunda",
-    "terceira",
-    "cuarta"
-  ],
+  "direction_count_x": ["primeira", "segunda", "terceira", "cuarta"],
   "obdble_unknown_device_failed": "Faltan algunhas funcións esenciais neste dispositivo e non é posíbel usalo para conectar co OBD.",
   "obdble_unknown_device": "Dispositivo non soportado!",
   "obdble_unknown_device_attempt": "O dispositivo non está soportado, aínda queres tentar conectar?",
@@ -1805,7 +1784,7 @@
   "current_route": "Ruta actual",
   "driving_stops": "Parada",
   "charger_accessibility_under_construction": "O cargador está en construción e non é empregado na planificación automática",
-  "charger_accessibility_is_closed": "O cargador está pechado e non é empregado na planificación automática",
+  "charger_accessibility_is_closed": "O cargador está pechado e non é empregado na planificación automáticaru.",
   "charger_accessibility_none_public": "O cargador non está dispoñíbel e non é empregado na planificación automática",
   "sort_nearby_chargers_relevance": "Relevancia",
   "sort_nearby_chargers_distance": "Distancia",
@@ -1877,7 +1856,7 @@
   "complete_your_profile_email_description": "Verifica a caixa de entrada do teu correo",
   "complete_your_profile_email_button": "Abrir conta de correo",
   "complete_your_profile_live_data_title": "Conectar datos en tempo real",
-    "complete_your_profile_live_data_description": "Conectar datos en tempo real ao teu vehículo para xerar planificacións e unha condución máis precisa.",
+  "complete_your_profile_live_data_description": "Conectar datos en tempo real ao teu vehículo para xerar planificacións e unha condución máis precisa.",
   "complete_your_profile_live_data_button": "Conectar",
   "complete_your_profile_done_title": "Parabéns, o teu perfil está completo",
   "complete_your_profile_done_description": "Goza da app",
