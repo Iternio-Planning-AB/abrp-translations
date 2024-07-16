@@ -1902,5 +1902,8 @@
   "calib_confidence": "Fiducia",
   "calib_ref_cons_confidence_soc_only_description": "La calibrazione si basa su ciò che misuriamo dall'auto durante la guida in diverse condizioni. Più il numero di fiducia è vicino al 100%, più siamo certi del consumo. Il tuo veicolo riporta solo il SoC e non la potenza, il che significa che la calibrazione sarà meno precisa del solito.",
   "premium_trial_disclaimer": "Nota: la prova può essere avviata solo dal web",
-  "charger_status_operational": "operativo"
+  "charger_status_operational": "operativo",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }

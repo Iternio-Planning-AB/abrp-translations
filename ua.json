@@ -932,8 +932,24 @@
     "лист.",
     "груд."
   ],
-  "day_names": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п'ятниця", "субота"],
-  "day_names_short": ["нд.", "пн.", "вт.", "сер.", "чт.", "пт.", "сб."],
+  "day_names": [
+    "неділя",
+    "понеділок",
+    "вівторок",
+    "середа",
+    "четвер",
+    "п'ятниця",
+    "субота"
+  ],
+  "day_names_short": [
+    "нд.",
+    "пн.",
+    "вт.",
+    "сер.",
+    "чт.",
+    "пт.",
+    "сб."
+  ],
   "today": "сьогодні",
   "scan_abrp_qrcode_to_complete_login": "Завершіть вхід, відсканувавши файл ABRP QR-code",
   "permission_camera_title": "Дозвіл на використання камери",
@@ -1233,7 +1249,12 @@
   "report_charger_information": "Інформацію, яку нам потрібно дослідити, скопійовано у ваш буфер обміну. Натисніть «Готово», і вас буде перенаправлено до Upvoty, де ви зможете створити звіт і вставити ту інформацію",
   "ferry_departure": "Відправлення порома",
   "ferry_arrival": "Прибуття порома",
-  "direction_count_x": ["1", "2", "3", "4"],
+  "direction_count_x": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
   "obdble_unknown_device_failed": "У цьому пристрої відсутні деякі важливі функції, ми не можемо використовувати його для підключення OBD.",
   "obdble_unknown_device": "Непідтримуваний пристрій!",
   "obdble_unknown_device_attempt": "Цей пристрій не підтримується. Спробувати підключитися?",
@@ -1878,5 +1899,8 @@
   "calib_confidence": "Достовірність",
   "calib_ref_cons_confidence_soc_only_description": "Калібрування засноване на даних, отриманих від автомобіля під час руху в різних умовах. Чим ближче показник достовірності до 100 %, тим більше впевненості у витраті. Ваш автомобіль повідомляє тільки SoC, але не потужність, тому калібрування буде менш точним, ніж в інших випадках.",
   "premium_trial_disclaimer": "Примітка: пробну версію можна запустити тільки з веб-сайту",
-  "charger_status_operational": "працює"
+  "charger_status_operational": "працює",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }
