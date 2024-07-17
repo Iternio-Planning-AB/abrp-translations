@@ -1903,7 +1903,7 @@
   "calib_ref_cons_confidence_soc_only_description": "Die Kalibrierung basiert auf dem, was wir beim Fahren unter verschiedenen Bedingungen messen. Je näher die Konfidenzzahl an 100 % liegt, desto sicherer sind wir uns des Verbrauchs. Dein Fahrzeug meldet nur SoC und keine Leistung, was bedeutet, dass die Kalibrierung weniger genau sein wird als sonst.",
   "premium_trial_disclaimer": "Hinweis: Der Test kann nur über das Internet gestartet werden.",
   "charger_status_operational": "betriebsbereit",
-  "enode_connection_error_title": "Connection error",
-  "enode_no_token_title": "No token was generated",
-  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
+  "enode_connection_error_title": "Verbindungsfehler",
+  "enode_no_token_title": "Es wurde kein Token erzeugt",
+  "enode_no_token_description": "Bitte versuche es erneut, und wenn das Problem weiterhin besteht, wende dich bitte an den Support."
 }
