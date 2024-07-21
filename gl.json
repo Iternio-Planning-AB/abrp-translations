@@ -970,8 +970,24 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],
-  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
+  "day_names": [
+    "Domingo",
+    "Luns",
+    "Martes",
+    "Mércores",
+    "Xoves",
+    "Venres",
+    "Sábado"
+  ],
+  "day_names_short": [
+    "Dom.",
+    "Luns",
+    "Mar.",
+    "Mér.",
+    "Xov.",
+    "Ven.",
+    "Sáb."
+  ],
   "today": "hoxe",
   "scan_abrp_qrcode_to_complete_login": "Inicio completo ao escanear o código QR do ABRP",
   "permission_camera_title": "Permiso para empregar a cámara",
@@ -1237,7 +1253,12 @@
   "report_charger_information": "A información que precisamos para investigar foi copiada ao portarretallos. Preme en 'Feito' para ser redirixido ao apartado de votos a favor para crear un informe e pegar a información.",
   "ferry_departure": "Saída do transbordador",
   "ferry_arrival": "Chegada do transbordador",
-  "direction_count_x": ["primeira", "segunda", "terceira", "cuarta"],
+  "direction_count_x": [
+    "primeira",
+    "segunda",
+    "terceira",
+    "cuarta"
+  ],
   "obdble_unknown_device_failed": "Faltan algunhas funcións esenciais neste dispositivo e non é posíbel usalo para conectar co OBD.",
   "obdble_unknown_device": "Dispositivo non soportado!",
   "obdble_unknown_device_attempt": "O dispositivo non está soportado, aínda queres tentar conectar?",
@@ -1881,5 +1902,8 @@
   "calib_confidence": "Confianza",
   "calib_ref_cons_confidence_soc_only_description": "A calibración está baseada nas medicións que realizamos do vehículo mentres conduces en diferentes condicións. Canto máis se achegue o número de confianza ao 100%, máis certos estaremos do consumo real. O vehículo só informa do SoC, o que significa que a calibración será menos precisa ca de outro xeito.",
   "premium_trial_disclaimer": "Aviso: O período de probas só pode iniciarse dende a web",
-  "charger_status_operational": "operativo"
+  "charger_status_operational": "operativo",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }

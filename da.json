@@ -940,8 +940,24 @@
     "nov.",
     "dec."
   ],
-  "day_names": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
-  "day_names_short": ["søn", "man", "tirs", "ons", "tors", "fre", "lør"],
+  "day_names": [
+    "søndag",
+    "mandag",
+    "tirsdag",
+    "onsdag",
+    "torsdag",
+    "fredag",
+    "lørdag"
+  ],
+  "day_names_short": [
+    "søn",
+    "man",
+    "tirs",
+    "ons",
+    "tors",
+    "fre",
+    "lør"
+  ],
   "today": "i dag",
   "scan_abrp_qrcode_to_complete_login": "Færdiggør dit login ved at skanne ABRP QR-koden",
   "permission_camera_title": "Tilladelse til at bruge kamera",
@@ -1238,7 +1254,12 @@
   "report_charger_information": "Oplysninger, vi skal undersøge, er blevet kopieret til din udklipsholder. Klik på 'udført' og bliv omdirigeret til Upvoty, hvor du kan oprette en rapport og indsætte den information",
   "ferry_departure": "Færgeafgang",
   "ferry_arrival": "Færgeankomst",
-  "direction_count_x": ["første", "anden", "tredje", "fjerde"],
+  "direction_count_x": [
+    "første",
+    "anden",
+    "tredje",
+    "fjerde"
+  ],
   "obdble_unknown_device_failed": "Denne enhed mangler nogle væsentlige funktioner, vi kan ikke bruge den til OBD-forbindelser.",
   "obdble_unknown_device": "Ikke-understøttet enhed!",
   "obdble_unknown_device_attempt": "Dette er en ikke-understøttet enhed, vil du stadig prøve at oprette forbindelse?",
@@ -1881,5 +1902,8 @@
   "calib_confidence": "Tillid",
   "calib_ref_cons_confidence_soc_only_description": "Kalibreringen er baseret på, hvad vi måler fra bilen, mens vi kører under forskellige forhold. Jo tættere konfidenstallet er på 100 %, jo mere sikre er vi på forbruget. Dit køretøj rapporterer kun SoC og ingen strøm, hvilket betyder, at kalibreringen bliver mindre præcis end ellers.",
   "premium_trial_disclaimer": "Bemærk: Prøveversionen kan kun startes fra internettet",
-  "charger_status_operational": "operationelle"
+  "charger_status_operational": "operationelle",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }

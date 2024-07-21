@@ -968,8 +968,24 @@
     "Nov.",
     "Dez."
   ],
-  "day_names": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
-  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
+  "day_names": [
+    "Sonntag",
+    "Montag",
+    "Dienstag",
+    "Mittwoch",
+    "Donnerstag",
+    "Freitag",
+    "Samstag"
+  ],
+  "day_names_short": [
+    "So.",
+    "Mo.",
+    "Di.",
+    "Mi.",
+    "Do.",
+    "Fr.",
+    "Sa."
+  ],
   "today": "Heute",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP-QR-Code, um den Anmeldevorgang abzuschließen",
   "permission_camera_title": "Berechtigung Kamera",
@@ -1263,7 +1279,12 @@
   "ferry_arrival": "Ankunft der Fähre",
   "sorry": "Es tut uns leid",
   "unexpected_error": "Ein unerwarteter Fehler ist aufgetreten, bitte versuche es erneut. Für weitere Hilfe wende dich an unseren Support.",
-  "direction_count_x": ["erste", "zweite", "dritte", "vierte"],
+  "direction_count_x": [
+    "erste",
+    "zweite",
+    "dritte",
+    "vierte"
+  ],
   "read_faq": "Lies unsere FAQ",
   "clear_plan": "Plan löschen",
   "xx_minutes_faster": "{{x}} Min. schneller",
@@ -1881,5 +1902,8 @@
   "calib_confidence": "Vertrauen",
   "calib_ref_cons_confidence_soc_only_description": "Die Kalibrierung basiert auf dem, was wir beim Fahren unter verschiedenen Bedingungen messen. Je näher die Konfidenzzahl an 100 % liegt, desto sicherer sind wir uns des Verbrauchs. Dein Fahrzeug meldet nur SoC und keine Leistung, was bedeutet, dass die Kalibrierung weniger genau sein wird als sonst.",
   "premium_trial_disclaimer": "Hinweis: Der Test kann nur über das Internet gestartet werden.",
-  "charger_status_operational": "betriebsbereit"
+  "charger_status_operational": "betriebsbereit",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }

@@ -1902,5 +1902,8 @@
   "calib_confidence": "Confidence",
   "calib_ref_cons_confidence_soc_only_description": "The calibration is based on what we measure from the car while driving at different conditions. The closer the confidence number is to 100% the more certain we are of the consumption. Your vehicle only reports SoC and no power, which means that the calibration will be less precise than otherwise.",
   "premium_trial_disclaimer": "Note: Trial can only be started from web",
-  "charger_status_operational": "operational"
+  "charger_status_operational": "operational",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }

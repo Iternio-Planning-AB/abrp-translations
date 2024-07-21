@@ -55,7 +55,7 @@
   "rides_one": "Одна поездка",
   "rides_other": "{{count}} поездки",
   "charge": "Зарядиться",
-  "drive": "Вперёд",
+  "drive": "Поехали",
   "step_by_step": "Шаг за шагом",
   "my_position": "Моё местоположение",
   "position_on_map": "Местоположение на карте",
@@ -932,8 +932,24 @@
     "нояб.",
     "дек."
   ],
-  "day_names": ["воскресенье", "понедельник", "вторник", "среда", "четверг", "пятница", "суббота"],
-  "day_names_short": ["вс", "пн", "вт", "ср", "чт", "пт", "сб"],
+  "day_names": [
+    "воскресенье",
+    "понедельник",
+    "вторник",
+    "среда",
+    "четверг",
+    "пятница",
+    "суббота"
+  ],
+  "day_names_short": [
+    "вс",
+    "пн",
+    "вт",
+    "ср",
+    "чт",
+    "пт",
+    "сб"
+  ],
   "today": "сегодня",
   "scan_abrp_qrcode_to_complete_login": "Завершите вход сканированием ABRP QR-кода",
   "permission_camera_title": "Разрешение использовать камеру",
@@ -1238,7 +1254,12 @@
   "report_charger_information": "Информация, необходимая для расследования, была скопирована в ваш буфер обмена. Нажмите 'Готово' и будете перенаправлены в Upvoty, где вы сможете создать отчет и вставить в него эту информацию.",
   "ferry_departure": "Отправление парома",
   "ferry_arrival": "Прибытие парома",
-  "direction_count_x": ["1", "2", "3", "4"],
+  "direction_count_x": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
   "obdble_unknown_device_failed": "Этому устройству не хватает некоторых важных функций, мы не можем использовать его для OBD соединений.",
   "obdble_unknown_device": "Неподдерживаемое устройство!",
   "obdble_unknown_device_attempt": "Это неподдерживаемое устройство, вы все еще хотите попробовать подключиться?",
@@ -1719,10 +1740,10 @@
   "main_action_plan_canceled": "План отменен",
   "action_prefer": "Предпочитать",
   "action_avoid": "Избегать",
-  "avoid_x_network": "Избегать сеть {{сеть}}",
-  "exclude_x_network": "Исключать сеть {{сеть}}",
-  "prefer_x_network": "Предпочитать сеть {{сеть}}",
-  "super_prefer_x_network": "Нравится и предпочитаю сеть {{сеть}}",
+  "avoid_x_network": "Избегать сеть {{network}}",
+  "exclude_x_network": "Исключать сеть {{network}}",
+  "prefer_x_network": "Предпочитать сеть {{network}}",
+  "super_prefer_x_network": "Нравится и предпочитаю сеть {{network}}",
   "charger_stalls": "колонки",
   "details_title_charger_images": "Изображения зарядной станции",
   "add_charger_image": "Добавить фотографию зарядной станции",
@@ -1881,5 +1902,8 @@
   "calib_confidence": "Достоверность",
   "calib_ref_cons_confidence_soc_only_description": "Калибровка основана на данных, полученных от автомобиля во время движения в различных условиях. Чем ближе показатель достоверности к 100 %, тем больше уверенности в расходе. Ваш автомобиль сообщает только SoC, но не мощность, поэтому калибровка будет менее точной, чем в иных случаях.",
   "premium_trial_disclaimer": "Примечание: пробную версию можно запустить только с веб-сайта",
-  "charger_status_operational": "работает"
+  "charger_status_operational": "работает",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }

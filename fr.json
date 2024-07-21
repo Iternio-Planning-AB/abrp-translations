@@ -932,8 +932,24 @@
     "Nov.",
     "Déc."
   ],
-  "day_names": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
-  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
+  "day_names": [
+    "Dimanche",
+    "Lundi",
+    "Mardi",
+    "Mercredi",
+    "Jeudi",
+    "Vendredi",
+    "Samedi"
+  ],
+  "day_names_short": [
+    "Dim.",
+    "Lun.",
+    "Mar.",
+    "Mer.",
+    "Jeu.",
+    "Ven.",
+    "Sam."
+  ],
   "today": "Aujourd'hui",
   "scan_abrp_qrcode_to_complete_login": "Terminez la connexion en scannant le QR-code ABRP",
   "permission_camera_title": "Autorisation d'utiliser la caméra",
@@ -1233,7 +1249,12 @@
   "report_charger_information": "Les informations dont nous avons besoin pour enquêter ont été copiées dans votre presse-papiers. Cliquez sur 'Terminé' et vous serez redirigé vers Upvoty où vous pourrez créer un rapport et coller ces informations",
   "ferry_departure": "Départ du ferry",
   "ferry_arrival": "Arrivée du ferry",
-  "direction_count_x": ["première", "seconde", "troisième", "quatrième"],
+  "direction_count_x": [
+    "première",
+    "seconde",
+    "troisième",
+    "quatrième"
+  ],
   "obdble_unknown_device_failed": "Il manque certaines fonctionnalités essentielles à cet appareil, nous ne pouvons pas l'utiliser pour les connexions OBD.",
   "obdble_unknown_device": "Appareil non pris en charge !",
   "obdble_unknown_device_attempt": "Cet appareil n'est pas pris en charge, voulez-vous toujours essayer de vous connecter ?",
@@ -1878,5 +1899,8 @@
   "calib_confidence": "Confiance",
   "calib_ref_cons_confidence_soc_only_description": "L'étalonnage est basé sur ce que nous mesurons sur le véhicule lors de la conduite dans différentes conditions. Plus l'indice de confiance est proche de 100 %, plus nous sommes certains de la consommation. Votre véhicule ne signale que le SoC et aucune puissance, ce qui signifie que l'étalonnage sera moins précis qu'autrement.",
   "premium_trial_disclaimer": "Remarque : la version d'essai ne peut être démarrée qu'à partir du Web",
-  "charger_status_operational": "opérationnel"
+  "charger_status_operational": "opérationnel",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }

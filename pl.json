@@ -1902,5 +1902,8 @@
   "calib_confidence": "Zaufanie",
   "calib_ref_cons_confidence_soc_only_description": "Kalibracja opiera się na tym, co zmierzyliśmy z samochodu podczas jazdy w różnych warunkach. Im stopień ufności jest bliższy 100%, tym większa jest pewność zużycia energii. Twój pojazd zgłasza tylko SoC i brak zasilania, co oznacza, że ​​kalibracja będzie mniej precyzyjna niż w innym przypadku.",
   "premium_trial_disclaimer": "Uwaga: wersję próbną można rozpocząć wyłącznie z poziomu Internetu",
-  "charger_status_operational": "sprawna"
+  "charger_status_operational": "sprawna",
+  "enode_connection_error_title": "Connection error",
+  "enode_no_token_title": "No token was generated",
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
 }
