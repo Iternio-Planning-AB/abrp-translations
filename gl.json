@@ -1903,7 +1903,7 @@
   "calib_ref_cons_confidence_soc_only_description": "A calibración está baseada nas medicións que realizamos do vehículo mentres conduces en diferentes condicións. Canto máis se achegue o número de confianza ao 100%, máis certos estaremos do consumo real. O vehículo só informa do SoC, o que significa que a calibración será menos precisa ca de outro xeito.",
   "premium_trial_disclaimer": "Aviso: O período de probas só pode iniciarse dende a web",
   "charger_status_operational": "operativo",
-  "enode_connection_error_title": "Connection error",
-  "enode_no_token_title": "No token was generated",
-  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
+  "enode_connection_error_title": "Erro na conexión",
+  "enode_no_token_title": "token non xerado",
+  "enode_no_token_description": "Por favor, téntao de novo e se o problema persiste, contacta co soporte."
 }
