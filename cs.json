@@ -1902,5 +1902,7 @@
   "charger_status_operational": "funkční",
   "enode_connection_error_title": "Chyba připojení",
   "enode_no_token_title": "Nebyl vygenerován žádný token",
-  "enode_no_token_description": "Zkuste to znovu a pokud problém přetrvává, kontaktujte podporu."
+  "enode_no_token_description": "Zkuste to znovu a pokud problém přetrvává, kontaktujte podporu.",
+  "upload_photos": "Upload photos",
+  "take_new_photos": "Take new photos"
 }

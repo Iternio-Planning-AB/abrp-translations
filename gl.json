@@ -1905,5 +1905,7 @@
   "charger_status_operational": "operativo",
   "enode_connection_error_title": "Erro na conexión",
   "enode_no_token_title": "token non xerado",
-  "enode_no_token_description": "Por favor, téntao de novo e se o problema persiste, contacta co soporte."
+  "enode_no_token_description": "Por favor, téntao de novo e se o problema persiste, contacta co soporte.",
+  "upload_photos": "Upload photos",
+  "take_new_photos": "Take new photos"
 }

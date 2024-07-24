@@ -1905,5 +1905,7 @@
   "charger_status_operational": "operational",
   "enode_connection_error_title": "Connection error",
   "enode_no_token_title": "No token was generated",
-  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
+  "enode_no_token_description": "Please try again and if the issue persists, please contact support.",
+  "upload_photos": "Upload photos",
+  "take_new_photos": "Take new photos"
 }

@@ -1902,5 +1902,7 @@
   "charger_status_operational": "opérationnel",
   "enode_connection_error_title": "Erreur de connexion",
   "enode_no_token_title": "Aucun jeton n'a été généré",
-  "enode_no_token_description": "Veuillez réessayer et si le problème persiste, veuillez contacter l'assistance."
+  "enode_no_token_description": "Veuillez réessayer et si le problème persiste, veuillez contacter l'assistance.",
+  "upload_photos": "Upload photos",
+  "take_new_photos": "Take new photos"
 }
