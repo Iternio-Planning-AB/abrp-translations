@@ -1900,7 +1900,7 @@
   "calib_ref_cons_confidence_soc_only_description": "Kalibrace vychází z toho, co naměříme z vozidla při jízdě za různých podmínek. Čím více se číslo spolehlivosti blíží 100 %, tím větší máme jistotu ohledně spotřeby. Vaše vozidlo hlásí pouze SoC a ne výkon, což znamená, že kalibrace bude méně přesná než v opačném případě.",
   "premium_trial_disclaimer": "Poznámka: Zkušební doba může být spuštěna jen z webu.",
   "charger_status_operational": "funkční",
-  "enode_connection_error_title": "Connection error",
-  "enode_no_token_title": "No token was generated",
-  "enode_no_token_description": "Please try again and if the issue persists, please contact support."
+  "enode_connection_error_title": "Chyba připojení",
+  "enode_no_token_title": "Nebyl vygenerován žádný token",
+  "enode_no_token_description": "Zkuste to znovu a pokud problém přetrvává, kontaktujte podporu."
 }
