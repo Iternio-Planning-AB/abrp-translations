@@ -941,15 +941,7 @@
     "Vendredi",
     "Samedi"
   ],
-  "day_names_short": [
-    "Dim.",
-    "Lun.",
-    "Mar.",
-    "Mer.",
-    "Jeu.",
-    "Ven.",
-    "Sam."
-  ],
+  "day_names_short": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
   "today": "Aujourd'hui",
   "scan_abrp_qrcode_to_complete_login": "Terminez la connexion en scannant le QR-code ABRP",
   "permission_camera_title": "Autorisation d'utiliser la caméra",
@@ -1249,12 +1241,7 @@
   "report_charger_information": "Les informations dont nous avons besoin pour enquêter ont été copiées dans votre presse-papiers. Cliquez sur 'Terminé' et vous serez redirigé vers Upvoty où vous pourrez créer un rapport et coller ces informations",
   "ferry_departure": "Départ du ferry",
   "ferry_arrival": "Arrivée du ferry",
-  "direction_count_x": [
-    "première",
-    "seconde",
-    "troisième",
-    "quatrième"
-  ],
+  "direction_count_x": ["première", "seconde", "troisième", "quatrième"],
   "obdble_unknown_device_failed": "Il manque certaines fonctionnalités essentielles à cet appareil, nous ne pouvons pas l'utiliser pour les connexions OBD.",
   "obdble_unknown_device": "Appareil non pris en charge !",
   "obdble_unknown_device_attempt": "Cet appareil n'est pas pris en charge, voulez-vous toujours essayer de vous connecter ?",
@@ -1903,8 +1890,8 @@
   "enode_connection_error_title": "Erreur de connexion",
   "enode_no_token_title": "Aucun jeton n'a été généré",
   "enode_no_token_description": "Veuillez réessayer et si le problème persiste, veuillez contacter l'assistance.",
-  "upload_photos": "Upload photos",
-  "take_new_photos": "Take new photos",
+  "upload_photos": "Télécharger des photos",
+  "take_new_photos": "Prendre de nouvelles photos",
   "add_charger_image_detailed_description": "Try to capture the charger and the surrounding area. This will help others find the charger and know what to expect.",
   "add_charger_image_anonymization": "We will blur license plates and faces automatically.",
   "speed_camera_category": "Speed Cameras",
