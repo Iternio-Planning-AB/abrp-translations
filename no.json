@@ -1926,5 +1926,22 @@
   "speed_camera_type_red_light_and_speed": "Speed and red light camera",
   "speed_camera_type_regular_mobile_zone": "Mobile speed control zone",
   "speed_camera_cm_zone_ending_short": "Control zone ending",
-  "speed_camera_cm_zone_starting_short": "Average speed control"
+  "speed_camera_cm_zone_starting_short": "Average speed control",
+  "log_in_with_qr_step_1": "Launch the ABRP app on a device where you are already logged in",
+  "log_in_with_qr_step_2": "Go to the settings page",
+  "log_in_with_qr_step_3": "Select your name in the top left",
+  "feedback_charger_image": "Can you take a photo of the charger?",
+  "continue_on_phone": "Continue on your phone",
+  "general_connection_error_title": "Connection error",
+  "general_connection_error_description": "Please try again and if the issue persists, please contact support.",
+  "store_review_title": "Enjoying ABRP?",
+  "store_review_description": "We would like to know if you like the app. Your feedback will help us to make a difference!",
+  "love_it": "Love it",
+  "needs_improvement": "Needs improvement",
+  "rate_us_on_app_store": "Rate us on the App Store",
+  "rate_us_on_play_store": "Rate us on the Google Play Store",
+  "help_us_improve": "Help us improve",
+  "feedback_improve_description": "Your insights help us grow. Tell us what didn't meet your expectations.",
+  "please_share_your_thoughts": "Please share your thoughts...",
+  "store_review_not_available": "Store review is not available on this device."
 }
