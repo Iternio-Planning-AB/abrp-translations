@@ -1917,7 +1917,7 @@
   "speed_camera_on_screen_alert_description": "Anzeige von Warnhinweisen auf dem Bildschirm vor einem Blitzer",
   "speed_camera_map_markers": "Kartenmarkierungen",
   "speed_camera_map_markers_description": "Markierungen für Blitzer auf deiner geplanten Route anzeigen",
-  "speed_camera_type_speed": "Geschwindigkeitsblitzer",
+  "speed_camera_type_speed": "Blitzer",
   "speed_camera_type_average": "Überwachung der Durchschnittsgeschwindigkeit",
   "speed_camera_type_bus_lane": "Überwachung der Busspur",
   "speed_camera_type_dangerous_zone": "Blitzer-Zone",
