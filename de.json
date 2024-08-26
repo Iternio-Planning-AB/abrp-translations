@@ -83,7 +83,7 @@
   "charger_arrival_soc_description": "Der erlaubte Mindest-SoC bei Ankunft an einem beliebigen Weg- oder Ladepunkt",
   "battery_degradation": "Batteriedegradation",
   "battery_degradation_description": "Vermutete Batteriedegradation des Fahrzeugs im Vergleich zu einer fabrikneuen Batterie. Standard ist 5% für alle Fahrzeuge",
-  "battery_capacity_description": "Live-Daten der Batteriekapazität, die direkt vom Fahrzeug gemessen wird. Aus den Live-Daten entfernen, um zur Abnutzung zurückzukehren.",
+  "battery_capacity_description": "Live-Daten der Batteriekapazität, die direkt vom Fahrzeug gemessen wird. Aus den Live-Daten entfernen, um zur Degradation zurückzukehren.",
   "time_charge_port": "Ladezeitaufwand",
   "time_charge_port_description": "Der Zeitaufwand für jeden Ladestopp: Auffinden der Ladesäule, Anschließen und Ladung starten. Ein höherer Wert führt hier zu weniger, aber längeren Ladestopps",
   "reference_speed": "Referenzgeschwindigkeit",
