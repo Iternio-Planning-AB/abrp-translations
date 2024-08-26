@@ -81,7 +81,7 @@
   "destination_arrival_soc_description": "Der erlaubte Mindest-SoC bei Ankunft am Ziel",
   "charger_arrival_soc": "SoC bei Ankunft an einem Ladepunkt",
   "charger_arrival_soc_description": "Der erlaubte Mindest-SoC bei Ankunft an einem beliebigen Weg- oder Ladepunkt",
-  "battery_degradation": "Batterieabnutzung",
+  "battery_degradation": "Batteriedegradation",
   "battery_degradation_description": "Vermutete Batterieabnutzung des Fahrzeugs im Vergleich zu einer fabrikneuen Batterie. Standard ist 5% für alle Fahrzeuge",
   "battery_capacity_description": "Live-Daten der Batteriekapazität, die direkt vom Fahrzeug gemessen wird. Aus den Live-Daten entfernen, um zur Abnutzung zurückzukehren.",
   "time_charge_port": "Ladezeitaufwand",
