@@ -1961,7 +1961,6 @@
   "copied_to_clipboard": "Скопировано в буфер обмена",
   "log_in_rivian": "Аккаунт владельца Rivian",
   "rivian_login_description": "Войдите в ABRP, используя аккаунт владельца Rivian, или подключите свои существующие аккаунты Rivian и ABRP",
-  "days_affix": "days",
   "obd_pid_editor": "OBD Pid Editor",
   "obd_pid_editor_warning": "Warning: This feature is for advanced users only. Use at your own risk!",
   "obd_pid_init_commands": "Initialization commands",

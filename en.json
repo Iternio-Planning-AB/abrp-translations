@@ -1103,7 +1103,6 @@
   "move_of_amenity_to_step_one": "You are not allowed to move a waypoint with amenity options to the first step",
   "minutes_affix": "min",
   "hours_affix": "h",
-  "days_affix": "days",
   "days_affix_one": "day",
   "days_affix_other": "days",
   "exclusive_network_warning": "You have one exclusive network selected under Network preferences",

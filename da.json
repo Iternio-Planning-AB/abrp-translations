@@ -1961,7 +1961,6 @@
   "copied_to_clipboard": "Kopieret til udklipsholder",
   "log_in_rivian": "Rivian ejerkonto",
   "rivian_login_description": "Log ind på ABRP ved hjælp af din Rivian-ejerkonto, eller tilslut dine eksisterende Rivian- og ABRP-konti",
-  "days_affix": "days",
   "obd_pid_editor": "OBD Pid Editor",
   "obd_pid_editor_warning": "Warning: This feature is for advanced users only. Use at your own risk!",
   "obd_pid_init_commands": "Initialization commands",
