@@ -1083,6 +1083,7 @@
   "obdble_connection_fail": "Connection is not established",
   "obdble_connection_established": "ABRP OBD Connection connection established successfully! Press save to link this dongle to your vehicle.",
   "obdble_connect_failed_message": "Failed to connect to your OBD BLE dongle, please try again.",
+  "abrpobd_connect_failed_tip": "It can help to remove the dongle from the car and reinsert it.",
   "obdble_connect_car_failed_message": "BLE connection established, but we failed to connect to your car.",
   "obdble_abrp_link_title": "Read about OBD dongles and security",
   "obdble_pid_fetch_failed": "Failed to load car configuration.",

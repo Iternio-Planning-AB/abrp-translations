@@ -2000,5 +2000,6 @@
   "unnecessary": "Не потрібно",
   "rivian_vehicles_in_account": "Це ваш(і) автомобіль(і) Rivian. Хочете додати їх до свого облікового запису ABRP та підключити дані в реальному часі?",
   "rivian_add_vehicles": "Додати цей(і) автомобіль(і)",
-  "skip_for_now": "Пропустити зараз"
+  "skip_for_now": "Пропустити зараз",
+  "abrpobd_connect_failed_tip": "It can help to remove the dongle from the car and reinsert it."
 }

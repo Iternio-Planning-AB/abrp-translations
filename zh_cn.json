@@ -1995,5 +1995,6 @@
   "unnecessary": "Unnecessary",
   "rivian_vehicles_in_account": "These are your Rivian vehicle(s). Would you like to add these to your ABRP account and connect live data?",
   "rivian_add_vehicles": "Add these vehicle(s)",
-  "skip_for_now": "Skip for now"
+  "skip_for_now": "Skip for now",
+  "abrpobd_connect_failed_tip": "It can help to remove the dongle from the car and reinsert it."
 }
