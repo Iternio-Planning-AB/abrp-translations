@@ -1987,7 +1987,7 @@
   "obd_pid_log": "Protokoll",
   "obd_pid_equation_map": "Map",
   "obd_pid_new_equation_map_entry": "Neuer Eintrag",
-  "obd_pid_equation_map_description": "Dies ordnet bestimmte Entsprechungsergebnisse dem angegebenen Wert zu. Verwende \„default\“, um alle Entsprechungsergebnisse zuzuordnen, die du nicht angegeben hast. Die Werte müssen numerisch sein, aufgrund von Tastaturbeschränkungen auf verschiedenen Systemen zeigen wir die voll ausgestattete Tastatur.",
+  "obd_pid_equation_map_description": "Dies ordnet bestimmte Gleichungsergebnisse dem angegebenen Wert zu. Verwende \„default\“, um alle Gleichungsergebnisse zuzuordnen, die du nicht angegeben hast. Die Werte müssen numerisch sein, aufgrund von Tastaturbeschränkungen auf verschiedenen Systemen zeigen wir die voll ausgestattete Tastatur.",
   "obd_pid_equation_map_count_zero": "Keine Einträge",
   "obd_pid_equation_map_count_one": "Ein Eintrag",
   "obd_pid_equation_map_count_other": "{{count}} Einträge",
