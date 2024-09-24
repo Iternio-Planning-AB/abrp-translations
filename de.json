@@ -1998,7 +1998,7 @@
   "succeeded": "Erfolgreich",
   "failed": "Fehlgeschlagen",
   "unnecessary": "Unnötig",
-  "rivian_vehicles_in_account": "Dies sind dein(e) Rivian-Fahrzeug(e). Möchtest du diese zu deinem ABRP-Konto hinzufügen und Live-Daten verbinden?",
+  "rivian_vehicles_in_account": "Dies sind deine Rivian-Fahrzeuge. Möchtest du diese zu deinem ABRP-Konto hinzufügen und Live-Daten verbinden?",
   "rivian_add_vehicles": "Diese(s) Fahrzeug(e) hinzufügen",
   "skip_for_now": "Vorerst überspringen",
   "abrpobd_connect_failed_tip": "Es kann helfen, den Dongle vom Fahrzeug abzustecken und wieder anzustecken."
