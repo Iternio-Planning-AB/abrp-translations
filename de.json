@@ -1993,7 +1993,7 @@
   "obd_pid_equation_map_count_other": "{{count}} Einträge",
   "obd_pid_share_verify_first": "Bitte teste deine Pids zuerst, bevor du sie weitergibst, vielen Dank!",
   "obd_pid_share_completed": "Danke, dass du uns deine Vorschläge mitteilst! Wir werden sie überprüfen und sicherstellen, dass alle von deinen Verbesserungen profitieren.",
-  "idle": "Leerlauf",
+  "idle": "Standby",
   "started": "Gestartet",
   "succeeded": "Erfolgreich",
   "failed": "Fehlgeschlagen",
