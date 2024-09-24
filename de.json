@@ -1968,7 +1968,7 @@
   "obd_pid_keep_alive_command": "Keep alive Befehle",
   "obd_pid_command": "OBD-Befehl",
   "obd_pid_protocol": "OBD-Protokoll",
-  "obd_pid_equations": "Entsprechungen",
+  "obd_pid_equations": "Gleichungen",
   "obd_pid_equation": "Entsprechung",
   "obd_pid_tlm_key": "Telemetrieschlüssel",
   "obd_pid_min": "Min",
