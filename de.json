@@ -1969,7 +1969,7 @@
   "obd_pid_command": "OBD-Befehl",
   "obd_pid_protocol": "OBD-Protokoll",
   "obd_pid_equations": "Gleichungen",
-  "obd_pid_equation": "Entsprechung",
+  "obd_pid_equation": "Gleichung",
   "obd_pid_tlm_key": "Telemetrieschlüssel",
   "obd_pid_min": "Min",
   "obd_pid_max": "Max",
