@@ -2001,23 +2001,23 @@
   "rivian_vehicles_in_account": "Это ваш(и) автомобиль(и) Rivian. Хотите добавить их в свой аккаунт ABRP и подключить данные в реальном времени?",
   "rivian_add_vehicles": "Добавить этот(и) автомобиль(и)",
   "skip_for_now": "Пропустить сейчас",
-  "abrpobd_connect_failed_tip": "It can help to remove the dongle from the car and reinsert it.",
-  "obdble_connection_established_save": "ABRP OBD connection established successfully! Would you like to save this connection to your vehicle?",
-  "add_charger": "Add charger",
-  "charger_network": "Charger network",
-  "charger_network_placeholder": "Ionity, Tesla, etc.",
-  "link_placeholder": "https://example.com",
-  "add_charger_stalls": "Add a charger stalls",
-  "add_charger_stalls_description": "Enter the number and arrangement of charger stalls to help others understand availability.",
-  "charger_details_pricing": "Pricing",
-  "report_charger_price": "Report wrong price",
-  "view_less": "View less",
-  "price_among_user_charge_cards": "Your charge cards",
-  "you_can_only_select_prices_from_your_selected_charge_cards": "You can only select prices from your selected charge cards",
-  "sign_in": "Sign in",
-  "automotive_welcome_screen_message": "To start using ABRP sign in or choose your car model to use ABRP without signing in",
-  "automotive_car_model_missing": "We could not identify your vehicle, please go to settings and set the car model",
-  "app_update_banner_title": "App update is available",
-  "app_update_banner_description": "Thank you for your patience. We've been working on a new version of ABRP that will make your journey even better!",
-  "app_update_banner_update_button": "Update"
+  "abrpobd_connect_failed_tip": "Может помочь извлечение адаптера из автомобиля и повторное его подключение."
+  "obdble_connection_established_save": "Соединение ABRP OBD успешно установлено! Хотите сохранить это соединение для вашего автомобиля?"
+  "add_charger": "Добавить зарядное устройство"
+  "charger_network": "Сеть зарядных устройств"
+  "charger_network_placeholder": "Ionity, Tesla и т.д."
+  "link_placeholder": "https://example.com"
+  "add_charger_stalls": "Добавить зарядные стойки"
+  "add_charger_stalls_description": "Введите количество и расположение зарядных стоек, чтобы помочь другим понять доступность."
+  "charger_details_pricing": "Цены"
+  "report_charger_price": "Сообщить о неверной цене"
+  "view_less": "Скрыть"
+  "price_among_user_charge_cards": "Ваши карты для зарядки"
+  "you_can_only_select_prices_from_your_selected_charge_cards": "Вы можете выбрать цены только из своих выбранных карт для зарядки"
+  "sign_in": "Войти"
+  "automotive_welcome_screen_message": "Чтобы начать пользоваться ABRP, войдите в систему или выберите модель вашего автомобиля, чтобы использовать ABRP без входа."
+  "automotive_car_model_missing": "Мы не смогли определить вашу машину, пожалуйста, перейдите в настройки и выберите модель автомобиля."
+  "app_update_banner_title": "Доступно обновление приложения"
+  "app_update_banner_description": "Спасибо за ваше терпение. Мы работаем над новой версией ABRP, которая сделает ваше путешествие еще лучше!"
+  "app_update_banner_update_button": "Обновить"
 }
