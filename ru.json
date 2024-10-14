@@ -2001,23 +2001,54 @@
   "rivian_vehicles_in_account": "Это ваш(и) автомобиль(и) Rivian. Хотите добавить их в свой аккаунт ABRP и подключить данные в реальном времени?",
   "rivian_add_vehicles": "Добавить этот(и) автомобиль(и)",
   "skip_for_now": "Пропустить сейчас",
-  "abrpobd_connect_failed_tip": "Может помочь извлечение адаптера из автомобиля и повторное его подключение."
-  "obdble_connection_established_save": "Соединение ABRP OBD успешно установлено! Хотите сохранить это соединение для вашего автомобиля?"
-  "add_charger": "Добавить зарядное устройство"
-  "charger_network": "Сеть зарядных устройств"
-  "charger_network_placeholder": "Ionity, Tesla и т.д."
-  "link_placeholder": "https://example.com"
-  "add_charger_stalls": "Добавить зарядные стойки"
-  "add_charger_stalls_description": "Введите количество и расположение зарядных стоек, чтобы помочь другим понять доступность."
-  "charger_details_pricing": "Цены"
-  "report_charger_price": "Сообщить о неверной цене"
-  "view_less": "Скрыть"
-  "price_among_user_charge_cards": "Ваши карты для зарядки"
-  "you_can_only_select_prices_from_your_selected_charge_cards": "Вы можете выбрать цены только из своих выбранных карт для зарядки"
-  "sign_in": "Войти"
-  "automotive_welcome_screen_message": "Чтобы начать пользоваться ABRP, войдите в систему или выберите модель вашего автомобиля, чтобы использовать ABRP без входа."
-  "automotive_car_model_missing": "Мы не смогли определить вашу машину, пожалуйста, перейдите в настройки и выберите модель автомобиля."
-  "app_update_banner_title": "Доступно обновление приложения"
-  "app_update_banner_description": "Спасибо за ваше терпение. Мы работаем над новой версией ABRP, которая сделает ваше путешествие еще лучше!"
-  "app_update_banner_update_button": "Обновить"
+  "abrpobd_connect_failed_tip": "Может помочь извлечение адаптера из автомобиля и повторное его подключение.",
+  "obdble_connection_established_save": "Соединение ABRP OBD успешно установлено! Хотите сохранить это соединение для вашего автомобиля?",
+  "add_charger": "Добавить зарядное устройство",
+  "charger_network": "Сеть зарядных устройств",
+  "charger_network_placeholder": "Ionity, Tesla и т.д.",
+  "link_placeholder": "https://example.com",
+  "add_charger_stalls": "Добавить зарядные стойки",
+  "add_charger_stalls_description": "Введите количество и расположение зарядных стоек, чтобы помочь другим понять доступность.",
+  "charger_details_pricing": "Цены",
+  "report_charger_price": "Сообщить о неверной цене",
+  "view_less": "Скрыть",
+  "price_among_user_charge_cards": "Ваши карты для зарядки",
+  "you_can_only_select_prices_from_your_selected_charge_cards": "Вы можете выбрать цены только из своих выбранных карт для зарядки",
+  "sign_in": "Войти",
+  "automotive_welcome_screen_message": "Чтобы начать пользоваться ABRP, войдите в систему или выберите модель вашего автомобиля, чтобы использовать ABRP без входа.",
+  "automotive_car_model_missing": "Мы не смогли определить вашу машину, пожалуйста, перейдите в настройки и выберите модель автомобиля.",
+  "app_update_banner_title": "Доступно обновление приложения",
+  "app_update_banner_description": "Спасибо за ваше терпение. Мы работаем над новой версией ABRP, которая сделает ваше путешествие еще лучше!",
+  "app_update_banner_update_button": "Обновить",
+  "estimated_charger_cost": "Estimated charging cost",
+  "estimated_charger_cost_description": "All prices found below",
+  "default_price": "Default price",
+  "using_charge_card": "Using",
+  "price_details": "Price in detail",
+  "card_subscription_type_x": "Subscription type: {{type}}",
+  "card_subscription_YEARLY": "Yearly",
+  "card_subscription_MONTHLY": "Monthly",
+  "card_subscription_ONE_OFF": "One time fee",
+  "flat_rate_cost": "Start cost",
+  "energy_cost": "Energy cost",
+  "time_cost": "Cost per minute",
+  "parking_cost": "Cost for parking",
+  "session_price": "session",
+  "charger_prices": "Charger prices",
+  "cards_without_subscription": "Cards without subscription",
+  "feedback_suggest_edit": "Suggest an edit",
+  "card_has_subscription": "Card has a subscription fee",
+  "charger_with_parking_fee": "Charger might be subject to parking fees",
+  "sorting_popularity": "Popularity",
+  "sorting_name": "Name",
+  "sorting_price": "Price",
+  "sorting": "Sorting",
+  "add_card": "Add card",
+  "no_user_charge_cards": "No cards available for this charger",
+  "auth_banner_title": "Don't lose your account",
+  "auth_banner_description": "Link your account to another login method for easier access and improved security. Never worry about forgetting your password again!",
+  "auth_banner_add_button": "Add Login Method",
+  "tesla_share_permissions_title": "Permission needed",
+  "tesla_share_permissions_description": "To be able to share to your Tesla, you need to give ABRP permission to control your vehicle in your Tesla account. Click the button below and check \"Allow vehicle commands\".",
+  "tesla_set_abrp_permissions": "Go to Tesla ABRP settings"
 }
