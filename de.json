@@ -2049,6 +2049,6 @@
   "auth_banner_description": "Verknüpfe dein Konto mit einer anderen Anmeldemethode, um den Zugang zu erleichtern und die Sicherheit zu erhöhen. Mache dir nie wieder Sorgen, dein Passwort zu vergessen!",
   "auth_banner_add_button": "Anmeldemethode hinzufügen",
   "tesla_share_permissions_title": "Erlaubnis erforderlich",
-  "tesla_share_permissions_description": "Um Daten mit deinem Tesla teilen zu können, musst du ABRP die Erlaubnis erteilen, auf dein Fahrzeug in deinem Tesla-Konto zugreifen zu dürfen. Klicke auf die Schaltfläche unten und aktiviere \„Fahrzeugbefehle zulassen\“.",
+  "tesla_share_permissions_description": "Um Daten mit deinem Tesla teilen zu können, musst du ABRP die Erlaubnis erteilen, auf dein Fahrzeug in deinem Tesla-Konto zugreifen zu dürfen. Klicke auf die Schaltfläche unten und aktiviere \"Fahrzeugbefehle zulassen\".",
   "tesla_set_abrp_permissions": "Gehe zu den Tesla ABRP Einstellungen"
 }
