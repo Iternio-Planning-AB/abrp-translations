@@ -2066,5 +2066,12 @@
   "create_an_issue_description": "This will create a public post on our user feedback site (Featurebase) that anyone can see. Please describe your issue in detail.",
   "open_featurebase": "Open Featurebase",
   "view_on_featurebase": "View on Featurebase",
-  "success_report_bug": "Thank you for reporting your issue!"
+  "success_report_bug": "Thank you for reporting your issue!",
+  "tesla_fleet_select_vehicle": "Please select the vehicle you wish to connect to ABRP:",
+  "tesla_fleet_streaming": "Tesla vehicles can stream data to ABRP when the vehicle is active. This enables higher quality live data and vehicle calibration. To enable it, you need to add ABRP's virtual key on your vehicle by clicking the button below.",
+  "tesla_fleet_streaming_key": "Add ABRP virtual key on your Tesla",
+  "tesla_fleet_streaming_unsupported": "Your vehicle does not support streaming. Don't worry, we will poll it for data - no more action needed.",
+  "tesla_fleet_streaming_no_key": "The ABRP key was not installed on your Tesla. The vehicle may not be supporting streaming - if so we will poll data at a slower pace for you anyway.",
+  "tesla_fleet_streaming_key_ok": "If your key was successfully added to your Tesla, press the button below to start streaming live data. If not, don't worry, we will poll data at a slower pace for you anyway.",
+  "tesla_fleet_streaming_start": "Start live data streaming"
 }
