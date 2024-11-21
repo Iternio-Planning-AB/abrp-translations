@@ -901,6 +901,7 @@
   "preferred_minimum_nbr_charger_stalls_description": "Nombre mínim preferit de punts de recàrrega en les ubicacions de recàrrega",
   "available": "Disponible",
   "in_use": "En ús",
+  "include_charger": "Inclou un carregador",
   "operational": "Operatiu",
   "broken": "Fora de servei",
   "delete_account_premium": "Si ja heu cancel·lat la subscripció Premium, podeu suprimir el vostre compte ABRP.",
