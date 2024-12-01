@@ -1954,7 +1954,7 @@
   "oauth_connect_description_log_in": "To accept, first log in to your account.",
   "deny": "Deny",
   "listening": "Listening",
-  "send_to_rivian": "Wyślij do Rivian'a",
+  "send_to_rivian": "Wyślij do Rivian"a",
   "generic_token": "Generic Token",
   "generic_token_description": "Thank you for connecting your car's data with A Better Route Planner! We use the data you send us to improve our modelling, and improve the plans we generate for you. This method is for in-development Live Data systems which haven't been added officially to ABRP yet. If you would like to develop this kind of system for your car please contact us!",
   "account_id_for_support": "Your account ID for support",
