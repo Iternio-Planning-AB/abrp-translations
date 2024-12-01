@@ -1,0 +1,59 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    paths:
+      - '**.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v42
+        with:
+          files: '**.json'
+
+      - name: Validate JSON files
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            if [ -f "$file" ]; then
+              echo "Validating $file"
+              if ! jq empty "$file" 2>/dev/null; then
+                echo "::error file=$file::Invalid JSON found in $file"
+                exit 1
+              fi
+            fi
+          done
+
+      - name: Comment on PR if validation fails
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '👋 Hello and thank you for helping with translations!\n\nWe noticed that there might be a small formatting issue in the JSON file. This usually happens when:\n- A comma is missing or misplaced\n- Quotation marks are not properly closed\n- There\'s an extra comma after the last item\n\nCould you please check these common issues? If you need any help, feel free to ask and we\'ll be happy to assist!\n\nYour contribution is valuable to us and helps make ABRP accessible to more users around the world. 🌍'
+            })
+
+      - name: Comment on PR if validation succeeds
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✨ Thank you for your translation contribution!\n\nYour changes will help make ABRP more accessible to users in your language.\n\nWe really appreciate your help in making ABRP better for everyone! 🌍'
+            })
