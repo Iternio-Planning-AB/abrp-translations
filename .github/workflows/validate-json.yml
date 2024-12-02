@@ -15,11 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-
       - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v42
@@ -53,12 +48,19 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '❌ **JSON Validation Failed**\n\n👋 Hello and thank you for helping with translations! We found some formatting issues:\n\n```\n${{ env.error_log }}\n```\n\n### Common fixes:\n1️⃣ Check for missing commas between items:\n```json\n{\n  "key1": "value1",  // ✅ Correct - has comma\n  "key2": "value2"   // ✅ Correct - no comma on last item\n}\n```\n\n2️⃣ Make sure quotes are properly closed:\n```json\n"key": "correct value",     // ✅ Correct\n"key": "missing quote,      // ❌ Wrong\n```\n\n3️⃣ Don\'t add comma after the last item:\n```json\n{\n  "first": "value",   // ✅ Comma here\n  "last": "value"     // ✅ No comma on last item\n}\n```\n\nNeed help? Feel free to ask and we\'ll assist you! Your contribution helps make ABRP accessible to more users worldwide. 🌍'
-            })
+            try {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                headers: {
+                  accept: 'application/vnd.github+json'
+                },
+                body: '❌ **JSON Validation Failed**\n\n👋 Hello and thank you for helping with translations! We found some formatting issues:\n\n```\n${{ env.error_log }}\n```\n\n### Common fixes:\n1️⃣ Check for missing commas between items:\n```json\n{\n  "key1": "value1",  // ✅ Correct - has comma\n  "key2": "value2"   // ✅ Correct - no comma on last item\n}\n```\n\n2️⃣ Make sure quotes are properly closed:\n```json\n"key": "correct value",     // ✅ Correct\n"key": "missing quote,      // ❌ Wrong\n```\n\n3️⃣ Don\'t add comma after the last item:\n```json\n{\n  "first": "value",   // ✅ Comma here\n  "last": "value"     // ✅ No comma on last item\n}\n```\n\nNeed help? Feel free to ask and we\'ll assist you! Your contribution helps make ABRP accessible to more users worldwide. 🌍'
+              });
+            } catch (error) {
+              core.setFailed(`Action failed with error: ${error}`);
+            }
 
       - name: Comment on PR if validation succeeds
         if: success()
@@ -66,9 +68,16 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '✨ **Thank you for your translation contribution!**\n\nThe file format looks good and we\'ll review your changes soon.\n\nYour help in making ABRP accessible to more users is greatly appreciated! 🌟'
-            })
+            try {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                headers: {
+                  accept: 'application/vnd.github+json'
+                },
+                body: '✨ **Thank you for your translation contribution!**\n\nThe file format looks good and we\'ll review your changes soon.\n\nYour help in making ABRP accessible to more users is greatly appreciated! 🌟'
+              });
+            } catch (error) {
+              core.setFailed(`Action failed with error: ${error}`);
+            }
