@@ -1,25 +1,42 @@
+# Workflow: JSON Validation for ABRP Translations
+# Purpose:
+#    Automatically validates JSON formatting in translation files and provides
+#    helpful feedback when issues are found. Comments on the PR with validation results.
+#
+# Frequency:
+#    - Runs on every PR that modifies JSON files
+#
+# Prerequisites:
+#    - None, uses default GitHub token for authentication
+
 name: Validate JSON
+run-name: "JSON Validation for PR #${{ github.event.pull_request.number }}: ${{ github.event.pull_request.title }}"
 
 on:
   pull_request:
     paths:
       - '**.json'
 
-permissions: write-all
+permissions:
+  pull-requests: write
+  contents: read
 
 jobs:
   validate-json:
+    name: Validate Translation Files
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Get changed files
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Get Changed Files
         id: changed-files
         uses: tj-actions/changed-files@v42
         with:
           files: '**.json'
 
-      - name: Validate JSON files
+      - name: Validate JSON Files
         id: validate
         run: |
           ERROR_LOG=""
@@ -40,42 +57,52 @@ jobs:
             exit 1
           fi
 
-      - name: Comment on PR if validation fails
-        if: failure()
+      - name: Comment Validation Results
+        if: always()
         uses: actions/github-script@v7
+        env:
+          ERROR_LOG: ${{ env.error_log }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            try {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                headers: {
-                  accept: 'application/vnd.github+json'
-                },
-                body: '❌ **JSON Validation Failed**\n\n👋 Hello and thank you for helping with translations! We found some formatting issues:\n\n```\n${{ env.error_log }}\n```\n\n### Common fixes:\n1️⃣ Check for missing commas between items:\n```json\n{\n  "key1": "value1",  // ✅ Correct - has comma\n  "key2": "value2"   // ✅ Correct - no comma on last item\n}\n```\n\n2️⃣ Make sure quotes are properly closed:\n```json\n"key": "correct value",     // ✅ Correct\n"key": "missing quote,      // ❌ Wrong\n```\n\n3️⃣ Don\'t add comma after the last item:\n```json\n{\n  "first": "value",   // ✅ Comma here\n  "last": "value"     // ✅ No comma on last item\n}\n```\n\nNeed help? Feel free to ask and we\'ll assist you! Your contribution helps make ABRP accessible to more users worldwide. 🌍'
-              });
-            } catch (error) {
-              core.setFailed(`Action failed with error: ${error}`);
-            }
+            const output = failure() ?
+              `### ❌ JSON Validation Failed
 
-      - name: Comment on PR if validation succeeds
-        if: success()
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            try {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                headers: {
-                  accept: 'application/vnd.github+json'
-                },
-                body: '✨ **Thank you for your translation contribution!**\n\nThe file format looks good and we\'ll review your changes soon.\n\nYour help in making ABRP accessible to more users is greatly appreciated! 🌟'
-              });
-            } catch (error) {
-              core.setFailed(`Action failed with error: ${error}`);
-            }
+              Hello @${{ github.actor }}, thank you for your translation contribution! We found some formatting issues:
+
+              \`\`\`
+              ${process.env.ERROR_LOG || 'No specific error details available'}
+              \`\`\`
+
+              #### Common JSON Format Rules:
+              1️⃣ Check for missing commas between items:
+              \`\`\`json
+              {
+                "key1": "value1",  // ✅ Correct - has comma
+                "key2": "value2"   // ✅ Correct - no comma on last item
+              }
+              \`\`\`
+
+              2️⃣ Make sure quotes are properly closed:
+              \`\`\`json
+              "key": "correct value",     // ✅ Correct
+              "key": "missing quote,      // ❌ Wrong
+              \`\`\`
+
+              Need help? Feel free to ask and we'll assist you! Your contribution helps make ABRP accessible to more users worldwide. 🌍`
+              :
+              `### ✅ JSON Format Validation Passed
+
+              Thank you @${{ github.actor }} for your translation contribution! The file format looks good and we'll review your changes soon.
+
+              Your help in making ABRP accessible to more users is greatly appreciated! 🌟
+
+              __Action__: \`${{ github.event_name }}\`
+              __Files Changed__: \`${{ steps.changed-files.outputs.all_changed_files }}\``;
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: output
+            })
