@@ -5,9 +5,7 @@ on:
     paths:
       - '**.json'
 
-permissions:
-  pull-requests: write
-  contents: read
+permissions: write-all
 
 jobs:
   validate-json:
