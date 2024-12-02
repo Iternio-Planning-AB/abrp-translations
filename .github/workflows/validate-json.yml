@@ -5,6 +5,10 @@ on:
     paths:
       - '**.json'
 
+permissions:
+  pull-requests: write
+  contents: read
+
 jobs:
   validate-json:
     runs-on: ubuntu-latest
