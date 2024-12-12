@@ -1,0 +1,108 @@
+# Workflow: JSON Validation for ABRP Translations
+# Purpose:
+#    Automatically validates JSON formatting in translation files and provides
+#    helpful feedback when issues are found. Comments on the PR with validation results.
+#
+# Frequency:
+#    - Runs on every PR that modifies JSON files
+#
+# Prerequisites:
+#    - None, uses default GitHub token for authentication
+
+name: Validate JSON
+run-name: "JSON Validation for PR #${{ github.event.pull_request.number }}: ${{ github.event.pull_request.title }}"
+
+on:
+  pull_request:
+    paths:
+      - '**.json'
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  validate-json:
+    name: Validate Translation Files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Get Changed Files
+        id: changed-files
+        uses: tj-actions/changed-files@v42
+        with:
+          files: '**.json'
+
+      - name: Validate JSON Files
+        id: validate
+        run: |
+          ERROR_LOG=""
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            if [ -f "$file" ]; then
+              echo "Validating $file"
+              ERROR_OUTPUT=$(jq empty "$file" 2>&1 || true)
+              if [ ! -z "$ERROR_OUTPUT" ]; then
+                LINE_NUM=$(echo "$ERROR_OUTPUT" | grep -o "line [0-9]*" | cut -d' ' -f2)
+                ERROR_LOG="$ERROR_LOG\n• $file (line $LINE_NUM): $ERROR_OUTPUT"
+              fi
+            fi
+          done
+          if [ ! -z "$ERROR_LOG" ]; then
+            echo "error_log<<EOF" >> $GITHUB_ENV
+            echo "$ERROR_LOG" >> $GITHUB_ENV
+            echo "EOF" >> $GITHUB_ENV
+            exit 1
+          fi
+
+      - name: Comment Validation Results
+        if: always()
+        uses: actions/github-script@v7
+        env:
+          ERROR_LOG: ${{ env.error_log }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const output = failure() ?
+              `### ❌ JSON Validation Failed
+
+              Hello @${{ github.actor }}, thank you for your translation contribution! We found some formatting issues:
+
+              \`\`\`
+              ${process.env.ERROR_LOG || 'No specific error details available'}
+              \`\`\`
+
+              #### Common JSON Format Rules:
+              1️⃣ Check for missing commas between items:
+              \`\`\`json
+              {
+                "key1": "value1",  // ✅ Correct - has comma
+                "key2": "value2"   // ✅ Correct - no comma on last item
+              }
+              \`\`\`
+
+              2️⃣ Make sure quotes are properly closed:
+              \`\`\`json
+              "key": "correct value",     // ✅ Correct
+              "key": "missing quote,      // ❌ Wrong
+              \`\`\`
+
+              Need help? Feel free to ask and we'll assist you! Your contribution helps make ABRP accessible to more users worldwide. 🌍`
+              :
+              `### ✅ JSON Format Validation Passed
+
+              Thank you @${{ github.actor }} for your translation contribution! The file format looks good and we'll review your changes soon.
+
+              Your help in making ABRP accessible to more users is greatly appreciated! 🌟
+
+              __Action__: \`${{ github.event_name }}\`
+              __Files Changed__: \`${{ steps.changed-files.outputs.all_changed_files }}\``;
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: output
+            })
