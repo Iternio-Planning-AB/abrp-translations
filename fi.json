@@ -1331,7 +1331,7 @@
   "different_charger": "Erilainen laturi",
   "arrive_at_x": "Saavu klo {{x}} %",
   "missing_parameter_x": "Sinulta puuttuu parametri, jota tarvitaan suunnitelman laskemiseen. Puuttuva parametri on '{{parameter}}'",
-  "charging_x_kw": "Lataus {{teho}} kW teholla",
+  "charging_x_kw": "Lataus {{power}} kW teholla",
   "merge_manual_vehicle_message": "Oletko varma, että haluat yhdistää {{mergeFrom}} kohteeseen {{mergeTo}}?\n\n{{mergeFrom}} poistetaan ja kaikki sen tiedot yhdistetään kohteeseen {{mergeTo}}. Tätä toimenpidettä ei voi perua!",
   "manual_merge_vehicle": "Yhdistä ajoneuvo",
   "manual_merge_vehicle_description": "Yhdistä tämä ajoneuvo toiseen tallennettuun ajoneuvoon",
