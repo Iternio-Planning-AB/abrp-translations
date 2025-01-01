@@ -2187,7 +2187,7 @@
   "requires_tts_install": "Es baixaran automàticament els fitxers de llengua no instal·lats. Requereix una connexió de xarxa",
   "no_enhanced_voice_found": "Sembla que no hi ha cap veu de qualitat millorada instal·lada. Podeu tenir-ne anant a la configuració de veu en els paràmetres del sistema",
   "install_voices": "Instal·la veus",
-  "install_voice_engine": "Cliqueu {{settings}} per a configurar el motor de síntesi de veu, o cliqueu {{ignore}}, per a desactivar la sortida de veu"
+  "install_voice_engine": "Cliqueu {{settings}} per a configurar el motor de síntesi de veu, o cliqueu {{ignore}}, per a desactivar la sortida de veu",
   "card_subscription_fee_per_type": "Subscripció: {{fee}} per {{type}}",
   "reorder_vehicles": "Reordena els vehicles",
   "edit_order": "Edita l'ordre",
