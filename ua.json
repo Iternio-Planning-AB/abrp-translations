@@ -2212,5 +2212,9 @@
   "amenity_edit_search": "Редагувати пошук зручностей",
   "amenity_search_current_of_total": "Пошук зручностей {{current}} з {{total}}",
   "amenity_stop": "Зупинка: {{category}}",
-  "general_error_message": "Сталася помилка, спробуйте знову."
+  "general_error_message": "Сталася помилка, спробуйте знову.",
+  "tesla_streaming_banner_title": "Tesla streaming action required",
+  "tesla_streaming_banner_description": "From 1st of February 2025, Tesla streaming will be required for all Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
+  "tesla_streaming_banner_button": "Add streaming",
+  "nearby_chargers_replace_replan": "Change and replan"
 }

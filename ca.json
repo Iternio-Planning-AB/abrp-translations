@@ -2212,5 +2212,9 @@
   "amenity_edit_search": "Edita la cerca d'equipaments",
   "amenity_search_current_of_total": "Cerca d'equipaments {{current}} de {{total}}",
   "amenity_stop": "{{category}} aturada",
-  "general_error_message": "S'ha produït un error, torneu a intentar-ho."
+  "general_error_message": "S'ha produït un error, torneu a intentar-ho.",
+  "tesla_streaming_banner_title": "Tesla streaming action required",
+  "tesla_streaming_banner_description": "From 1st of February 2025, Tesla streaming will be required for all Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
+  "tesla_streaming_banner_button": "Add streaming",
+  "nearby_chargers_replace_replan": "Change and replan"
 }
