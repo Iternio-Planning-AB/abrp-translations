@@ -2212,5 +2212,9 @@
   "amenity_edit_search": "Edit amenity search",
   "amenity_search_current_of_total": "Amenity serach {{current}} of {{total}}",
   "amenity_stop": "{{category}} stop",
-  "general_error_message": "An error occurred, please try again."
+  "general_error_message": "An error occurred, please try again.",
+  "tesla_streaming_banner_title": "Tesla streaming action required",
+  "tesla_streaming_banner_description": "From 1st of February 2025, Tesla streaming will be required for all Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
+  "tesla_streaming_banner_button": "Add streaming",
+  "nearby_chargers_replace_replan": "Change and replan"
 }
