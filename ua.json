@@ -2213,8 +2213,8 @@
   "amenity_search_current_of_total": "Пошук зручностей {{current}} з {{total}}",
   "amenity_stop": "Зупинка: {{category}}",
   "general_error_message": "Сталася помилка, спробуйте знову.",
-  "tesla_streaming_banner_title": "Tesla streaming action required",
-  "tesla_streaming_banner_description": "From 1st of February 2025, Tesla streaming will be required for all Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
-  "tesla_streaming_banner_button": "Add streaming",
-  "nearby_chargers_replace_replan": "Change and replan"
+  "tesla_streaming_banner_title": "Потрібна дія для потокової передачі Tesla",
+  "tesla_streaming_banner_description": "З 1 лютого 2025 року потокова передача Tesla стане обов'язковою для всіх автомобілів Tesla. Щоб продовжити використовувати ABRP із вашим Tesla, додайте потокову передачу до вашого транспортного засобу.",
+  "tesla_streaming_banner_button": "Додати потокову передачу",
+  "nearby_chargers_replace_replan": "Змінити і перепланувати"
 }
