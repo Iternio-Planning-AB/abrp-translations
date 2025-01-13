@@ -1274,7 +1274,7 @@
   "charging_x_kw": "Töltés {{power}} kilowattal",
   "merge_manual_vehicle_message": "Biztos vagy benne, hogy egyesíteni akarod ezeket: {{mergeFrom}} --> {{mergeTo}}?\n\n{{mergeFrom}} törölve lesz és az összes adata be lesz olvasztva {{mergeTo}} adataiba. Ezek a műveletek nem visszafordíthatók!",
   "manual_merge_vehicle": "Egyesítsd a járművet ebbe...",
-  "manual_merge_vehicle_description": "Egyesítsd ezt a járművet egy másik mentett járművedbe"",
+  "manual_merge_vehicle_description": "Egyesítsd ezt a járművet egy másik mentett járművedbe",
   "select_vehicle_to_merge": "Egyesítés ebbe: ",
   "scan_qr_phone": "Olvasd be a QR kódot a telefonodon, hogy megnyisd ezt az URL-t",
   "direction_turn_ref_destination": "Fordulj {{direction}} {{ref}} felé {{destination}} irányába",
