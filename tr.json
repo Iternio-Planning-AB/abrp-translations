@@ -1846,7 +1846,7 @@
   "save_vehicle_question": "Seçilen aracı kaydetmek ister misiniz?",
   "save_vehicle_description": "Kaydederek, bir sonraki adımda canlı veriye bağlayabileceksiniz.",
   "charger_feature_trailer_friendly": "Römork dostu tercih et",
-  "charger_feature_trailer_friendly_description": "ABRP kullanıcıları tarafından römork dostu olduğu bildirilen şarj cihazlarını tercih edin."
+  "charger_feature_trailer_friendly_description": "ABRP kullanıcıları tarafından römork dostu olduğu bildirilen şarj cihazlarını tercih edin.",
   "charger_feature_dog_friendly": "Köpek dostu tercih et",
   "charger_feature_dog_friendly_description": "ABRP kullanıcıları tarafından köpekler için uygun olduğu bildirilen şarj cihazlarını tercih edin.",
   "charger_feature_has_playground": "Yakınında oyun alanı tercih et",
@@ -1946,7 +1946,7 @@
   "oauth_if_you_approve": "Kabul ederseniz, şunları yapabilir:",
   "oauth_right_read_user_info": "Adınızı ve e-posta adresinizi okuyun",
   "oauth_right_read_telemetry": "Aracınızın canlı verilerini okuyun",
-  "oauth_right_send_telemetry": "Aracınızın canlı verilerini ABRP'ye gönderin"
+  "oauth_right_send_telemetry": "Aracınızın canlı verilerini ABRP'ye gönderin",
   "oauth_right_get_plan": "En son planınızın ayrıntılarını alın",
   "oauth_right_vehicle_history": "Seçilen aracın sürüş ve şarj geçmişine ait tüm verileri okuyun",
   "oauth_select_vehicle": "Lütfen bu işlemi gerçekleştirmek istediğiniz aracınızı seçin:",
@@ -2046,7 +2046,7 @@
   "add_card": "Kart ekle",
   "no_user_charge_cards": "Bu şarj cihazı için kart mevcut değil",
   "auth_banner_title": "Hesabınızı kaybetmeyin",
-  "auth_banner_description": "Hesabınıza başka bir giriş yöntemi ekleyerek daha kolay erişim ve gelişmiş güvenlik sağlayın. Parolanızı unutma konusunda endişelenmenize gerek kalmasın!"
+  "auth_banner_description": "Hesabınıza başka bir giriş yöntemi ekleyerek daha kolay erişim ve gelişmiş güvenlik sağlayın. Parolanızı unutma konusunda endişelenmenize gerek kalmasın!",
   "auth_banner_add_button": "Giriş Yöntemi Ekle",
   "tesla_share_permissions_title": "İzin gerekli",
   "tesla_share_permissions_description": "Tesla'nızla paylaşım yapabilmek için Tesla hesabınızda ABRP'ye aracınızı kontrol etme izni vermeniz gerekiyor. Aşağıdaki düğmeye tıklayın ve \"Araç komutlarına izin ver\" seçeneğini işaretleyin.",
@@ -2096,7 +2096,7 @@
   "live_data_sharing_ended": "Paylaşılan rotanın sona ermiş görünüyor.",
   "unknown_name": "Bilinmeyen",
   "live_data_sharing_trip_to": "{{destination}} yolculuğu",
-  "unknown_destination": "Bilinmeyen"
+  "unknown_destination": "Bilinmeyen",
   "live_data_sharing_joining_group_general_issue": "Bilinmeyen bir sorun oluştu, lütfen tekrar deneyin. Sorun devam ederse destek ile iletişime geçin.",
   "live_data_sharing_joining_group_ended": "Bu grup zaten sona erdi",
   "live_data_sharing_group_duration_title_ended": "Bu grup şu tarihte sona erecek",
@@ -2142,7 +2142,7 @@
   "live_data_share_group_join_link": "Birinin gruba katılmasına izin vermek için bağlantıyı paylaşın",
   "live_data_sharing_group_user_created_groups": "Gruplarınız",
   "live_data_sharing_group_user_created_groups_description": "Oluşturduğunuz ve yönettiğiniz canlı veri paylaşım grupları",
-  "live_data_share_group_date_error": "Gelecekte bir zaman seçin"
+  "live_data_share_group_date_error": "Gelecekte bir zaman seçin",
   "live_data_share_group_information": "Grup bilgileri",
   "live_data_sharing_no_group_association": "Hiçbir grupla ilişkilendirilmediniz",
   "live_data_share_group_add_your_vehicles": "Araçlarınızı gruba ekleyin",
@@ -2190,7 +2190,7 @@
   "install_voice_engine": "{{settings}} seçeneğine tıklayarak TTS motorunu yapılandırın veya {{ignore}} seçeneğine tıklayarak ses çıktısını devre dışı bırakın",
   "card_subscription_fee_per_type": "Abonelik: {{fee}} / {{type}} başına",
   "reorder_vehicles": "Araçları yeniden sırala",
-  "edit_order": "Sıralamayı düzenle"
+  "edit_order": "Sıralamayı düzenle",
   "amenity_form_timing": "Duraklama yap",
   "delete_vehicle_reset_account": "Hesabı sıfırla",
   "delete_vehicle_reset_account_description": "Bu işlem tüm verilerinizi (araçlar dahil) kalıcı olarak silecektir. Emin misiniz?",
@@ -2200,7 +2200,7 @@
   "departure_soc_description_detailed": "Yolculuğa başlarken aracınızın başlangıç pil seviyesi (Şarj Durumu/SoC).",
   "destination_arrival_soc_description_detailed": "Son varış noktasına ulaştığınızda izin verilen minimum pil seviyesi (Şarj Durumu/SoC).",
   "charger_arrival_soc_description_detailed": "Yolculuğunuz sırasında herhangi bir şarj istasyonuna vardığınızda izin verilen minimum pil seviyesi (Şarj Durumu/SoC).",
-  "charger_departure_soc_description_detailed": "Şarj istasyonlarında şarj edilecek maksimum pil seviyesi (Şarj Durumu/SoC)."
+  "charger_departure_soc_description_detailed": "Şarj istasyonlarında şarj edilecek maksimum pil seviyesi (Şarj Durumu/SoC).",
   "view_details": "Detayları görüntüle",
   "amenity_add_plan": "Plana ekle",
   "amenity_options": "Tesis seçenekleri",
@@ -2210,11 +2210,18 @@
   "amenities_more": "Yakında {{count}} daha fazla {{category}}",
   "view_charger": "Şarj cihazını görüntüle",
   "amenity_edit_search": "Tesis aramasını düzenle",
-  "amenity_search_current_of_total": "Tesis araması {{current}} / {{total}}"
+  "amenity_search_current_of_total": "Tesis araması {{current}} / {{total}}",
   "amenity_stop": "{{category}} durağı",
   "general_error_message": "Bir hata oluştu, lütfen tekrar deneyin.",
   "tesla_streaming_banner_title": "Tesla akışı için işlem gerekli",
   "tesla_streaming_banner_description": "1 Şubat 2025 itibarıyla, tüm Tesla araçları için Tesla akışı zorunlu olacaktır. ABRP'yi Tesla'nızla kullanmaya devam etmek için aracınıza akışı ekleyin.",
   "tesla_streaming_banner_button": "Akışı ekle",
-  "nearby_chargers_replace_replan": "Değiştir ve yeniden planla"
+  "nearby_chargers_replace_replan": "Değiştir ve yeniden planla",
+  "exporting": "Exporting",
+  "my_drives_exporting_progress": "Exporting {{current}}/{{total}} activities",
+  "tesla_region_banner_title": "Tesla account region issue",
+  "tesla_region_banner_description": "Tesla reports that your vehicle is not in the same region as your Tesla account, which prevents us from enabling streaming. Please go to your Tesla Profile and correct your account region. After this change has become effective, unlink your Tesla in ABRP and link it again.",
+  "tesla_region_banner_button": "Go to Tesla Profile",
+  "enode_connection_successful": "Connection successful",
+  "enode_connection_successful_description": "Your vehicle is now successfully connected to ABRP! It may take a couple of minutes for the telemetry to appear in the app and the connection status to change."
 }
