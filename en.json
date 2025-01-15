@@ -2191,7 +2191,7 @@
   "amenities_more": "+ {{count}} more {{category}} nearby",
   "view_charger": "View charger",
   "amenity_edit_search": "Edit amenity search",
-  "amenity_search_current_of_total": "Amenity serach {{current}} of {{total}}",
+  "amenity_search_current_of_total": "Amenity search {{current}} of {{total}}",
   "amenity_stop": "{{category}} stop",
   "general_error_message": "An error occurred, please try again.",
   "tesla_streaming_banner_title": "Tesla streaming action required",
