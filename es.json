@@ -2164,9 +2164,9 @@
   "live_data_sharing_groups": "Live data groups",
   "live_data_sharing_groups_short": "Groups",
   "live_data_share_group_members_list": "Group participants",
-  "live_data_share_add_vehicle_group": "Add your vheicles to the group",
+  "live_data_share_add_vehicle_group": "Add your vehicles to the group",
   "live_data_share_group_share_vehicles": "Share vehicles",
-  "live_data_share_group_no_members": "This group has no members jet",
+  "live_data_share_group_no_members": "This group has no members yet",
   "no_car_models_found": "It seems like we don't have a car model that you are looking for, please request a vehicle.",
   "navigation_notification_title": "Navigation ongoing",
   "car_models_no_car_models_found": "It seems like we don't have a vehicle model that you are looking for. Feel free to submit a request for it if you like.",
@@ -2216,5 +2216,12 @@
   "tesla_streaming_banner_title": "Tesla streaming action required",
   "tesla_streaming_banner_description": "From 1st of February 2025, Tesla streaming will be required for all Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
   "tesla_streaming_banner_button": "Add streaming",
-  "nearby_chargers_replace_replan": "Change and replan"
+  "nearby_chargers_replace_replan": "Change and replan",
+  "exporting": "Exporting",
+  "my_drives_exporting_progress": "Exporting {{current}}/{{total}} activities",
+  "tesla_region_banner_title": "Tesla account region issue",
+  "tesla_region_banner_description": "Tesla reports that your vehicle is not in the same region as your Tesla account, which prevents us from enabling streaming. Please go to your Tesla Profile and correct your account region. After this change has become effective, unlink your Tesla in ABRP and link it again.",
+  "tesla_region_banner_button": "Go to Tesla Profile",
+  "enode_connection_successful": "Connection successful",
+  "enode_connection_successful_description": "Your vehicle is now successfully connected to ABRP! It may take a couple of minutes for the telemetry to appear in the app and the connection status to change."
 }
