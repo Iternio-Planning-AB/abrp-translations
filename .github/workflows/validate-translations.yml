@@ -1,20 +1,23 @@
-name: JSON syntax
-
+name: json-yaml-validate
 on:
   push:
-    paths:
-      - '**.json'
+    branches:
+      - main
   pull_request:
-    paths:
-      - '**.json'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write # enable write permissions for pull request comments
 
 jobs:
-  test:
+  json-yaml-validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - name: Check JSON syntax
-        uses: limitusus/json-syntax-check@v2
+      - uses: actions/checkout@v4
+
+      - name: json-yaml-validate
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v3.2.1
         with:
-          pattern: "\\.json$"
+          comment: "true"
