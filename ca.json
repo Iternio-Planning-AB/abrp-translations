@@ -2217,11 +2217,11 @@
   "tesla_streaming_banner_description": "A partir de l'1 de febrer de 2025, es requerirà l'emissió de Tesla per a tots els vehicles de Tesla. Per a continuar usant ABRP en el vostre Tesla, afegiu l'emissió al vehicle.",
   "tesla_streaming_banner_button": "Afegeix l'emissió",
   "nearby_chargers_replace_replan": "Canvia i recalcula",
-  "exporting": "Exporting",
-  "my_drives_exporting_progress": "Exporting {{current}}/{{total}} activities",
-  "tesla_region_banner_title": "Tesla account region issue",
-  "tesla_region_banner_description": "Tesla reports that your vehicle is not in the same region as your Tesla account, which prevents us from enabling streaming. Please go to your Tesla Profile and correct your account region. After this change has become effective, unlink your Tesla in ABRP and link it again.",
-  "tesla_region_banner_button": "Go to Tesla Profile",
-  "enode_connection_successful": "Connection successful",
-  "enode_connection_successful_description": "Your vehicle is now successfully connected to ABRP! It may take a couple of minutes for the telemetry to appear in the app and the connection status to change."
+  "exporting": "Exportació",
+  "my_drives_exporting_progress": "S'estan exportant {{current}}/{{total}} activitats",
+  "tesla_region_banner_title": "Incidència amb la regió del compte Tesla",
+  "tesla_region_banner_description": "Tesla informa qeu el vostre vehicle no és en la mateixa regió que el vostre compte Tesla, això ens evita d'activar l'emissió. Aneu al vostre perfil Tesla i corregiu la regió del compte. Després que el canvi sigui efectiu, desvinculeu Tesla a ABRP i torneu a vincular-ho.",
+  "tesla_region_banner_button": "Ves al perfil Tesla",
+  "enode_connection_successful": "Connexió amb èxit",
+  "enode_connection_successful_description": "El vostre vehicle ara està connectat correctament amb ABRP! Pot trigar un parell de minuts perquè la telemetria aparegui a l'aplicació i l'estat de la connexió canviï."
 }
