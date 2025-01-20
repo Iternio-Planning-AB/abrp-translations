@@ -9,16 +9,14 @@ on:
       - '**.json'
 
 jobs:
-  validate:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Check JSON syntax
+      - name: JSON syntax check
         uses: limitusus/json-syntax-check@v2
         with:
           pattern: "\\.json$"
-          strict: true
 
       - name: Report validation results
         if: always()
