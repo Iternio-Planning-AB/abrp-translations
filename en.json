@@ -2202,5 +2202,6 @@
   "tesla_region_banner_button": "Go to Tesla Profile",
   "nearby_chargers_replace_replan": "Change and replan",
   "enode_connection_successful": "Connection successful",
-  "enode_connection_successful_description": "Your vehicle is now successfully connected to ABRP! It may take a couple of minutes for the telemetry to appear in the app and the connection status to change."
+  "enode_connection_successful_description": "Your vehicle is now successfully connected to ABRP! It may take a couple of minutes for the telemetry to appear in the app and the connection status to change.",
+  "set_currency_title_short": "Currency code"
 }

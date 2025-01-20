@@ -2223,5 +2223,6 @@
   "tesla_region_banner_description": "Tesla hlásí, že Vaše vozidlo není ve stejné oblasti jako Váš účet Tesla, což nám brání povolit streamování. Přejděte na svůj profil Tesla a opravte oblast svého účtu. Poté, co tato změna vstoupí v platnost, zrušte propojení svého vozidla Tesla v ABRP a znovu jej propojte.",
   "tesla_region_banner_button": "Přejít na profil Tesla",
   "enode_connection_successful": "Propojení bylo úspěšné",
-  "enode_connection_successful_description": "Vaše vozidlo je nyní úspěšně připojeno k ABRP! Může trvat několik minut než se v aplikaci objeví telemetrie a změní se stav připojení."
+  "enode_connection_successful_description": "Vaše vozidlo je nyní úspěšně připojeno k ABRP! Může trvat několik minut než se v aplikaci objeví telemetrie a změní se stav připojení.",
+  "set_currency_title_short": "Currency code"
 }

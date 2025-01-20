@@ -2223,5 +2223,6 @@
   "tesla_region_banner_description": "Segundo Tesla, o teu vehículo non está na mesma rexión á que pertence a túa conta, o que imposibilita habilitar a transmisión de datos. Por favor, corrixe a rexión da túa conta. Despois de se facer efectivo o troco, desvincula e volve vincular o teu Tesla con ABRP.",
   "tesla_region_banner_button": "Ir ao perfil de Tesla",
   "enode_connection_successful": "Conexión realizada con éxito",
-  "enode_connection_successful_description": "O teu vehículo está vinculado co ABRP! É posíbel que a telemetría tarde un par de minutos en aparecer na app, así como o estado da conexión."
+  "enode_connection_successful_description": "O teu vehículo está vinculado co ABRP! É posíbel que a telemetría tarde un par de minutos en aparecer na app, así como o estado da conexión.",
+  "set_currency_title_short": "Currency code"
 }

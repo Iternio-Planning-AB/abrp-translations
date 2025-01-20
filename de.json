@@ -2223,5 +2223,6 @@
   "tesla_region_banner_description": "Tesla meldet, dass sich dein Fahrzeug nicht in der gleichen Region wie dein Tesla-Konto befindet, wodurch wir das Streaming nicht aktivieren können. Bitte gehe zu deinem Tesla-Profil und korrigiere deine Kontoregion. Nachdem diese Änderung in Kraft getreten ist, hebe die Verknüpfung deines Tesla in ABRP auf und verknüpfe ihn erneut.",
   "tesla_region_banner_button": "Zum Tesla-Profil gehen",
   "enode_connection_successful": "Verbindung erfolgreich",
-  "enode_connection_successful_description": "Dein Fahrzeug ist nun erfolgreich mit ABRP verbunden! Es kann ein paar Minuten dauern, bis die Telemetrie in der App erscheint und sich der Verbindungsstatus ändert."
+  "enode_connection_successful_description": "Dein Fahrzeug ist nun erfolgreich mit ABRP verbunden! Es kann ein paar Minuten dauern, bis die Telemetrie in der App erscheint und sich der Verbindungsstatus ändert.",
+  "set_currency_title_short": "Currency code"
 }

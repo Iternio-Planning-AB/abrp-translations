@@ -2223,5 +2223,6 @@
   "tesla_region_banner_description": "Tesla informa qeu el vostre vehicle no és en la mateixa regió que el vostre compte Tesla, això ens evita d'activar l'emissió. Aneu al vostre perfil Tesla i corregiu la regió del compte. Després que el canvi sigui efectiu, desvinculeu Tesla a ABRP i torneu a vincular-ho.",
   "tesla_region_banner_button": "Ves al perfil Tesla",
   "enode_connection_successful": "Connexió amb èxit",
-  "enode_connection_successful_description": "El vostre vehicle ara està connectat correctament amb ABRP! Pot trigar un parell de minuts perquè la telemetria aparegui a l'aplicació i l'estat de la connexió canviï."
+  "enode_connection_successful_description": "El vostre vehicle ara està connectat correctament amb ABRP! Pot trigar un parell de minuts perquè la telemetria aparegui a l'aplicació i l'estat de la connexió canviï.",
+  "set_currency_title_short": "Currency code"
 }
