@@ -1,4 +1,4 @@
-name: Validate JSON
+name: Validate Translations
 
 on:
   pull_request:
@@ -9,19 +9,35 @@ on:
       - '**.json'
 
 jobs:
-  verify-json:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: |
-            {
-              "type": "object",
-              "additionalProperties": {
-                "type": "string"
-              }
-            }
-          INPUT_JSONS: $(find . -name "*.json" -type f | tr '\n' ',')
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ajv-cli
+        run: npm install -g ajv-cli
+
+      - name: Create Schema
+        run: |
+          echo '{
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            },
+            "minProperties": 1
+          }' > schema.json
+
+      - name: Validate JSON files
+        run: |
+          for file in *.json; do
+            if [ "$file" != "schema.json" ]; then
+              echo "Validating $file..."
+              ajv validate -s schema.json -d "$file" --strict=false || exit 1
+            fi
+          done
