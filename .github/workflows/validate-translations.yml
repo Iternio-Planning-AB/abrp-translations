@@ -14,30 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Check JSON syntax
+        uses: limitusus/json-syntax-check@v2
         with:
-          node-version: '20'
+          pattern: "\\.json$"
+          strict: true
 
-      - name: Install ajv-cli
-        run: npm install -g ajv-cli
-
-      - name: Create Schema
+      - name: Report validation results
+        if: always()
         run: |
-          echo '{
-            "$schema": "http://json-schema.org/draft-07/schema#",
-            "type": "object",
-            "additionalProperties": {
-              "type": "string"
-            },
-            "minProperties": 1
-          }' > schema.json
-
-      - name: Validate JSON files
-        run: |
-          for file in *.json; do
-            if [ "$file" != "schema.json" ]; then
-              echo "Validating $file..."
-              ajv validate -s schema.json -d "$file" --strict=false || exit 1
-            fi
-          done
+          if [ "${{ job.status }}" = "success" ]; then
+            echo "✅ All JSON files are valid"
+          else
+            echo "❌ Found invalid JSON files"
+            exit 1
+          fi
