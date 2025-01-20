@@ -2218,8 +2218,8 @@
   "tesla_streaming_banner_button": "Add streaming",
   "nearby_chargers_replace_replan": "Change and replan",
   "exporting": "Exporting",
-  "my_drives_exporting_progress": "Exporting {{current}}/{{total}} activities",
-  "tesla_region_banner_title": "Tesla account region issue
+  "my_drives_exporting_progress": "Exporting {{current}}/{{total}} activities"
+  "tesla_region_banner_title": "Tesla account region issue",
   "tesla_region_banner_description": "Tesla reports that your vehicle is not in the same region as your Tesla account, which prevents us from enabling streaming. Please go to your Tesla Profile and correct your account region. After this change has become effective, unlink your Tesla in ABRP and link it again.",
   "tesla_region_banner_button": "Go to Tesla Profile",
   "enode_connection_successful": "Connection successful",
