@@ -2224,5 +2224,5 @@
   "tesla_region_banner_button": "Menj a Tesla Profilba",
   "enode_connection_successful": "Kapcsolódás sikerült",
   "enode_connection_successful_description": "A járműved sikeresen kapcsolódott az ABRP-hez! Párc percbe beletelhet, míg a telemetriai adatok megjelennek az appban és a kapcsolat állapota megváltozik.",
-  "set_currency_title_short": "Currency code"
+  "set_currency_title_short": "Pénznem"
 }
