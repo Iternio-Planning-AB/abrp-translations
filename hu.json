@@ -2223,5 +2223,6 @@
   "tesla_region_banner_description": "A Tesla azt jelzi, hogy a járműved nem ugyanabban a régióban van, mint a Tesla fiókod, ami meggátolja számunkra a streaming engedélyezését. Kérjük, menj a Tesla Profilodba és korrigáld a fiókod régióját. Miután ez a módosítás életbe lépett, szüntesd meg a kapcsolatot a Tesláddal az ABRP-ben és csatlakotasd újra.",
   "tesla_region_banner_button": "Menj a Tesla Profilba",
   "enode_connection_successful": "Kapcsolódás sikerült",
-  "enode_connection_successful_description": "A járműved sikeresen kapcsolódott az ABRP-hez! Párc percbe beletelhet, míg a telemetriai adatok megjelennek az appban és a kapcsolat állapota megváltozik."
+  "enode_connection_successful_description": "A járműved sikeresen kapcsolódott az ABRP-hez! Párc percbe beletelhet, míg a telemetriai adatok megjelennek az appban és a kapcsolat állapota megváltozik.",
+  "set_currency_title_short": "Currency code"
 }
