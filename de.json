@@ -1982,7 +1982,7 @@
   "obd_pid_virtual_pid": "Virtuelles Pid",
   "obd_pid_virtual_pid_description": "Virtuelle Pids verwenden andere Telemetrieschlüssel, um einen Wert zu berechnen, z.B. wird die Leistung oft nicht von den Fahrzeugen geliefert, kann aber anhand der Ergebnisse der Spannungs- und Stromwerte berechnet werden.",
   "obd_pid_protocol_generic": "Generisch",
-  "obd_pid_data": "Unbearbeitete OBD-Antwort",
+  "obd_pid_data": "Rohe OBD-Antwort",
   "obd_pid_parsed_response": "Geparste TLM-Daten",
   "obd_pid_log": "Protokoll",
   "obd_pid_equation_map": "Map",
