@@ -2224,5 +2224,14 @@
   "tesla_region_banner_button": "Zum Tesla-Profil gehen",
   "enode_connection_successful": "Verbindung erfolgreich",
   "enode_connection_successful_description": "Dein Fahrzeug ist nun erfolgreich mit ABRP verbunden! Es kann ein paar Minuten dauern, bis die Telemetrie in der App erscheint und sich der Verbindungsstatus ändert.",
-  "set_currency_title_short": "Currency code"
+  "set_currency_title_short": "Currency code",
+  "tesla_streaming_info_badge_title": "Streaming info",
+  "tesla_streaming_remove_key_title": "How to stop Tesla streaming",
+  "tesla_streaming_remove_key_step_1": "On the touchscreen, touch",
+  "tesla_streaming_remove_key_step_1_bold": "Controls > Locks",
+  "tesla_streaming_remove_key_step_2_first": "In the key list, find the key called",
+  "tesla_streaming_remove_key_step_2_bold": "abetterrouteplanner.com",
+  "tesla_streaming_remove_key_step_2_last": "and touch its associated trash icon.",
+  "tesla_streaming_remove_key_step_3": "When prompted, scan an authenticated key on the card reader to confirm the deletion. When complete, the key list no longer includes the deleted key.",
+  "tesla_streaming_remove_key_info_card": "If you can't find the key in the key list - it might be present on the bottom of this list. You might need to press on the list and scroll down."
 }
