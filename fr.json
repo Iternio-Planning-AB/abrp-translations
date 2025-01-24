@@ -2217,12 +2217,12 @@
   "tesla_streaming_banner_description": "A partir du 1er février 2025, la diffusion de données Tesla sera obligatoire pour tous les véhicules Tesla. Pour continuer à utiliser ABRP avec votre Tesla, ajoutez la diffusion de données (streaming) à votre véhicule.",
   "tesla_streaming_banner_button": "Ajouter le streaming",
   "nearby_chargers_replace_replan": "Modifier et replanifier",
-  "exporting": "Exporting",
-  "my_drives_exporting_progress": "Exporting {{current}}/{{total}} activities",
-  "tesla_region_banner_title": "Tesla account region issue",
-  "tesla_region_banner_description": "Tesla reports that your vehicle is not in the same region as your Tesla account, which prevents us from enabling streaming. Please go to your Tesla Profile and correct your account region. After this change has become effective, unlink your Tesla in ABRP and link it again.",
-  "tesla_region_banner_button": "Go to Tesla Profile",
-  "enode_connection_successful": "Connection successful",
-  "enode_connection_successful_description": "Your vehicle is now successfully connected to ABRP! It may take a couple of minutes for the telemetry to appear in the app and the connection status to change.",
-  "set_currency_title_short": "Currency code"
+  "exporting": "Exportation",
+  "my_drives_exporting_progress": "Exportation des activités {{current}}/{{total}}",
+  "tesla_region_banner_title": "Problème de région du compte Tesla",
+  "tesla_region_banner_description": "Tesla signale que votre véhicule ne se trouve pas dans la même région que votre compte Tesla, ce qui nous empêche d'activer le streaming. Veuillez accéder à votre profil Tesla et corriger la région de votre compte. Une fois ce changement effectif, dissociez votre Tesla d'ABRP et reliez-la à nouveau.",
+  "tesla_region_banner_button": "Accéder au profil Tesla",
+  "enode_connection_successful": "Connexion réussie",
+  "enode_connection_successful_description": "Votre véhicule est désormais connecté avec succès à ABRP ! Il peut falloir quelques minutes pour que la télémétrie apparaisse dans l'application et que l'état de la connexion change.",
+  "set_currency_title_short": "Code de devise"
 }
