@@ -2225,13 +2225,13 @@
   "enode_connection_successful": "Connexion réussie",
   "enode_connection_successful_description": "Votre véhicule est désormais connecté avec succès à ABRP ! Il peut falloir quelques minutes pour que la télémétrie apparaisse dans l'application et que l'état de la connexion change.",
   "set_currency_title_short": "Code de devise",
-  "tesla_streaming_info_badge_title": "Streaming info",
-  "tesla_streaming_remove_key_title": "How to stop Tesla streaming",
-  "tesla_streaming_remove_key_step_1": "On the touchscreen, touch",
-  "tesla_streaming_remove_key_step_1_bold": "Controls > Locks",
-  "tesla_streaming_remove_key_step_2_first": "In the key list, find the key called",
+  "tesla_streaming_info_badge_title": "Informations sur le streaming",
+  "tesla_streaming_remove_key_title": "Comment arrêter le streaming Tesla",
+  "tesla_streaming_remove_key_step_1": "Sur l'écran tactile, touchez",
+  "tesla_streaming_remove_key_step_1_bold": "Contrôles > Serrures",
+  "tesla_streaming_remove_key_step_2_first": "Dans la liste des clés, recherchez la clé appelée",
   "tesla_streaming_remove_key_step_2_bold": "abetterrouteplanner.com",
-  "tesla_streaming_remove_key_step_2_last": "and touch its associated trash icon.",
-  "tesla_streaming_remove_key_step_3": "When prompted, scan an authenticated key on the card reader to confirm the deletion. When complete, the key list no longer includes the deleted key.",
-  "tesla_streaming_remove_key_info_card": "If you can't find the key in the key list - it might be present on the bottom of this list. You might need to press on the list and scroll down."
+  "tesla_streaming_remove_key_step_2_last": "et touchez l'icône de corbeille associée.",
+  "tesla_streaming_remove_key_step_3": "Lorsque vous y êtes invité, scannez une clé authentifiée (Badge) sur le lecteur de carte pour confirmer la suppression. Une fois l'opération terminée, la liste des clés n'inclut plus la clé supprimée.",
+  "tesla_streaming_remove_key_info_card": "Si vous ne trouvez pas la clé dans la liste des clés, elle est peut-être présente au bas de cette liste. Vous devrez peut-être appuyer sur la liste et faire défiler vers le bas."
 }
