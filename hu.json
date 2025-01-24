@@ -2226,12 +2226,12 @@
   "enode_connection_successful_description": "A járműved sikeresen kapcsolódott az ABRP-hez! Párc percbe beletelhet, míg a telemetriai adatok megjelennek az appban és a kapcsolat állapota megváltozik.",
   "set_currency_title_short": "Pénznem",
   "tesla_streaming_info_badge_title": "Streaming info",
-  "tesla_streaming_remove_key_title": "How to stop Tesla streaming",
-  "tesla_streaming_remove_key_step_1": "On the touchscreen, touch",
-  "tesla_streaming_remove_key_step_1_bold": "Controls > Locks",
-  "tesla_streaming_remove_key_step_2_first": "In the key list, find the key called",
+  "tesla_streaming_remove_key_title": "Hogy állítsd le a Tesla streaming-et",
+  "tesla_streaming_remove_key_step_1": "Az érintőképernyőn érintsd meg",
+  "tesla_streaming_remove_key_step_1_bold": "Vezérel > Zár",
+  "tesla_streaming_remove_key_step_2_first": "A kulcs listában keresd meg a kulcsot, amleyik ezt hívta: ",
   "tesla_streaming_remove_key_step_2_bold": "abetterrouteplanner.com",
-  "tesla_streaming_remove_key_step_2_last": "and touch its associated trash icon.",
-  "tesla_streaming_remove_key_step_3": "When prompted, scan an authenticated key on the card reader to confirm the deletion. When complete, the key list no longer includes the deleted key.",
-  "tesla_streaming_remove_key_info_card": "If you can't find the key in the key list - it might be present on the bottom of this list. You might need to press on the list and scroll down."
+  "tesla_streaming_remove_key_step_2_last": "és érintsd meg a hozzátartozó szemetes ikont.",
+  "tesla_streaming_remove_key_step_3": "Megérintve, olvasd be a jóváhagyott kulcsot a kártyaolvasón, hogy jóváhagyjad a törlést. Mikor kész, a kulcs lista többé már nem tartalmazza a törölt kulcsot.",
+  "tesla_streaming_remove_key_info_card": "Ha nem találod a kulcsot a kulcs listában - lehet, hogy a lista levvégén van. Lehet, rá kell nyomnod a listára majd lefelé görgetni."
 }
