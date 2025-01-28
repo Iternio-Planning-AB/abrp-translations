@@ -2212,5 +2212,13 @@
   "tesla_streaming_remove_key_step_2_bold": "abetterrouteplanner.com",
   "tesla_streaming_remove_key_step_2_last": "and touch its associated trash icon.",
   "tesla_streaming_remove_key_step_3": "When prompted, scan an authenticated key on the card reader to confirm the deletion. When complete, the key list no longer includes the deleted key.",
-  "tesla_streaming_remove_key_info_card": "If you can't find the key in the key list - it might be present on the bottom of this list. You might need to press on the list and scroll down."
+  "tesla_streaming_remove_key_info_card": "If you can't find the key in the key list - it might be present on the bottom of this list. You might need to press on the list and scroll down.",
+  "no_obd_data": "No OBD data",
+  "tesla_transition_basic_title": "Tesla Live Data Changes",
+  "tesla_transition_basic_description": "Tesla is changing their car connection service and will start charging money for data updates. Starting February 1st, your Tesla live data will switch to basic mode (SoC updates every 5 minutes) unless you upgrade to ABRP Premium. With Premium you get:\n\n• Real-time live data\n• Calibration of your vehicle's consumption\n• Live speed data\n• Estimation of battery degradation\n• Vehicle, outside and battery temperature\n• ... and all the other Premium features",
+  "tesla_transition_streaming_title": "Enable Tesla Streaming",
+  "tesla_transition_streaming_description": "Due to Tesla's new connection service charges, you need to enable Tesla live data streaming to continue to receive live data from Tesla.",
+  "tesla_transition_upgrade": "Upgrade to Premium",
+  "tesla_transition_setup": "Set Up Streaming",
+  "tesla_transition_basic_continue": "Continue with Basic Live Data"
 }
