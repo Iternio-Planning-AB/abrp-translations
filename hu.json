@@ -2234,12 +2234,12 @@
   "tesla_streaming_remove_key_step_2_last": "és érintsd meg a hozzátartozó szemetes ikont.",
   "tesla_streaming_remove_key_step_3": "Megérintve, olvasd be a jóváhagyott kulcsot a kártyaolvasón, hogy jóváhagyjad a törlést. Mikor kész, a kulcs lista többé már nem tartalmazza a törölt kulcsot.",
   "tesla_streaming_remove_key_info_card": "Ha nem találod a kulcsot a kulcs listában - lehet, hogy a lista levvégén van. Lehet, rá kell nyomnod a listára majd lefelé görgetni.",
-  "no_obd_data": "No OBD data",
-  "tesla_transition_basic_title": "Tesla Live Data Changes",
-  "tesla_transition_basic_description": "Tesla is changing their car connection service and will start charging money for data updates. Starting February 1st, your Tesla live data will switch to basic mode (SoC updates every 5 minutes) unless you upgrade to ABRP Premium. With Premium you get:\n\n• Real-time live data\n• Calibration of your vehicle's consumption\n• Live speed data\n• Estimation of battery degradation\n• Vehicle, outside and battery temperature\n• ... and all the other Premium features",
-  "tesla_transition_streaming_title": "Enable Tesla Streaming",
-  "tesla_transition_streaming_description": "Due to Tesla's new connection service charges, you need to enable Tesla live data streaming to continue to receive live data from Tesla.",
-  "tesla_transition_upgrade": "Upgrade to Premium",
-  "tesla_transition_setup": "Set Up Streaming",
-  "tesla_transition_basic_continue": "Continue with Basic Live Data"
+  "no_obd_data": "Nincs OBD adat",
+  "tesla_transition_basic_title": "Tesla Élő Adat Változás",
+  "tesla_transition_basic_description": "A Tesla módosítja az autóinak a kapcsolódási szolgáltatását és pénzt fog felszámítani az adatfrissítésekért. Február 1-től, a Tesla élő adatod át fog váltani alap módba (SoC frissítés 5 percenként) hacsak nem frissítesz ABRP Premiumra. A Premiummal ezt kapod:\n\n• Valós idejű élő adat\n• A járműved fogyasztásának kalibrálása\n• Élő sebesség adatok\n• Akkumulátor degradáció becslés\n• Jármű, kinti és akku hőmérséklet\n• ... és az összes egyéb Premium sajátosság",
+  "tesla_transition_streaming_title": "Tesla streamelés engedélyezése",
+  "tesla_transition_streaming_description": "A Tesla új kapcsolódási szolgáltatás változások miatt, engedélyezned kell a Tesla élő adat streaminget, hogy továbbra is kapjál élő adatokat a Teslától.",
+  "tesla_transition_upgrade": "Frissítés Premiumra",
+  "tesla_transition_setup": "Streamelés beállítása",
+  "tesla_transition_basic_continue": "Folytatás Alap Élő Adatokkal"
 }
