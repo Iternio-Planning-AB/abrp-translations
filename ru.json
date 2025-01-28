@@ -2234,12 +2234,12 @@
   "tesla_streaming_remove_key_step_2_last": "и нажмите на значок корзины рядом с ним.",
   "tesla_streaming_remove_key_step_3": "Когда появится запрос, приложите авторизованный ключ к считывателю карт для подтверждения удаления. После завершения ключ будет удален из списка.",
   "tesla_streaming_remove_key_info_card": "Если вы не можете найти ключ в списке, он может находиться внизу списка. Возможно, вам нужно прокрутить вниз.",
-  "no_obd_data": "No OBD data",
-  "tesla_transition_basic_title": "Tesla Live Data Changes",
-  "tesla_transition_basic_description": "Tesla is changing their car connection service and will start charging money for data updates. Starting February 1st, your Tesla live data will switch to basic mode (SoC updates every 5 minutes) unless you upgrade to ABRP Premium. With Premium you get:\n\n• Real-time live data\n• Calibration of your vehicle's consumption\n• Live speed data\n• Estimation of battery degradation\n• Vehicle, outside and battery temperature\n• ... and all the other Premium features",
-  "tesla_transition_streaming_title": "Enable Tesla Streaming",
-  "tesla_transition_streaming_description": "Due to Tesla's new connection service charges, you need to enable Tesla live data streaming to continue to receive live data from Tesla.",
-  "tesla_transition_upgrade": "Upgrade to Premium",
-  "tesla_transition_setup": "Set Up Streaming",
-  "tesla_transition_basic_continue": "Continue with Basic Live Data"
+  "no_obd_data": "Нет данных OBD",
+  "tesla_transition_basic_title": "Изменения в данных Tesla Live",
+  "tesla_transition_basic_description": "Tesla меняет свою службу подключения автомобилей и начнет взимать плату за обновления данных. Начиная с 1 февраля, ваши данные Tesla Live переключатся в базовый режим (обновления уровня заряда каждые 5 минут), если вы не перейдете на ABRP Premium. С Premium вы получите:\n\n• Данные в реальном времени\n• Калибровку расхода вашего автомобиля\n• Данные о скорости в реальном времени\n• Оценку деградации батареи\n• Температуру автомобиля, внешней среды и батареи\n• ... и все остальные функции Premium",
+  "tesla_transition_streaming_title": "Включите потоковую передачу Tesla",
+  "tesla_transition_streaming_description": "В связи с новыми сборами Tesla за услуги подключения вам необходимо включить потоковую передачу данных Tesla Live, чтобы продолжать получать данные в реальном времени от Tesla.",
+  "tesla_transition_upgrade": "Перейти на Premium",
+  "tesla_transition_setup": "Настроить потоковую передачу",
+  "tesla_transition_basic_continue": "Продолжить с базовыми данными Live"
 }
