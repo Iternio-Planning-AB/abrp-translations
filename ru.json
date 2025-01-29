@@ -2241,5 +2241,8 @@
   "tesla_transition_streaming_description": "В связи с новыми сборами Tesla за услуги подключения вам необходимо включить потоковую передачу данных Tesla Live, чтобы продолжать получать данные в реальном времени от Tesla.",
   "tesla_transition_upgrade": "Перейти на Premium",
   "tesla_transition_setup": "Настроить потоковую передачу",
-  "tesla_transition_basic_continue": "Продолжить с базовыми данными Live"
+  "tesla_transition_basic_continue": "Продолжить с базовыми данными Live",
+  "plus_add_stop": "+ Add stop",
+  "eta_final_destination": "Show final destination as trip estimates",
+  "eta_next": "Show next waypoint as trip estimates"
 }

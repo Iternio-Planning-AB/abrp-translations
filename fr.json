@@ -2241,5 +2241,8 @@
   "tesla_transition_streaming_description": "En raison des nouveaux frais de service de connexion de Tesla, vous devez activer le streaming de données en direct Tesla pour continuer à recevoir des données en direct de Tesla.",
   "tesla_transition_upgrade": "Passer en Premium",
   "tesla_transition_setup": "Configurer le streaming",
-  "tesla_transition_basic_continue": "Continuer avec les données en direct (abonnement de base)"
+  "tesla_transition_basic_continue": "Continuer avec les données en direct (abonnement de base)",
+  "plus_add_stop": "+ Add stop",
+  "eta_final_destination": "Show final destination as trip estimates",
+  "eta_next": "Show next waypoint as trip estimates"
 }

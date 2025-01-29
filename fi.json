@@ -2241,5 +2241,8 @@
   "tesla_transition_streaming_description": "Teslan uusien yhteyspalvelumaksujen vuoksi sinun on otettava käyttöön Teslan livetietojen suoratoisto, jotta voit edelleen vastaanottaa livetietoja Teslasta.",
   "tesla_transition_upgrade": "Päivitä premiumiin",
   "tesla_transition_setup": "Määritä suoratoisto",
-  "tesla_transition_basic_continue": "Jatka peruslivetiedoilla"
+  "tesla_transition_basic_continue": "Jatka peruslivetiedoilla",
+  "plus_add_stop": "+ Add stop",
+  "eta_final_destination": "Show final destination as trip estimates",
+  "eta_next": "Show next waypoint as trip estimates"
 }

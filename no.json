@@ -2241,5 +2241,8 @@
   "tesla_transition_streaming_description": "Due to Tesla's new connection service charges, you need to enable Tesla live data streaming to continue to receive live data from Tesla.",
   "tesla_transition_upgrade": "Upgrade to Premium",
   "tesla_transition_setup": "Set Up Streaming",
-  "tesla_transition_basic_continue": "Continue with Basic Live Data"
+  "tesla_transition_basic_continue": "Continue with Basic Live Data",
+  "plus_add_stop": "+ Add stop",
+  "eta_final_destination": "Show final destination as trip estimates",
+  "eta_next": "Show next waypoint as trip estimates"
 }
