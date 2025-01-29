@@ -2234,12 +2234,12 @@
   "tesla_streaming_remove_key_step_2_last": "et touchez l'icône de corbeille associée.",
   "tesla_streaming_remove_key_step_3": "Lorsque vous y êtes invité, scannez une clé authentifiée (Badge) sur le lecteur de carte pour confirmer la suppression. Une fois l'opération terminée, la liste des clés n'inclut plus la clé supprimée.",
   "tesla_streaming_remove_key_info_card": "Si vous ne trouvez pas la clé dans la liste des clés, elle est peut-être présente au bas de cette liste. Vous devrez peut-être appuyer sur la liste et faire défiler vers le bas.",
-  "no_obd_data": "No OBD data",
-  "tesla_transition_basic_title": "Tesla Live Data Changes",
-  "tesla_transition_basic_description": "Tesla is changing their car connection service and will start charging money for data updates. Starting February 1st, your Tesla live data will switch to basic mode (SoC updates every 5 minutes) unless you upgrade to ABRP Premium. With Premium you get:\n\n• Real-time live data\n• Calibration of your vehicle's consumption\n• Live speed data\n• Estimation of battery degradation\n• Vehicle, outside and battery temperature\n• ... and all the other Premium features",
-  "tesla_transition_streaming_title": "Enable Tesla Streaming",
-  "tesla_transition_streaming_description": "Due to Tesla's new connection service charges, you need to enable Tesla live data streaming to continue to receive live data from Tesla.",
-  "tesla_transition_upgrade": "Upgrade to Premium",
-  "tesla_transition_setup": "Set Up Streaming",
-  "tesla_transition_basic_continue": "Continue with Basic Live Data"
+  "no_obd_data": "Pas de données OBD",
+  "tesla_transition_basic_title": "Modifications des données en direct de Tesla",
+  "tesla_transition_basic_description": "Tesla modifie son service de connexion à votre véhicule et commencera à facturer les mises à jour de données. À partir du 1er février 2025, vos données en direct Tesla passeront en mode de base (mises à jour du SoC toutes les 5 minutes) à moins que vous ne passiez à ABRP Premium. Avec Premium, vous obtenez :\n\n• Données en direct en temps réel\n• Étalonnage de la consommation de votre véhicule\n• Données de vitesse en direct\n• Estimation de la dégradation de la batterie\n• Température du véhicule, de l'extérieur et de la batterie\n• ... et toutes les autres fonctionnalités Premium",
+  "tesla_transition_streaming_title": "Activer le streaming Tesla",
+  "tesla_transition_streaming_description": "En raison des nouveaux frais de service de connexion de Tesla, vous devez activer le streaming de données en direct Tesla pour continuer à recevoir des données en direct de Tesla.",
+  "tesla_transition_upgrade": "Passer en Premium",
+  "tesla_transition_setup": "Configurer le streaming",
+  "tesla_transition_basic_continue": "Continuer avec les données en direct (abonnement de base)"
 }
