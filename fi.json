@@ -2225,7 +2225,7 @@
   "enode_connection_successful": "Yhteys onnistui",
   "enode_connection_successful_description": "Autosi on nyt yhdistetty onnistuneesti ABRP:hen! Saattaa kestää muutaman minuutin, ennen kuin telemetria näkyy sovelluksessa ja yhteyden tila muuttuu.",
   "set_currency_title_short": "Valuuttakoodi",
-  "tesla_streaming_info_badge_title": "Suoratoistotiedot",a
+  "tesla_streaming_info_badge_title": "Suoratoistotiedot",
   "tesla_streaming_remove_key_title": "Kuinka lopettaa Teslan suoratoisto",
   "tesla_streaming_remove_key_step_1": "Napsauta näytöstä",
   "tesla_streaming_remove_key_step_1_bold": "Säädöt > Lukot",
