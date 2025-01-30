@@ -2242,7 +2242,7 @@
   "tesla_transition_upgrade": "Passer en Premium",
   "tesla_transition_setup": "Configurer le streaming",
   "tesla_transition_basic_continue": "Continuer avec les données en direct (abonnement de base)",
-  "plus_add_stop": "+ Add stop",
-  "eta_final_destination": "Show final destination as trip estimates",
-  "eta_next": "Show next waypoint as trip estimates"
+  "plus_add_stop": "+ Ajouter un arrêt",
+  "eta_final_destination": "Afficher la destination finale sous forme d'estimations de trajet",
+  "eta_next": "Afficher le prochain point de passage (waypoint) sous forme d'estimations de trajet"
 }
