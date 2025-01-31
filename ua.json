@@ -2244,5 +2244,9 @@
   "tesla_transition_basic_continue": "Продовжити з базовими даними Live",
   "plus_add_stop": "+ Додати зупинку",
   "eta_final_destination": "Показувати кінцевий пункт призначення як оцінку часу подорожі",
-  "eta_next": "Показувати наступну проміжну точку як оцінку часу подорожі"
+  "eta_next": "Показувати наступну проміжну точку як оцінку часу подорожі",
+  "support_issue": "Issue with (or request for) ABRP",
+  "support_public_description": "The ABRP development team prioritizes bugs and improvements in our public forums - please consider posting there.",
+  "support_private_issue": "I have a private issue",
+  "report_image_title": "Why do you report the image?"
 }

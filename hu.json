@@ -2244,5 +2244,9 @@
   "tesla_transition_basic_continue": "Folytatás Alap Élő Adatokkal",
   "plus_add_stop": "+ Új megálló",
   "eta_final_destination": "Mutasd a végcélt utazás becslésként",
-  "eta_next": "Mutasd a következő útpontot utazás becslésként"
+  "eta_next": "Mutasd a következő útpontot utazás becslésként",
+  "support_issue": "Issue with (or request for) ABRP",
+  "support_public_description": "The ABRP development team prioritizes bugs and improvements in our public forums - please consider posting there.",
+  "support_private_issue": "I have a private issue",
+  "report_image_title": "Why do you report the image?"
 }
