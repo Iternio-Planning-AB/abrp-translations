@@ -2245,8 +2245,8 @@
   "plus_add_stop": "+ Új megálló",
   "eta_final_destination": "Mutasd a végcélt utazás becslésként",
   "eta_next": "Mutasd a következő útpontot utazás becslésként",
-  "support_issue": "Issue with (or request for) ABRP",
-  "support_public_description": "The ABRP development team prioritizes bugs and improvements in our public forums - please consider posting there.",
-  "support_private_issue": "I have a private issue",
-  "report_image_title": "Why do you report the image?"
+  "support_issue": "Probléma az ABRP-vel (vagy ABRP kérelemmel)",
+  "support_public_description": "Az ABRP fejlesztő csapat a nyilvános fórumainkon jelzett hibákat és továbbfejlesztéseket részesíti előnyben - kérlek mérlegeld az ottani közlés lehetőségét.",
+  "support_private_issue": "Magánjellegű problémám van",
+  "report_image_title": "Miért jelented a képet?"
 }
