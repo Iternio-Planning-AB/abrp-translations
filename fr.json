@@ -2245,8 +2245,8 @@
   "plus_add_stop": "+ Ajouter un arrêt",
   "eta_final_destination": "Afficher la destination finale sous forme d'estimations de trajet",
   "eta_next": "Afficher le prochain point de passage sous forme d'estimations de trajet",
-  "support_issue": "Issue with (or request for) ABRP",
-  "support_public_description": "The ABRP development team prioritizes bugs and improvements in our public forums - please consider posting there.",
-  "support_private_issue": "I have a private issue",
-  "report_image_title": "Why do you report the image?"
+  "support_issue": "Problème avec (ou demande pour) ABRP",
+  "support_public_description": "L'équipe de développement d'ABRP donne la priorité aux bugs et aux améliorations dans nos forums publics - veuillez envisager d'y poster.",
+  "support_private_issue": "J'ai un problème personnel",
+  "report_image_title": "Pourquoi signalez-vous l'image ?"
 }
