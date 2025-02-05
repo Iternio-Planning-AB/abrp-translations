@@ -2242,11 +2242,11 @@
   "tesla_transition_upgrade": "Päivitä premiumiin",
   "tesla_transition_setup": "Määritä suoratoisto",
   "tesla_transition_basic_continue": "Jatka peruslivetiedoilla",
-  "plus_add_stop": "+ Add stop",
-  "eta_final_destination": "Show final destination as trip estimates",
-  "eta_next": "Show next waypoint as trip estimates",
-  "support_issue": "Issue with (or request for) ABRP",
-  "support_public_description": "The ABRP development team prioritizes bugs and improvements in our public forums - please consider posting there.",
-  "support_private_issue": "I have a private issue",
-  "report_image_title": "Why do you report the image?"
+  "plus_add_stop": "+ Lisää pysähtys",
+  "eta_final_destination": "Näytä lopullinen määränpää matka-arvioissa",
+  "eta_next": "Näytä seuraava välietappi matka-arvioissa",
+  "support_issue": "Ongelma tai pyyntö liittyen ABRP:hen",
+  "support_public_description": "ABRP:n kehitystiimi priorisoi virheet ja parannukset julkisilla foorumeillamme – harkitse niiden julkaisemista siellä.",
+  "support_private_issue": "Minulla on yksityinen ongelma",
+  "report_image_title": "Miksi haluat ilmoittaa kuvasta?"
 }
