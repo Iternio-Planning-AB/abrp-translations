@@ -2216,6 +2216,8 @@
   "tesla_streaming_remove_key_step_2_last": "and touch its associated trash icon.",
   "tesla_streaming_remove_key_step_3": "When prompted, scan an authenticated key on the card reader to confirm the deletion. When complete, the key list no longer includes the deleted key.",
   "tesla_streaming_remove_key_info_card": "If you can't find the key in the key list - it might be present on the bottom of this list. You might need to press on the list and scroll down.",
+  "tesla_streaming_update_permissions": "Update Tesla ABRP Permissions",
+  "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
   "plus_add_stop": "+ Add stop",
   "eta_final_destination": "Show final destination as trip estimates",
   "eta_next": "Show next waypoint as trip estimates",
@@ -2227,5 +2229,8 @@
   "tesla_transition_upgrade": "Upgrade to Premium",
   "tesla_transition_setup": "Set Up Streaming",
   "tesla_transition_basic_continue": "Continue with Basic Live Data",
-  "report_image_title": "Why do you report the image?"
+  "report_image_title": "Why do you report the image?",
+  "remove_amenity": "Remove amenity",
+  "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
+  "clearing_plan": "Clearing plan..."
 }

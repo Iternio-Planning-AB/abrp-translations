@@ -2248,5 +2248,10 @@
   "support_issue": "Probléma az ABRP-vel (vagy ABRP kérelemmel)",
   "support_public_description": "Az ABRP fejlesztő csapat a nyilvános fórumainkon jelzett hibákat és továbbfejlesztéseket részesíti előnyben - kérlek mérlegeld az ottani közlés lehetőségét.",
   "support_private_issue": "Magánjellegű problémám van",
-  "report_image_title": "Miért jelented a képet?"
+  "report_image_title": "Miért jelented a képet?",
+  "tesla_streaming_update_permissions": "Update Tesla ABRP Permissions",
+  "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
+  "remove_amenity": "Remove amenity",
+  "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
+  "clearing_plan": "Clearing plan..."
 }

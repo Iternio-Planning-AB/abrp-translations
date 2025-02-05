@@ -2248,5 +2248,10 @@
   "support_issue": "Problema co (ou solicitude a) ABRP",
   "support_public_description": "O equipo de desenvolvemento do ABRP prioriza os erros e melloras publicadas nos nosos foros públicos, por favor tenta publicar neles.",
   "support_private_issue": "Teño un problema",
-  "report_image_title": "Por que denuncias esta imaxe?"
+  "report_image_title": "Por que denuncias esta imaxe?",
+  "tesla_streaming_update_permissions": "Update Tesla ABRP Permissions",
+  "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
+  "remove_amenity": "Remove amenity",
+  "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
+  "clearing_plan": "Clearing plan..."
 }
