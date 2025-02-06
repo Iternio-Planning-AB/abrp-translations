@@ -2105,8 +2105,8 @@
   "tesla_fleet_streaming": "Tesla vehicles can stream data to ABRP when the vehicle is active. This enables higher quality live data and vehicle calibration. To enable it, you need to add ABRP's virtual key on your vehicle by clicking the button below.",
   "tesla_fleet_streaming_key": "Add ABRP virtual key on your Tesla",
   "tesla_fleet_streaming_unsupported": "Your vehicle does not support streaming. Don't worry, we will poll it for data - no more action needed.",
-  "tesla_fleet_streaming_no_key": "The ABRP key was not installed on your Tesla. The vehicle may not be supporting streaming - this is the case for older Model S and X - if so we will poll data at a slower pace for you anyway.",
-  "tesla_fleet_streaming_key_ok": "If your key was successfully added to your Tesla, press the button below to start streaming live data. If not, don't worry, we will poll data at a slower pace for you anyway.",
+  "tesla_fleet_streaming_no_key": "The ABRP key was not installed on your Tesla. Please try again or check your Tesla account for permissions.",
+  "tesla_fleet_streaming_key_ok": "If your key was successfully added to your Tesla, press the button below to start streaming live data.",
   "tesla_fleet_streaming_start": "Start live data streaming",
   "live_data_streaming_enabled": "Live data streaming enabled",
   "cannot_purchase_subscription_title": "Unable to Purchase Subscription",
@@ -2248,5 +2248,7 @@
   "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
   "remove_amenity": "Remove amenity",
   "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
-  "clearing_plan": "Clearing plan..."
+  "clearing_plan": "Clearing plan...",
+  "routes": "Routes",
+  "next_charger": "Next charger"
 }

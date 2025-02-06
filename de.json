@@ -2253,5 +2253,7 @@
   "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
   "remove_amenity": "Remove amenity",
   "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
-  "clearing_plan": "Clearing plan..."
+  "clearing_plan": "Clearing plan...",
+  "routes": "Routes",
+  "next_charger": "Next charger"
 }

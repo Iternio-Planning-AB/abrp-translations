@@ -2253,5 +2253,7 @@
   "tesla_streaming_update_permissions_description": "Lehet, hogy hiányzik némely engedélyed a Teslánál. Nyomd meg az alul levő gombot az ellenőrzéshez és frissítéshez.",
   "remove_amenity": "Szolgáltatás eltávolítása",
   "remove_amenity_first_description": "Ahhoz, hogy eltávolíthasd az első lépést, először el kell távolítanod az őt követő szolgáltatást.",
-  "clearing_plan": "Terv törlése..."
+  "clearing_plan": "Terv törlése...",
+  "routes": "Routes",
+  "next_charger": "Next charger"
 }
