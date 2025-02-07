@@ -975,7 +975,7 @@
   "connect_session_confirmation": "Haluatko varmasti antaa etäsovelluksen kirjautua sisään tällä tilillä?",
   "connect_session_ok": "OK",
   "connect_session_not_logged_in": "Sinun pitää kirjautua sisään hyväksyäksesi kirjautumisen etäsovellukseen",
-  "stops_preference": "Lataus loppuu",
+  "stops_preference": "Latauspysähdysten suunnittelu",
   "charge_break_preference_fewest_stops": "Vähemmän pysähdyksiä",
   "charge_break_preference_least_time": "Nopein saapuminen",
   "charge_break_preference_shorter_legs": "Lyhyemmät etapit",
