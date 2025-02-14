@@ -2249,11 +2249,11 @@
   "support_public_description": "ABRP:n kehitystiimi priorisoi virheet ja parannukset julkisilla foorumeillamme – harkitse niiden julkaisemista siellä.",
   "support_private_issue": "Minulla on yksityinen ongelma",
   "report_image_title": "Miksi haluat ilmoittaa kuvasta?",
-  "tesla_streaming_update_permissions": "Update Tesla ABRP Permissions",
-  "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
-  "remove_amenity": "Remove amenity",
-  "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
-  "clearing_plan": "Clearing plan...",
-  "routes": "Routes",
-  "next_charger": "Next charger"
+  "tesla_streaming_update_permissions": "Päivitä Tesla ABRP -käyttöoikeudet",
+  "tesla_streaming_update_permissions_description": "Sinulla puuttunee joitain käyttöoikeuksia Teslasta. Tarkista ja päivittääksesi alla olevaa painiketta.",
+  "remove_amenity": "Poista palvelu",
+  "remove_amenity_first_description": "Poistaaksesi ensimmäisen vaiheen, sinun täytyy ensin poistaa sen jälkeinen palvelu.",
+  "clearing_plan": "Tyhjennetään suunnitelma...",
+  "routes": "Reitit",
+  "next_charger": "Seuraava laturi"
 }
