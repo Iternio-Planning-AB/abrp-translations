@@ -1905,7 +1905,7 @@
   "calib_ref_cons_confidence_soc_only_description": "La calibrazione si basa su ciò che misuriamo dall'auto durante la guida in diverse condizioni. Più il numero di fiducia è vicino al 100%, più siamo certi del consumo. Il tuo veicolo riporta solo il SoC e non la potenza, il che significa che la calibrazione sarà meno precisa del solito.",
   "premium_trial_disclaimer": "Nota: la prova può essere avviata solo dal web",
   "charger_status_operational": "operativo",
- "enode_connection_error_title": "Errore di connessione",
+  "enode_connection_error_title": "Errore di connessione",
   "enode_no_token_title": "Nessun token generato",
   "enode_no_token_description": "Riprova e, se il problema persiste, contatta il supporto.",
   "upload_photos": "Carica foto",
@@ -2259,5 +2259,16 @@
   "remove_amenity_first_description": "Per poter rimuovere il primo passaggio, devi prima rimuovere il servizio successivo.",
   "clearing_plan": "Cancellazione del piano...",
   "routes": "Percorsi",
-  "next_charger": "Prossima stazione di ricarica"
+  "next_charger": "Prossima stazione di ricarica",
+  "see_all": "See all",
+  "amenities_hide_names_on_map": "Hide names",
+  "amenities_show_names_on_map": "Show names",
+  "tesla_transition_streaming_title": "Enable Tesla Streaming",
+  "tesla_transition_streaming_description": "Due to Tesla's new connection service charges, you need to enable Tesla live data streaming to continue to receive live data from Tesla.",
+  "premium_required_cp_description_not_logged_in": "Please log in with your ABRP account or create a new one to access Premium.",
+  "remaining": "remaining",
+  "fast_food": "Fast food",
+  "amenity_subcategory_other": "Other foods",
+  "amenity_select_subcategories": "Select subcategories",
+  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected"
 }

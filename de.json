@@ -2255,5 +2255,14 @@
   "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
   "clearing_plan": "Clearing plan...",
   "routes": "Routes",
-  "next_charger": "Next charger"
+  "next_charger": "Next charger",
+  "remaining": "übrig",
+  "see_all": "See all",
+  "amenities_hide_names_on_map": "Hide names",
+  "amenities_show_names_on_map": "Show names",
+  "premium_required_cp_description_not_logged_in": "Please log in with your ABRP account or create a new one to access Premium.",
+  "fast_food": "Fast food",
+  "amenity_subcategory_other": "Other foods",
+  "amenity_select_subcategories": "Select subcategories",
+  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected"
 }

@@ -2218,6 +2218,9 @@
   "tesla_streaming_remove_key_step_2_last": "and touch its associated trash icon.",
   "tesla_streaming_remove_key_step_3": "When prompted, scan an authenticated key on the card reader to confirm the deletion. When complete, the key list no longer includes the deleted key.",
   "tesla_streaming_remove_key_info_card": "If you can't find the key in the key list - it might be present on the bottom of this list. You might need to press on the list and scroll down.",
+  "see_all": "See all",
+  "amenities_hide_names_on_map": "Hide names",
+  "amenities_show_names_on_map": "Show names",
   "tesla_streaming_update_permissions": "Update Tesla ABRP Permissions",
   "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
   "plus_add_stop": "+ Add stop",
@@ -2234,5 +2237,11 @@
   "report_image_title": "Why do you report the image?",
   "remove_amenity": "Remove amenity",
   "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
-  "clearing_plan": "Clearing plan..."
+  "clearing_plan": "Clearing plan...",
+  "premium_required_cp_description_not_logged_in": "Please log in with your ABRP account or create a new one to access Premium.",
+  "remaining": "remaining",
+  "fast_food": "Fast food",
+  "amenity_subcategory_other": "Other foods",
+  "amenity_select_subcategories": "Select subcategories",
+  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected"
 }
