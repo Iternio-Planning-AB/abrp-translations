@@ -2256,13 +2256,13 @@
   "clearing_plan": "Очистка плана...",
   "routes": "Маршруты",
   "next_charger": "Следующая зарядная станция",
-  "see_all": "See all",
-  "amenities_hide_names_on_map": "Hide names",
-  "amenities_show_names_on_map": "Show names",
-  "premium_required_cp_description_not_logged_in": "Please log in with your ABRP account or create a new one to access Premium.",
-  "remaining": "remaining",
-  "fast_food": "Fast food",
-  "amenity_subcategory_other": "Other foods",
-  "amenity_select_subcategories": "Select subcategories",
-  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected"
+  "see_all": "Смотреть все",
+  "amenities_hide_names_on_map": "Скрыть названия",
+  "amenities_show_names_on_map": "Показать названия",
+  "premium_required_cp_description_not_logged_in": "Пожалуйста, войдите в свою учетную запись ABRP или создайте новую, чтобы получить доступ к Premium.",
+  "remaining": "осталось",
+  "fast_food": "Фастфуд",
+  "amenity_subcategory_other": "Другие продукты",
+  "amenity_select_subcategories": "Выберите подкатегории",
+  "amenities_more_subcategory_selected": "+ {{count}} дополнительных подходящих категорий выбрано"
 }
