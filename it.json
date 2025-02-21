@@ -2270,5 +2270,10 @@
   "fast_food": "Fast food",
   "amenity_subcategory_other": "Other foods",
   "amenity_select_subcategories": "Select subcategories",
-  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected"
+  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected",
+  "driving_done_charging": "I'm done charging",
+  "confirm_continue_driving": "Continue driving",
+  "confirm_continue_driving_message": "Use this when:\n• Your SoC is not updating automatically\n• You want to leave early",
+  "left_to_charge": "{{left}} mins left to charge",
+  "done_charging_short": "Done charging"
 }
