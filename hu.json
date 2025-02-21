@@ -2256,13 +2256,13 @@
   "clearing_plan": "Terv törlése...",
   "routes": "Útvonalak",
   "next_charger": "Következő töltő",
-  "see_all": "See all",
-  "amenities_hide_names_on_map": "Hide names",
-  "amenities_show_names_on_map": "Show names",
-  "premium_required_cp_description_not_logged_in": "Please log in with your ABRP account or create a new one to access Premium.",
-  "remaining": "remaining",
-  "fast_food": "Fast food",
-  "amenity_subcategory_other": "Other foods",
-  "amenity_select_subcategories": "Select subcategories",
-  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected"
+  "see_all": "Lássuk mindet",
+  "amenities_hide_names_on_map": "Neveket elrejt",
+  "amenities_show_names_on_map": "Neveket mutat",
+  "premium_required_cp_description_not_logged_in": "Kérlek, lépj be az ABRP fiókodba vagy hozz létre egy újat, hogy elérhesd a Premium-ot.",
+  "remaining": "hátralevő",
+  "fast_food": "Gyors étel",
+  "amenity_subcategory_other": "Egyéb ételek",
+  "amenity_select_subcategories": "Alkategória választása",
+  "amenities_more_subcategory_selected": "+ még {{count}} megfelelő kategória kiválasztva"
 }
