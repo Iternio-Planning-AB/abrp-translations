@@ -2265,9 +2265,9 @@
   "amenity_subcategory_other": "Egyéb ételek",
   "amenity_select_subcategories": "Alkategória választása",
   "amenities_more_subcategory_selected": "+ még {{count}} megfelelő kategória kiválasztva",
-  "driving_done_charging": "I'm done charging",
-  "confirm_continue_driving": "Continue driving",
-  "confirm_continue_driving_message": "Use this when:\n• Your SoC is not updating automatically\n• You want to leave early",
-  "left_to_charge": "{{left}} mins left to charge",
-  "done_charging_short": "Done charging"
+  "driving_done_charging": "Befejeztem a töltést",
+  "confirm_continue_driving": "Gyerünk tovább",
+  "confirm_continue_driving_message": "Ezt akkor használd, ha:\n• A töltöttségi állapot (SoC) nem frissül automatikusan\n• Korábban akarsz indulni",
+  "left_to_charge": "{{left}} perc maradt töltésre",
+  "done_charging_short": "Töltés befejezve"
 }
