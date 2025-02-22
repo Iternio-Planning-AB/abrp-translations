@@ -2265,9 +2265,9 @@
   "amenity_subcategory_other": "Інші продукти",
   "amenity_select_subcategories": "Виберіть підкатегорії",
   "amenities_more_subcategory_selected": "+ {{count}} додаткових відповідних категорій вибрано",
-  "driving_done_charging": "I'm done charging",
-  "confirm_continue_driving": "Continue driving",
-  "confirm_continue_driving_message": "Use this when:\n• Your SoC is not updating automatically\n• You want to leave early",
-  "left_to_charge": "{{left}} mins left to charge",
-  "done_charging_short": "Done charging"
+  "driving_done_charging": "Я закінчив(ла) зарядку",
+  "confirm_continue_driving": "Продовжити рух",
+  "confirm_continue_driving_message": "Використовуйте це, коли:\n• Ваш рівень заряду (SoC) не оновлюється автоматично\n• Ви хочете виїхати раніше",
+  "left_to_charge": "Залишилося {{left}} хв до завершення зарядки",
+  "done_charging_short": "Зарядка завершена"
 }
