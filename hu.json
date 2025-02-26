@@ -2263,11 +2263,16 @@
   "remaining": "hátralevő",
   "fast_food": "Gyors étel",
   "amenity_subcategory_other": "Egyéb ételek",
-  "amenity_select_subcategories": "Alkategória választása",
   "amenities_more_subcategory_selected": "+ még {{count}} megfelelő kategória kiválasztva",
   "driving_done_charging": "Befejeztem a töltést",
   "confirm_continue_driving": "Gyerünk tovább",
   "confirm_continue_driving_message": "Ezt akkor használd, ha:\n• A töltöttségi állapot (SoC) nem frissül automatikusan\n• Korábban akarsz indulni",
   "left_to_charge": "{{left}} perc maradt töltésre",
-  "done_charging_short": "Töltés befejezve"
+  "done_charging_short": "Töltés befejezve",
+  "charger_issues_exclude_title": "Charger unavailable",
+  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
+  "charger_issues_avoid_title": "Charger may be unavailable",
+  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
+  "amenity_select_food_types": "Select food types",
+  "amenity_food_types_title": "Food types"
 }

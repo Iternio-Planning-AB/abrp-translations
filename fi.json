@@ -2263,11 +2263,16 @@
   "remaining": "jäljellä",
   "fast_food": "Pikaruoka",
   "amenity_subcategory_other": "Muut ruoat",
-  "amenity_select_subcategories": "Valitse alakategoriat",
   "amenities_more_subcategory_selected": "+ {{count}} sopivampaa luokkaa valittu",
   "driving_done_charging": "Lopeta lataus",
   "confirm_continue_driving": "Jatka ajamista",
   "confirm_continue_driving_message": "Käytä tätä kun:\n• Akun varauksen tilaa ei päivitetä automaattisesti\n • Haluat lähteä aikaisin",
   "left_to_charge": "{{left}} minuuttia latausta jäljellä",
-  "done_charging_short": "Lataus valmis"
+  "done_charging_short": "Lataus valmis",
+  "charger_issues_exclude_title": "Charger unavailable",
+  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
+  "charger_issues_avoid_title": "Charger may be unavailable",
+  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
+  "amenity_select_food_types": "Select food types",
+  "amenity_food_types_title": "Food types"
 }

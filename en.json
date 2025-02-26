@@ -2203,10 +2203,14 @@
   "tesla_streaming_banner_title": "Tesla streaming action required",
   "tesla_streaming_banner_description": "From 1st of February 2025, Tesla streaming will be required for all Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
   "tesla_streaming_banner_button": "Add streaming",
+  "nearby_chargers_replace_replan": "Change and replan",
+  "charger_issues_exclude_title": "Charger unavailable",
+  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
+  "charger_issues_avoid_title": "Charger may be unavailable",
+  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
   "tesla_region_banner_title": "Tesla account region issue",
   "tesla_region_banner_description": "Tesla reports that your vehicle is not in the same region as your Tesla account, which prevents us from enabling streaming. Please go to your Tesla Profile and correct your account region. After this change has become effective, unlink your Tesla in ABRP and link it again.",
   "tesla_region_banner_button": "Go to Tesla Profile",
-  "nearby_chargers_replace_replan": "Change and replan",
   "enode_connection_successful": "Connection successful",
   "enode_connection_successful_description": "Your vehicle is now successfully connected to ABRP! It may take a couple of minutes for the telemetry to appear in the app and the connection status to change.",
   "confirm_continue_driving": "Continue driving",
@@ -2247,6 +2251,7 @@
   "remaining": "remaining",
   "fast_food": "Fast food",
   "amenity_subcategory_other": "Other foods",
-  "amenity_select_subcategories": "Select subcategories",
-  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected"
+  "amenity_select_food_types": "Select food types",
+  "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected",
+  "amenity_food_types_title": "Food types"
 }

@@ -2263,11 +2263,16 @@
   "remaining": "restant",
   "fast_food": "Restauration rapide",
   "amenity_subcategory_other": "Autres restaurations",
-  "amenity_select_subcategories": "Sélectionner des sous-catégories",
   "amenities_more_subcategory_selected": "+ {{count}} autres catégories appropriées sélectionnées",
   "driving_done_charging": "J'ai fini de charger",
   "confirm_continue_driving": "Continuer la conduite",
   "confirm_continue_driving_message": "Utilisez ceci lorsque :\n• Votre SoC ne se met pas à jour automatiquement\n• Vous voulez partir plus tôt",
   "left_to_charge": "{{left}} minutes restantes pour charger",
-  "done_charging_short": "Charge terminée"
+  "done_charging_short": "Charge terminée",
+  "charger_issues_exclude_title": "Charger unavailable",
+  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
+  "charger_issues_avoid_title": "Charger may be unavailable",
+  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
+  "amenity_select_food_types": "Select food types",
+  "amenity_food_types_title": "Food types"
 }

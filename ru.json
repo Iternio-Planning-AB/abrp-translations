@@ -2263,11 +2263,16 @@
   "remaining": "осталось",
   "fast_food": "Фастфуд",
   "amenity_subcategory_other": "Другие продукты",
-  "amenity_select_subcategories": "Выберите подкатегории",
   "amenities_more_subcategory_selected": "+ {{count}} дополнительных подходящих категорий выбрано",
   "driving_done_charging": "Я закончил(а) зарядку",
   "confirm_continue_driving": "Продолжить движение",
   "confirm_continue_driving_message": "Используйте это, когда:\n• Ваш уровень заряда (SoC) не обновляется автоматически\n• Вы хотите уехать раньше",
   "left_to_charge": "Осталось {{left}} мин до завершения зарядки",
-  "done_charging_short": "Зарядка завершена"
+  "done_charging_short": "Зарядка завершена",
+  "charger_issues_exclude_title": "Charger unavailable",
+  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
+  "charger_issues_avoid_title": "Charger may be unavailable",
+  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
+  "amenity_select_food_types": "Select food types",
+  "amenity_food_types_title": "Food types"
 }
