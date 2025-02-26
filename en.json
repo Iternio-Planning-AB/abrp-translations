@@ -2230,7 +2230,6 @@
   "amenities_show_names_on_map": "Show names",
   "tesla_streaming_update_permissions": "Update Tesla ABRP Permissions",
   "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
-  "plus_add_stop": "+ Add stop",
   "eta_final_destination": "Show final destination as trip estimates",
   "eta_next": "Show next waypoint as trip estimates",
   "no_obd_data": "No OBD data",
@@ -2253,5 +2252,7 @@
   "amenity_subcategory_other": "Other foods",
   "amenity_select_food_types": "Select food types",
   "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected",
-  "amenity_food_types_title": "Food types"
+  "amenity_food_types_title": "Food types",
+  "auto_tlm_permission_title": "Android Auto Telemetry",
+  "auto_tlm_permission_not_granted": "ABRP can receive telemetry data from Android Auto. Please grant the necessary permissions to enable this feature. Note that only a few cars support telemetry data via Android Auto at the moment."
 }

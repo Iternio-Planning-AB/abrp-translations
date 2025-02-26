@@ -2246,7 +2246,6 @@
   "tesla_transition_upgrade": "Passa a Premium",
   "tesla_transition_setup": "Configura lo streaming",
   "tesla_transition_basic_continue": "Continua con i dati base",
-  "plus_add_stop": "+ Aggiungi fermata",
   "eta_final_destination": "Mostra la destinazione finale come stima del viaggio",
   "eta_next": "Mostra il prossimo punto di passaggio come stima del viaggio",
   "support_issue": "Problema con (o richiesta per) ABRP",
@@ -2280,5 +2279,7 @@
   "charger_issues_avoid_title": "Charger may be unavailable",
   "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
   "amenity_select_food_types": "Select food types",
-  "amenity_food_types_title": "Food types"
+  "amenity_food_types_title": "Food types",
+  "auto_tlm_permission_title": "Android Auto Telemetry",
+  "auto_tlm_permission_not_granted": "ABRP can receive telemetry data from Android Auto. Please grant the necessary permissions to enable this feature. Note that only a few cars support telemetry data via Android Auto at the moment."
 }

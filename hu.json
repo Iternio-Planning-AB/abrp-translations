@@ -2242,7 +2242,6 @@
   "tesla_transition_upgrade": "Frissítés Premiumra",
   "tesla_transition_setup": "Streamelés beállítása",
   "tesla_transition_basic_continue": "Folytatás Alap Élő Adatokkal",
-  "plus_add_stop": "+ Új megálló",
   "eta_final_destination": "Mutasd a megérkezés várható idejét",
   "eta_next": "Mutasd a köv.útponthoz érkezés várható idejét",
   "support_issue": "Probléma az ABRP-vel (vagy ABRP kérelemmel)",
@@ -2274,5 +2273,7 @@
   "charger_issues_avoid_title": "Charger may be unavailable",
   "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
   "amenity_select_food_types": "Select food types",
-  "amenity_food_types_title": "Food types"
+  "amenity_food_types_title": "Food types",
+  "auto_tlm_permission_title": "Android Auto Telemetry",
+  "auto_tlm_permission_not_granted": "ABRP can receive telemetry data from Android Auto. Please grant the necessary permissions to enable this feature. Note that only a few cars support telemetry data via Android Auto at the moment."
 }
