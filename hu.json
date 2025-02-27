@@ -2268,12 +2268,12 @@
   "confirm_continue_driving_message": "Ezt akkor használd, ha:\n• A töltöttségi állapot (SoC) nem frissül automatikusan\n• Korábban akarsz indulni",
   "left_to_charge": "{{left}} perc maradt töltésre",
   "done_charging_short": "Töltés befejezve",
-  "charger_issues_exclude_title": "Charger unavailable",
-  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
-  "charger_issues_avoid_title": "Charger may be unavailable",
-  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
-  "amenity_select_food_types": "Select food types",
-  "amenity_food_types_title": "Food types",
-  "auto_tlm_permission_title": "Android Auto Telemetry",
-  "auto_tlm_permission_not_granted": "ABRP can receive telemetry data from Android Auto. Please grant the necessary permissions to enable this feature. Note that only a few cars support telemetry data via Android Auto at the moment."
+  "charger_issues_exclude_title": "Töltő nem elérhető",
+  "charger_issues_exclude_description": "Ezt a töltőt több felhasználó is nem elérhetőnek jelentette, így lehet, hogy nem használható. További jelzésig kizártuk minden tervezésből.",
+  "charger_issues_avoid_title": "Lehet, hogy a töltő nem használható",
+  "charger_issues_avoid_description": "Ezt a töltőt több felhasználó is nem elérhetőnek jelentette, így lehet, hogy nem használható. A tervezés során igyekszünk elkerülni a használatát.",
+  "amenity_select_food_types": "Válaszz étel típust",
+  "amenity_food_types_title": "Étel típusok",
+  "auto_tlm_permission_title": "Android Auto Telemetria",
+  "auto_tlm_permission_not_granted": "Az ABRP képes telemtriai adatokat fogadni az Android Auto-tól. Kérjük, add meg a szükséges engedélyeket ennek a szolgáltatásnak az engedélyezéséhez. Felhívjuk a figyelmet, hogy pillanatnyilag csak néhány autó támogatja telemetriai adatok átadását az Android Auto felé."
 }
