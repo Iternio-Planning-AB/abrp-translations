@@ -2276,5 +2276,5 @@
   "amenity_food_types_title": "Étel típusok",
   "auto_tlm_permission_title": "Android Auto Telemetria",
   "auto_tlm_permission_not_granted": "Az ABRP képes telemtriai adatokat fogadni az Android Auto-tól. Kérjük, add meg a szükséges engedélyeket ennek a szolgáltatásnak az engedélyezéséhez. Felhívjuk a figyelmet, hogy pillanatnyilag csak néhány autó támogatja telemetriai adatok átadását az Android Auto felé.",
-  "plus_count_amenities": "+ {{count}} more amenities"
+  "plus_count_amenities": "+ még {{count}} szolgáltatás"
 }
