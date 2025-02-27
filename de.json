@@ -2275,5 +2275,6 @@
   "amenity_select_food_types": "Select food types",
   "amenity_food_types_title": "Food types",
   "auto_tlm_permission_title": "Android Auto Telemetry",
-  "auto_tlm_permission_not_granted": "ABRP kann Telemetriedaten von Android Auto empfangen. Bitte erteile die erforderliche Berechtigung, um diese Funktion zu aktivieren. Beachte, dass aktuell nur wenige Autos Telemetriedaten über Android Auto unterstützen."
+  "auto_tlm_permission_not_granted": "ABRP kann Telemetriedaten von Android Auto empfangen. Bitte erteile die erforderliche Berechtigung, um diese Funktion zu aktivieren. Beachte, dass aktuell nur wenige Autos Telemetriedaten über Android Auto unterstützen.",
+  "plus_count_amenities": "+ {{count}} more amenities"
 }

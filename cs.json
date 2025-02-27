@@ -2275,5 +2275,6 @@
   "left_to_charge": "{{left}} minut zbývá do konce nabíjení",
   "done_charging_short": "Nabíjení dokončeno",
   "auto_tlm_permission_title": "Telemetrie Android Auto Telemetry",
-  "auto_tlm_permission_not_granted": "ABRP může přijímat telemetrická data ze systému Android Auto. Pro povolení této funkce udělte potřebná oprávnění. Upozorňujeme, že v současné době podporuje telemetrická data prostřednictvím systému Android Auto jen několik vozidel."
+  "auto_tlm_permission_not_granted": "ABRP může přijímat telemetrická data ze systému Android Auto. Pro povolení této funkce udělte potřebná oprávnění. Upozorňujeme, že v současné době podporuje telemetrická data prostřednictvím systému Android Auto jen několik vozidel.",
+  "plus_count_amenities": "+ {{count}} more amenities"
 }
