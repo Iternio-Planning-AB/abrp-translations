@@ -2268,11 +2268,11 @@
   "confirm_continue_driving_message": "Используйте это, когда:\n• Ваш уровень заряда (SoC) не обновляется автоматически\n• Вы хотите уехать раньше",
   "left_to_charge": "Осталось {{left}} мин до завершения зарядки",
   "done_charging_short": "Зарядка завершена",
-  "charger_issues_exclude_title": "Charger unavailable",
-  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
-  "charger_issues_avoid_title": "Charger may be unavailable",
-  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
-  "amenity_select_food_types": "Select food types",
-  "amenity_food_types_title": "Food types",
-  "plus_count_amenities": "+ {{count}} more amenities"
+  "charger_issues_exclude_title": "Зарядная станция недоступна",
+  "charger_issues_exclude_description": "Эта зарядная станция была отмечена как недоступная многими пользователями и может быть недоступна. Мы исключили её из всех маршрутов до дальнейшего уведомления.",
+  "charger_issues_avoid_title": "Зарядная станция может быть недоступна",
+  "charger_issues_avoid_description": "Эта зарядная станция была отмечена как недоступная многими пользователями и может быть недоступна. Мы стараемся избегать её при планировании маршрутов.",
+  "amenity_select_food_types": "Выберите типы еды",
+  "amenity_food_types_title": "Типы еды",
+  "plus_count_amenities": "+ {{count}} дополнительных удобств"
 }
