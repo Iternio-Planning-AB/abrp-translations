@@ -2268,11 +2268,11 @@
   "confirm_continue_driving_message": "Використовуйте це, коли:\n• Ваш рівень заряду (SoC) не оновлюється автоматично\n• Ви хочете виїхати раніше",
   "left_to_charge": "Залишилося {{left}} хв до завершення зарядки",
   "done_charging_short": "Зарядка завершена",
-  "charger_issues_exclude_title": "Charger unavailable",
-  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
-  "charger_issues_avoid_title": "Charger may be unavailable",
-  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
-  "amenity_select_food_types": "Select food types",
-  "amenity_food_types_title": "Food types",
-  "plus_count_amenities": "+ {{count}} more amenities"
+  "charger_issues_exclude_title": "Зарядна станція недоступна",
+  "charger_issues_exclude_description": "Цю зарядну станцію було відзначено як недоступну багатьма користувачами, і вона може бути недоступною. Ми виключили її з усіх маршрутів до подальшого повідомлення.",
+  "charger_issues_avoid_title": "Зарядна станція може бути недоступною",
+  "charger_issues_avoid_description": "Цю зарядну станцію було відзначено як недоступну багатьма користувачами, і вона може бути недоступною. Ми намагаємося уникати її під час планування маршрутів.",
+  "amenity_select_food_types": "Оберіть типи їжі",
+  "amenity_food_types_title": "Типи їжі",
+  "plus_count_amenities": "+ {{count}} додаткових зручностей"
 }
