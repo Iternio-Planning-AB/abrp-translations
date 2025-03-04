@@ -2274,7 +2274,5 @@
   "charger_issues_avoid_description": "Ezt a töltőt több felhasználó is nem elérhetőnek jelentette, így lehet, hogy nem használható. A tervezés során igyekszünk elkerülni a használatát.",
   "amenity_select_food_types": "Válaszz étel típust",
   "amenity_food_types_title": "Étel típusok",
-  "auto_tlm_permission_title": "Android Auto Telemetria",
-  "auto_tlm_permission_not_granted": "Az ABRP képes telemtriai adatokat fogadni az Android Auto-tól. Kérjük, add meg a szükséges engedélyeket ennek a szolgáltatásnak az engedélyezéséhez. Felhívjuk a figyelmet, hogy pillanatnyilag csak néhány autó támogatja telemetriai adatok átadását az Android Auto felé.",
-  "plus_count_amenities": "+ {{count}} more amenities"
+  "plus_count_amenities": "+ még {{count}} szolgáltatás"
 }
