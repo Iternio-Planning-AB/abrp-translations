@@ -2274,5 +2274,5 @@
   "confirm_continue_driving_message": "Tuto funkci použijte, když:\n• Váš SoC se automaticky neaktualizuje\n• Chcete odjet dříve",
   "left_to_charge": "{{left}} minut zbývá do konce nabíjení",
   "done_charging_short": "Nabíjení dokončeno",
-  "plus_count_amenities": "+ {{count}} more amenities"
+  "plus_count_amenities": "+ {{count}} dalších vybavení"
 }
