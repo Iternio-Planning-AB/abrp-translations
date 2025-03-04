@@ -2274,7 +2274,5 @@
   "charger_issues_avoid_description": "Monet käyttäjät ovat ilmoittaneet tämän laturin olevat pois käytöstä. Olemme sulkeneet sen suunnitelmista toistaiseksi.",
   "amenity_select_food_types": "Valitse ruokatyypit",
   "amenity_food_types_title": "Ruokatyypit",
-  "auto_tlm_permission_title": "Android Auto -telemetria",
-  "auto_tlm_permission_not_granted": "ABRP voi vastaanottaa telemetriatietoja Android Autolta. Anna tarvittavat käyttöoikeudet tämän ominaisuuden mahdollistamiseksi. Huomaa, että vain muutama auto tukee telemetriatietoja Android Auton kautta tällä hetkellä.",
   "plus_count_amenities": "+ {{count}} lisäpalvelua"
 }
