@@ -2274,7 +2274,5 @@
   "charger_issues_avoid_description": "Ce chargeur a été signalé comme indisponible par de nombreux utilisateurs et pourrait ne pas être accessible. Nous tenons à l'éviter dans la planification.",
   "amenity_select_food_types": "Sélectionner les types de nourriture",
   "amenity_food_types_title": "Type de nourriture",
-  "auto_tlm_permission_title": "Télémétrie Android Auto",
-  "auto_tlm_permission_not_granted": "ABRP peut recevoir des données de télémétrie d'Android Auto. Veuillez accorder les autorisations nécessaires pour activer cette fonctionnalité. Notez que seules quelques véhicules prennent en charge les données de télémétrie via Android Auto pour le moment.",
   "plus_count_amenities": "+ {{count}} autres commodités"
 }
