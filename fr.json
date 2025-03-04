@@ -2268,13 +2268,11 @@
   "confirm_continue_driving_message": "Utilisez ceci lorsque :\n• Votre SoC ne se met pas à jour automatiquement\n• Vous voulez partir plus tôt",
   "left_to_charge": "{{left}} minutes restantes pour charger",
   "done_charging_short": "Charge terminée",
-  "charger_issues_exclude_title": "Charger unavailable",
-  "charger_issues_exclude_description": "This charger has been reported as unavailable by many users and might not be accessible. We have excluded it from all planning until further notice.",
-  "charger_issues_avoid_title": "Charger may be unavailable",
-  "charger_issues_avoid_description": "This charger has been reported as unavailable by many users and might not be accessible. We aim to avoid it in planning.",
-  "amenity_select_food_types": "Select food types",
-  "amenity_food_types_title": "Food types",
-  "auto_tlm_permission_title": "Android Auto Telemetry",
-  "auto_tlm_permission_not_granted": "ABRP can receive telemetry data from Android Auto. Please grant the necessary permissions to enable this feature. Note that only a few cars support telemetry data via Android Auto at the moment.",
-  "plus_count_amenities": "+ {{count}} more amenities"
+  "charger_issues_exclude_title": "Chargeur indisponible",
+  "charger_issues_exclude_description": "Ce chargeur a été signalé comme indisponible par de nombreux utilisateurs et pourrait ne pas être accessible. Nous l'avons exclu de toute planification jusqu'à nouvel ordre.",
+  "charger_issues_avoid_title": "Ce chargeur est peut-être indisponible",
+  "charger_issues_avoid_description": "Ce chargeur a été signalé comme indisponible par de nombreux utilisateurs et pourrait ne pas être accessible. Nous tenons à l'éviter dans la planification.",
+  "amenity_select_food_types": "Sélectionner les types de nourriture",
+  "amenity_food_types_title": "Type de nourriture",
+  "plus_count_amenities": "+ {{count}} autres commodités"
 }
