@@ -2274,7 +2274,5 @@
   "charger_issues_avoid_description": "Moitos usuarios informaron de que este cargador non está dispoñíbel e pode non estar accesíbel. Pretendemos evitalo da planificación.",
   "amenity_select_food_types": "Seleccionar tipo de comida",
   "amenity_food_types_title": "Tipos de comida",
-  "auto_tlm_permission_title": "Telemetría de Android Auto",
-  "auto_tlm_permission_not_granted": "ABRP pode recibir os datos de telemetría de Android Auto. Por favor, concede os permisos necesarios para habilitar esta funcionalidade. Ten en conta que actualmente, uns poucos vehículos admiten o envío de datos da telemetría a través do Android Auto.",
   "plus_count_amenities": "+ {{count}} servizos máis"
 }
