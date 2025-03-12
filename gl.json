@@ -2274,5 +2274,19 @@
   "charger_issues_avoid_description": "Moitos usuarios informaron de que este cargador non está dispoñíbel e pode non estar accesíbel. Pretendemos evitalo da planificación.",
   "amenity_select_food_types": "Seleccionar tipo de comida",
   "amenity_food_types_title": "Tipos de comida",
-  "plus_count_amenities": "+ {{count}} servizos máis"
+  "plus_count_amenities": "+ {{count}} servizos máis",
+  "my_drives_info_title": "No drives recorded yet.",
+  "my_drives_info_description": "Enable 'Save my activity' in your vehicle settings to start tracking your drives.",
+  "my_drives_info_description_2": "Once we receive activity from your drives, they will appear here automatically.",
+  "automotive_car_model_missing_saved_vehicles": "We could not identify your vehicle, please go to settings and select one of your vehicles or add a new one",
+  "auto_tlm_permission_title": "Android Auto Telemetry",
+  "auto_tlm_permission_not_granted": "ABRP can receive telemetry data from Android Auto. Please grant the necessary permissions to enable this feature. Note that only a few cars support telemetry data via Android Auto at the moment.",
+  "drive_duration": "Drive duration",
+  "trip_summary": "Trip summary",
+  "currency_no_results": "No results found",
+  "save_new_vehicle": "Add new vehicle",
+  "add_vehicle_to_account": "Add this vehicle to your account",
+  "select_car_model_first": "Please select your car model to save this vehicle",
+  "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
+  "go_to_phone": "Go to phone"
 }
