@@ -791,7 +791,7 @@
   "chargers_with_amenities": "vendéglátó hely közelében található töltőpontok",
   "latest_plan": "Legutóbbi útvonalterv",
   "plan": "Útvonalterv",
-  "calculating_route": "Útvonal tervezése…",
+  "calculating_route": "Útvonal tervezése",
   "premium_required_cp_description": "Az Apple CarPlay az ABRP Prémium felhasználók számára elérhető.",
   "premium_required": "Prémium fiók szükséges",
   "open_premium_page": "Prémium oldal megnyitása",
@@ -2288,5 +2288,6 @@
   "add_vehicle_to_account": "Add this vehicle to your account",
   "select_car_model_first": "Please select your car model to save this vehicle",
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
-  "go_to_phone": "Go to phone"
+  "go_to_phone": "Go to phone",
+  "planning_with_vehicle_name": "Planning with {{vehicleName}}..."
 }

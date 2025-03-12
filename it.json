@@ -780,7 +780,7 @@
   "invalid_amenity_options_title": "Opzioni di servizi non validi",
   "invalid_amenity_options_desc": "Assicurati di riempire tutti i campi per ricevere i servizi.",
   "plan": "Pianifica",
-  "calculating_route": "Calcolo del percorso...",
+  "calculating_route": "Calcolo del percorso",
   "premium_required_cp_description": "Apple CarPlay è una funzionalità Premium di ABRP.",
   "premium_required": "Richiesto abbonamento Premium",
   "open_premium_page": "Apri la pagina con le informazione circa ABRP Premium",
@@ -2294,5 +2294,6 @@
   "add_vehicle_to_account": "Add this vehicle to your account",
   "select_car_model_first": "Please select your car model to save this vehicle",
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
-  "go_to_phone": "Go to phone"
+  "go_to_phone": "Go to phone",
+  "planning_with_vehicle_name": "Planning with {{vehicleName}}..."
 }

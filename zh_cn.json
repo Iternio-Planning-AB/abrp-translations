@@ -882,7 +882,7 @@
   "chargers_with_amenities": "具有便利设施的充电器",
   "latest_plan": "最新计划",
   "plan": "计划",
-  "calculating_route": "计算路线...",
+  "calculating_route": "计算路线",
   "premium_required_cp_description": "Apple Carplay是ABRP高级功能。",
   "premium_required": "需要保费",
   "open_premium_page": "开放高级页面",
@@ -2283,5 +2283,6 @@
   "add_vehicle_to_account": "Add this vehicle to your account",
   "select_car_model_first": "Please select your car model to save this vehicle",
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
-  "go_to_phone": "Go to phone"
+  "go_to_phone": "Go to phone",
+  "planning_with_vehicle_name": "Planning with {{vehicleName}}..."
 }

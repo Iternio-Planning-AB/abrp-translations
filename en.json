@@ -700,8 +700,8 @@
   "selected_vehicle": "Selected vehicle",
   "my_drives_selected_vehicle": "Select a vehicle which supports the 'My Drives' feature",
   "my_drives_info_title": "No drives recorded yet.",
-"my_drives_info_description": "Enable 'Save my activity' in your vehicle settings to start tracking your drives.",
-"my_drives_info_description_2": "Once we receive activity from your drives, they will appear here automatically.",
+  "my_drives_info_description": "Enable 'Save my activity' in your vehicle settings to start tracking your drives.",
+  "my_drives_info_description_2": "Once we receive activity from your drives, they will appear here automatically.",
   "choose_referral_code": "Choose referral code",
   "for": "for",
   "at": "at",
@@ -896,7 +896,7 @@
   "chargers_with_amenities": "Chargers with amenities",
   "latest_plan": "Latest plan",
   "plan": "Plan",
-  "calculating_route": "Calculating route...",
+  "calculating_route": "Calculating route",
   "premium_required_cp_description": "Apple CarPlay is an ABRP Premium feature.",
   "premium_required": "Premium required",
   "open_premium_page": "Open premium page",
@@ -2266,6 +2266,7 @@
   "save_new_vehicle": "Add new vehicle",
   "add_vehicle_to_account": "Add this vehicle to your account",
   "select_car_model_first": "Please select your car model to save this vehicle",
+  "planning_with_vehicle_name": "Planning with {{vehicleName}}...",
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
   "go_to_phone": "Go to phone"
 }

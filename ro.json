@@ -799,7 +799,7 @@
   "chargers_with_amenities": "Punct de încărcare cu punct de interes",
   "latest_plan": "Ultimul plan",
   "plan": "Plan",
-  "calculating_route": "Calculare rută...",
+  "calculating_route": "Calculare rută",
   "premium_required_cp_description": "Apple CarPlay este o funcție ABRP Premium.",
   "premium_required": "Este necesar un abonament premium",
   "open_premium_page": "Deschide pagina premium",
@@ -2288,5 +2288,6 @@
   "add_vehicle_to_account": "Add this vehicle to your account",
   "select_car_model_first": "Please select your car model to save this vehicle",
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
-  "go_to_phone": "Go to phone"
+  "go_to_phone": "Go to phone",
+  "planning_with_vehicle_name": "Planning with {{vehicleName}}..."
 }
