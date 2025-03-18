@@ -2276,7 +2276,7 @@
   "done_charging_short": "Nabíjení dokončeno",
   "plus_count_amenities": "+ {{count}} dalších vybavení",
   "my_drives_info_title": "Ještě nebyly zaznamenány žádné jízdy.",
-  "my_drives_info_description": "V nastavení vozidla povolte volbu "Uložit mou aktivitu" a začněte sledovat své jízdy.",
+  "my_drives_info_description": "V nastavení vozidla povolte volbu 'Uložit mou aktivitu' a začněte sledovat své jízdy.",
   "my_drives_info_description_2": "Jakmile obdržíme aktivity z Vašich jednotek, automaticky se zde zobrazí.",
   "automotive_car_model_missing_saved_vehicles": "Vaše vozidlo se nám nepodařilo identifikovat. Přejděte do nastavení a vyberte jedno z Vašich vozidel nebo přidejte nové.",
   "auto_tlm_permission_title": "Telemetrie Android Auto",
