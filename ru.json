@@ -2290,11 +2290,11 @@
   "aa_login_phone": "Пожалуйста, войдите в свой премиум-аккаунт, чтобы использовать ABRP в Android Auto. Убедитесь, что ваш автомобиль припаркован.",
   "go_to_phone": "Перейти к телефону",
   "planning_with_vehicle_name": "Планирование с {{vehicleName}}...",
-  "food": "Food",
-  "toilet": "Toilet",
-  "adjust_volume": "Adjust volume",
-  "adjust_volume_onscreen_description": "Adjust navigation instruction volume using your car's controls while this message plays.",
-  "adjust_volume_description_tts": "This is a navigation instruction. Use your car's volume controls to adjust the navigation guidance to a comfortable level. If you're having trouble hearing this, increase the volume now. Navigation instructions will be played at this level during your drive. Keep adjusting until it feels just right. This message will continue for a few more moments to give you time to set the volume properly.",
-  "pick_amenity": "Pick an amenity",
-  "fetching_amenities": "Fetching amenities..."
+  "food": "Еда",
+  "toilet": "Туалет",
+  "adjust_volume": "Настроить громкость",
+  "adjust_volume_onscreen_description": "Настройте громкость навигационных инструкций с помощью элементов управления вашего автомобиля, пока воспроизводится это сообщение.",
+  "adjust_volume_description_tts": "Это навигационная инструкция. Используйте элементы управления громкостью в вашем автомобиле, чтобы отрегулировать громкость навигации до комфортного уровня. Если вам трудно расслышать это сообщение, увеличьте громкость сейчас. Навигационные инструкции будут воспроизводиться на этом уровне во время вашей поездки. Продолжайте настраивать, пока громкость не станет удобной. Это сообщение будет звучать ещё несколько секунд, чтобы у вас было время правильно настроить громкость.",
+  "pick_amenity": "Выбрать удобство",
+  "fetching_amenities": "Загрузка удобств..."
 }
