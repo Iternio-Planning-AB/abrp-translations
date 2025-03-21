@@ -2289,4 +2289,12 @@
   "select_car_model_first": "Válaszd ki az autód típusát ennek a járműnek a mentéséhez",
   "aa_login_phone": "Lépjél be a prémium fiókodba, hogy az ABRP-t Android Auton használd. Győződj meg róla, hogy az autó le van parkolva.",
   "go_to_phone": "Menj telefonálni"
+  "planning_with_vehicle_name": "Tervezés ezzel: {{vehicleName}}...",
+  "food": "Étel",
+  "toilet": "Mosdó",
+  "adjust_volume": "Hangerő igazítása",
+  "adjust_volume_onscreen_description": "A navigációs utasítások hangerejét igazíthatod az autó szabályozó eszközeivel, amíg ezt az üzenetet hallod.",
+  "adjust_volume_description_tts": "Ez egy navigációs utasítás. Használd az autó hangerő szabályozóját a navigációs utasítások kellemes szintre igazításához. Ha nehezen hallod ezt a szöveget, akkor növeld a hangerőt most. A navigációs utasítások ezen a hangerőn fognak szólni az utazásod során. Igazítsad egészen addig, míg nem érzed igazán jónak. Ez az üzenet még egy pár pillanatig folytatódni fog, hogy legyen időd megfelelően beállítani a hangerőt.",
+  "pick_amenity": "Válassz egy szolgáltatást",
+  "fetching_amenities": "Szolgáltatások betöltése..."
 }
