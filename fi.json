@@ -2288,7 +2288,7 @@
   "add_vehicle_to_account": "Lisää tämä ajoneuvo tiliisi",
   "select_car_model_first": "Valitse ajoneuvon automalli tämän tallentamiseksi",
   "aa_login_phone": "Kirjaudu sisään premium-tiliisi käyttääksesi ABRP:tä Android Autossa. Varmista, että autosi on pysäköity.",
-  "go_to_phone": "Siirry puhelimeen"
+  "go_to_phone": "Siirry puhelimeen",
   "planning_with_vehicle_name": "Planning with {{vehicleName}}...",
   "food": "Ruoka",
   "toilet": "WC",
