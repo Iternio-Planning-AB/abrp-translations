@@ -2290,11 +2290,11 @@
   "aa_login_phone": "Chcete-li používat ABRP v systému Android Auto, přihlaste se ke svému prémiovému účtu. Ujistěte se, že je Vaše vozidlo zaparkované.",
   "go_to_phone": "Přejít na telefon",
   "planning_with_vehicle_name": "Plánování pro {{vehicleName}}...",
-  "food": "Food",
-  "toilet": "Toilet",
-  "adjust_volume": "Adjust volume",
-  "adjust_volume_onscreen_description": "Adjust navigation instruction volume using your car's controls while this message plays.",
-  "adjust_volume_description_tts": "This is a navigation instruction. Use your car's volume controls to adjust the navigation guidance to a comfortable level. If you're having trouble hearing this, increase the volume now. Navigation instructions will be played at this level during your drive. Keep adjusting until it feels just right. This message will continue for a few more moments to give you time to set the volume properly.",
-  "pick_amenity": "Pick an amenity",
-  "fetching_amenities": "Fetching amenities..."
+  "food": "Jídlo",
+  "toilet": "Toaleta",
+  "adjust_volume": "Upravit hlasitost",
+  "adjust_volume_onscreen_description": "Během přehrávání této zprávy upravte hlasitost navigačních pokynů pomocí ovládacích prvků ve vozidle.",
+  "adjust_volume_description_tts": "Jedná se o navigační pokyn. Pomocí ovladačů hlasitosti ve vozidle nastavte navigační pokyny na pohodlnou úroveň. Pokud máte potíže s poslechem, zvyšte nyní hlasitost. Navigační pokyny budou během jízdy přehrávány na této úrovni. Nastavujte ji tak dlouho, dokud Vám nebude připadat správná. Toto hlášení bude pokračovat ještě několik okamžiků, abyste měli čas správně nastavit hlasitost.",
+  "pick_amenity": "Vybrat vybavení",
+  "fetching_amenities": "Získávání vybavení..."
 }
