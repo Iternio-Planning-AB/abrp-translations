@@ -2290,11 +2290,11 @@
   "aa_login_phone": "Veuillez vous connecter à votre compte premium pour utiliser ABRP sur Android Auto. Assurez-vous que votre véhicule est garé.",
   "go_to_phone": "Accéder au téléphone",
   "planning_with_vehicle_name": "Planification avec {{vehicleName}}...",
-  "food": "Food",
-  "toilet": "Toilet",
-  "adjust_volume": "Adjust volume",
-  "adjust_volume_onscreen_description": "Adjust navigation instruction volume using your car's controls while this message plays.",
-  "adjust_volume_description_tts": "This is a navigation instruction. Use your car's volume controls to adjust the navigation guidance to a comfortable level. If you're having trouble hearing this, increase the volume now. Navigation instructions will be played at this level during your drive. Keep adjusting until it feels just right. This message will continue for a few more moments to give you time to set the volume properly.",
-  "pick_amenity": "Pick an amenity",
-  "fetching_amenities": "Fetching amenities..."
+  "food": "Nourriture",
+  "toilet": "Toilettes",
+  "adjust_volume": "Régler le volume",
+  "adjust_volume_onscreen_description": "Réglez le volume des instructions de navigation à l'aide des commandes de votre voiture pendant la lecture de ce message.",
+  "adjust_volume_description_tts": "Ceci est une instruction de navigation. Utilisez les commandes de volume de votre voiture pour régler le guidage à un niveau confortable. Si vous avez du mal à l'entendre, augmentez le volume maintenant. Les instructions de navigation seront diffusées à ce niveau pendant votre trajet. Continuez à ajuster jusqu'à ce que vous soyez satisfait. Ce message restera affiché quelques instants pour vous laisser le temps de régler le volume correctement.",
+  "pick_amenity": "Choisir une commodité",
+  "fetching_amenities": "Récupération des commodités..."
 }
