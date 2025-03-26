@@ -779,7 +779,7 @@
   "invalid_amenity_options_title": "Ugyldig fasilitetsalternativ",
   "invalid_amenity_options_desc": "Fyll inn alle felt for å søke etter fasiliteter.",
   "plan": "Planlegg",
-  "calculating_route": "Kalkulerer rute...",
+  "calculating_route": "Kalkulerer rute",
   "premium_required_cp_description": "Apple CarPlay er en ABRP Premium funksjon.",
   "premium_required": "Premium kreves",
   "open_premium_page": "Åpne premium side",
@@ -2288,5 +2288,15 @@
   "add_vehicle_to_account": "Add this vehicle to your account",
   "select_car_model_first": "Please select your car model to save this vehicle",
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
-  "go_to_phone": "Go to phone"
+  "go_to_phone": "Go to phone",
+  "planning_with_vehicle_name": "Planning with {{vehicleName}}...",
+  "food": "Food",
+  "toilet": "Toilet",
+  "adjust_volume": "Adjust volume",
+  "adjust_volume_onscreen_description": "Adjust navigation instruction volume using your car's controls while this message plays.",
+  "adjust_volume_description_tts": "This is a navigation instruction. Use your car's volume controls to adjust the navigation guidance to a comfortable level. If you're having trouble hearing this, increase the volume now. Navigation instructions will be played at this level during your drive. Keep adjusting until it feels just right. This message will continue for a few more moments to give you time to set the volume properly.",
+  "pick_amenity": "Pick an amenity",
+  "fetching_amenities": "Fetching amenities...",
+  "activate_for_selected_vehicle": "Activate for this vehicle",
+  "open_tesla_station": "Open to non-Tesla vehicles"
 }
