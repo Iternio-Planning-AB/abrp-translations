@@ -2296,5 +2296,7 @@
   "adjust_volume_onscreen_description": "Réglez le volume des instructions de navigation à l'aide des commandes de votre voiture pendant la lecture de ce message.",
   "adjust_volume_description_tts": "Ceci est une instruction de navigation. Utilisez les commandes de volume de votre voiture pour régler le guidage à un niveau confortable. Si vous avez du mal à l'entendre, augmentez le volume maintenant. Les instructions de navigation seront diffusées à ce niveau pendant votre trajet. Continuez à ajuster jusqu'à ce que vous soyez satisfait. Ce message restera affiché quelques instants pour vous laisser le temps de régler le volume correctement.",
   "pick_amenity": "Choisir une commodité",
-  "fetching_amenities": "Récupération des commodités..."
+  "fetching_amenities": "Récupération des commodités...",
+  "activate_for_selected_vehicle": "Activate for this vehicle",
+  "open_tesla_station": "Open to non-Tesla vehicles"
 }

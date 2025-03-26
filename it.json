@@ -2302,5 +2302,7 @@
   "adjust_volume_onscreen_description": "Adjust navigation instruction volume using your car's controls while this message plays.",
   "adjust_volume_description_tts": "This is a navigation instruction. Use your car's volume controls to adjust the navigation guidance to a comfortable level. If you're having trouble hearing this, increase the volume now. Navigation instructions will be played at this level during your drive. Keep adjusting until it feels just right. This message will continue for a few more moments to give you time to set the volume properly.",
   "pick_amenity": "Pick an amenity",
-  "fetching_amenities": "Fetching amenities..."
+  "fetching_amenities": "Fetching amenities...",
+  "activate_for_selected_vehicle": "Activate for this vehicle",
+  "open_tesla_station": "Open to non-Tesla vehicles"
 }

@@ -2296,5 +2296,7 @@
   "adjust_volume_onscreen_description": "Säädä navigointiohjeiden äänenvoimakkuutta autosi hallintalaitteiden avulla, kun tämä viesti toistetaan.",
   "adjust_volume_description_tts": "Tämä on navigointiohje. Käytä autosi äänenvoimakkuuden säätimiä säätääksesi ohjeet sopivalle tasolle. Jos sinulla on vaikeuksia kuulla tätä, lisää äänenvoimakkuutta nyt. Navigointiohjeita toistetaan tällä tasolla ajomatkan aikana. Jatka säätämistä, kunnes se tuntuu oikealta. Tämä viesti jatkuu vielä hetken, jotta voit asettaa äänenvoimakkuuden sopivaksi.",
   "pick_amenity": "Valitse mukavuus",
-  "fetching_amenities": "Haetaan mukavuuksia..."
+  "fetching_amenities": "Haetaan mukavuuksia...",
+  "activate_for_selected_vehicle": "Activate for this vehicle",
+  "open_tesla_station": "Open to non-Tesla vehicles"
 }

@@ -941,7 +941,15 @@
     "sexta-feira",
     "sábado"
   ],
-  "day_names_short": ["dom.", "seg.", "ter.", "qua.", "qui.", "sex.", "sáb."],
+  "day_names_short": [
+    "dom.",
+    "seg.",
+    "ter.",
+    "qua.",
+    "qui.",
+    "sex.",
+    "sáb."
+  ],
   "today": "Hoje",
   "scan_abrp_qrcode_to_complete_login": "Acabe de iniciar sessão digitalizando o código QR da ABRP",
   "permission_camera_title": "Permissão para utilizar a câmara",
@@ -1242,7 +1250,12 @@
   "report_charger_information": "A informação necessária para investigar foi copiada para a sua área de transferência. Clique em 'concluído' e será redirecionado para o Featurebase, onde pode criar um relatório e colar essa informação",
   "ferry_departure": "Partida do Ferry",
   "ferry_arrival": "Chegada do Ferry",
-  "direction_count_x": ["primeiro", "segundo", "terceiro", "quarto"],
+  "direction_count_x": [
+    "primeiro",
+    "segundo",
+    "terceiro",
+    "quarto"
+  ],
   "obdble_unknown_device_failed": "Este dispositivo não possui algumas funcionalidades essenciais, não o podemos utilizar para ligações OBD.",
   "obdble_unknown_device": "Dispositivo não suportado!",
   "obdble_unknown_device_attempt": "Este é um dispositivo não suportado, deseja ainda assim tentar ligar?",
@@ -2283,5 +2296,7 @@
   "adjust_volume_onscreen_description": "Ajuste o volume das instruções de navegação utilizando os controlos do seu veículo enquanto esta mensagem é reproduzida.",
   "adjust_volume_description_tts": "Esta é uma instrução de navegação. Utilize os controlos de volume do seu veículo para ajustar a orientação de navegação para um nível confortável. Se estiver a ter dificuldades em ouvir isto, aumente o volume agora. As instruções de navegação serão reproduzidas neste nível durante a sua condução. Continue a ajustar até que se sinta bem. Esta mensagem continuará por mais alguns momentos para lhe dar tempo para definir o volume corretamente.",
   "pick_amenity": "Escolha um serviço",
-  "fetching_amenities": "A obter serviços..."
+  "fetching_amenities": "A obter serviços...",
+  "activate_for_selected_vehicle": "Activate for this vehicle",
+  "open_tesla_station": "Open to non-Tesla vehicles"
 }

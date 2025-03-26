@@ -2296,5 +2296,7 @@
   "adjust_volume_onscreen_description": "A navigációs utasítások hangerejét igazíthatod az autó szabályozó eszközeivel, amíg ezt az üzenetet hallod.",
   "adjust_volume_description_tts": "Ez egy navigációs utasítás. Használd az autó hangerő szabályozóját a navigációs utasítások kellemes szintre igazításához. Ha nehezen hallod ezt a szöveget, akkor növeld a hangerőt most. A navigációs utasítások ezen a hangerőn fognak szólni az utazásod során. Igazítsad egészen addig, míg nem érzed igazán jónak. Ez az üzenet még egy pár pillanatig folytatódni fog, hogy legyen időd megfelelően beállítani a hangerőt.",
   "pick_amenity": "Válassz egy szolgáltatást",
-  "fetching_amenities": "Szolgáltatások betöltése..."
+  "fetching_amenities": "Szolgáltatások betöltése...",
+  "activate_for_selected_vehicle": "Activate for this vehicle",
+  "open_tesla_station": "Open to non-Tesla vehicles"
 }
