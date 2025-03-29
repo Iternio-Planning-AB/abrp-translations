@@ -2293,10 +2293,10 @@
   "food": "Essen",
   "toilet": "Toilette",
   "adjust_volume": "Lautstärke anpassen",
-  "adjust_volume_onscreen_description": "Adjust navigation instruction volume using your car's controls while this message plays.",
-  "adjust_volume_description_tts": "This is a navigation instruction. Use your car's volume controls to adjust the navigation guidance to a comfortable level. If you're having trouble hearing this, increase the volume now. Navigation instructions will be played at this level during your drive. Keep adjusting until it feels just right. This message will continue for a few more moments to give you time to set the volume properly.",
-  "pick_amenity": "Pick an amenity",
-  "fetching_amenities": "Fetching amenities...",
-  "activate_for_selected_vehicle": "Activate for this vehicle",
-  "open_tesla_station": "Open to non-Tesla vehicles"
+  "adjust_volume_onscreen_description": "Passe die Lautstärke der Navigationsanweisungen während der Wiedergabe dieser Meldung über die Bedienelemente deines Fahrzeugs an.",
+  "adjust_volume_description_tts": "Dies ist eine Navigationsanweisung. Passe die Navigationsanweisungen mit der Lautstärkeregelung deines Fahrzeugs auf eine angenehme Lautstärke an. Solltest du diese schlecht hören, erhöhe jetzt die Lautstärke. Die Navigationsanweisungen werden während der Fahrt mit dieser Lautstärke wiedergegeben. Passe die Lautstärke so lange an, bis sie sich richtig anfühlt. Diese Meldung wird noch einige Augenblicke lang angezeigt, damit du die Lautstärke richtig einstellen kannst.",
+  "pick_amenity": "Wähle eine Annehmlichkeit",
+  "fetching_amenities": "Annehmlichkeiten werden abgerufen...",
+  "activate_for_selected_vehicle": "Für dieses Fahrzeug aktivieren",
+  "open_tesla_station": "Offen für Nicht-Tesla-Fahrzeuge"
 }
