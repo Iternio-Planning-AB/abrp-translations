@@ -2263,7 +2263,7 @@
   "fast_food": "Fast food",
   "amenity_subcategory_other": "Anderes Essen",
   "amenities_more_subcategory_selected": "+ {{count}} weitere passende Kategorien ausgewählt",
-  "driving_done_charging": "Ich bin fertig mit dem Aufladen",
+  "driving_done_charging": "Ich bin fertig mit Aufladen",
   "confirm_continue_driving": "Weiterfahren",
   "confirm_continue_driving_message": "Verwende dies, wenn:\n• Dein SoC nicht automatisch aktualisiert wird\n• Du früher gehen willst",
   "left_to_charge": "{{left}} Minuten verbleibende Ladezeit",
