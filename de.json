@@ -354,7 +354,7 @@
   "display_mode_system": "Geräteeinstellung",
   "display_mode_automatic": "Automatisch (Tag/Nacht)",
   "network_preferences": "Ladenetzvorgaben",
-  "network_preferences_description": "Bestimmte Ladenetze vermeiden, bevorzugen oder ausschließlich verwenden",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Du hast keine Ladenetzvorgaben. Benutze die Suche oder klicke auf einen Ladepunkt auf der Karte oder im Plan, um dies zu ändern",
   "allow_this_charger": "Erlaube Ladepunkt",
   "offline": "Offline",
@@ -977,15 +977,7 @@
     "Freitag",
     "Samstag"
   ],
-  "day_names_short": [
-    "So.",
-    "Mo.",
-    "Di.",
-    "Mi.",
-    "Do.",
-    "Fr.",
-    "Sa."
-  ],
+  "day_names_short": ["So.", "Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa."],
   "today": "Heute",
   "scan_abrp_qrcode_to_complete_login": "Scanne den ABRP-QR-Code, um den Anmeldevorgang abzuschließen",
   "permission_camera_title": "Berechtigung Kamera",
@@ -1275,12 +1267,7 @@
   "ferry_arrival": "Ankunft der Fähre",
   "sorry": "Es tut uns leid",
   "unexpected_error": "Ein unerwarteter Fehler ist aufgetreten, bitte versuche es erneut. Für weitere Hilfe wende dich an unseren Support.",
-  "direction_count_x": [
-    "erste",
-    "zweite",
-    "dritte",
-    "vierte"
-  ],
+  "direction_count_x": ["erste", "zweite", "dritte", "vierte"],
   "read_faq": "Lies unsere FAQ",
   "clear_plan": "Plan löschen",
   "xx_minutes_faster": "{{x}} Min. schneller",

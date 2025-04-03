@@ -380,7 +380,7 @@
   "display_mode_automatic": "自动（白天/晚上）",
   "display_mode_map": "地图遵循主题",
   "network_preferences": "网络首选项",
-  "network_preferences_description": "避免，喜欢或仅使用某些网络。",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "您没有任何网络首选项。使用搜索或单击地图上或计划中的充电器来更改此操作。",
   "allow_this_charger": "允许此充电器",
   "offline": "离线",
@@ -1026,15 +1026,7 @@
     "Friday",
     "Saturday"
   ],
-  "day_names_short": [
-    "Sun.",
-    "Mon.",
-    "Tue.",
-    "Wed.",
-    "Thu.",
-    "Fri.",
-    "Sat."
-  ],
+  "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
   "today": "今天",
   "login_remote_app": "登录远程应用",
   "scan_abrp_qrcode_to_complete_login": "通过扫描ABRP QR代码来完成登录",

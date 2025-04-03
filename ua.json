@@ -345,7 +345,7 @@
   "display_mode_automatic": "Авторежим (День/Ніч)",
   "display_mode_map": "Мапа в темі додатку",
   "network_preferences": "Вибір зарядних мереж",
-  "network_preferences_description": "Приховувати, вибирати та використовувати окремі мережі.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Налаштування мережі не встановлено. Використовуйте пошук або клацніть по зарядці на мапі або маршруті для зміни параметрів.",
   "allow_this_charger": "Використовувати цю зарядку",
   "offline": "Офлайн",
@@ -941,15 +941,7 @@
     "п'ятниця",
     "субота"
   ],
-  "day_names_short": [
-    "нд.",
-    "пн.",
-    "вт.",
-    "сер.",
-    "чт.",
-    "пт.",
-    "сб."
-  ],
+  "day_names_short": ["нд.", "пн.", "вт.", "сер.", "чт.", "пт.", "сб."],
   "today": "сьогодні",
   "scan_abrp_qrcode_to_complete_login": "Завершіть вхід, відсканувавши файл ABRP QR-code",
   "permission_camera_title": "Дозвіл на використання камери",
@@ -1248,12 +1240,7 @@
   "report_charger_information": "Інформацію, яку нам потрібно дослідити, скопійовано у ваш буфер обміну. Натисніть «Готово», і вас буде перенаправлено до Featurebase, де ви зможете створити звіт і вставити ту інформацію",
   "ferry_departure": "Відправлення порома",
   "ferry_arrival": "Прибуття порома",
-  "direction_count_x": [
-    "1",
-    "2",
-    "3",
-    "4"
-  ],
+  "direction_count_x": ["1", "2", "3", "4"],
   "obdble_unknown_device_failed": "У цьому пристрої відсутні деякі важливі функції, ми не можемо використовувати його для підключення OBD.",
   "obdble_unknown_device": "Непідтримуваний пристрій!",
   "obdble_unknown_device_attempt": "Цей пристрій не підтримується. Спробувати підключитися?",

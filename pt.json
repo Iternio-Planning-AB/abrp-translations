@@ -338,7 +338,7 @@
   "display_mode_system": "Configurações",
   "display_mode_automatic": "Automático (Dia/Noite)",
   "network_preferences": "Preferências da rede",
-  "network_preferences_description": "Evitar, preferir ou usar exclusivamente uma determinada rede",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Não tem nenhuma preferência de rede. Clique num carregador no mapa ou no planeamento para alterar a configuração.",
   "allow_this_charger": "Permitir este carregador",
   "offline": "Desligado",
@@ -941,15 +941,7 @@
     "sexta-feira",
     "sábado"
   ],
-  "day_names_short": [
-    "dom.",
-    "seg.",
-    "ter.",
-    "qua.",
-    "qui.",
-    "sex.",
-    "sáb."
-  ],
+  "day_names_short": ["dom.", "seg.", "ter.", "qua.", "qui.", "sex.", "sáb."],
   "today": "Hoje",
   "scan_abrp_qrcode_to_complete_login": "Acabe de iniciar sessão digitalizando o código QR da ABRP",
   "permission_camera_title": "Permissão para utilizar a câmara",
@@ -1250,12 +1242,7 @@
   "report_charger_information": "A informação necessária para investigar foi copiada para a sua área de transferência. Clique em 'concluído' e será redirecionado para o Featurebase, onde pode criar um relatório e colar essa informação",
   "ferry_departure": "Partida do Ferry",
   "ferry_arrival": "Chegada do Ferry",
-  "direction_count_x": [
-    "primeiro",
-    "segundo",
-    "terceiro",
-    "quarto"
-  ],
+  "direction_count_x": ["primeiro", "segundo", "terceiro", "quarto"],
   "obdble_unknown_device_failed": "Este dispositivo não possui algumas funcionalidades essenciais, não o podemos utilizar para ligações OBD.",
   "obdble_unknown_device": "Dispositivo não suportado!",
   "obdble_unknown_device_attempt": "Este é um dispositivo não suportado, deseja ainda assim tentar ligar?",

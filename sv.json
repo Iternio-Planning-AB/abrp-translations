@@ -338,7 +338,7 @@
   "display_mode_automatic": "Automatisk (dag/natt)",
   "display_mode_map": "Kartan följer temat",
   "network_preferences": "Laddnätverksinställningar",
-  "network_preferences_description": "Undvik, föredra eller använd enskilda laddnätverk",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Du har inga laddnätverksinställningar - klicka på en laddare på kartan eller i planen för att lägga till.",
   "allow_this_charger": "Använd den här laddaren igen",
   "offline": "Offline",
@@ -959,15 +959,7 @@
     "fredag",
     "lördag"
   ],
-  "day_names_short": [
-    "sön",
-    "mån",
-    "tis",
-    "ons",
-    "tors",
-    "fre",
-    "lör"
-  ],
+  "day_names_short": ["sön", "mån", "tis", "ons", "tors", "fre", "lör"],
   "today": "i dag",
   "scan_abrp_qrcode_to_complete_login": "Slutför inloggningen genom att skanna ABRP QR-koden",
   "permission_camera_title": "Tillåtelse att använda kameran",
@@ -1250,12 +1242,7 @@
   "report_charger_information": "Information vi behöver för att undersöka problemet har kopierats till ditt urklipp. Klicka på 'klar' och omdirigeras till Featurebase där du kan skapa en rapport och klistra in den informationen",
   "ferry_departure": "Färjans avgångstid",
   "ferry_arrival": "Färjans ankomsttid",
-  "direction_count_x": [
-    "första",
-    "andra",
-    "tredje",
-    "fjärde"
-  ],
+  "direction_count_x": ["första", "andra", "tredje", "fjärde"],
   "obdble_unknown_device_failed": "Den här enheten saknar några väsentliga funktioner, vi kan inte använda den för OBD-anslutningar.",
   "obdble_unknown_device": "Enheten stöds inte!",
   "obdble_unknown_device_attempt": "Det här är en enhet som inte stöds, vill du fortfarande försöka ansluta?",

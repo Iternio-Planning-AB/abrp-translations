@@ -373,7 +373,7 @@
   "display_mode_system": "Configuració del dispositiu",
   "display_mode_automatic": "Automàtic (dia/nit)",
   "network_preferences": "Preferències de xarxes",
-  "network_preferences_description": "Eviteu, preferiu o utilitzeu exclusivament algunes xarxes.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "No teniu cap preferència de xarxa. Feu servir la cerca o feu clic en un carregador del mapa o en l'itinerari per a canviar-ho.",
   "allow_this_charger": "Permet aquest carregador",
   "offline": "Sense connexió",
@@ -942,15 +942,7 @@
     "divendres",
     "dissabte"
   ],
-  "day_names_short": [
-    "dg.",
-    "dl.",
-    "dt.",
-    "dc.",
-    "dj.",
-    "dv.",
-    "ds."
-  ],
+  "day_names_short": ["dg.", "dl.", "dt.", "dc.", "dj.", "dv.", "ds."],
   "today": "avui",
   "scan_abrp_qrcode_to_complete_login": "Completeu l'inici de sessió escanejant el codi QR d'ABRP",
   "permission_camera_title": "Permís per a usar la càmera",
@@ -1251,12 +1243,7 @@
   "report_charger_information": "La informació que necessitem investigar s'ha copiat al porta-retalls. Feu clic a «fet» i sereu redirigit a Upvoty on podreu crear un informe i enganxar-hi aquesta informació",
   "ferry_departure": "Sortida de ferri",
   "ferry_arrival": "Arribada de ferri",
-  "direction_count_x": [
-    "primera",
-    "segona",
-    "tercera",
-    "quarta"
-  ],
+  "direction_count_x": ["primera", "segona", "tercera", "quarta"],
   "obdble_unknown_device_failed": "Aquest dispositiu no té algunes característiques essencials, no podem utilitzar-lo per a connexions OBD.",
   "obdble_unknown_device": "Dispositiu no admès!",
   "obdble_unknown_device_attempt": "Aquest és un dispositiu no admès, encara voleu intentar connectar-vos?",

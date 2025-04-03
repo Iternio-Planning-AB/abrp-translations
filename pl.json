@@ -345,7 +345,7 @@
   "display_mode_automatic": "Automatyczny (Dzień/Noc)",
   "display_mode_map": "Mapa ustala tryb wyświetlania",
   "network_preferences": "Preferencje sieci",
-  "network_preferences_description": "Omijaj, preferuj lub używaj wyłącznie wybrane sieci.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Aktualnie nie masz preferowanych sieci. Użyj 'Szukaj' lub kliknij na punkt ładowania na mapie aby to zmienić.",
   "allow_this_charger": "Dopuść ten punkt ładowania",
   "offline": "Wyłączony",
@@ -942,15 +942,7 @@
     "Piątek",
     "Sobota"
   ],
-  "day_names_short": [
-    "Nie.",
-    "Pon.",
-    "Wto.",
-    "Śro.",
-    "Czw.",
-    "Pią.",
-    "Sob."
-  ],
+  "day_names_short": ["Nie.", "Pon.", "Wto.", "Śro.", "Czw.", "Pią.", "Sob."],
   "today": "Dzisiaj",
   "scan_abrp_qrcode_to_complete_login": "Dokończ logowanie, skanując kod QR ABRP",
   "permission_camera_title": "Pozwolenie na korzystanie z aparatu",
@@ -1250,12 +1242,7 @@
   "report_charger_information": "Informacje, które musimy zbadać, zostały skopiowane do schowka. Kliknij „Gotowe” i zostaniesz przekierowany do Featurebase, gdzie możesz utworzyć raport i wkleić te informacje",
   "ferry_departure": "Wypłynięcie promu",
   "ferry_arrival": "Przybycie promu",
-  "direction_count_x": [
-    "pierwszy",
-    "drugi",
-    "trzeci",
-    "czwarty"
-  ],
+  "direction_count_x": ["pierwszy", "drugi", "trzeci", "czwarty"],
   "obdble_unknown_device_failed": "W tym urządzeniu brakuje niektórych istotnych funkcji, nie możemy go używać do połączeń OBD.",
   "obdble_unknown_device": "Nieobsługiwane urządzenie!",
   "obdble_unknown_device_attempt": "To nieobsługiwane urządzenie. Czy nadal chcesz spróbować się połączyć?",

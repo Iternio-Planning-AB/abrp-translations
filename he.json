@@ -345,7 +345,7 @@
   "display_mode_automatic": "אוטומטי (יום / לילה)",
   "display_mode_map": "מפה עוקבת אחר נושא",
   "network_preferences": "העדפות רשת",
-  "network_preferences_description": "הימנע, העדיף או השתמש אך ורק ברשתות מסוימות.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "אין לך העדפות רשת. השתמש בחיפוש או לחץ על מטען על המפה או בתוכנית כדי לשנות זאת.",
   "allow_this_charger": "אפשר את המטען הזה",
   "offline": "לא מקוון",
@@ -1250,12 +1250,7 @@
   "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Featurebase where you can create a report and paste in that information",
   "ferry_departure": "Ferry Departure",
   "ferry_arrival": "Ferry Arrival",
-  "direction_count_x": [
-    "ראשון",
-    "שְׁנִיָה",
-    "שְׁלִישִׁי",
-    "רביעי"
-  ],
+  "direction_count_x": ["ראשון", "שְׁנִיָה", "שְׁלִישִׁי", "רביעי"],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",

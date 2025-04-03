@@ -338,7 +338,7 @@
   "display_mode_system": "Impostazioni dispositivo",
   "display_mode_automatic": "Automatico (Giorno/Notte)",
   "network_preferences": "Preferenze di rete",
-  "network_preferences_description": "Evitare, preferire o utilizzare esclusivamente alcune reti.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Non hai preferenze di rete. Fare clic su una colonnina sulla mappa o nel piano per modificarlo.",
   "allow_this_charger": "Consenti questa colonnina",
   "offline": "Offline",
@@ -941,15 +941,7 @@
     "venerdì",
     "sabato"
   ],
-  "day_names_short": [
-    "dom",
-    "lun",
-    "mar",
-    "mer",
-    "gio",
-    "ven",
-    "sab"
-  ],
+  "day_names_short": ["dom", "lun", "mar", "mer", "gio", "ven", "sab"],
   "today": "oggi",
   "scan_abrp_qrcode_to_complete_login": "Completa il login scansionando il QR-code ABRP",
   "permission_camera_title": "Autorizzazione all'utilizzo della camera",

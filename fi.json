@@ -374,7 +374,7 @@
   "display_mode_automatic": "Automaattinen (päivä/yö)",
   "display_mode_map": "Kartta seuraa teemaa",
   "network_preferences": "Verkkoasetukset",
-  "network_preferences_description": "Vältä, suosi tai käytä yksinomaan joitain verkkoja.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Sinulla ei ole verkkoasetuksia. Muuta tätä käyttämällä hakua tai napauttamalla laturia kartalla tai suunnitelmassa.",
   "allow_this_charger": "Salli tämä latausasema",
   "offline": "Offline",
@@ -1019,15 +1019,7 @@
     "perjantaina",
     "lauantaina"
   ],
-  "day_names_short": [
-    "su",
-    "ma",
-    "ti",
-    "ke",
-    "to",
-    "pe",
-    "la"
-  ],
+  "day_names_short": ["su", "ma", "ti", "ke", "to", "pe", "la"],
   "today": "Tänään",
   "login_remote_app": "Kirjaudu etäsovellukseen",
   "scan_abrp_qrcode_to_complete_login": "Viimeistele kirjautuminen skannaamalla ABRP QR -koodi",

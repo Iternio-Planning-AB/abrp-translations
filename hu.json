@@ -342,7 +342,7 @@
   "display_mode_automatic": "Automata (Nappal / Éjszaka)",
   "display_mode_map": "Térkép beállítása Téma szerint",
   "network_preferences": "Preferált hálózatok",
-  "network_preferences_description": "Bizonyos hálózatok elkerülése, előnyben részesítése vagy kizárólagos használata.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Nincs beállítva a hálózatok előnyben részesítése funkció. A funkció beállításhoz kérlek kattints egy töltőre a térképen vagy az útvonaltervezési listában.",
   "allow_this_charger": "Töltő engedélyezése",
   "offline": "Offline állapot",
@@ -941,15 +941,7 @@
     "péntek",
     "szombat"
   ],
-  "day_names_short": [
-    "V",
-    "H",
-    "K",
-    "Sze",
-    "Cs",
-    "P",
-    "Szo"
-  ],
+  "day_names_short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
   "today": "ma",
   "scan_abrp_qrcode_to_complete_login": "Bejelentkezés a megadott ABRP QR beolvasásával",
   "permission_camera_title": "Kamera hozzáférés engedélyezése",
@@ -1248,12 +1240,7 @@
   "report_charger_information": "A vizsgálathoz szükséges információ vágólapra másolva. Válaszd ki a 'Kész / Done' lehetőséget és átirányítunk az Featurebase oldalára ahol létre tudod hozni a hibanaplót és bemásolni a vágólapról a szükséges információkat",
   "ferry_departure": "Komp indulás",
   "ferry_arrival": "Komp érkezés",
-  "direction_count_x": [
-    "első",
-    "második",
-    "harmadik",
-    "negyedik"
-  ],
+  "direction_count_x": ["első", "második", "harmadik", "negyedik"],
   "obdble_unknown_device_failed": "Ez az eszköz nélkülöz bizonyos alapvető képességeket, így nem tudjuk OBD kapcsolatra használni.",
   "obdble_unknown_device": "Nem támogatott eszköz!",
   "obdble_unknown_device_attempt": "Ez egy nem támogatott eszköz, mégis megpróbálod csatlakoztatni?",

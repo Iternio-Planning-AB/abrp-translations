@@ -373,7 +373,7 @@
   "display_mode_system": "Ajustes del dispositivo",
   "display_mode_automatic": "Automático (Día/Noche)",
   "network_preferences": "Preferencias de redes de carga",
-  "network_preferences_description": "Evite, prefiere o use exclusivamente algunas redes de carga",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "No tienes preferencias de redes de carga",
   "allow_this_charger": "Permitir este cargador",
   "offline": "Sin conexión",
@@ -941,15 +941,7 @@
     "viernes",
     "sábado"
   ],
-  "day_names_short": [
-    "dom.",
-    "lun.",
-    "mar.",
-    "mié.",
-    "jue.",
-    "vie.",
-    "sáb."
-  ],
+  "day_names_short": ["dom.", "lun.", "mar.", "mié.", "jue.", "vie.", "sáb."],
   "today": "hoy",
   "scan_abrp_qrcode_to_complete_login": "Completar inicio de sesión escaneando el código QR de ABRP",
   "permission_camera_title": "Permiso para usar la cámara",
@@ -1248,12 +1240,7 @@
   "report_charger_information": "La información que necesitamos para investigar se ha copiado a tu portapapeles. Haz clic en 'hecho' y se te redireccionará a Featurebase, donde puedes crear una reseña y pegar esa información",
   "ferry_departure": "Salida del ferry",
   "ferry_arrival": "Llegada del ferry",
-  "direction_count_x": [
-    "primera",
-    "segunda",
-    "tercera",
-    "cuarta"
-  ],
+  "direction_count_x": ["primera", "segunda", "tercera", "cuarta"],
   "obdble_unknown_device_failed": "Este dispositivo carece de características esenciales, no se puede utilizar para conexiones OBD.",
   "obdble_unknown_device": "¡Dispositivo no soportado!",
   "obdble_unknown_device_attempt": "Este es un dispositivo no soportado, ¿Aun quieres intentar conectarlo?",

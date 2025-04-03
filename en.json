@@ -387,7 +387,7 @@
   "display_mode_automatic": "Automatic (Day/Night)",
   "display_mode_map": "Map follows theme",
   "network_preferences": "Network preferences",
-  "network_preferences_description": "Avoid, prefer or use exclusively some networks.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "You don't have any network preferences. Use search or click a charger on the map or in the plan to change this.",
   "allow_this_charger": "Allow this charger",
   "offline": "Offline",
@@ -1032,7 +1032,15 @@
     "Nov.",
     "Dec."
   ],
-  "day_names": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "day_names": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
   "day_names_short": ["Sun.", "Mon.", "Tue.", "Wed.", "Thu.", "Fri.", "Sat."],
   "today": "Today",
   "login_remote_app": "Login remote app",
