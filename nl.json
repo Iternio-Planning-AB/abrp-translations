@@ -337,7 +337,7 @@
   "display_mode_system": "Volg apparaatinstellingen",
   "display_mode_automatic": "Automatisch (dag/nacht)",
   "network_preferences": "Voorkeursexploitant",
-  "network_preferences_description": "Geef aan welke exploitant uw voorkeur heeft of die u wilt uitsluiten",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "U hebt geen voorkeursexploitant. Klik op een oplaadpunt op de kaart of in uw route om voorkeuren in te stellen.",
   "allow_this_charger": "Dit oplaadpunt toestaan",
   "offline": "Offline",
@@ -941,15 +941,7 @@
     "vrijdag",
     "zaterdag"
   ],
-  "day_names_short": [
-    "zo",
-    "ma",
-    "di",
-    "wo",
-    "do",
-    "vr",
-    "za"
-  ],
+  "day_names_short": ["zo", "ma", "di", "wo", "do", "vr", "za"],
   "today": "vandaag",
   "scan_abrp_qrcode_to_complete_login": "Voltooi het inloggen door de ABRP QR-code te scannen",
   "permission_camera_title": "Toestemming om camera te gebruiken",
@@ -1248,12 +1240,7 @@
   "report_charger_information": "Informatie die we nodig hebben om te onderzoeken is naar uw klembord gekopieerd. Klik op 'Gereed' en u wordt doorgestuurd naar Featurebase waar u een rapport kunt maken en waar u de informatie vanuit het klembord kunt plakken",
   "ferry_departure": "Aankomst boot",
   "ferry_arrival": "Vertrek boot",
-  "direction_count_x": [
-    "eerste",
-    "tweede",
-    "derde",
-    "vierde"
-  ],
+  "direction_count_x": ["eerste", "tweede", "derde", "vierde"],
   "obdble_unknown_device_failed": "Dit apparaat mist enkele essentiële functies en kan niet worden gebruikt voor OBD-verbindingen.",
   "obdble_unknown_device": "Niet-ondersteund apparaat!",
   "obdble_unknown_device_attempt": "Dit is een niet-ondersteund apparaat, wilt u toch proberen verbinding te maken?",

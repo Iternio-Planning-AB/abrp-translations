@@ -336,7 +336,7 @@
   "display_mode_system": "裝置設定",
   "display_mode_automatic": "自動模式 (日/夜)",
   "network_preferences": "充電網偏好",
-  "network_preferences_description": "可設定某充電網偏好為：避開，偏愛或專屬使用",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "你目前並沒有任何充電網偏好。可在地圖或行程規劃中點選並更改。",
   "allow_this_charger": "允許此充電樁",
   "offline": "離線中",
@@ -941,15 +941,7 @@
     "星期五",
     "星期六"
   ],
-  "day_names_short": [
-    "周日",
-    "周一",
-    "周二",
-    "周三",
-    "周四",
-    "周五",
-    "周六"
-  ],
+  "day_names_short": ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
   "today": "今天",
   "scan_abrp_qrcode_to_complete_login": "Complete log in by scanning the ABRP QR-code",
   "permission_camera_title": "Permission to use camera",
@@ -1250,12 +1242,7 @@
   "report_charger_information": "Information we need to investigate has been copied to your clipboard. Click 'done' and be redirected to Featurebase where you can create a report and paste in that information",
   "ferry_departure": "Ferry Departure",
   "ferry_arrival": "Ferry Arrival",
-  "direction_count_x": [
-    "first",
-    "second",
-    "third",
-    "fourth"
-  ],
+  "direction_count_x": ["first", "second", "third", "fourth"],
   "obdble_unknown_device_failed": "This device misses some essential features, we can not use it for OBD connections.",
   "obdble_unknown_device": "Unsupported device!",
   "obdble_unknown_device_attempt": "This is an unsupported device, do you still want to try to connect?",

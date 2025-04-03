@@ -319,7 +319,7 @@
   "display_mode_system": "Følg systeminnstillinger",
   "display_mode_automatic": "Automatisk (Dag/Natt)",
   "network_preferences": "Ladenettverksinnstillinger",
-  "network_preferences_description": "Unngå, foretrekk eller bruk kun noen ladenettverk",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Du har ingen foretrukne ladenettverk. Klikk på en lader i kartet eller i ruteplanen for å endre dette.",
   "allow_this_charger": "Tillat denne laderen",
   "offline": "Offline",
@@ -940,15 +940,7 @@
     "fredag",
     "lørdag"
   ],
-  "day_names_short": [
-    "søn.",
-    "man.",
-    "tir.",
-    "ons.",
-    "tor.",
-    "fre.",
-    "lør."
-  ],
+  "day_names_short": ["søn.", "man.", "tir.", "ons.", "tor.", "fre.", "lør."],
   "today": "i dag",
   "scan_abrp_qrcode_to_complete_login": "Fullfør innlogging ved å skanne ABRP QR-koden",
   "permission_camera_title": "Tillatelse til å bruke kameraet",
@@ -1249,12 +1241,7 @@
   "report_charger_information": "Informasjonen vi trenger å for å undersøke problemet har blitt kopiert til din utklippstavle. Klikk 'ferdig' og du blir videresendt til Featurebase, der du kan lage en rapport og lime inn informasjonen",
   "ferry_departure": "Ferge avgang",
   "ferry_arrival": "Ferge ankomst",
-  "direction_count_x": [
-    "første",
-    "andre",
-    "tredje",
-    "fjerde"
-  ],
+  "direction_count_x": ["første", "andre", "tredje", "fjerde"],
   "obdble_unknown_device_failed": "Denne enheten mangler viktige funksjoner. Vi kan ikke benytte denne til OBD tilkobling.",
   "obdble_unknown_device": "Ikke støttet enhet!",
   "obdble_unknown_device_attempt": "Denne enheten støttes ikke. Vil du fortsatt forsøke å koble til?",

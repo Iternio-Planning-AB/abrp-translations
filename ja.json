@@ -380,7 +380,7 @@
   "display_mode_automatic": "自動（昼/夜）",
   "display_mode_map": "マップはテーマに従います",
   "network_preferences": "ネットワーク設定",
-  "network_preferences_description": "一部のネットワークのみを避け、希望、または使用してください。",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "ネットワークの好みはありません。検索を使用するか、マップまたは計画で充電器をクリックしてこれを変更します。",
   "allow_this_charger": "この充電器を許可します",
   "offline": "オフライン",
@@ -1023,15 +1023,7 @@
     "金曜日",
     "土曜日"
   ],
-  "day_names_short": [
-    "日",
-    "月",
-    "火",
-    "水",
-    "木",
-    "金",
-    "土"
-  ],
+  "day_names_short": ["日", "月", "火", "水", "木", "金", "土"],
   "today": "今日",
   "login_remote_app": "リモートアプリをログインします",
   "scan_abrp_qrcode_to_complete_login": "ABRP QRコードをスキャンしてログインします",
@@ -1764,12 +1756,7 @@
   "vehicle_sharing_description": "家族や友人と車を共有してください。 ABRPアプリで車両を使用できるようになります。",
   "delete_vehicle": "車両を削除します",
   "remove_shared_vehicle": "共有車両を取り外します",
-  "direction_count_x": [
-    "first",
-    "second",
-    "third",
-    "fourth"
-  ],
+  "direction_count_x": ["first", "second", "third", "fourth"],
   "delete_configuration": "Delete configuration",
   "delete_configuration_description": "This will permanently delete your configuration.\n\n Are you sure?",
   "welcome_new_premium": "Welcome to ABRP Premium!",
