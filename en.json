@@ -2273,7 +2273,7 @@
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
   "go_to_phone": "Go to phone",
   "confirm_car_selection_suggestion_title": "Which car are you driving?",
-  "confirm_car_selection_suggestion": "We assume you are driving {{vehicleName}}. Is this correct?",
+  "confirm_car_selection_suggestion": "Your current selected vehicle is {{vehicleName}}. Is this correct?",
   "confirm_car_selection_suggestion_switch": "Switch car",
   "adjust_volume": "Adjust volume",
   "adjust_volume_onscreen_description": "Adjust navigation instruction volume using your car's controls while this message plays.",
