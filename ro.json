@@ -345,7 +345,7 @@
   "display_mode_automatic": "Automat (zi / noapte)",
   "display_mode_map": "Harta urmează tema",
   "network_preferences": "Specificațiile rețelei de încărcare",
-  "network_preferences_description": "Evită, preferă sau utilizează exclusiv anumite rețele de încărcare.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Nu ai nicio preferință de rețea. Utilizează căutarea sau fă clic pe un punct de încărcare de pe hartă sau din plan pentru a schimba acest lucru.",
   "allow_this_charger": "Permite punctul de încărcare",
   "offline": "Offline",
@@ -941,15 +941,7 @@
     "vineri",
     "sâmbătă"
   ],
-  "day_names_short": [
-    "dum.",
-    "lun.",
-    "mar.",
-    "mie.",
-    "joi.",
-    "vin.",
-    "sâm."
-  ],
+  "day_names_short": ["dum.", "lun.", "mar.", "mie.", "joi.", "vin.", "sâm."],
   "today": "azi",
   "scan_abrp_qrcode_to_complete_login": "Scanează codul ABRP QR pentru a finaliza procesul de înregistrare",
   "permission_camera_title": "Autorizare de folosire a camerei",
@@ -1248,12 +1240,7 @@
   "report_charger_information": "Informațiile pe care trebuie să le investigăm au fost copiate în clipboard. Fă clic pe „Terminat” și vei fi redirecționat către Featurebase, unde poți crea un raport și insera informațiile respective",
   "ferry_departure": "Plecare feribot",
   "ferry_arrival": "Sosire feribot",
-  "direction_count_x": [
-    "prima",
-    "a doua",
-    "a treia",
-    "a patra"
-  ],
+  "direction_count_x": ["prima", "a doua", "a treia", "a patra"],
   "obdble_unknown_device_failed": "Acestui dispozitiv îi lipsesc câteva caracteristici esențiale, nu îl putem folosi pentru conexiuni OBD.",
   "obdble_unknown_device": "Dispozitiv neacceptat!",
   "obdble_unknown_device_attempt": "Acesta este un dispozitiv neacceptat, mai vrei să încerci să te conectezi?",

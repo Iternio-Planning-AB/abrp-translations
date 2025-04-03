@@ -371,7 +371,7 @@
   "display_mode_automatic": "Automático (Día/Noite)",
   "display_mode_map": "O mapa muda segundo o tema",
   "network_preferences": "Preferencia de redes",
-  "network_preferences_description": "Evitar, preferir ou usar de xeito exclusivo unha determinada rede.",
+  "network_preferences_description": "Prefer, avoid or exclude some networks.",
   "no_network_preferences": "Non tes ningunha preferencia de rede. Usa a busca, preme nun cargador do mapa ou da ruta para trocar isto.",
   "allow_this_charger": "Permitir este cargador",
   "offline": "Fora de liña",
@@ -979,15 +979,7 @@
     "Venres",
     "Sábado"
   ],
-  "day_names_short": [
-    "Dom.",
-    "Luns",
-    "Mar.",
-    "Mér.",
-    "Xov.",
-    "Ven.",
-    "Sáb."
-  ],
+  "day_names_short": ["Dom.", "Luns", "Mar.", "Mér.", "Xov.", "Ven.", "Sáb."],
   "today": "hoxe",
   "scan_abrp_qrcode_to_complete_login": "Inicio completo ao escanear o código QR do ABRP",
   "permission_camera_title": "Permiso para empregar a cámara",
@@ -1249,12 +1241,7 @@
   "report_charger_information": "A información que precisamos para investigar foi copiada ao portarretallos. Preme en 'Feito' para ser redirixido ao apartado de votos a favor para crear un informe e pegar a información.",
   "ferry_departure": "Saída do transbordador",
   "ferry_arrival": "Chegada do transbordador",
-  "direction_count_x": [
-    "primeira",
-    "segunda",
-    "terceira",
-    "cuarta"
-  ],
+  "direction_count_x": ["primeira", "segunda", "terceira", "cuarta"],
   "obdble_unknown_device_failed": "Faltan algunhas funcións esenciais neste dispositivo e non é posíbel usalo para conectar co OBD.",
   "obdble_unknown_device": "Dispositivo non soportado!",
   "obdble_unknown_device_attempt": "O dispositivo non está soportado, aínda queres tentar conectar?",
