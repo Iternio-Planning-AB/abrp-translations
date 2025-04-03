@@ -2293,5 +2293,16 @@
   "pick_amenity": "Pick an amenity",
   "fetching_amenities": "Fetching amenities...",
   "activate_for_selected_vehicle": "Activate for this vehicle",
-  "open_tesla_station": "Open to non-Tesla vehicles"
+  "open_tesla_station": "Open to non-Tesla vehicles",
+  "confirm_car_selection_suggestion_title": "Which car are you driving?",
+  "confirm_car_selection_suggestion": "Your current selected vehicle is {{vehicleName}}. Is this correct?",
+  "confirm_car_selection_suggestion_switch": "Switch car",
+  "last_successful_charging": "Last successful charging",
+  "last_updated_time": "Last updated: {{time}}",
+  "where_you_able_to_charge": "Were you able to charge?",
+  "premium_annual_12_for_10": "12 months for the price of 10",
+  "charge_stops_zero": "No charge stops",
+  "charge_stops_one": "One charge stop",
+  "charge_stops_other": "{{count}} charge stops",
+  "total_trip_time_diff": "Total trip: {{diff}}"
 }

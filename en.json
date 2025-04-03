@@ -2280,5 +2280,13 @@
   "adjust_volume_description_tts": "This is a navigation instruction. Use your car's volume controls to adjust the navigation guidance to a comfortable level. If you're having trouble hearing this, increase the volume now. Navigation instructions will be played at this level during your drive. Keep adjusting until it feels just right. This message will continue for a few more moments to give you time to set the volume properly.",
   "pick_amenity": "Pick an amenity",
   "fetching_amenities": "Fetching amenities...",
-  "open_tesla_station": "Open to non-Tesla vehicles"
+  "last_successful_charging": "Last successful charging",
+  "open_tesla_station": "Open to non-Tesla vehicles",
+  "last_updated_time": "Last updated: {{time}}",
+  "where_you_able_to_charge": "Were you able to charge?",
+  "premium_annual_12_for_10": "12 months for the price of 10",
+  "charge_stops_zero": "No charge stops",
+  "charge_stops_one": "One charge stop",
+  "charge_stops_other": "{{count}} charge stops",
+  "total_trip_time_diff": "Total trip: {{diff}}"
 }
