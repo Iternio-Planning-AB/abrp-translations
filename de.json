@@ -2290,7 +2290,7 @@
   "aa_login_phone": "Bitte melde dich bei deinem Premium-Konto an, um ABRP auf Android Auto zu verwenden. Stelle sicher, dass dein Auto geparkt ist.",
   "go_to_phone": "Zum Telefon gehen",
   "confirm_car_selection_suggestion_title": "Welches Auto fährst du gerade?",
-  "confirm_car_selection_suggestion": "Wir vermuten du fährst mit {{vehicleName}}. Ist das richtig?",
+  "confirm_car_selection_suggestion": "Dein ausgewähltes Fahrzeug ist {{vehicleName}}. Ist das richtig?",
   "confirm_car_selection_suggestion_switch": "Auto wechseln",
   "planning_with_vehicle_name": "Planung mit {{vehicleName}}...",
   "food": "Essen",
