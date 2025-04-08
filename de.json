@@ -2302,12 +2302,12 @@
   "fetching_amenities": "Annehmlichkeiten werden abgerufen...",
   "activate_for_selected_vehicle": "Für dieses Fahrzeug aktivieren",
   "open_tesla_station": "Offen für Nicht-Tesla-Fahrzeuge",
-  "last_successful_charging": "Last successful charging",
-  "last_updated_time": "Last updated: {{time}}",
-  "where_you_able_to_charge": "Were you able to charge?",
-  "premium_annual_12_for_10": "12 months for the price of 10",
-  "charge_stops_zero": "No charge stops",
-  "charge_stops_one": "One charge stop",
-  "charge_stops_other": "{{count}} charge stops",
-  "total_trip_time_diff": "Total trip: {{diff}}"
+  "last_successful_charging": "Letzter erfolgreicher Ladevorgang",
+  "last_updated_time": "Zuletzt aktualisiert: {{time}}",
+  "where_you_able_to_charge": "Konntest du aufladen?",
+  "premium_annual_12_for_10": "12 Monate zum Preis von 10",
+  "charge_stops_zero": "Keine Ladestopps",
+  "charge_stops_one": "Ein Ladestopp",
+  "charge_stops_other": "{{count}} Ladestopps",
+  "total_trip_time_diff": "Reise insgesamt: {{diff}}"
 }
