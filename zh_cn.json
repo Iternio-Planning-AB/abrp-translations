@@ -2304,5 +2304,10 @@
   "charge_stops_zero": "No charge stops",
   "charge_stops_one": "One charge stop",
   "charge_stops_other": "{{count}} charge stops",
-  "total_trip_time_diff": "Total trip: {{diff}}"
+  "total_trip_time_diff": "Total trip: {{diff}}",
+  "your_location": "Your location",
+  "pick": "Pick",
+  "disable_battery_optimization": "Please turn off battery optimization on your phone. This is required to get position updates on some phones.",
+  "allow_location_permission": "Please allow location and car data access on the phone. Make sure your car is parked.",
+  "nearby_chargers_no_charger_zoom_out_for_wider_search": "No chargers found. Try zooming out or moving around the map for a broader search."
 }
