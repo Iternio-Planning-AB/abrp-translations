@@ -113,7 +113,7 @@
   "treat_as_charger": "Traiter comme une borne",
   "save": "Sauvegarder",
   "saved": "Sauvegardé",
-  "saved_plans": "Plans sauvegardés",
+  "saved_plans": "Trajets sauvegardés",
   "replan": "Replanifier",
   "to_plan": "Vers plan",
   "back": "Retour",
@@ -1097,7 +1097,7 @@
   "show_less": "Afficher moins",
   "on_arrival": "à l'arrivée",
   "display_mode_map_description": "En choisissant cette option, la carte suivra automatiquement le thème de couleur de l'application.",
-  "recent_plans": "Plans récents",
+  "recent_plans": "Trajets récents",
   "old": "ancien",
   "map_type": "Type de carte",
   "remember_to_replan": "N'oubliez pas que vous devez replanifier pour voir l'effet des changements",
@@ -2310,9 +2310,9 @@
   "charge_stops_one": "Un arrêt de recharge",
   "charge_stops_other": "{{count}} arrêts de recharge",
   "total_trip_time_diff": "Temps total de trajet : {{diff}}",
-  "your_location": "Your location",
-  "pick": "Pick",
-  "disable_battery_optimization": "Please turn off battery optimization on your phone. This is required to get position updates on some phones.",
-  "allow_location_permission": "Please allow location and car data access on the phone. Make sure your car is parked.",
-  "nearby_chargers_no_charger_zoom_out_for_wider_search": "No chargers found. Try zooming out or moving around the map for a broader search."
+  "your_location": "Votre position",
+  "pick": "Choisir",
+  "disable_battery_optimization": "Veuillez désactiver l'optimisation de la batterie sur votre téléphone. Cette option est nécessaire pour obtenir les mises à jour de position sur certains téléphones.",
+  "allow_location_permission": "Veuillez autoriser l'accès à la localisation et aux données du véhicule sur le téléphone. Assurez-vous que votre véhicule est bien garé.",
+  "nearby_chargers_no_charger_zoom_out_for_wider_search": "Aucun chargeur trouvé. Essayez de dézoomer ou de vous déplacer sur la carte pour élargir la recherche."
 }
