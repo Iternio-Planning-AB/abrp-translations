@@ -2310,9 +2310,9 @@
   "charge_stops_one": "Одна остановка для зарядки",
   "charge_stops_other": "{{count}} остановок для зарядки",
   "total_trip_time_diff": "Общее время поездки: {{diff}}",
-  "your_location": "Your location",
-  "pick": "Pick",
-  "disable_battery_optimization": "Please turn off battery optimization on your phone. This is required to get position updates on some phones.",
-  "allow_location_permission": "Please allow location and car data access on the phone. Make sure your car is parked.",
-  "nearby_chargers_no_charger_zoom_out_for_wider_search": "No chargers found. Try zooming out or moving around the map for a broader search."
+  "your_location": "Ваше местоположение",
+  "pick": "Выбрать",
+  "disable_battery_optimization": "Пожалуйста, отключите оптимизацию батареи на вашем телефоне. Это необходимо для получения обновлений местоположения на некоторых устройствах.",
+  "allow_location_permission": "Пожалуйста, разрешите доступ к местоположению и данным автомобиля на телефоне. Убедитесь, что ваш автомобиль припаркован.",
+  "nearby_chargers_no_charger_zoom_out_for_wider_search": "Зарядные станции не найдены. Попробуйте уменьшить масштаб или передвиньте карту для расширенного поиска."
 }
