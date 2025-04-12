@@ -2298,5 +2298,21 @@
   "pick_amenity": "Choisir une commodité",
   "fetching_amenities": "Récupération des commodités...",
   "activate_for_selected_vehicle": "Activer pour ce véhicule",
-  "open_tesla_station": "Ouvert aux véhicules non Tesla"
+  "open_tesla_station": "Ouvert aux véhicules non Tesla",
+  "confirm_car_selection_suggestion_title": "Quel véhicule conduisez-vous ?",
+  "confirm_car_selection_suggestion": "Votre véhicule actuel est le {{vehicleName}}. Est-ce correct ?",
+  "confirm_car_selection_suggestion_switch": "Changer de véhicule",
+  "last_successful_charging": "Dernière recharge réussie",
+  "last_updated_time": "Dernière mise à jour : {{time}}",
+  "where_you_able_to_charge": "Avez-vous pu recharger ?",
+  "premium_annual_12_for_10": "12 mois pour le prix de 10",
+  "charge_stops_zero": "Aucun arrêt de recharge",
+  "charge_stops_one": "Un arrêt de recharge",
+  "charge_stops_other": "{{count}} arrêts de recharge",
+  "total_trip_time_diff": "Temps total de trajet : {{diff}}",
+  "your_location": "Your location",
+  "pick": "Pick",
+  "disable_battery_optimization": "Please turn off battery optimization on your phone. This is required to get position updates on some phones.",
+  "allow_location_permission": "Please allow location and car data access on the phone. Make sure your car is parked.",
+  "nearby_chargers_no_charger_zoom_out_for_wider_search": "No chargers found. Try zooming out or moving around the map for a broader search."
 }

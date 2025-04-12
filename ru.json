@@ -2298,5 +2298,21 @@
   "pick_amenity": "Выбрать удобство",
   "fetching_amenities": "Загрузка удобств...",
   "activate_for_selected_vehicle": "Активировать для этого автомобиля",
-  "open_tesla_station": "Открыто для не-Tesla автомобилей"
+  "open_tesla_station": "Открыто для не-Tesla автомобилей",
+  "confirm_car_selection_suggestion_title": "Какой у Вас автомобиль?",
+  "confirm_car_selection_suggestion": "Ваш текущий выбранный автомобиль — {{vehicleName}}. Это правильно?",
+  "confirm_car_selection_suggestion_switch": "Сменить автомобиль",
+  "last_successful_charging": "Последняя успешная зарядка",
+  "last_updated_time": "Последнее обновление: {{time}}",
+  "where_you_able_to_charge": "Вам удалось зарядиться?",
+  "premium_annual_12_for_10": "12 месяцев по цене 10-ти",
+  "charge_stops_zero": "Нет остановок для зарядки",
+  "charge_stops_one": "Одна остановка для зарядки",
+  "charge_stops_other": "{{count}} остановок для зарядки",
+  "total_trip_time_diff": "Общее время поездки: {{diff}}",
+  "your_location": "Your location",
+  "pick": "Pick",
+  "disable_battery_optimization": "Please turn off battery optimization on your phone. This is required to get position updates on some phones.",
+  "allow_location_permission": "Please allow location and car data access on the phone. Make sure your car is parked.",
+  "nearby_chargers_no_charger_zoom_out_for_wider_search": "No chargers found. Try zooming out or moving around the map for a broader search."
 }
