@@ -2293,5 +2293,20 @@
   "pick": "Pick",
   "disable_battery_optimization": "Please turn off battery optimization on your phone. This is required to get position updates on some phones.",
   "allow_location_permission": "Please allow location and car data access on the phone. Make sure your car is parked.",
-  "nearby_chargers_no_charger_zoom_out_for_wider_search": "No chargers found. Try zooming out or moving around the map for a broader search."
+  "nearby_chargers_no_charger_zoom_out_for_wider_search": "No chargers found. Try zooming out or moving around the map for a broader search.",
+  "obd_error_no_soc": "We could not find SoC in the car data response.",
+  "obd_error_init_commands": "Error while handling OBD init commands",
+  "obd_error_data_commands": "Error while handling OBD data commands",
+  "obd_pid_editor_no_dongle_linked": "No OBD Dongle linked",
+  "obd_pid_editor_link_dongle": "Continue to select a OBD dongle for testing your OBD pids",
+  "obd_ble_connection_description": "Use a BLE OBD dongle to connect your car directly to your Android or iOS device running ABRP.",
+  "relink": "Re-link",
+  "relink_live_data": "Re-link live data",
+  "relink_live_data_message": "Are you sure you want to unlink live data and link again?",
+  "live_data_deauthorized": "Live data de-authorized",
+  "live_data_deauthorized_description": "The live data connection for this vehicle has been de-authorized. This means that either you get no live data until you re-link the connection.",
+  "live_data_deauthorized_streaming_description": "The live data connection for this vehicle has been de-authorized. As you are streaming data, you may still get data but it will be lacking properties or be infrequent. Please re-link the connection.",
+  "opening_hours_title": "Opening hours",
+  "opening_hours_open_24_7": "Open 24 hours",
+  "opening_hours_closed": "Closed"
 }
