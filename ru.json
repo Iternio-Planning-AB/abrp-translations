@@ -2330,8 +2330,8 @@
   "opening_hours_title": "Часы работы",
   "opening_hours_open_24_7": "Открыто круглосуточно",
   "opening_hours_closed": "Закрыто",
-  "chargers_to_avoid_title": "Avoid specific chargers",
-  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
-  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
-  "soe": "Remaining energy (SoE)"
+  "chargers_to_avoid_title": "Избегать определённых зарядок",
+  "chargers_to_avoid_description": "Вы не выбрали ни одной зарядной станции, которую хотите избегать. Нажмите на зарядку на карте, чтобы отметить её как нежелательную.",
+  "amenities_selection_duration_and_cost": "{{duration}} остановка добавляет {{cost}} к вашему путешествию",
+  "soe": "Оставшаяся энергия (SoE)"
 }
