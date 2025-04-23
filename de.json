@@ -214,7 +214,7 @@
   "no_gps_position": "ABRP habt deine GPS-Position noch nicht gefunden",
   "next_steps": "Nächste Schritte",
   "planned": "Geplant",
-  "current": "Aktuell",
+  "current": "Strom",
   "to_next_stop": "zum nächsten Halt",
   "to_destination": "zum Ziel",
   "set_home_work_title": "Privat- und Arbeitsadressen festlegen",
@@ -2330,8 +2330,8 @@
   "opening_hours_title": "Öffnungszeiten",
   "opening_hours_open_24_7": "24 Stunden geöffnet",
   "opening_hours_closed": "Geschlossen",
-  "chargers_to_avoid_title": "Avoid specific chargers",
-  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
-  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
-  "soe": "Remaining energy (SoE)"
+  "chargers_to_avoid_title": "Vermeiden bestimmter Ladestationen",
+  "chargers_to_avoid_description": "Du hast keine Ladestationen zum Vermeiden ausgewählt. Tippe auf eine Ladestation auf der Karte, um sie als zu meidende Ladestation zu markieren.",
+  "amenities_selection_duration_and_cost": "{{duration}} Stop fügt {{cost}} zu deiner Reise hinzu",
+  "soe": "Verbleibende Energie (SoE)"
 }
