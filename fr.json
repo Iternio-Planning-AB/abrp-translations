@@ -2329,5 +2329,9 @@
   "live_data_deauthorized_streaming_description": "La connexion aux données en direct de ce véhicule a été désactivée. Pendant que vous diffusez des données en continu, vous pourrez toujours en recevoir, mais certaines propriétés seront manquantes ou peu fréquentes. Veuillez rétablir la connexion.",
   "opening_hours_title": "Heures d'ouverture",
   "opening_hours_open_24_7": "Ouvert 24h/24",
-  "opening_hours_closed": "Fermé"
+  "opening_hours_closed": "Fermé",
+  "chargers_to_avoid_title": "Avoid specific chargers",
+  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
+  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
+  "soe": "Remaining energy (SoE)"
 }

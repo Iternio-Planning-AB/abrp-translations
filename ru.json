@@ -2329,5 +2329,9 @@
   "live_data_deauthorized_streaming_description": "Подключение живых данных для этого автомобиля отключено. Поскольку вы используете потоковую передачу данных, вы всё ещё можете получать данные, но они могут быть неполными или приходить с задержками. Пожалуйста, выполните повторное подключение.",
   "opening_hours_title": "Часы работы",
   "opening_hours_open_24_7": "Открыто круглосуточно",
-  "opening_hours_closed": "Закрыто"
+  "opening_hours_closed": "Закрыто",
+  "chargers_to_avoid_title": "Avoid specific chargers",
+  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
+  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
+  "soe": "Remaining energy (SoE)"
 }

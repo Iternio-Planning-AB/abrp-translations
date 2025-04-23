@@ -2329,5 +2329,9 @@
   "live_data_deauthorized_streaming_description": "Die Authorisierung der Live-Datenverbindung für dieses Fahrzeug wurde deaktiviert. Da du Daten streamst, kannst du immer noch Daten erhalten, aber es werden Eigenschaften fehlen oder seltener sein. Bitte verbinde die Verbindung erneut.",
   "opening_hours_title": "Öffnungszeiten",
   "opening_hours_open_24_7": "24 Stunden geöffnet",
-  "opening_hours_closed": "Geschlossen"
+  "opening_hours_closed": "Geschlossen",
+  "chargers_to_avoid_title": "Avoid specific chargers",
+  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
+  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
+  "soe": "Remaining energy (SoE)"
 }

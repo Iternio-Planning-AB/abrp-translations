@@ -1594,6 +1594,8 @@
   "driving_chart_planned_soc": "Planned SoC",
   "driving_chart_actual_soc": "Actual SoC",
   "chargers_to_avoid": "Chargers to avoid",
+  "chargers_to_avoid_title": "Avoid specific chargers",
+  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
   "network_and_charger_preferences": "Avoid and prefer",
   "energy_used": "Energy used",
   "display_theme": "Theme",
@@ -1992,7 +1994,7 @@
   "unnecessary": "Unnecessary",
   "send_to_rivian": "Send to Rivian",
   "generic_token": "Generic Token",
-  "generic_token_description": "Thank you for connecting your car's data with A Better Route Planner! We use the data you send us to improve our modelling, and improve the plans we generate for you. This method is for in-development Live Data systems which haven't been added officially to ABRP yet. If you would like to develop this kind of system for your car please contact us!",
+  "generic_token_description": "Thank you for connecting your car's data with A Better Route Planner (ABRP)! We use the data you send us to improve our modeling and generate better route plans for you. This method is intended for in-development Live Data systems that are not yet officially supported by ABRP. If you're looking to integrate your vehicle using a Generic Token—such as when switching from systems like TeslaLogger—please visit our API documentation and contact page for more information:",
   "account_id_for_support": "Your account ID for support",
   "copied_to_clipboard": "Copied to clipboard",
   "group_waypoint_left": "Waypoints left",
@@ -2199,6 +2201,7 @@
   "add_amentity": "Add amenity",
   "amenities_wp_button": "Amenity charger around location",
   "amenities_selection_duration_cost": "{{cost}} to your trip",
+  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
   "amenities_more": "+ {{count}} more {{category}} nearby",
   "view_charger": "View charger",
   "amenity_edit_search": "Edit amenity search",
@@ -2268,7 +2271,7 @@
   "add_vehicle_to_account": "Add this vehicle to your account",
   "select_car_model_first": "Please select your car model to save this vehicle",
   "food": "Food",
-  "toilet": "Toilet",
+  "toilet": "Restroom",
   "planning_with_vehicle_name": "Planning with {{vehicleName}}...",
   "aa_login_phone": "Please log in to your premium account to use ABRP on Android Auto. Make sure your car is parked.",
   "go_to_phone": "Go to phone",
@@ -2308,5 +2311,6 @@
   "live_data_deauthorized_streaming_description": "The live data connection for this vehicle has been de-authorized. As you are streaming data, you may still get data but it will be lacking properties or be infrequent. Please re-link the connection.",
   "opening_hours_title": "Opening hours",
   "opening_hours_open_24_7": "Open 24 hours",
-  "opening_hours_closed": "Closed"
+  "opening_hours_closed": "Closed",
+  "soe": "Remaining energy (SoE)"
 }
