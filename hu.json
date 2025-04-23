@@ -2330,8 +2330,8 @@
   "opening_hours_title": "Nyitvatartás",
   "opening_hours_open_24_7": "24 órában nyitva",
   "opening_hours_closed": "Zárva",
-  "chargers_to_avoid_title": "Avoid specific chargers",
-  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
-  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
-  "soe": "Remaining energy (SoE)"
+  "chargers_to_avoid_title": "Bizonoys töltőket mellőzzünk",
+  "chargers_to_avoid_description": "Nem választottál ki egyetlen mellőzendő töltőt sem. Érints meg egy töltőt a térképen annak megjelölésére, hogy mellőzni akarod.",
+  "amenities_selection_duration_and_cost": "{{duration}} megálló {{cost}} költséget ad hozzá az utazásodhoz",
+  "soe": "Még elérhető enrgia (SoE)"
 }
