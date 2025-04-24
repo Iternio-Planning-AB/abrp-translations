@@ -2330,8 +2330,8 @@
   "opening_hours_title": "Aukioloajat",
   "opening_hours_open_24_7": "Avoinna ympäri vuorokauden",
   "opening_hours_closed": "Suljettu",
-  "chargers_to_avoid_title": "Avoid specific chargers",
-  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
-  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
-  "soe": "Remaining energy (SoE)"
+  "chargers_to_avoid_title": "Vältä tiettyjä latureita",
+  "chargers_to_avoid_description": "Et ole valinnut mitään tiettyjä latureita vältettäväksi. Napauta laturia kartalla merkitäksesi sen vältettäväksi.",
+  "amenities_selection_duration_and_cost": "{{duration}} pysähdyksestä aiheutuu {{cost}} lisäkustannus matkallesi",
+  "soe": "Akun varaustaso (SoE)"
 }
