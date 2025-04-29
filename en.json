@@ -2202,6 +2202,7 @@
   "amenities_wp_button": "Amenity charger around location",
   "amenities_selection_duration_cost": "{{cost}} to your trip",
   "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
+  "amenities_selection_duration_and_cost_short": "{{duration}} stop adds {{cost}} to trip",
   "amenities_more": "+ {{count}} more {{category}} nearby",
   "view_charger": "View charger",
   "amenity_edit_search": "Edit amenity search",
