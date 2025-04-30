@@ -2330,8 +2330,8 @@
   "opening_hours_title": "Heures d'ouverture",
   "opening_hours_open_24_7": "Ouvert 24h/24",
   "opening_hours_closed": "Fermé",
-  "chargers_to_avoid_title": "Avoid specific chargers",
-  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
-  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
-  "soe": "Remaining energy (SoE)"
+  "chargers_to_avoid_title": "Éviter des bornes spécifiques",
+  "chargers_to_avoid_description": "Vous n'avez sélectionné aucune borne spécifique à éviter. Appuyez sur une borne sur la carte pour la marquer comme celle que vous souhaitez éviter.",
+  "amenities_selection_duration_and_cost": "{{duration}} d'arrêt, ajout de {{cost}} à votre trajet",
+  "soe": "Énergie restante (SoE)"
 }
