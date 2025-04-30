@@ -2313,5 +2313,6 @@
   "opening_hours_title": "Opening hours",
   "opening_hours_open_24_7": "Open 24 hours",
   "opening_hours_closed": "Closed",
-  "soe": "Remaining energy (SoE)"
+  "soe": "Remaining energy (SoE)",
+  "amenities_selection_cost": "Adds {{cost}} to your trip"
 }
