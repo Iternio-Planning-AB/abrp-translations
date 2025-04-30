@@ -2330,8 +2330,8 @@
   "opening_hours_title": "Години роботи",
   "opening_hours_open_24_7": "Відкрито цілодобово",
   "opening_hours_closed": "Зачинено",
-  "chargers_to_avoid_title": "Avoid specific chargers",
-  "chargers_to_avoid_description": "You haven't selected any specific chargers to avoid. Tap a charger on the map to mark it as one you want to avoid.",
-  "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
-  "soe": "Remaining energy (SoE)"
+  "chargers_to_avoid_title": "Уникати певних зарядок",
+  "chargers_to_avoid_description": "Ви не обрали жодної зарядної станції для уникнення. Натисніть на зарядку на мапі, щоб позначити її як таку, яку хочете уникати.",
+  "amenities_selection_duration_and_cost": "{{duration}} зупинка додає {{cost}} до вашої поїздки",
+  "soe": "Залишкова енергія (SoE)"
 }
