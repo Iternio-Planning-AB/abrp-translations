@@ -2333,5 +2333,9 @@
   "chargers_to_avoid_title": "Bizonoys töltőket mellőzzünk",
   "chargers_to_avoid_description": "Nem választottál ki egyetlen mellőzendő töltőt sem. Érints meg egy töltőt a térképen annak megjelölésére, hogy mellőzni akarod.",
   "amenities_selection_duration_and_cost": "{{duration}} megálló {{cost}} költséget ad hozzá az utazásodhoz",
-  "soe": "Még elérhető enrgia (SoE)"
+  "soe": "Még elérhető enrgia (SoE)",
+  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
+  "amenities_selection_cost": "Adds {{cost}} to your trip",
+  "searching_aa": "Searching...",
+  "save_discount_percent": "Save {{percent}}%"
 }

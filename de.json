@@ -2333,5 +2333,9 @@
   "chargers_to_avoid_title": "Vermeiden bestimmter Ladestationen",
   "chargers_to_avoid_description": "Du hast keine Ladestationen zum Vermeiden ausgewählt. Tippe auf eine Ladestation auf der Karte, um sie als zu meidende Ladestation zu markieren.",
   "amenities_selection_duration_and_cost": "{{duration}} Stop fügt {{cost}} zu deiner Reise hinzu",
-  "soe": "Verbleibende Energie (SoE)"
+  "soe": "Verbleibende Energie (SoE)",
+  "searching_aa": "Suche...",
+  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
+  "amenities_selection_cost": "Adds {{cost}} to your trip",
+  "save_discount_percent": "Save {{percent}}%"
 }

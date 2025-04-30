@@ -2333,5 +2333,9 @@
   "chargers_to_avoid_title": "Уникати певних зарядок",
   "chargers_to_avoid_description": "Ви не обрали жодної зарядної станції для уникнення. Натисніть на зарядку на мапі, щоб позначити її як таку, яку хочете уникати.",
   "amenities_selection_duration_and_cost": "{{duration}} зупинка додає {{cost}} до вашої поїздки",
-  "soe": "Залишкова енергія (SoE)"
+  "soe": "Залишкова енергія (SoE)",
+  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
+  "amenities_selection_cost": "Adds {{cost}} to your trip",
+  "searching_aa": "Searching...",
+  "save_discount_percent": "Save {{percent}}%"
 }

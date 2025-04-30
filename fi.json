@@ -2333,5 +2333,9 @@
   "chargers_to_avoid_title": "Vältä tiettyjä latureita",
   "chargers_to_avoid_description": "Et ole valinnut mitään tiettyjä latureita vältettäväksi. Napauta laturia kartalla merkitäksesi sen vältettäväksi.",
   "amenities_selection_duration_and_cost": "{{duration}} pysähdyksestä aiheutuu {{cost}} lisäkustannus matkallesi",
-  "soe": "Akun varaustaso (SoE)"
+  "soe": "Akun varaustaso (SoE)",
+  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
+  "amenities_selection_cost": "Adds {{cost}} to your trip",
+  "searching_aa": "Searching...",
+  "save_discount_percent": "Save {{percent}}%"
 }

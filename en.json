@@ -2202,7 +2202,6 @@
   "amenities_wp_button": "Amenity charger around location",
   "amenities_selection_duration_cost": "{{cost}} to your trip",
   "amenities_selection_duration_and_cost": "{{duration}} stop adding {{cost}} to your trip",
-  "amenities_selection_duration_and_cost_short": "{{duration}} stop adds {{cost}} to trip",
   "amenities_more": "+ {{count}} more {{category}} nearby",
   "view_charger": "View charger",
   "amenity_edit_search": "Edit amenity search",
@@ -2310,9 +2309,12 @@
   "live_data_deauthorized": "Live data de-authorized",
   "live_data_deauthorized_description": "The live data connection for this vehicle has been de-authorized. This means that either you get no live data until you re-link the connection.",
   "live_data_deauthorized_streaming_description": "The live data connection for this vehicle has been de-authorized. As you are streaming data, you may still get data but it will be lacking properties or be infrequent. Please re-link the connection.",
+  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
   "opening_hours_title": "Opening hours",
   "opening_hours_open_24_7": "Open 24 hours",
   "opening_hours_closed": "Closed",
   "soe": "Remaining energy (SoE)",
-  "amenities_selection_cost": "Adds {{cost}} to your trip"
+  "amenities_selection_cost": "Adds {{cost}} to your trip",
+  "searching_aa": "Searching...",
+  "save_discount_percent": "Save {{percent}}%"
 }

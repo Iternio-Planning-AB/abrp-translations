@@ -2333,5 +2333,9 @@
   "chargers_to_avoid_title": "Undgå specifikke opladere",
   "chargers_to_avoid_description": "Du har ikke valgt nogen specifikke opladere, du vil undgå. Tryk på en oplader på kortet for at markere den som en, du vil undgå.",
   "amenities_selection_duration_and_cost": "{{duration}} stop med at tilføje {{cost}} til din rejse",
-  "soe": "Resterende energi (SoE)"
+  "soe": "Resterende energi (SoE)",
+  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
+  "amenities_selection_cost": "Adds {{cost}} to your trip",
+  "searching_aa": "Searching...",
+  "save_discount_percent": "Save {{percent}}%"
 }
