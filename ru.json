@@ -2337,5 +2337,6 @@
   "step_price_missing": "Отсутствует стоимость зарядки для шага {{step_array}}",
   "amenities_selection_cost": "Добавляет {{cost}} к вашей поездке",
   "searching_aa": "Поиск...",
-  "save_discount_percent": "Сэкономьте {{percent}}%"
+  "save_discount_percent": "Сэкономьте {{percent}}%",
+  "options": "Options"
 }

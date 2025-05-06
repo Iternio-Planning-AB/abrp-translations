@@ -2337,5 +2337,6 @@
   "step_price_missing": "A töltés költsége hiányzik ehhez: {{step_array}}",
   "amenities_selection_cost": "{{cost}} költséget ad hozzá az utadhoz",
   "searching_aa": "Keresés...",
-  "save_discount_percent": "Spórolj {{percent}}%-ot"
+  "save_discount_percent": "Spórolj {{percent}}%-ot",
+  "options": "Options"
 }

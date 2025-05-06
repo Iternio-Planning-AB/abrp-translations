@@ -2337,5 +2337,6 @@
   "step_price_missing": "Coût de recharge manquant pour l'étape {{step_array}}",
   "amenities_selection_cost": "Ajoute {{cost}} à votre trajet",
   "searching_aa": "Recherche...",
-  "save_discount_percent": "Économisez {{percent}}%"
+  "save_discount_percent": "Économisez {{percent}}%",
+  "options": "Options"
 }

@@ -2332,5 +2332,6 @@
   "step_price_missing": "Cost of charging is missing for step {{step_array}}",
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
-  "save_discount_percent": "Save {{percent}}%"
+  "save_discount_percent": "Save {{percent}}%",
+  "options": "Options"
 }

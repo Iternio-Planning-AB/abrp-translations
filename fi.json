@@ -2337,5 +2337,6 @@
   "step_price_missing": "Latauskustannus puuttuu vaiheelta {{step_array}}",
   "amenities_selection_cost": "Lisää {{cost}} matkasi hintaan",
   "searching_aa": "Haetaan...",
-  "save_discount_percent": "Säästä {{percent}} %"
+  "save_discount_percent": "Säästä {{percent}} %",
+  "options": "Options"
 }
