@@ -2334,8 +2334,8 @@
   "chargers_to_avoid_description": "Vous n'avez sélectionné aucune borne spécifique à éviter. Appuyez sur une borne sur la carte pour la marquer comme celle que vous souhaitez éviter.",
   "amenities_selection_duration_and_cost": "{{duration}} d'arrêt, ajout de {{cost}} à votre trajet",
   "soe": "Énergie restante (SoE)",
-  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
-  "amenities_selection_cost": "Adds {{cost}} to your trip",
-  "searching_aa": "Searching...",
-  "save_discount_percent": "Save {{percent}}%"
+  "step_price_missing": "Coût de recharge manquant pour l'étape {{step_array}}",
+  "amenities_selection_cost": "Ajoute {{cost}} à votre trajet",
+  "searching_aa": "Recherche...",
+  "save_discount_percent": "Économisez {{percent}}%"
 }
