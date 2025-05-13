@@ -2334,9 +2334,9 @@
   "chargers_to_avoid_description": "Nevybrali jste žádné konkrétní nabíječky, kterým byste se chtěli vyhnout. Klepnutím na nabíječku na mapě ji označíte jako nabíječku, které se chcete vyhnout.",
   "amenities_selection_duration_and_cost": "Zastávka {{duration}} přidá {{cost}} k Vaší cestě",
   "soe": "Zbývající energie (SoE)",
-  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
-  "amenities_selection_cost": "Adds {{cost}} to your trip",
-  "searching_aa": "Searching...",
-  "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "step_price_missing": "Pro krok {{step_array}} chybí náklady na nabíjení",
+  "amenities_selection_cost": "Přidá {{cost}} k Vaší cestě",
+  "searching_aa": "Hledání...",
+  "save_discount_percent": "Ušetřete {{percent}} %",
+  "options": "Volby"
 }
