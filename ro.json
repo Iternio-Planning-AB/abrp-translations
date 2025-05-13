@@ -1040,6 +1040,7 @@
   "exclusive_network_warning": "Ai selectată exclusiv o rețea în Preferințe de rețea",
   "low_soc_warning": "În setările tale, pleci cu o încărcare mai mică de 15%",
   "high_ref_consumption_warning": "Ai setat un consum de referință al mașinii peste {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Ai setat un consum de referință al mașinii peste {{ref_consumption}}",
   "high_battery_degradation_warning": "Ai setat o degradare foarte mare a bateriei",
   "high_arrival_soc_perc_warning": "Ai setat o valoare mare în setări pentru „SOC sosire la destinație”",
   "low_charger_max_soc_perc_warning": "Ai setat o valoare scăzută în setări pentru „SOC max încărcător”",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

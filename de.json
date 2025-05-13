@@ -1079,6 +1079,7 @@
   "exclusive_network_warning": "Sie haben ein exklusives Ladenetz unter Ladenetzeinstellungen ausgewählt.",
   "low_soc_warning": "SoC bei Abfahrt ist unter 15% in den Einstellungen",
   "high_ref_consumption_warning": "Referenzverbrauch des Autos ist höher als {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Referenzverbrauch des Autos ist höher als {{ref_consumption}}",
   "high_battery_degradation_warning": "Du hast eine sehr hohe Batteriedegradation eingestellt",
   "high_arrival_soc_perc_warning": "Du hast in den Einstellungen einen hohen Wert für 'SoC bei Ankunft am Ziel' eingestellt",
   "low_charger_max_soc_perc_warning": "Du hast in den Einstellungen einen niedrigen Wert für 'max. SoC beim Laden' eingestellt",
@@ -2338,5 +2339,7 @@
   "step_price_missing": "Ladekosten fehlen für Schritt {{step_array}}",
   "amenities_selection_cost": "Fügt {{cost}} zu deiner Reise hinzu",
   "save_discount_percent": "Spare {{percent}}%",
-  "options": "Optionen"
+  "options": "Optionen",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

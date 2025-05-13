@@ -1039,6 +1039,7 @@
   "exclusive_network_warning": "Du har valgt ett nettverk under Nettverkspreferanser",
   "low_soc_warning": "I følge dine innstillinger forlater du med mindre enn 15% batterinivå",
   "high_ref_consumption_warning": "Du har satt referanseforbruket til mer enn {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "YDu har satt referanseforbruket til mer enn {ref_consumption}}",
   "high_battery_degradation_warning": "Du har satt en veldig høy batteridegradering",
   "high_arrival_soc_perc_warning": "Du har satt enn høy verdi for 'Batterinivå ved ankomst' i innstillingene",
   "low_charger_max_soc_perc_warning": "Du har satt en lav verdi for 'Lad til batterinivå' i innstillingene",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

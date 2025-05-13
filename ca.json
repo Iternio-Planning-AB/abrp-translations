@@ -1041,6 +1041,7 @@
   "exclusive_network_warning": "Teniu seleccionada una xarxa exclusiva en les preferències de xarxa",
   "low_soc_warning": "A la configuració, esteu sortint amb menys del 15% de càrrega",
   "high_ref_consumption_warning": "Heu establert un consum de referència del vostre cotxe per sobre de {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Heu establert un consum de referència del vostre cotxe per sobre de {{ref_consumption}}",
   "high_battery_degradation_warning": "Heu establert una degradació de la bateria molt alta",
   "high_arrival_soc_perc_warning": "Heu establert un valor alt per al nivell de càrrega de la bateria en l'arribada a la destinació en la configuració",
   "low_charger_max_soc_perc_warning": "Heu establert un valor baix per al nivell de càrrega de la bateria en el carregadors en la configuració",
@@ -2338,5 +2339,7 @@
   "searching_aa": "S'està cercant...",
   "save_discount_percent": "Estalvia {{percent}}%",
   "charge_stops_zero": "No charge stops",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

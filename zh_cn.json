@@ -1121,6 +1121,7 @@
   "exclusive_network_warning": "您有一个在网络首选项下选择的独家网络",
   "low_soc_warning": "在您的设置中，您的费用不到15％",
   "high_ref_consumption_warning": "您已经将汽车的参考消耗设置为{{ref_consumtion}} wh/km",
+  "high_reference_consumption_warning": "您已经将汽车的参考消耗设置为{{ref_consumption}}",
   "high_battery_degradation_warning": "您设置了很高的电池降解",
   "high_arrival_soc_perc_warning": "您为“目的地到达SOC”设定了高价值",
   "low_charger_max_soc_perc_warning": "您在设置中为“充电器Max Soc”设定了低价值",
@@ -2333,5 +2334,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

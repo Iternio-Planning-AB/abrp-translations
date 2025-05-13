@@ -1060,6 +1060,7 @@
   "exclusive_network_warning": "V nastavení sítí máte zvolenou exkluzivně jednu síť.",
   "low_soc_warning": "Nastavili jste odjezd s menším nabitím baterie než 15 %",
   "high_ref_consumption_warning": "Nastavili jste referenční spotřebu Vašeho vozidla nad {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Nastavili jste referenční spotřebu Vašeho vozidla nad {{ref_consumption}}",
   "high_battery_degradation_warning": "Nastavili jste velmi vysokou degradaci baterie",
   "high_arrival_soc_perc_warning": "Nastavili jste vysokou hodnotu 'Stav nabití při příjezdu do cíle' v Nastavení",
   "low_charger_max_soc_perc_warning": "Nastavili jste nízkou hodnotu 'Maximální úroveň nabití při nabíjení' v Nastavení",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Přidá {{cost}} k Vaší cestě",
   "searching_aa": "Hledání...",
   "save_discount_percent": "Ušetřete {{percent}} %",
-  "options": "Volby"
+  "options": "Volby",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

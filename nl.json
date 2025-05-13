@@ -1040,6 +1040,7 @@
   "exclusive_network_warning": "U heeft één exclusief netwerk geselecteerd onder netwerkvoorkeuren",
   "low_soc_warning": "In uw instellingen vertrekt u met minder dan 15% lading",
   "high_ref_consumption_warning": "U heeft een referentieverbruik van uw auto ingesteld van meer dan {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "U heeft een referentieverbruik van uw auto ingesteld van meer dan {{ref_consumption}}",
   "high_battery_degradation_warning": "U heeft een zeer hoge batterijdegradatie ingesteld",
   "high_arrival_soc_perc_warning": "U heeft in de instellingen een hoge waarde ingesteld voor 'SoC bij aankomst'",
   "low_charger_max_soc_perc_warning": "U heeft een lage waarde ingesteld voor 'Oplaadpunt max SoC' in de instellingen",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

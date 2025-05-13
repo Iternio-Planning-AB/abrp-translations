@@ -1040,6 +1040,7 @@
   "exclusive_network_warning": "1 db exkluzív töltő hálózat került kiválasztásra a Hálózati beállításokban",
   "low_soc_warning": "A beállítások alapján kevesebb, mint 15%-al fogsz elindulni",
   "high_ref_consumption_warning": "Az autód fogyasztását {{ref_consumtion}} Wh/km-nál magasabbra állítottad be",
+  "high_reference_consumption_warning": "Az autód fogyasztását {{ref_consumption}}-nál magasabbra állítottad be",
   "high_battery_degradation_warning": "Túl magas akkumulátor degradációs értéket adtál meg",
   "high_arrival_soc_perc_warning": "Túl magas értéket adtál meg a 'Célállomás SoC' beállításra",
   "low_charger_max_soc_perc_warning": "Túl alacsony értéket adtál meg a 'Töltés max SoC' beállításra",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "{{cost}} költséget ad hozzá az utadhoz",
   "searching_aa": "Keresés...",
   "save_discount_percent": "Spórolj {{percent}}%-ot",
-  "options": "Lehetőségek"
+  "options": "Lehetőségek",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

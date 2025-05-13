@@ -1114,6 +1114,7 @@
   "exclusive_network_warning": "Verkkoasetuksissa on valittu yksi eksklusiivinen verkko",
   "low_soc_warning": "Asetustesi perusteella lähdet alle 15%:n latauksella",
   "high_ref_consumption_warning": "Olet asettanut autosi viitekulutuksen yli {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Olet asettanut autosi viitekulutuksen yli {{{ref_consumption}}",
   "high_battery_degradation_warning": "Olet asettanut erittäin korkean akun kulumisen",
   "high_arrival_soc_perc_warning": "Olet asettanut asetuksissa korkean 'Akun varaus saavuttaessa määränpäähän' -arvon",
   "low_charger_max_soc_perc_warning": "Olet asettanut asetuksissa alhaisen 'Akun varauksen maksimi' -arvon",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Lisää {{cost}} matkasi hintaan",
   "searching_aa": "Haetaan...",
   "save_discount_percent": "Säästä {{percent}} %",
-  "options": "Asetukset"
+  "options": "Asetukset",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

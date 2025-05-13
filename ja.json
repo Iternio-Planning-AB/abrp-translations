@@ -1118,6 +1118,7 @@
   "exclusive_network_warning": "ネットワーク設定の下で選択された排他的なネットワークが1つあります",
   "low_soc_warning": "設定では、15％未満の料金で去ります",
   "high_ref_consumption_warning": "{{ref_consumtion}} wh/kmの上に車の参照消費量を設定しました",
+  "high_reference_consumption_warning": "{{ref_consumption}} の上に車の参照消費量を設定しました",
   "high_battery_degradation_warning": "非常に高いバッテリーの劣化を設定しました",
   "high_arrival_soc_perc_warning": "設定の「宛先到着SOC」に高い価値を設定しました",
   "low_charger_max_soc_perc_warning": "設定で「充電器max soc」の値が低くなりました",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

@@ -1040,6 +1040,7 @@
   "exclusive_network_warning": "Masz wyłącznie jedną sieć wybraną w preferencjach sieci",
   "low_soc_warning": "W ustawieniach wyjeżdżasz z mniej niż 15% naładowania",
   "high_ref_consumption_warning": "Ustawiłeś zużycie referencyjne swojego samochodu powyżej {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Ustawiłeś zużycie referencyjne swojego samochodu powyżej {{ref_consumption}}",
   "high_battery_degradation_warning": "Ustawiłeś bardzo wysoką degradację baterii",
   "high_arrival_soc_perc_warning": "W ustawieniach ustawiono wysoką wartość „SOC przybycia do celu”",
   "low_charger_max_soc_perc_warning": "W ustawieniach ustawiono niską wartość „Ładowarka max SOC”",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

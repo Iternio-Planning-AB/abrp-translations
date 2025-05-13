@@ -1040,6 +1040,7 @@
   "exclusive_network_warning": "Tienes una red exclusiva seleccionada en preferencias de redes de carga",
   "low_soc_warning": "En tus ajustes estás saliendo con menos de un 15% de carga",
   "high_ref_consumption_warning": "Has establecido un consumo de referencia de tu coche mayor que {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Has establecido un consumo de referencia de tu coche mayor que {{ref_consumption}}",
   "high_battery_degradation_warning": "Has establecido una degradación de la batería muy alta",
   "high_arrival_soc_perc_warning": "Has establecido un valor muy alto para 'SoC de llegada a destino' en los ajustes",
   "low_charger_max_soc_perc_warning": "Has establecido un valor bajo para 'Máximo SoC en cargador' en los ajustes",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

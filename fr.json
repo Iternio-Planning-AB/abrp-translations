@@ -1040,6 +1040,7 @@
   "exclusive_network_warning": "Vous avez un réseau exclusif sélectionné sous 'Préférences de réseau' ",
   "low_soc_warning": "Dans vos paramètres, vous partez avec moins de 15 % de charge",
   "high_ref_consumption_warning": "Vous avez défini une consommation de référence de votre véhicule supérieure à {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Vous avez défini une consommation de référence de votre véhicule supérieure à {{ref_consumption}}",
   "high_battery_degradation_warning": "Vous avez défini une très forte dégradation de la batterie",
   "high_arrival_soc_perc_warning": "Vous avez défini une valeur élevée pour 'SoC à l'arrivée' dans les paramètres",
   "low_charger_max_soc_perc_warning": "Vous avez défini une valeur basse pour 'SoC maximum autorisé' dans les paramètres",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Ajoute {{cost}} à votre trajet",
   "searching_aa": "Recherche...",
   "save_discount_percent": "Économisez {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

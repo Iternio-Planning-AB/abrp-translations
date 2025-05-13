@@ -1040,6 +1040,7 @@
   "exclusive_network_warning": "Εχετε επιλέξει ένα αποκλειστικό δίκτυο στις Προτιμήσεις δικτύου",
   "low_soc_warning": "Στις ρυθμίσεις σας φεύγετε με λιγότερο από 15% φόρτιση",
   "high_ref_consumption_warning": "Εχετε ορίσει μια κατανάλωση αναφοράς του αυτοκινήτου σας πάνω από {{ref_consumtion}} Wh/km",
+  "high_reference_consumption_warning": "Εχετε ορίσει μια κατανάλωση αναφοράς του αυτοκινήτου σας πάνω από {{ref_consumption}}",
   "high_battery_degradation_warning": "Εχετε ορίσει μια πολύ υψηλή φθορά μπαταρίας",
   "high_arrival_soc_perc_warning": "Εχετε ορίσει μια υψηλή τιμή για την 'Κατάσταση φόρτισης κατά την άφιξη στον προορισμό' στις ρυθμίσεις",
   "low_charger_max_soc_perc_warning": "Εχετε ορίσει μια χαμηλή τιμή για την 'Μέγιστη κατάσταση φόρτισης στον φορτιστή' στις ρυθμίσεις",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }

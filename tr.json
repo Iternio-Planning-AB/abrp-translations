@@ -1116,6 +1116,7 @@
   "exclusive_network_warning": "Ağ tercihleriniz altında bir özel ağınız var",
   "low_soc_warning": "Ayarlarınızda %15'ten az şarjla ayrılıyorsunuz",
   "high_ref_consumption_warning": "Araç referans tüketiminizi {{ref_consumtion}} Wh/km üzerinde belirlediniz",
+  "high_reference_consumption_warning": "Araç referans tüketiminizi {{ref_consumption}} üzerinde belirlediniz",
   "high_battery_degradation_warning": "Çok yüksek bir batarya bozulması belirlediniz",
   "high_arrival_soc_perc_warning": "Ayarlarınızda 'Varıştaki SOC' için yüksek bir değer belirlediniz",
   "low_charger_max_soc_perc_warning": "Ayarlarınızda 'Şarj aleti max SOC' için düşük bir değer belirlediniz",
@@ -2338,5 +2339,7 @@
   "amenities_selection_cost": "Adds {{cost}} to your trip",
   "searching_aa": "Searching...",
   "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "options": "Options",
+  "error_title": "Oops! That didn't go as planned.",
+  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
 }
