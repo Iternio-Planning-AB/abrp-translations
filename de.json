@@ -2335,8 +2335,8 @@
   "amenities_selection_duration_and_cost": "{{duration}} Stop fügt {{cost}} zu deiner Reise hinzu",
   "soe": "Verbleibende Energie (SoE)",
   "searching_aa": "Suche...",
-  "step_price_missing": "Cost of charging is missing for step {{step_array}}",
-  "amenities_selection_cost": "Adds {{cost}} to your trip",
-  "save_discount_percent": "Save {{percent}}%",
-  "options": "Options"
+  "step_price_missing": "Ladekosten fehlen für Schritt {{step_array}}",
+  "amenities_selection_cost": "Fügt {{cost}} zu deiner Reise hinzu",
+  "save_discount_percent": "Spare {{percent}}%",
+  "options": "Optionen"
 }
