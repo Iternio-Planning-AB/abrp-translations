@@ -2340,5 +2340,5 @@
   "save_discount_percent": "Spare {{percent}}%",
   "options": "Optionen"
   "error_title": "Ups! Das ist nicht so gelaufen wie geplant.",
-  "error_description": "Sieht aus, als wären wir auf ein Hindernis gestoßen. Wir arbeiten bereits daran - versuche, die App neu zu starten, und du wirst im Handumdrehen wieder auf dem richtigen Weg sein."
+  "error_description": "Sieht aus, als wären wir auf ein Hindernis gestoßen.\nWir arbeiten bereits daran - versuche, die App neu zu starten\nund du wirst im Handumdrehen wieder auf dem richtigen Weg sein."
 }
