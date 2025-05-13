@@ -2338,8 +2338,8 @@
   "amenities_selection_cost": "Afegeix {{cost}} al viatge",
   "searching_aa": "S'està cercant...",
   "save_discount_percent": "Estalvia {{percent}}%",
-  "charge_stops_zero": "No charge stops",
-  "options": "Options",
-  "error_title": "Oops! That didn't go as planned.",
-  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
+  "charge_stops_zero": "Sense aturades de recàrrega",
+  "options": "Opcions",
+  "error_title": "Ups! Això no ha anat com s'esperava.",
+  "error_description": "Sembla que hem topat amb una pedra en el camí.\nEstem intentant de reiniciar l'aplicació\ni aleshores podreu seguir el camí de seguida."
 }
