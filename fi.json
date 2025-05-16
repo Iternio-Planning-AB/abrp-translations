@@ -2340,6 +2340,6 @@
   "searching_aa": "Haetaan...",
   "save_discount_percent": "Säästä {{percent}} %",
   "options": "Asetukset",
-  "error_title": "Oops! That didn't go as planned.",
-  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
+  "error_title": "Hups! Se ei mennyt ihan suunnitellusti.",
+  "error_description": "Näyttää siltä, että osuimme pahaan kuoppaan.\nOlemme jo selvittämässä asiaa – kokeile käynnistää sovellus uudelleen, niin olet pian taas vauhdissa mukana."
 }
