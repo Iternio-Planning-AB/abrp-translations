@@ -2340,6 +2340,6 @@
   "searching_aa": "Recherche...",
   "save_discount_percent": "Économisez {{percent}}%",
   "options": "Options",
-  "error_title": "Oops! That didn't go as planned.",
-  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
+  "error_title": "Oups ! Ça ne s'est pas passé comme prévu.",
+  "error_description": "On dirait qu'on a rencontré un obstacle.\nOn s'en occupe déjà ; essayez de redémarrer l'application\net vous serez de retour sur la bonne voie en un rien de temps."
 }
