@@ -2339,7 +2339,7 @@
   "amenities_selection_cost": "Додає {{cost}} до вашої поїздки",
   "searching_aa": "Пошук...",
   "save_discount_percent": "Збережіть {{percent}}%",
-  "options": "Options",
-  "error_title": "Oops! That didn't go as planned.",
-  "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time."
+  "options": "Опції",
+  "error_title": "Ой! Щось пішло не за планом.",
+  "error_description": "Схоже, ми натрапили на проблему.\nМи вже працюємо над цим — спробуйте перезапустити застосунок,\nі ви швидко повернетеся в дорогу."
 }
