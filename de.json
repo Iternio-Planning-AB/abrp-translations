@@ -1415,7 +1415,7 @@
   "premium_trial": "Zwei Wochen kostenlos testen.",
   "premium_first_billing_date": "Erste Abrechnung {{date}}",
   "premium_option_payment_desription": "dann {{price}} jede {{duration}}. Jederzeit kündigen",
-  "premium_skip": "Vorerst überspringen",
+  "premium_skip": "Überspringen vorerst",
   "premium_start_trial": "Kostenlose 14-tägige Testphase starten",
   "premium_select_plan": "Wähle deinen Tarif",
   "premium_monthly": "Monthly",
