@@ -2343,5 +2343,11 @@
   "planning_feature_15": "Avoiding unreliable chargers",
   "error_title": "Oops! That didn't go as planned.",
   "error_description": "Looks like we hit a bump in the road.\nWe're already on it—try restarting the app\nand you'll be back on track in no time.",
-  "live_data_sharing_no_shared_vehicles": "You have no shared vehicles"
+  "live_data_sharing_no_shared_vehicles": "You have no shared vehicles",
+  "callout_same_charger": "Same charger",
+  "callout_less_traffic": "Less traffic",
+  "livedata_quality_low_title": "Expected Data Quality: Low",
+  "livedata_quality_low_description": "This vehicle model is known to provide limited data quality. You may experience infrequent updates and basic information only.",
+  "enode_info_banner_title": "What to Expect",
+  "enode_info_banner_description": "This connection provides basic battery and vehicle data. Updates may be infrequent and are not suitable for precise vehicle calibration. Most vehicles also require an active data subscription from the manufacturer to work properly."
 }
