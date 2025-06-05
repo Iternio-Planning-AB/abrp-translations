@@ -2365,10 +2365,10 @@
   "planning_feature_14": "Застосування вашого особистого профілю споживання",
   "planning_feature_15": "Уникнення ненадійних зарядок",
   "live_data_sharing_no_shared_vehicles": "У вас немає спільних автомобілів",
-  "callout_same_charger": "Same charger",
-  "callout_less_traffic": "Less traffic",
-  "livedata_quality_low_title": "Expected Data Quality: Low",
-  "livedata_quality_low_description": "This vehicle model is known to provide limited data quality. You may experience infrequent updates and basic information only.",
-  "enode_info_banner_title": "What to Expect",
-  "enode_info_banner_description": "This connection provides basic battery and vehicle data. Updates may be infrequent and are not suitable for precise vehicle calibration. Most vehicles also require an active data subscription from the manufacturer to work properly."
+  "callout_same_charger": "Та ж зарядка",
+  "callout_less_traffic": "Менше трафіку",
+  "livedata_quality_low_title": "Очікувана якість даних: Низька",
+  "livedata_quality_low_description": "Ця модель авто відома обмеженою якістю даних. Ви можете отримувати рідкі оновлення та лише базову інформацію.",
+  "enode_info_banner_title": "Що очікувати",
+  "enode_info_banner_description": "Це підключення надає базові дані про акумулятор та автомобіль. Оновлення можуть бути нерегулярними і не підходять для точної калібровки. Більшість автомобілів також потребують активної підписки на передачу даних від виробника для коректної роботи."
 }
