@@ -2365,10 +2365,10 @@
   "planning_feature_14": "Henkilökohtaisen kulutusprofiilin käyttö",
   "planning_feature_15": "Epäluotettavien laturien välttäminen",
   "live_data_sharing_no_shared_vehicles": "Sinulla ei ole jaettuja ajoneuvoja",
-  "callout_same_charger": "Same charger",
-  "callout_less_traffic": "Less traffic",
-  "livedata_quality_low_title": "Expected Data Quality: Low",
-  "livedata_quality_low_description": "This vehicle model is known to provide limited data quality. You may experience infrequent updates and basic information only.",
-  "enode_info_banner_title": "What to Expect",
-  "enode_info_banner_description": "This connection provides basic battery and vehicle data. Updates may be infrequent and are not suitable for precise vehicle calibration. Most vehicles also require an active data subscription from the manufacturer to work properly."
+  "callout_same_charger": "Sama laturi",
+  "callout_less_traffic": "Vähemmän liikennettä",
+  "livedata_quality_low_title": "Odotettu tietojen laatu: alhainen",
+  "livedata_quality_low_description": "Tämän ajoneuvomallin tuottaman tiedon laatu on rajallinen. Saatavilla voi olla vain harvakseltaan päivittyviä perustietoja.",
+  "enode_info_banner_title": "Mitä odottaa",
+  "enode_info_banner_description": "Yhteys välittää vain perusakku- ja ajoneuvotietoja. Päivitystiheys on alhainen, eikä yhteyttä voida käyttää tarkkaan ajoneuvon kalibrointiin. Useimpien ajoneuvojen osalta tarvitaan lisäksi valmistajan aktiivinen datatilaus, jotta toiminta olisi luotettavaa."
 }
