@@ -681,7 +681,7 @@
   "for": "aika",
   "at": "klo",
   "till": "%",
-  "country_borders": "Maarajat (alfa)",
+  "country_borders": "Maarajat",
   "waypoint_notes": "Muistiinpanot",
   "waypoint_notes_placeholder": "Huomautukset, tärkeät tiedot, jne.",
   "need_to_have_an_account": "Sinulla on oltava tili. Kirjaudu sisään tai luo ensin tili.",
