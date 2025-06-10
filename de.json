@@ -406,7 +406,7 @@
   "chart": "Grafik",
   "north": "Nord",
   "rotate": "Rotieren",
-  "next_step": "Nächster Schritt",
+  "next_step": "Nächste Etappe",
   "destination": "Ziel",
   "3d_perspective": "3D-Perspektive",
   "alternatives": "Alternativen",
@@ -2367,8 +2367,8 @@
   "planning_feature_14": "Anwendung deines persönlichen Verbrauchsprofils",
   "planning_feature_15": "Vermeidung unzuverlässiger Ladestationen",
   "live_data_sharing_no_shared_vehicles": "Du hast keine gemeinsam genutzten Fahrzeuge",
-  "livedata_quality_low_title": "Expected Data Quality: Low",
-  "livedata_quality_low_description": "This vehicle model is known to provide limited data quality. You may experience infrequent updates and basic information only.",
-  "enode_info_banner_title": "What to Expect",
-  "enode_info_banner_description": "This connection provides basic battery and vehicle data. Updates may be infrequent and are not suitable for precise vehicle calibration. Most vehicles also require an active data subscription from the manufacturer to work properly."
+  "livedata_quality_low_title": "Erwartete Datenqualität: Niedrig",
+  "livedata_quality_low_description": "Dieses Fahrzeugmodell ist dafür bekannt, dass es nur eine begrenzte Datenqualität bietet. Möglicherweise erhältst du nur seltene Aktualisierungen und nur grundlegende Informationen.",
+  "enode_info_banner_title": "Was zu erwarten ist",
+  "enode_info_banner_description": "Diese Verbindung liefert grundlegende Batterie- und Fahrzeugdaten. Sie wird nur selten aktualisiert und eignet sich nicht für eine präzise Fahrzeugkalibrierung. Die meisten Fahrzeuge benötigen außerdem ein aktives Datenabonnement des Herstellers, um ordnungsgemäß zu funktionieren."
 }
