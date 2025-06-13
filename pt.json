@@ -2370,5 +2370,6 @@
   "livedata_quality_low_title": "Expected Data Quality: Low",
   "livedata_quality_low_description": "This vehicle model is known to provide limited data quality. You may experience infrequent updates and basic information only.",
   "enode_info_banner_title": "What to Expect",
-  "enode_info_banner_description": "This connection provides basic battery and vehicle data. Updates may be infrequent and are not suitable for precise vehicle calibration. Most vehicles also require an active data subscription from the manufacturer to work properly."
+  "enode_info_banner_description": "This connection provides basic battery and vehicle data. Updates may be infrequent and are not suitable for precise vehicle calibration. Most vehicles also require an active data subscription from the manufacturer to work properly.",
+  "unlimited": "Unlimited"
 }

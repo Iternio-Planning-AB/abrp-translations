@@ -2351,7 +2351,7 @@
   "zoom_to_charger": "Zoom na nabíječku",
   "planning_feature_1": "Přizpůsobování podmínkám větru",
   "planning_feature_2": "Optimalizování nabíjecích zastávek",
-  "planning_feature_3": "Počítání spotřeby energie",  
+  "planning_feature_3": "Počítání spotřeby energie",
   "planning_feature_4": "Hledání rychlých nabíječek",
   "planning_feature_5": "Zohledňování změn nadmořské výšky",
   "planning_feature_6": "Kontrolování dostupnosti nabíječky",
@@ -2370,5 +2370,6 @@
   "livedata_quality_low_title": "Předpokládaná kvalita dat: Nízká",
   "livedata_quality_low_description": "Je známo, že tento model vozidla poskytuje omezenou kvalitu dat. Může docházet k zřídkavým aktualizacím a jen k základním informacím.",
   "enode_info_banner_title": "Co můžete očekávat",
-  "enode_info_banner_description": "Toto připojení poskytuje základní údaje o baterii a vozidle. Aktualizace mohou být zřídkavé a nejsou vhodné pro přesnou kalibraci vozidla. Většina vozidel vyžaduje pro správnou funkci také aktivní předplatné dat od výrobce."
+  "enode_info_banner_description": "Toto připojení poskytuje základní údaje o baterii a vozidle. Aktualizace mohou být zřídkavé a nejsou vhodné pro přesnou kalibraci vozidla. Většina vozidel vyžaduje pro správnou funkci také aktivní předplatné dat od výrobce.",
+  "unlimited": "Unlimited"
 }

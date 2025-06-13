@@ -2370,5 +2370,6 @@
   "livedata_quality_low_title": "Erwartete Datenqualität: Niedrig",
   "livedata_quality_low_description": "Dieses Fahrzeugmodell ist dafür bekannt, dass es nur eine begrenzte Datenqualität bietet. Möglicherweise erhältst du nur seltene Aktualisierungen und nur grundlegende Informationen.",
   "enode_info_banner_title": "Was zu erwarten ist",
-  "enode_info_banner_description": "Diese Verbindung liefert grundlegende Batterie- und Fahrzeugdaten. Sie wird nur selten aktualisiert und eignet sich nicht für eine präzise Fahrzeugkalibrierung. Die meisten Fahrzeuge benötigen außerdem ein aktives Datenabonnement des Herstellers, um ordnungsgemäß zu funktionieren."
+  "enode_info_banner_description": "Diese Verbindung liefert grundlegende Batterie- und Fahrzeugdaten. Sie wird nur selten aktualisiert und eignet sich nicht für eine präzise Fahrzeugkalibrierung. Die meisten Fahrzeuge benötigen außerdem ein aktives Datenabonnement des Herstellers, um ordnungsgemäß zu funktionieren.",
+  "unlimited": "Unbegrenzt"
 }

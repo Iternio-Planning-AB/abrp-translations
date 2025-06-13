@@ -2370,5 +2370,6 @@
   "livedata_quality_low_title": "Qualité des données attendue : Faible",
   "livedata_quality_low_description": "Ce modèle de véhicule est connu pour fournir des données de qualité limitée. Les mises à jour peuvent être peu fréquentes et avec simplement des informations de base.",
   "enode_info_banner_title": "À quoi s'attendre",
-  "enode_info_banner_description": "Cette connexion fournit des données de base sur la batterie et le véhicule. Les mises à jour peuvent être peu fréquentes et ne conviennent pas pour un étalonnage précis du véhicule. La plupart des véhicules nécessitent également un abonnement de données actif auprès du constructeur pour fonctionner correctement."
+  "enode_info_banner_description": "Cette connexion fournit des données de base sur la batterie et le véhicule. Les mises à jour peuvent être peu fréquentes et ne conviennent pas pour un étalonnage précis du véhicule. La plupart des véhicules nécessitent également un abonnement de données actif auprès du constructeur pour fonctionner correctement.",
+  "unlimited": "Unlimited"
 }

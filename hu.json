@@ -2370,5 +2370,6 @@
   "livedata_quality_low_title": "Várható adatminőség: Alacsony",
   "livedata_quality_low_description": "Ez a jármű modell köztudomásúan korlátozott adatminőséget produkál. Ritka és csak alap információkra kiterjedő frissítést tapasztalhatsz.",
   "enode_info_banner_title": "Mit lehet várni",
-  "enode_info_banner_description": "Ez a kapcsolat alap akkumulátor és jármű adatokat szolgáltat. Lehet, hogy a frissítések ritkák és nem alkalmasak precíz jármű kalibrációhoz. A legtöbb jármű egy aktív előfizetést is igényel a gyártótól, hogy megfelelően működjön."
+  "enode_info_banner_description": "Ez a kapcsolat alap akkumulátor és jármű adatokat szolgáltat. Lehet, hogy a frissítések ritkák és nem alkalmasak precíz jármű kalibrációhoz. A legtöbb jármű egy aktív előfizetést is igényel a gyártótól, hogy megfelelően működjön.",
+  "unlimited": "Unlimited"
 }
