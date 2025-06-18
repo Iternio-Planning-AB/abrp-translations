@@ -2371,5 +2371,5 @@
   "livedata_quality_low_description": "Tämän ajoneuvomallin tuottaman tiedon laatu on rajallinen. Saatavilla voi olla vain harvakseltaan päivittyviä perustietoja.",
   "enode_info_banner_title": "Mitä odottaa",
   "enode_info_banner_description": "Yhteys välittää vain perusakku- ja ajoneuvotietoja. Päivitystiheys on alhainen, eikä yhteyttä voida käyttää tarkkaan ajoneuvon kalibrointiin. Useimpien ajoneuvojen osalta tarvitaan lisäksi valmistajan aktiivinen datatilaus, jotta toiminta olisi luotettavaa.",
-  "unlimited": "Unlimited"
+  "unlimited": "Rajoittamaton"
 }
