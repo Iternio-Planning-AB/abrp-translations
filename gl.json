@@ -2371,5 +2371,5 @@
   "livedata_quality_low_description": "Este modelo é coñecido por fornecer datos limitados. É posíbel que experimentes actualizacións pouco frecuentes e información básica.",
   "enode_info_banner_title": "Que agardar",
   "enode_info_banner_description": "Esta conexión só fornece información básica da batería e o vehículo. As actualizacións non serán frecuentes e a calibración non será precisa. Moito vehículos precisan tamén dunha subscrición activa aos datos por parte da marca.",
-  "unlimited": "Unlimited"
+  "unlimited": "Ilimitado"
 }
