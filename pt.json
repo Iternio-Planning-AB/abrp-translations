@@ -941,15 +941,7 @@
     "sexta-feira",
     "sábado"
   ],
-  "day_names_short": [
-    "dom.",
-    "seg.",
-    "ter.",
-    "qua.",
-    "qui.",
-    "sex.",
-    "sáb."
-  ],
+  "day_names_short": ["dom.", "seg.", "ter.", "qua.", "qui.", "sex.", "sáb."],
   "today": "Hoje",
   "scan_abrp_qrcode_to_complete_login": "Acabe de iniciar sessão digitalizando o código QR da ABRP",
   "permission_camera_title": "Permissão para utilizar a câmara",
@@ -1251,12 +1243,7 @@
   "report_charger_information": "A informação necessária para investigar foi copiada para a sua área de transferência. Clique em 'concluído' e será redirecionado para o Featurebase, onde pode criar um relatório e colar essa informação",
   "ferry_departure": "Partida do Ferry",
   "ferry_arrival": "Chegada do Ferry",
-  "direction_count_x": [
-    "primeira",
-    "segunda",
-    "terceira",
-    "quarta"
-  ],
+  "direction_count_x": ["primeira", "segunda", "terceira", "quarta"],
   "obdble_unknown_device_failed": "Este dispositivo não possui algumas funcionalidades essenciais, não o podemos utilizar para ligações OBD.",
   "obdble_unknown_device": "Dispositivo não suportado!",
   "obdble_unknown_device_attempt": "Este é um dispositivo não suportado, deseja ainda assim tentar ligar?",
@@ -2365,11 +2352,11 @@
   "planning_feature_14": "Aplicação do seu perfil de consumo pessoal",
   "planning_feature_15": "Evitar carregadores pouco fiáveis",
   "live_data_sharing_no_shared_vehicles": "Não tem veículos partilhados",
-  "callout_same_charger": "Same charger",
-  "callout_less_traffic": "Less traffic",
-  "livedata_quality_low_title": "Expected Data Quality: Low",
-  "livedata_quality_low_description": "This vehicle model is known to provide limited data quality. You may experience infrequent updates and basic information only.",
-  "enode_info_banner_title": "What to Expect",
-  "enode_info_banner_description": "This connection provides basic battery and vehicle data. Updates may be infrequent and are not suitable for precise vehicle calibration. Most vehicles also require an active data subscription from the manufacturer to work properly.",
-  "unlimited": "Unlimited"
+  "callout_same_charger": "Mesmo carregador",
+  "callout_less_traffic": "Menos trânsito",
+  "livedata_quality_low_title": "Qualidade de dados esperada: Baixa",
+  "livedata_quality_low_description": "Este modelo de veículo é conhecido por fornecer dados de qualidade limitada. Pode ter atualizações pouco frequentes e apenas informações básicas.",
+  "enode_info_banner_title": "O que esperar",
+  "enode_info_banner_description": "Esta ligação fornece dados básicos da bateria e do veículo. As atualizações podem ser pouco frequentes e não são adequadas para calibração precisa do veículo. A maioria dos veículos também requer uma subscrição ativa de dados do fabricante para funcionar corretamente.",
+  "unlimited": "Ilimitado"
 }
