@@ -2371,5 +2371,5 @@
   "livedata_quality_low_description": "Je známo, že tento model vozidla poskytuje omezenou kvalitu dat. Může docházet k zřídkavým aktualizacím a jen k základním informacím.",
   "enode_info_banner_title": "Co můžete očekávat",
   "enode_info_banner_description": "Toto připojení poskytuje základní údaje o baterii a vozidle. Aktualizace mohou být zřídkavé a nejsou vhodné pro přesnou kalibraci vozidla. Většina vozidel vyžaduje pro správnou funkci také aktivní předplatné dat od výrobce.",
-  "unlimited": "Unlimited"
+  "unlimited": "Bez omezení"
 }
