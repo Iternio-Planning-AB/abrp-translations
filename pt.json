@@ -941,7 +941,15 @@
     "sexta-feira",
     "sábado"
   ],
-  "day_names_short": ["dom.", "seg.", "ter.", "qua.", "qui.", "sex.", "sáb."],
+  "day_names_short": [
+    "dom.",
+    "seg.",
+    "ter.",
+    "qua.",
+    "qui.",
+    "sex.",
+    "sáb."
+  ],
   "today": "Hoje",
   "scan_abrp_qrcode_to_complete_login": "Acabe de iniciar sessão digitalizando o código QR da ABRP",
   "permission_camera_title": "Permissão para utilizar a câmara",
@@ -1243,7 +1251,12 @@
   "report_charger_information": "A informação necessária para investigar foi copiada para a sua área de transferência. Clique em 'concluído' e será redirecionado para o Featurebase, onde pode criar um relatório e colar essa informação",
   "ferry_departure": "Partida do Ferry",
   "ferry_arrival": "Chegada do Ferry",
-  "direction_count_x": ["primeira", "segunda", "terceira", "quarta"],
+  "direction_count_x": [
+    "primeira",
+    "segunda",
+    "terceira",
+    "quarta"
+  ],
   "obdble_unknown_device_failed": "Este dispositivo não possui algumas funcionalidades essenciais, não o podemos utilizar para ligações OBD.",
   "obdble_unknown_device": "Dispositivo não suportado!",
   "obdble_unknown_device_attempt": "Este é um dispositivo não suportado, deseja ainda assim tentar ligar?",
@@ -2358,5 +2371,24 @@
   "livedata_quality_low_description": "Este modelo de veículo é conhecido por fornecer dados de qualidade limitada. Pode ter atualizações pouco frequentes e apenas informações básicas.",
   "enode_info_banner_title": "O que esperar",
   "enode_info_banner_description": "Esta ligação fornece dados básicos da bateria e do veículo. As atualizações podem ser pouco frequentes e não são adequadas para calibração precisa do veículo. A maioria dos veículos também requer uma subscrição ativa de dados do fabricante para funcionar corretamente.",
-  "unlimited": "Ilimitado"
+  "unlimited": "Ilimitado",
+  "current_soc": "Current SoC",
+  "premium_required_aa_description": "Android Auto is an ABRP Premium feature.",
+  "graph": "Graph",
+  "callout_similar_duration": "Similar time",
+  "callout_fastest_route": "Fastest",
+  "callout_recommended_route": "Recommended",
+  "callout_saves_energy": "Saves energy",
+  "callout_different_charger": "In {{arrival_duration}} ({{duration_diff}})",
+  "charger_opening_hours": "Opening hours: {{opening_hours}}",
+  "hvac_power": "HVAC power",
+  "stay_on": "Stay on {{road_name}}",
+  "callout_duration_and_arrival_diff": "In {{duration}} ({{arrival_diff}})",
+  "callout_duration": "In {{duration}}",
+  "battery_optimization_title": "Battery Optimization",
+  "battery_optimization_description_aa": "Please turn off battery optimization on your phone. This is required to get position updates on some phones when Android Auto is used and the phone screen is off.",
+  "sign_in_with_google": "Sign in with Google",
+  "sign_in_with_mail": "Sign in with mail",
+  "sign_in_with_abrp_credentials": "Sign in with your ABRP credentials",
+  "qr_login_android_auto_additional_text": "You can find it in your user profile in the settings menu"
 }
