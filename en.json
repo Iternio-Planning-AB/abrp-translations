@@ -2118,7 +2118,8 @@
   "api_error": "Service Temporarily Unavailable",
   "api_error_description": "We're experiencing some technical difficulties. Please try again in a few minutes. If the problem persists, feel free to contact our support team.",
   "tesla_fleet_select_vehicle": "Please select the vehicle you wish to connect to ABRP:",
-  "tesla_fleet_streaming": "Tesla vehicles can stream data to ABRP when the vehicle is active. This enables higher quality live data and vehicle calibration. To enable it, you need to add ABRP's virtual key on your vehicle by clicking the button below.",
+  "tesla_fleet_streaming": "Tesla vehicles can stream data to ABRP when the vehicle is active. To enable it, you need to add ABRP's virtual key on your vehicle by clicking the button below.",
+  "tesla_fleet_streaming_toggle": "Tesla vehicles can stream data to ABRP when the vehicle is active. To enable it, you need allow third party streaming in your Tesla under Settings->Security.",
   "tesla_fleet_streaming_key": "Add ABRP virtual key on your Tesla",
   "tesla_fleet_streaming_unsupported": "Your vehicle does not support streaming. Don't worry, we will poll it for data - no more action needed.",
   "tesla_fleet_streaming_no_key": "The ABRP key was not installed on your Tesla. Please try again or check your Tesla account for permissions.",
@@ -2226,7 +2227,7 @@
   "amenity_stop": "{{category}} stop",
   "general_error_message": "An error occurred, please try again.",
   "tesla_streaming_banner_title": "Tesla streaming action required",
-  "tesla_streaming_banner_description": "From 1st of February 2025, Tesla streaming will be required for all Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
+  "tesla_streaming_banner_description": "Tesla streaming is required for live data for most Tesla vehicles. To continue using ABRP with your Tesla, add streaming to your vehicle.",
   "tesla_streaming_banner_button": "Add streaming",
   "nearby_chargers_replace_replan": "Change and replan",
   "charger_issues_exclude_title": "Charger unavailable",
@@ -2379,5 +2380,9 @@
   "sign_in_with_abrp_credentials": "Sign in with your ABRP credentials",
   "qr_login_android_auto_additional_text": "You can find it in your user profile in the settings menu",
   "automotive_tlm_permission_title": "Android Automotive Telemetry",
-  "eta_widget_info": "Trip estimates info"
+  "eta_widget_info": "Trip estimates info",
+  "photo_example_good": "Good",
+  "photo_example_bad": "Bad",
+  "photo_example_good_description": "Include the chargers and surroundings",
+  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources"
 }
