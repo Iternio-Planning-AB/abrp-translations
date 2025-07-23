@@ -2239,7 +2239,7 @@
   "charger_issues_exclude_description": "Mnoho uživatelů hlásilo, že tato nabíječka není k dispozici a může být nedostupná. Do odvolání jsme ji vyloučili ze všech plánů.",
   "charger_issues_avoid_title": "Nabíječka může být nedostupná",
   "charger_issues_avoid_description": "Mnoho uživatelů hlásilo, že tato nabíječka není k dispozici a může být nedostupná. Při plánování se jí snažíme vyhnout.",
-  "amenity_select_food_types": Vyberte typy potravin",
+  "amenity_select_food_types": "Vyberte typy potravin",
   "amenity_food_types_title": "Typy potravin",
   "no_obd_data": "Žádná OBD data",
   "tesla_transition_basic_title": "Změny dat Tesla Live",
