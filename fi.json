@@ -2390,5 +2390,7 @@
   "sign_in_with_google": "Kirjaudu sisään Googlella",
   "sign_in_with_mail": "Kirjaudu sisään sähköpostilla",
   "sign_in_with_abrp_credentials": "Kirjaudu sisään ABRP-tunnuksillasi",
-  "qr_login_android_auto_additional_text": "Löydät sen käyttäjäprofiilistasi asetukset-valikosta"
+  "qr_login_android_auto_additional_text": "Löydät sen käyttäjäprofiilistasi asetukset-valikosta",
+  "automotive_tlm_permission_title": "Android Automotive Telemetry",
+  "eta_widget_info": "Trip estimates info"
 }

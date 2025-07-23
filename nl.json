@@ -2189,7 +2189,7 @@
   "no_enhanced_voice_found": "You do not seem to have voices with enhanced quality installed, you can do so by navigating to your voice settings in system settings",
   "install_voices": "Stemmen installeren",
   "install_voice_engine": "Druk op {{settings}} om de spraakuitvoer in te stellen, of druk op {{ignore}} om de stem uit te schakelen",
-  "card_subscription_fee_per_type": "Abonnement: {{type}} {fee}}",
+  "card_subscription_fee_per_type": "Abonnement: {{type}} {{fee}}",
   "reorder_vehicles": "Voertuigen herordenen",
   "edit_order": "Volgorde aanpassen",
   "amenity_form_timing": "Maak een stop",
@@ -2390,5 +2390,7 @@
   "sign_in_with_google": "Log in met Google",
   "sign_in_with_mail": "Log in via e-mail",
   "sign_in_with_abrp_credentials": "Log in met uw ABRP gegevens",
-  "qr_login_android_auto_additional_text": "Dit is te vinden in uw profiel in het Instellingen scherm"
+  "qr_login_android_auto_additional_text": "Dit is te vinden in uw profiel in het Instellingen scherm",
+  "automotive_tlm_permission_title": "Android Automotive Telemetry",
+  "eta_widget_info": "Trip estimates info"
 }
