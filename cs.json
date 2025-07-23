@@ -2390,5 +2390,7 @@
   "sign_in_with_google": "Přihásit se Googlem",
   "sign_in_with_mail": "Přihlásit se e-mailem",
   "sign_in_with_abrp_credentials": "Přihlásit se údaji ABRP",
-  "qr_login_android_auto_additional_text": "Najdete jej ve svém uživatelském profilu v menu Nastavení."
+  "qr_login_android_auto_additional_text": "Najdete jej ve svém uživatelském profilu v menu Nastavení.",
+  "automotive_tlm_permission_title": "Android Automotive Telemetry",
+  "eta_widget_info": "Trip estimates info"
 }

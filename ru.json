@@ -2390,5 +2390,7 @@
   "sign_in_with_google": "Войти через Google",
   "sign_in_with_mail": "Войти по электронной почте",
   "sign_in_with_abrp_credentials": "Войти с учетными данными ABRP",
-  "qr_login_android_auto_additional_text": "Вы найдете это в своем профиле пользователя в меню настроек"
+  "qr_login_android_auto_additional_text": "Вы найдете это в своем профиле пользователя в меню настроек",
+  "automotive_tlm_permission_title": "Android Automotive Telemetry",
+  "eta_widget_info": "Trip estimates info"
 }

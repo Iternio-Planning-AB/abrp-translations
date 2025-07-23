@@ -2390,5 +2390,7 @@
   "sign_in_with_google": "Bejelentkezés Google-en át",
   "sign_in_with_mail": "Bejelentkezés email-lel",
   "sign_in_with_abrp_credentials": "Bejelentkezés az ABRP adataiddal",
-  "qr_login_android_auto_additional_text": "A beállítások menüben találod a felhasználói profilodban"
+  "qr_login_android_auto_additional_text": "A beállítások menüben találod a felhasználói profilodban",
+  "automotive_tlm_permission_title": "Android Automotive Telemetry",
+  "eta_widget_info": "Trip estimates info"
 }
