@@ -2391,11 +2391,11 @@
   "sign_in_with_mail": "Увійти через електронну пошту",
   "sign_in_with_abrp_credentials": "Увійти з обліковими даними ABRP",
   "qr_login_android_auto_additional_text": "Ви знайдете це у своєму профілі користувача в меню налаштувань",
-  "automotive_tlm_permission_title": "Android Automotive Telemetry",
-  "eta_widget_info": "Trip estimates info",
-  "tesla_fleet_streaming_toggle": "Tesla vehicles can stream data to ABRP when the vehicle is active. To enable it, you need allow third party streaming in your Tesla under Settings->Security.",
-  "photo_example_good": "Good",
-  "photo_example_bad": "Bad",
-  "photo_example_good_description": "Include the chargers and surroundings",
-  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources"
+  "automotive_tlm_permission_title": "Автотелеметрія Android Automotive",
+  "eta_widget_info": "Інформація про оцінку часу в дорозі",
+  "tesla_fleet_streaming_toggle": "Автомобілі Tesla можуть передавати дані до ABRP під час активності транспортного засобу. Щоб увімкнути це, потрібно дозволити передачу даних третім сторонам у Tesla в меню Налаштування -> Безпека.",
+  "photo_example_good": "Добре",
+  "photo_example_bad": "Погано",
+  "photo_example_good_description": "Показано зарядні станції та оточення",
+  "photo_example_bad_description": "Уникайте фото зсередини автомобіля, за поганого освітлення або зображень, скопійованих з інших джерел"
 }
