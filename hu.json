@@ -2393,9 +2393,9 @@
   "qr_login_android_auto_additional_text": "A beállítások menüben találod a felhasználói profilodban",
   "automotive_tlm_permission_title": "Android Automotive telemetria",
   "eta_widget_info": "Utazás becsült információk",
-  "tesla_fleet_streaming_toggle": "Tesla vehicles can stream data to ABRP when the vehicle is active. To enable it, you need allow third party streaming in your Tesla under Settings->Security.",
-  "photo_example_good": "Good",
-  "photo_example_bad": "Bad",
-  "photo_example_good_description": "Include the chargers and surroundings",
-  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources"
+  "tesla_fleet_streaming_toggle": "A Tesla járművek akkor tudnak adatokat továbbítani az ABRP-nek, ha a jármű aktív. Hogy ez működjön, engedélyezd a harmadik félnek történő adattovábbítást a Tesládban a Beállítások->Biztonság funkcióban.",
+  "photo_example_good": "Jó",
+  "photo_example_bad": "Rossz",
+  "photo_example_good_description": "Vedd bele a töltőt és a környezetét",
+  "photo_example_bad_description": "Kerüljük az autó belsejéből, a rossz világításban készült, vagy más forrásból másolt képeket"
 }
