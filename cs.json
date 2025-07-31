@@ -2391,11 +2391,11 @@
   "sign_in_with_mail": "Přihlásit se e-mailem",
   "sign_in_with_abrp_credentials": "Přihlásit se údaji ABRP",
   "qr_login_android_auto_additional_text": "Najdete jej ve svém uživatelském profilu v menu Nastavení.",
-  "automotive_tlm_permission_title": "Android Automotive Telemetry",
-  "eta_widget_info": "Trip estimates info",
-  "tesla_fleet_streaming_toggle": "Tesla vehicles can stream data to ABRP when the vehicle is active. To enable it, you need allow third party streaming in your Tesla under Settings->Security.",
-  "photo_example_good": "Good",
-  "photo_example_bad": "Bad",
-  "photo_example_good_description": "Include the chargers and surroundings",
-  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources"
+  "automotive_tlm_permission_title": "Telemetrie Android Automotive",
+  "eta_widget_info": "Informace o odhadech cesty",
+  "tesla_fleet_streaming_toggle": "Vozidla Tesla mohou streamovat data do ABRP, když je vozidlo aktivní. Chcete-li tuto funkci povolit, musíte ve svém vozidle Tesla v Nastavení->Zabezpečení povolit streamování pro třetí strany.",
+  "photo_example_good": "Dobrá",
+  "photo_example_bad": "Špatná",
+  "photo_example_good_description": "Včetně nabíječek a příslušenství",
+  "photo_example_bad_description": "Vyhněte se fotkám pořízeným z vnitřku auta, při špatném osvětlení nebo obrázkům zkopírovaným z jiných zdrojů."
 }
