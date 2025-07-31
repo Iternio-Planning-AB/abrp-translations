@@ -2391,11 +2391,11 @@
   "sign_in_with_mail": "Se connecter avec son mail",
   "sign_in_with_abrp_credentials": "Se connecter avec vos identifiants ABRP",
   "qr_login_android_auto_additional_text": "Vous pouvez le trouver dans votre profil utilisateur, dans les paramètres",
-  "automotive_tlm_permission_title": "Android Automotive Telemetry",
-  "eta_widget_info": "Trip estimates info",
-  "tesla_fleet_streaming_toggle": "Tesla vehicles can stream data to ABRP when the vehicle is active. To enable it, you need allow third party streaming in your Tesla under Settings->Security.",
-  "photo_example_good": "Good",
-  "photo_example_bad": "Bad",
-  "photo_example_good_description": "Include the chargers and surroundings",
-  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources"
+  "automotive_tlm_permission_title": "Télémétrie automobile Android",
+  "eta_widget_info": "Informations sur les estimations de trajet",
+  "tesla_fleet_streaming_toggle": "Les véhicules Tesla peuvent diffuser des données vers ABRP lorsque le véhicule est actif. Pour l'activer, vous devez autoriser la diffusion tierce dans votre Tesla dans Paramètres->Sécurité.",
+  "photo_example_good": "Bon",
+  "photo_example_bad": "Mauvais",
+  "photo_example_good_description": "Inclure les chargeurs et leurs environnements",
+  "photo_example_bad_description": "Éviter les photos prises à l'intérieur du véhicule, sous un mauvais éclairage ou les images copiées depuis d'autres sources."
 }
