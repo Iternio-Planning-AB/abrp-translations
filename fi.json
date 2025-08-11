@@ -2391,11 +2391,11 @@
   "sign_in_with_mail": "Kirjaudu sisään sähköpostilla",
   "sign_in_with_abrp_credentials": "Kirjaudu sisään ABRP-tunnuksillasi",
   "qr_login_android_auto_additional_text": "Löydät sen käyttäjäprofiilistasi asetukset-valikosta",
-  "automotive_tlm_permission_title": "Android Automotive Telemetry",
-  "eta_widget_info": "Trip estimates info",
-  "tesla_fleet_streaming_toggle": "Tesla vehicles can stream data to ABRP when the vehicle is active. To enable it, you need allow third party streaming in your Tesla under Settings->Security.",
-  "photo_example_good": "Good",
-  "photo_example_bad": "Bad",
-  "photo_example_good_description": "Include the chargers and surroundings",
-  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources"
+  "automotive_tlm_permission_title": "Android Automotive -telemetria",
+  "eta_widget_info": "Matka-arvioiden tiedot",
+  "tesla_fleet_streaming_toggle": "Tesla-ajoneuvot voivat lähettää tietoa ABRP:lle, kun ajoneuvo on aktiivinen. Ota toiminto käyttöön sallimalla kolmannen osapuolen tietovirta Teslan asetuksissa kohdassa Asetukset → Tietoturva.",
+  "photo_example_good": "Hyvä",
+  "photo_example_bad": "Huono",
+  "photo_example_good_description": "Sisällytä kuvaan laturit ja ympäristö",
+  "photo_example_bad_description": "Vältä kuvia, jotka on otettu auton sisältä, huonossa valaistuksessa tai kopioitu muista lähteistä"
 }
