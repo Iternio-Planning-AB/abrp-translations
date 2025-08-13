@@ -2397,13 +2397,13 @@
   "photo_example_good": "Dobrá",
   "photo_example_bad": "Špatná",
   "photo_example_good_description": "Včetně nabíječek a příslušenství",
-  "photo_example_bad_description": "Vyhněte se fotkám pořízeným z vnitřku auta, při špatném osvětlení nebo obrázkům zkopírovaným z jiných zdrojů.",
-  "empty_recent_plans": "Empty list",
-  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
-  "request_integration": "Request integration",
-  "submit_image_issue_no_reason": "Reason required",
-  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action.",
-  "choose_saved_vehicle": "Choose one of your saved vehicles",
-  "vehicle_selection_title": "Ready to roll?",
-  "vehicle_selection_description": "To get you on the road, we just need to know what vehicle you're using. Pick one you've saved, add a new one, or use a temporary model for now."
+  "photo_example_bad_description": "Vyhněte se fotkám pořízeným z vnitřku vozidla, při špatném osvětlení nebo obrázkům zkopírovaným z jiných zdrojů.",
+  "empty_recent_plans": "Prázdný seznam",
+  "empty_recent_plans_description": "Nemáte žádné aktuální plány. Vytvořte plán a uvidíte ho zde.",
+  "request_integration": "Vyžádat integraci",
+  "submit_image_issue_no_reason": "Je vyžadován důvod",
+  "submit_image_issue_no_reason_description": "Uveďte důvod, proč jste nahlásili tento obrázek. Pomůže nám to lépe pochopit problém a přijmout vhodná opatření.",
+  "choose_saved_vehicle": "Vyberte jedno ze svých uložených vozidel",
+  "vehicle_selection_title": "Můžeme to rozjet?",
+  "vehicle_selection_description": "Abychom Vás mohli vypravit na cestu, potřebujeme vědět, jaké vozidlo používáte. Vyberte si jedno z uložených, přidejte nové nebo prozatím použijte dočasný model."
 }
