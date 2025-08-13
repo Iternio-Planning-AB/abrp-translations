@@ -2398,9 +2398,9 @@
   "photo_example_bad": "Rossz",
   "photo_example_good_description": "Vedd bele a töltőt és a környezetét",
   "photo_example_bad_description": "Kerüljük az autó belsejéből, a rossz világításban készült, vagy más forrásból másolt képeket",
-  "empty_recent_plans": "Empty list",
-  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
-  "request_integration": "Request integration",
-  "submit_image_issue_no_reason": "Reason required",
-  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action."
+  "empty_recent_plans": "Üres lista",
+  "empty_recent_plans_description": "Nincs mostanában tevezett útvonalad. Készíts egy útvonaltervet és azt itt fogod látni.",
+  "request_integration": "Integráció kérés",
+  "submit_image_issue_no_reason": "Ok megadása szükséges",
+  "submit_image_issue_no_reason_description": "Add meg az okát, amiért jelented ezt a képet. Ez segít nekünk, hogy jobban megértsük a gondot és megfelelően intézkedhessünk."
 }
