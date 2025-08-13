@@ -2400,7 +2400,7 @@
   "configuration": "Configuració",
   "empty_recent_plans": "Llista buida",
   "empty_recent_plans_description": "No teniu cap itinerari recent. Creeu un itinerari  i el veureu aquí.",
-  "request_integration": "Request integration",
+  "request_integration": "Sol·licita una integració",
   "submit_image_issue_no_reason": "Es requereix una raó",
   "submit_image_issue_no_reason_description": "Proporcioneu una raó per a reportar aquesta imatge. Això ens ajuda a entendre millor el problema i prendre l'acció escaient.",
   "choose_saved_vehicle": "Trieu un dels vehicles desats",
