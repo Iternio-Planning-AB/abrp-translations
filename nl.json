@@ -2397,5 +2397,10 @@
   "photo_example_good": "Goed",
   "photo_example_bad": "Fout",
   "photo_example_good_description": "Leg de opladers en de omgeving vast",
-  "photo_example_bad_description": "Vermijd foto's genomen vanuit het voertuig, foto's met slechte belichting en foto's van andere bronnen"
+  "photo_example_bad_description": "Vermijd foto's genomen vanuit het voertuig, foto's met slechte belichting en foto's van andere bronnen",
+  "empty_recent_plans": "Empty list",
+  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
+  "request_integration": "Request integration",
+  "submit_image_issue_no_reason": "Reason required",
+  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action."
 }

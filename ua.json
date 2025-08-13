@@ -2397,5 +2397,10 @@
   "photo_example_good": "Добре",
   "photo_example_bad": "Погано",
   "photo_example_good_description": "Показано зарядні станції та оточення",
-  "photo_example_bad_description": "Уникайте фото зсередини автомобіля, за поганого освітлення або зображень, скопійованих з інших джерел"
+  "photo_example_bad_description": "Уникайте фото зсередини автомобіля, за поганого освітлення або зображень, скопійованих з інших джерел",
+  "empty_recent_plans": "Empty list",
+  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
+  "request_integration": "Request integration",
+  "submit_image_issue_no_reason": "Reason required",
+  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action."
 }

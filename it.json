@@ -2403,5 +2403,10 @@
   "photo_example_good": "Good",
   "photo_example_bad": "Bad",
   "photo_example_good_description": "Include the chargers and surroundings",
-  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources"
+  "photo_example_bad_description": "Avoid photos from inside the car, in bad lighting or images copied from other sources",
+  "empty_recent_plans": "Empty list",
+  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
+  "request_integration": "Request integration",
+  "submit_image_issue_no_reason": "Reason required",
+  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action."
 }

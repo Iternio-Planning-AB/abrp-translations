@@ -941,7 +941,15 @@
     "sexta-feira",
     "sábado"
   ],
-  "day_names_short": ["dom.", "seg.", "ter.", "qua.", "qui.", "sex.", "sáb."],
+  "day_names_short": [
+    "dom.",
+    "seg.",
+    "ter.",
+    "qua.",
+    "qui.",
+    "sex.",
+    "sáb."
+  ],
   "today": "Hoje",
   "scan_abrp_qrcode_to_complete_login": "Acabe de iniciar sessão digitalizando o código QR da ABRP",
   "permission_camera_title": "Permissão para utilizar a câmara",
@@ -1243,7 +1251,12 @@
   "report_charger_information": "A informação necessária para investigar foi copiada para a sua área de transferência. Clique em 'concluído' e será redirecionado para o Featurebase, onde pode criar um relatório e colar essa informação",
   "ferry_departure": "Partida do Ferry",
   "ferry_arrival": "Chegada do Ferry",
-  "direction_count_x": ["primeira", "segunda", "terceira", "quarta"],
+  "direction_count_x": [
+    "primeira",
+    "segunda",
+    "terceira",
+    "quarta"
+  ],
   "obdble_unknown_device_failed": "Este dispositivo não possui algumas funcionalidades essenciais, não o podemos utilizar para ligações OBD.",
   "obdble_unknown_device": "Dispositivo não suportado!",
   "obdble_unknown_device_attempt": "Este é um dispositivo não suportado, deseja ainda assim tentar ligar?",
@@ -2384,5 +2397,10 @@
   "photo_example_good": "Boa",
   "photo_example_bad": "Má",
   "photo_example_good_description": "Inclua os carregadores e a envolvente",
-  "photo_example_bad_description": "Evite fotos tiradas do interior do carro, com má iluminação ou imagens copiadas de outras fontes"
+  "photo_example_bad_description": "Evite fotos tiradas do interior do carro, com má iluminação ou imagens copiadas de outras fontes",
+  "empty_recent_plans": "Empty list",
+  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
+  "request_integration": "Request integration",
+  "submit_image_issue_no_reason": "Reason required",
+  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action."
 }

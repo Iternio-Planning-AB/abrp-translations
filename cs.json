@@ -2397,5 +2397,10 @@
   "photo_example_good": "Dobrá",
   "photo_example_bad": "Špatná",
   "photo_example_good_description": "Včetně nabíječek a příslušenství",
-  "photo_example_bad_description": "Vyhněte se fotkám pořízeným z vnitřku auta, při špatném osvětlení nebo obrázkům zkopírovaným z jiných zdrojů."
+  "photo_example_bad_description": "Vyhněte se fotkám pořízeným z vnitřku auta, při špatném osvětlení nebo obrázkům zkopírovaným z jiných zdrojů.",
+  "empty_recent_plans": "Empty list",
+  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
+  "request_integration": "Request integration",
+  "submit_image_issue_no_reason": "Reason required",
+  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action."
 }
