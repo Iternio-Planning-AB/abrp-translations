@@ -2352,7 +2352,7 @@
   "planning_feature_1": "Ajustement aux conditions de vent",
   "planning_feature_2": "Optimisation des arrêts de recharge",
   "planning_feature_3": "Calcul de la consommation d'énergie",
-  "planning_feature_4": "Trouver des bornes de recharge rapides",
+  "planning_feature_4": "Recherche de bornes de recharge rapides",
   "planning_feature_5": "Prise en compte des dénivelés",
   "planning_feature_6": "Vérification de la disponibilité des bornes de recharge",
   "planning_feature_7": "Optimisation de l'itinéraire",
@@ -2363,7 +2363,7 @@
   "planning_feature_12": "Comparaison de la fiabilité des bornes de recharge",
   "planning_feature_13": "Calcul de la puissance de chauffage et de climatisation",
   "planning_feature_14": "Application de votre profil de consommation personnel",
-  "planning_feature_15": "Éviter les bornes de recharge peu fiables",
+  "planning_feature_15": "Évitement des bornes de recharge peu fiables",
   "live_data_sharing_no_shared_vehicles": "Vous n'avez aucun véhicule partagé",
   "callout_same_charger": "Même chargeur",
   "callout_less_traffic": "Moins de trafic",
@@ -2398,9 +2398,9 @@
   "photo_example_bad": "Mauvais",
   "photo_example_good_description": "Inclure les chargeurs et leurs environnements",
   "photo_example_bad_description": "Éviter les photos prises à l'intérieur du véhicule, sous un mauvais éclairage ou les images copiées depuis d'autres sources.",
-  "empty_recent_plans": "Empty list",
-  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
-  "request_integration": "Request integration",
-  "submit_image_issue_no_reason": "Reason required",
-  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action."
+  "empty_recent_plans": "Liste vide",
+  "empty_recent_plans_description": "Vous n'avez pas de trajets récents. Créez un trajet et vous le verrez ici.",
+  "request_integration": "Intégration de la demande",
+  "submit_image_issue_no_reason": "Raison requise",
+  "submit_image_issue_no_reason_description": "Veuillez fournir une raison pour signaler cette image. Cela nous aide à mieux comprendre le problème et à prendre les mesures appropriées."
 }
