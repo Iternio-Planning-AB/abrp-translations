@@ -2398,12 +2398,12 @@
   "photo_example_bad": "Погано",
   "photo_example_good_description": "Показано зарядні станції та оточення",
   "photo_example_bad_description": "Уникайте фото зсередини автомобіля, за поганого освітлення або зображень, скопійованих з інших джерел",
-  "empty_recent_plans": "Empty list",
-  "empty_recent_plans_description": "You don't have any recent plans. Create a plan and you'll see it here.",
-  "request_integration": "Request integration",
-  "submit_image_issue_no_reason": "Reason required",
-  "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action.",
-  "choose_saved_vehicle": "Choose one of your saved vehicles",
-  "vehicle_selection_title": "Ready to roll?",
-  "vehicle_selection_description": "To get you on the road, we just need to know what vehicle you're using. Pick one you've saved, add a new one, or use a temporary model for now."
+  "empty_recent_plans": "Очистити список",
+  "empty_recent_plans_description": "У вас немає нещодавніх планів. Створіть план, і він з’явиться тут.",
+  "request_integration": "Запросити інтеграцію",
+  "submit_image_issue_no_reason": "Потрібна причина",
+  "submit_image_issue_no_reason_description": "Будь ласка, вкажіть причину скарги на це зображення. Це допоможе нам краще зрозуміти проблему та вжити відповідних заходів.",
+  "choose_saved_vehicle": "Виберіть один із збережених транспортних засобів",
+  "vehicle_selection_title": "Готові вирушити?",
+  "vehicle_selection_description": "Щоб виїхати на дорогу, нам потрібно знати, яким транспортним засобом ви користуєтеся. Виберіть один із збережених, додайте новий або використайте тимчасову модель."
 }
