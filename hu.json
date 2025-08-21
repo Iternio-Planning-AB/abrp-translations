@@ -2406,5 +2406,5 @@
   "choose_saved_vehicle": "Válassz egyet az elmentett járműveid közül",
   "vehicle_selection_title": "Készen állsz?",
   "vehicle_selection_description": "Az útvonaltervezéshez tudnunk kell, milyen járművet használsz. Válassz ki egyet az elmentettek közül, vegyél fel egy újat, vagy használj egy ideiglenes modellt.",
-  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
+  "calendar_permission_needed": "Az ABRP hozzáférést kér a naptáradhoz, hogy eseményeket adhasson hozzá. Add meg a naptár használati engedélyeket a beállításokban."
 }
