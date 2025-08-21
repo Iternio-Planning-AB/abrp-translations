@@ -2405,5 +2405,6 @@
   "submit_image_issue_no_reason_description": "Uveďte důvod, proč jste nahlásili tento obrázek. Pomůže nám to lépe pochopit problém a přijmout vhodná opatření.",
   "choose_saved_vehicle": "Vyberte jedno ze svých uložených vozidel",
   "vehicle_selection_title": "Můžeme to rozjet?",
-  "vehicle_selection_description": "Abychom Vás mohli vypravit na cestu, potřebujeme vědět, jaké vozidlo používáte. Vyberte si jedno z uložených, přidejte nové nebo prozatím použijte dočasný model."
+  "vehicle_selection_description": "Abychom Vás mohli vypravit na cestu, potřebujeme vědět, jaké vozidlo používáte. Vyberte si jedno z uložených, přidejte nové nebo prozatím použijte dočasný model.",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
 }

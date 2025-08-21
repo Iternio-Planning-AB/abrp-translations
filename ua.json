@@ -2405,5 +2405,6 @@
   "submit_image_issue_no_reason_description": "Будь ласка, вкажіть причину скарги на це зображення. Це допоможе нам краще зрозуміти проблему та вжити відповідних заходів.",
   "choose_saved_vehicle": "Виберіть один із збережених транспортних засобів",
   "vehicle_selection_title": "Готові вирушити?",
-  "vehicle_selection_description": "Щоб виїхати на дорогу, нам потрібно знати, яким транспортним засобом ви користуєтеся. Виберіть один із збережених, додайте новий або використайте тимчасову модель."
+  "vehicle_selection_description": "Щоб виїхати на дорогу, нам потрібно знати, яким транспортним засобом ви користуєтеся. Виберіть один із збережених, додайте новий або використайте тимчасову модель.",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
 }

@@ -941,7 +941,15 @@
     "sexta-feira",
     "sábado"
   ],
-  "day_names_short": ["dom.", "seg.", "ter.", "qua.", "qui.", "sex.", "sáb."],
+  "day_names_short": [
+    "dom.",
+    "seg.",
+    "ter.",
+    "qua.",
+    "qui.",
+    "sex.",
+    "sáb."
+  ],
   "today": "Hoje",
   "scan_abrp_qrcode_to_complete_login": "Acabe de iniciar sessão digitalizando o código QR da ABRP",
   "permission_camera_title": "Permissão para utilizar a câmara",
@@ -1243,7 +1251,12 @@
   "report_charger_information": "A informação necessária para investigar foi copiada para a sua área de transferência. Clique em 'concluído' e será redirecionado para o Featurebase, onde pode criar um relatório e colar essa informação",
   "ferry_departure": "Partida do Ferry",
   "ferry_arrival": "Chegada do Ferry",
-  "direction_count_x": ["primeira", "segunda", "terceira", "quarta"],
+  "direction_count_x": [
+    "primeira",
+    "segunda",
+    "terceira",
+    "quarta"
+  ],
   "obdble_unknown_device_failed": "Este dispositivo não possui algumas funcionalidades essenciais, não o podemos utilizar para ligações OBD.",
   "obdble_unknown_device": "Dispositivo não suportado!",
   "obdble_unknown_device_attempt": "Este é um dispositivo não suportado, deseja ainda assim tentar ligar?",
@@ -2392,5 +2405,6 @@
   "submit_image_issue_no_reason_description": "Por favor, indique o motivo para reportar esta imagem. Isso ajuda-nos a compreender melhor o problema e a tomar as medidas adequadas.",
   "choose_saved_vehicle": "Escolha um dos seus veículos guardados",
   "vehicle_selection_title": "Pronto para arrancar?",
-  "vehicle_selection_description": "Para o pôr na estrada, precisamos apenas de saber que veículo utiliza. Escolha um que tenha guardado, adicione um novo ou utilize um modelo temporário por agora."
+  "vehicle_selection_description": "Para o pôr na estrada, precisamos apenas de saber que veículo utiliza. Escolha um que tenha guardado, adicione um novo ou utilize um modelo temporário por agora.",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
 }

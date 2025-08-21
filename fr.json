@@ -2405,5 +2405,6 @@
   "submit_image_issue_no_reason_description": "Veuillez fournir une raison pour signaler cette image. Cela nous aide à mieux comprendre le problème et à prendre les mesures appropriées.",
   "choose_saved_vehicle": "Choisissez l'un de vos véhicules enregistrés",
   "vehicle_selection_title": "Prêt à partir ?",
-  "vehicle_selection_description": "Pour vous permettre de prendre la route, nous avons simplement besoin de savoir quel véhicule vous utilisez. Choisissez-en un que vous avez enregistré, ajoutez-en un nouveau ou utilisez un modèle temporaire juste pour ce trajet."
+  "vehicle_selection_description": "Pour vous permettre de prendre la route, nous avons simplement besoin de savoir quel véhicule vous utilisez. Choisissez-en un que vous avez enregistré, ajoutez-en un nouveau ou utilisez un modèle temporaire juste pour ce trajet.",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
 }

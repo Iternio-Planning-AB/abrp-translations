@@ -2405,5 +2405,6 @@
   "submit_image_issue_no_reason_description": "Ilmoita syy tämän kuvan raportointiin. Näin voimme ymmärtää tilanteen paremmin ja ryhtyä tarvittaviin toimiin.",
   "choose_saved_vehicle": "Valitse tallennettu ajoneuvo",
   "vehicle_selection_title": "Valmiina matkaan?",
-  "vehicle_selection_description": "Jotta pääsemme liikkeelle, meidän täytyy tietää, mitä ajoneuvoa käytät. Valitse tallentamasi ajoneuvo, lisää uusi tai käytä tilapäistä mallia."
+  "vehicle_selection_description": "Jotta pääsemme liikkeelle, meidän täytyy tietää, mitä ajoneuvoa käytät. Valitse tallentamasi ajoneuvo, lisää uusi tai käytä tilapäistä mallia.",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
 }

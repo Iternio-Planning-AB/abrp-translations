@@ -2400,5 +2400,6 @@
   "submit_image_issue_no_reason_description": "Please provide a reason for reporting this image. This helps us understand the issue better and take appropriate action.",
   "choose_saved_vehicle": "Choose one of your saved vehicles",
   "vehicle_selection_title": "Ready to roll?",
-  "vehicle_selection_description": "To get you on the road, we just need to know what vehicle you're using. Pick one you've saved, add a new one, or use a temporary model for now."
+  "vehicle_selection_description": "To get you on the road, we just need to know what vehicle you're using. Pick one you've saved, add a new one, or use a temporary model for now.",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
 }

@@ -934,6 +934,7 @@
   "test_drive_mode_enabled": "Test drive mode enabled - the car follows your plan.",
   "add_to_calendar": "Add to calendar",
   "error_adding_to_calendar": "Error adding to Calendar",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings.",
   "calendar_set_departure_time": "Set a future departure date to export the plan to the calendar.",
   "all_time": "All time",
   "subscription_purchased": "Your subscription is now active.",

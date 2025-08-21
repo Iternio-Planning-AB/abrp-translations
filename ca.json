@@ -2405,5 +2405,6 @@
   "submit_image_issue_no_reason_description": "Proporcioneu una raó per a reportar aquesta imatge. Això ens ajuda a entendre millor el problema i prendre l'acció escaient.",
   "choose_saved_vehicle": "Trieu un dels vehicles desats",
   "vehicle_selection_title": "Preparat per a rodar?",
-  "vehicle_selection_description": "Per a anar per la carretera, només hem de saber quin vehicle useu. Trieu un que hàgiu desat, afegiu-ne un de nou o useu un model temporal."
+  "vehicle_selection_description": "Per a anar per la carretera, només hem de saber quin vehicle useu. Trieu un que hàgiu desat, afegiu-ne un de nou o useu un model temporal.",
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
 }
