@@ -2406,5 +2406,5 @@
   "choose_saved_vehicle": "Valitse tallennettu ajoneuvo",
   "vehicle_selection_title": "Valmiina matkaan?",
   "vehicle_selection_description": "Jotta pääsemme liikkeelle, meidän täytyy tietää, mitä ajoneuvoa käytät. Valitse tallentamasi ajoneuvo, lisää uusi tai käytä tilapäistä mallia.",
-  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
+  "calendar_permission_needed": "ABRP tarvitsee kalenterin käyttöoikeuden voidakseen lisätä tapahtumia. Salli kalenterin käyttö asetuksista."
 }
