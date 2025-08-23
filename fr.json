@@ -2406,5 +2406,5 @@
   "choose_saved_vehicle": "Choisissez l'un de vos véhicules enregistrés",
   "vehicle_selection_title": "Prêt à partir ?",
   "vehicle_selection_description": "Pour vous permettre de prendre la route, nous avons simplement besoin de savoir quel véhicule vous utilisez. Choisissez-en un que vous avez enregistré, ajoutez-en un nouveau ou utilisez un modèle temporaire juste pour ce trajet.",
-  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
+  "calendar_permission_needed": "ABRP a besoin d'accéder à votre calendrier pour ajouter des événements. Veuillez activer les autorisations du calendrier dans les paramètres."
 }
