@@ -2406,5 +2406,5 @@
   "choose_saved_vehicle": "Wählen eines deiner gespeicherten Fahrzeuge aus.",
   "vehicle_selection_title": "Bereit zum Loslegen?",
   "vehicle_selection_description": "Damit du losfahren kannst, müssen wir nur wissen, welches Fahrzeug du verwendest. Wähle ein gespeichertes Fahrzeug aus, füge ein neues hinzu oder verwende vorerst ein temporäres Modell.",
-  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
+  "calendar_permission_needed": "ABRP benötigt Zugriff auf deinen Kalender, um Ereignisse hinzuzufügen. Bitte aktiviere die Kalenderberechtigungen in den Einstellungen."
 }
