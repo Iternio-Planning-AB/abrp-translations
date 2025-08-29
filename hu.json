@@ -2407,6 +2407,6 @@
   "vehicle_selection_title": "Készen állsz?",
   "vehicle_selection_description": "Az útvonaltervezéshez tudnunk kell, milyen járművet használsz. Válassz ki egyet az elmentettek közül, vegyél fel egy újat, vagy használj egy ideiglenes modellt.",
   "calendar_permission_needed": "Az ABRP hozzáférést kér a naptáradhoz, hogy eseményeket adhasson hozzá. Add meg a naptár használati engedélyeket a beállításokban.",
-  "carmirror_remaining_distance": "Remaining distance",
-  "remaining_cm_next_step_info": "Remaining: $duration ($distance)"
+  "carmirror_remaining_distance": "Hátralevő távolság",
+  "remaining_cm_next_step_info": "Még: $duration ($distance)"
 }
