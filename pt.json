@@ -2406,5 +2406,7 @@
   "choose_saved_vehicle": "Escolha um dos seus veículos guardados",
   "vehicle_selection_title": "Pronto para arrancar?",
   "vehicle_selection_description": "Para o pôr na estrada, precisamos apenas de saber que veículo utiliza. Escolha um que tenha guardado, adicione um novo ou utilize um modelo temporário por agora.",
-  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings."
+  "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings.",
+  "carmirror_remaining_distance": "Remaining distance",
+  "remaining_cm_next_step_info": "Remaining: $duration ($distance)"
 }

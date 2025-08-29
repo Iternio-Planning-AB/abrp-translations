@@ -2406,5 +2406,7 @@
   "choose_saved_vehicle": "Selecteer een bewaard voertuig",
   "vehicle_selection_title": "Klaar om te gaan?",
   "vehicle_selection_description": "Om de reis te beginnen moeten we nog weten welk voertuig u gebruikt. Kies een bewaard voertuig, voeg een nieuw voertuig toe, of gebruik een tijdelijk model.",
-  "calendar_permission_needed": "ABRP heeft toestemming nodig om uw Agenda bij te werken. Ga naar Instellingen om toegang te verlenen."
+  "calendar_permission_needed": "ABRP heeft toestemming nodig om uw Agenda bij te werken. Ga naar Instellingen om toegang te verlenen.",
+  "carmirror_remaining_distance": "Remaining distance",
+  "remaining_cm_next_step_info": "Remaining: $duration ($distance)"
 }
