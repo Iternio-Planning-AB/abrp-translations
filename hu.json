@@ -2409,6 +2409,6 @@
   "calendar_permission_needed": "Az ABRP hozzáférést kér a naptáradhoz, hogy eseményeket adhasson hozzá. Add meg a naptár használati engedélyeket a beállításokban.",
   "carmirror_remaining_distance": "Hátralevő távolság",
   "remaining_cm_next_step_info": "Még: $duration ($distance)",
-  "soc_x": "SoC: {{x}}%",
-  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
+  "soc_x": "Töltöttség: {{x}}%",
+  "soc_x_power_y": "Töltöttség: {{x}}%\nTeljesítmény: {{y}}kW"
 }
