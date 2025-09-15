@@ -2408,5 +2408,7 @@
   "vehicle_selection_description": "Pour vous permettre de prendre la route, nous avons simplement besoin de savoir quel véhicule vous utilisez. Choisissez-en un que vous avez enregistré, ajoutez-en un nouveau ou utilisez un modèle temporaire juste pour ce trajet.",
   "calendar_permission_needed": "ABRP a besoin d'accéder à votre calendrier pour ajouter des événements. Veuillez activer les autorisations du calendrier dans les paramètres.",
   "carmirror_remaining_distance": "Distance restante",
-  "remaining_cm_next_step_info": "Restant : $duration ($distance)"
+  "remaining_cm_next_step_info": "Restant : $duration ($distance)",
+  "soc_x": "SoC: {{x}}%",
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
 }

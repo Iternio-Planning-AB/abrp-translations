@@ -2408,5 +2408,7 @@
   "vehicle_selection_description": "Az útvonaltervezéshez tudnunk kell, milyen járművet használsz. Válassz ki egyet az elmentettek közül, vegyél fel egy újat, vagy használj egy ideiglenes modellt.",
   "calendar_permission_needed": "Az ABRP hozzáférést kér a naptáradhoz, hogy eseményeket adhasson hozzá. Add meg a naptár használati engedélyeket a beállításokban.",
   "carmirror_remaining_distance": "Hátralevő távolság",
-  "remaining_cm_next_step_info": "Még: $duration ($distance)"
+  "remaining_cm_next_step_info": "Még: $duration ($distance)",
+  "soc_x": "SoC: {{x}}%",
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
 }

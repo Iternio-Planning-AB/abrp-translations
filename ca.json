@@ -2408,5 +2408,7 @@
   "vehicle_selection_description": "Per a anar per la carretera, només hem de saber quin vehicle useu. Trieu un que hàgiu desat, afegiu-ne un de nou o useu un model temporal.",
   "calendar_permission_needed": "ABRP necessita accés al vostre calendari per a afegir esdeveniments. Habiliteu els permisos del calendari a la configuració.",
   "carmirror_remaining_distance": "Distància restant",
-  "remaining_cm_next_step_info": "Resta: $duration ($distance)"
+  "remaining_cm_next_step_info": "Resta: $duration ($distance)",
+  "soc_x": "SoC: {{x}}%",
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
 }

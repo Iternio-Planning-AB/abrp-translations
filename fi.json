@@ -2408,5 +2408,7 @@
   "vehicle_selection_description": "Jotta pääsemme liikkeelle, meidän täytyy tietää, mitä ajoneuvoa käytät. Valitse tallentamasi ajoneuvo, lisää uusi tai käytä tilapäistä mallia.",
   "calendar_permission_needed": "ABRP tarvitsee kalenterin käyttöoikeuden voidakseen lisätä tapahtumia. Salli kalenterin käyttö asetuksista.",
   "carmirror_remaining_distance": "Jäljellä oleva matka",
-  "remaining_cm_next_step_info": "Jäljellä: $duration ($distance)"
+  "remaining_cm_next_step_info": "Jäljellä: $duration ($distance)",
+  "soc_x": "SoC: {{x}}%",
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
 }

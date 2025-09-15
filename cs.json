@@ -2408,5 +2408,7 @@
   "vehicle_selection_description": "Abychom Vás mohli vypravit na cestu, potřebujeme vědět, jaké vozidlo používáte. Vyberte si jedno z uložených, přidejte nové nebo prozatím použijte dočasný model.",
   "calendar_permission_needed": "ABRP potřebuje přístup k Vašemu kalendáři, aby mohl přidávat události. Povolte oprávnění pro kalendář v nastavení.",
   "carmirror_remaining_distance": "Zbývající vzdálenost",
-  "remaining_cm_next_step_info": "Zbývá: $duration ($distance)"
+  "remaining_cm_next_step_info": "Zbývá: $duration ($distance)",
+  "soc_x": "SoC: {{x}}%",
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
 }

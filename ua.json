@@ -2408,5 +2408,7 @@
   "vehicle_selection_description": "Щоб виїхати на дорогу, нам потрібно знати, яким транспортним засобом ви користуєтеся. Виберіть один із збережених, додайте новий або використайте тимчасову модель.",
   "calendar_permission_needed": "ABRP needs access to your calendar to add events. Please enable calendar permissions in settings.",
   "carmirror_remaining_distance": "Remaining distance",
-  "remaining_cm_next_step_info": "Remaining: $duration ($distance)"
+  "remaining_cm_next_step_info": "Remaining: $duration ($distance)",
+  "soc_x": "SoC: {{x}}%",
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
 }

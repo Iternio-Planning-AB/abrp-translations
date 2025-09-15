@@ -2408,5 +2408,7 @@
   "vehicle_selection_description": "Para o pôr na estrada, precisamos apenas de saber que veículo utiliza. Escolha um que tenha guardado, adicione um novo ou utilize um modelo temporário por agora.",
   "calendar_permission_needed": "O ABRP precisa de acesso ao seu calendário para adicionar eventos. Ative as permissões de calendário nas definições.",
   "carmirror_remaining_distance": "Distância restante",
-  "remaining_cm_next_step_info": "Restante: $duration ($distance)"
+  "remaining_cm_next_step_info": "Restante: $duration ($distance)",
+  "soc_x": "SoC: {{x}}%",
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
 }
