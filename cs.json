@@ -2409,6 +2409,6 @@
   "calendar_permission_needed": "ABRP potřebuje přístup k Vašemu kalendáři, aby mohl přidávat události. Povolte oprávnění pro kalendář v nastavení.",
   "carmirror_remaining_distance": "Zbývající vzdálenost",
   "remaining_cm_next_step_info": "Zbývá: $duration ($distance)",
-  "soc_x": "SoC: {{x}}%",
-  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
+  "soc_x": "SoC: {{x}} %",
+  "soc_x_power_y": "SoC: {{x}} %\nVýkon: {{y}} kW"
 }
