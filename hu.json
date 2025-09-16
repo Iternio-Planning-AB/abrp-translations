@@ -84,8 +84,8 @@
   "battery_degradation": "Akkumulátor degradáció",
   "battery_degradation_description": "Feltételezett akkumulátor állapot romlás egy teljesen új akkumulátor állapotához képest.",
   "battery_capacity_description": "Az autó által pillanatnyilag mért akkumulátor állapot. A pillanatnyi mérés törlése és visszatérés az alap degradáció értékhez.",
-  "time_charge_port": "Töltés időtartama",
-  "time_charge_port_description": "Az egyes töltések időtartama. A magasabb érték ritkább, de hosszabb idejű töltéseket eredményez.",
+  "time_charge_port": "Töltésre rakódó plusz idő",
+  "time_charge_port_description": "A töltés során az effektív töltés idejére rárakódó egyéb tevékenységekre fordítandó idő (töltőkábel elővétele/elrakása, töltőoszlopon/applikációban a töltési folyamat elindítása/leállítása, Plug&Charge töltés idítás ideje, stb.). A tervező algoritmus ezt is figyelembe véve igyekszik optimalizálni a javasolt töltések számát. Minél nagyobb ez az érték, annál ritkább, de hosszabb effektív idejű töltéseket eredményez.",
   "reference_speed": "Referencia sebesség",
   "reference_speed_description": "Referencia sebesség beállítása a megengedett maximális sebességhez vagy az úton várható átlagos sebességhez képest.",
   "maximum_speed": "Max sebesség",
@@ -2409,6 +2409,6 @@
   "calendar_permission_needed": "Az ABRP hozzáférést kér a naptáradhoz, hogy eseményeket adhasson hozzá. Add meg a naptár használati engedélyeket a beállításokban.",
   "carmirror_remaining_distance": "Hátralevő távolság",
   "remaining_cm_next_step_info": "Még: $duration ($distance)",
-  "soc_x": "SoC: {{x}}%",
-  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
+  "soc_x": "Töltöttség: {{x}}%",
+  "soc_x_power_y": "Töltöttség: {{x}}%\nTeljesítmény: {{y}}kW"
 }
