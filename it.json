@@ -2416,5 +2416,8 @@
   "carmirror_remaining_distance": "Remaining distance",
   "remaining_cm_next_step_info": "Remaining: $duration ($distance)",
   "soc_x": "SoC: {{x}}%",
-  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW"
+  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW",
+  "ready_to_charge": "Ready to charge",
+  "arriving_at_xx": "Arriving at {{destinationName}}",
+  "arriving_at_charger": "Arriving at charger"
 }
