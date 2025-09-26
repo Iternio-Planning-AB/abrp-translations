@@ -2411,9 +2411,9 @@
   "remaining_cm_next_step_info": "Még: $duration ($distance)",
   "soc_x": "Töltöttség: {{x}}%",
   "soc_x_power_y": "Töltöttség: {{x}}%\nTeljesítmény: {{y}}kW",
-  "ready_to_charge": "Ready to charge",
-  "arriving_at_xx": "Arriving at {{destinationName}}",
-  "arriving_at_charger": "Arriving at charger",
-  "search_this_area": "Search this area",
-  "searching_charger_alternatives": "Searching for alternative chargers..."
+  "ready_to_charge": "Töltésre kész",
+  "arriving_at_xx": "Érkezés ide: {{destinationName}}",
+  "arriving_at_charger": "Érkezés töltőhöz",
+  "search_this_area": "Keresés ezen a területen",
+  "searching_charger_alternatives": "Alternatív töltők keresése..."
 }
