@@ -2410,10 +2410,10 @@
   "carmirror_remaining_distance": "Verbleibende Entfernung",
   "remaining_cm_next_step_info": "Verbleibend: $duration ($distance)",
   "soc_x": "SoC: {{x}}%",
-  "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW",
+  "soc_x_power_y": "SoC: {{x}}%\nLeistung: {{y}}kW",
   "ready_to_charge": "Bereit zum Laden",
   "arriving_at_xx": "Ankunft bei {{destinationName}}",
   "arriving_at_charger": "Ankunft bei Ladestation",
   "searching_charger_alternatives": "Suche nach alternativen Ladestationen...",
-  "search_this_area": "Search this area"
+  "search_this_area": "Diesen Bereich durchsuchen"
 }
