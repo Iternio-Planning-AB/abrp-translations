@@ -2413,5 +2413,7 @@
   "soc_x_power_y": "Töltöttség: {{x}}%\nTeljesítmény: {{y}}kW",
   "ready_to_charge": "Ready to charge",
   "arriving_at_xx": "Arriving at {{destinationName}}",
-  "arriving_at_charger": "Arriving at charger"
+  "arriving_at_charger": "Arriving at charger",
+  "search_this_area": "Search this area",
+  "searching_charger_alternatives": "Searching for alternative chargers..."
 }

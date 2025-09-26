@@ -160,7 +160,7 @@
   "premium_feature": "Premium-Funktion",
   "premium_feature_description": "Diese Funktion erfordert ein Premium-Konto. Der Testzeitraum ist kostenlos!",
   "get_premium": "Premium-Mitglied werden",
-  "cancel": "Abbruch",
+  "cancel": "Abbrechen",
   "avoid_charger": "Vermeide Ladepunkt",
   "restaurant_nearby": "Restaurant in der Nähe",
   "hotel_nearby": "Hotel in der Nähe",
@@ -1725,7 +1725,7 @@
   "activity": "Aktivität",
   "amenity_search": "Annehmlichkeitensuche",
   "point_on_route": "Punkt auf der Route",
-  "charger_alternatives": "Alternativen zur Ladestation",
+  "charger_alternatives": "Alternative Ladestationen",
   "edit_quick_settings": "Schnelleinstellungen bearbeiten",
   "car_details": "Details zum Fahrzeug",
   "add_charger_to_route": "Zur Route hinzufügen",
@@ -2413,5 +2413,7 @@
   "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW",
   "ready_to_charge": "Bereit zum Laden",
   "arriving_at_xx": "Ankunft bei {{destinationName}}",
-  "arriving_at_charger": "Ankunft bei Ladestation"
+  "arriving_at_charger": "Ankunft bei Ladestation",
+  "searching_charger_alternatives": "Suche nach alternativen Ladestationen...",
+  "search_this_area": "Search this area"
 }
