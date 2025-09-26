@@ -2411,9 +2411,9 @@
   "remaining_cm_next_step_info": "Zbývá: $duration ($distance)",
   "soc_x": "SoC: {{x}} %",
   "soc_x_power_y": "SoC: {{x}} %\nVýkon: {{y}} kW",
-  "ready_to_charge": "Ready to charge",
-  "arriving_at_xx": "Arriving at {{destinationName}}",
-  "arriving_at_charger": "Arriving at charger",
-  "search_this_area": "Search this area",
-  "searching_charger_alternatives": "Searching for alternative chargers..."
+  "ready_to_charge": "Připraveno k nabíjení",
+  "arriving_at_xx": "Příjezd do {{destinationName}}",
+  "arriving_at_charger": "Příjezd na nabíječku",
+  "search_this_area": "Prohledat tuto oblast",
+  "searching_charger_alternatives": "Hledání alternativních nabíječek..."
 }
