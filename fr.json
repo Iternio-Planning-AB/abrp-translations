@@ -2411,9 +2411,9 @@
   "remaining_cm_next_step_info": "Restant : $duration ($distance)",
   "soc_x": "SoC: {{x}}%",
   "soc_x_power_y": "SoC: {{x}}%\nPower: {{y}}kW",
-  "ready_to_charge": "Ready to charge",
-  "arriving_at_xx": "Arriving at {{destinationName}}",
-  "arriving_at_charger": "Arriving at charger",
-  "search_this_area": "Search this area",
-  "searching_charger_alternatives": "Searching for alternative chargers..."
+  "ready_to_charge": "Prêt à charger",
+  "arriving_at_xx": "Arrivée à {{destinationName}}",
+  "arriving_at_charger": "Arrivée à la borne de recharge",
+  "search_this_area": "Rechercher dans cette zone",
+  "searching_charger_alternatives": "Recherche de bornes de recharge alternatives..."
 }
