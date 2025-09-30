@@ -2410,5 +2410,10 @@
   "carmirror_remaining_distance": "Resterende afstand",
   "remaining_cm_next_step_info": "Resterend: $duration ($distance)",
   "soc_x": "SoC: {{x}}%",
-  "soc_x_power_y": "SoC: {{x}}%\nVermogen: {{y}}kW"
+  "soc_x_power_y": "SoC: {{x}}%\nVermogen: {{y}}kW",
+  "ready_to_charge": "Klaar om te laden",
+  "arriving_at_xx": "Aankomst op {{destinationName}}",
+  "arriving_at_charger": "Aankomst bij oplader",
+  "search_this_area": "Doorzoek dit gebied",
+  "searching_charger_alternatives": "Zoeken naar alternatieve opladers..."
 }

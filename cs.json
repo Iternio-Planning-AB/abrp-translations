@@ -2410,5 +2410,10 @@
   "carmirror_remaining_distance": "Zbývající vzdálenost",
   "remaining_cm_next_step_info": "Zbývá: $duration ($distance)",
   "soc_x": "SoC: {{x}} %",
-  "soc_x_power_y": "SoC: {{x}} %\nVýkon: {{y}} kW"
+  "soc_x_power_y": "SoC: {{x}} %\nVýkon: {{y}} kW",
+  "ready_to_charge": "Připraveno k nabíjení",
+  "arriving_at_xx": "Příjezd do {{destinationName}}",
+  "arriving_at_charger": "Příjezd na nabíječku",
+  "search_this_area": "Prohledat tuto oblast",
+  "searching_charger_alternatives": "Hledání alternativních nabíječek..."
 }
