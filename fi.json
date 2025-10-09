@@ -2411,9 +2411,9 @@
   "remaining_cm_next_step_info": "Jäljellä: $duration ($distance)",
   "soc_x": "Akun varaus: {{x}} %",
   "soc_x_power_y": "Akun varaus: {{x}} %\nTeho: {{y}} kW",
-  "ready_to_charge": "Ready to charge",
-  "arriving_at_xx": "Arriving at {{destinationName}}",
-  "arriving_at_charger": "Arriving at charger",
-  "search_this_area": "Search this area",
-  "searching_charger_alternatives": "Searching for alternative chargers..."
+  "ready_to_charge": "Valmis lataukseen",
+  "arriving_at_xx": "Saapuminen kohteeseen {{destinationName}}",
+  "arriving_at_charger": "Saapuminen laturille",
+  "search_this_area": "Etsi tältä alueelta",
+  "searching_charger_alternatives": "Etsitään vaihtoehtoisia latureita..."
 }
