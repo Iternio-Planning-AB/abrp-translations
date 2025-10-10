@@ -2411,9 +2411,9 @@
   "remaining_cm_next_step_info": "Залишилось: $duration ($distance)",
   "soc_x": "SoC: {{x}}%",
   "soc_x_power_y": "SoC: {{x}}%\nПотужність: {{y}}кВт",
-  "ready_to_charge": "Ready to charge",
-  "arriving_at_xx": "Arriving at {{destinationName}}",
-  "arriving_at_charger": "Arriving at charger",
-  "search_this_area": "Search this area",
-  "searching_charger_alternatives": "Searching for alternative chargers..."
+  "ready_to_charge": "Готовий до заряджання",
+  "arriving_at_xx": "Прибуття до {{destinationName}}",
+  "arriving_at_charger": "Прибуття до зарядної станції",
+  "search_this_area": "Шукати в цій області",
+  "searching_charger_alternatives": "Пошук альтернативних зарядних станцій..."
 }
