@@ -2411,9 +2411,9 @@
   "remaining_cm_next_step_info": "Faltan: $duration ($distance)",
   "soc_x": "SoC: {{x}}%",
   "soc_x_power_y": "SoC: {{x}}%\nEnerxía: {{y}}kW",
-  "ready_to_charge": "Ready to charge",
-  "arriving_at_xx": "Arriving at {{destinationName}}",
-  "arriving_at_charger": "Arriving at charger",
-  "search_this_area": "Search this area",
-  "searching_charger_alternatives": "Searching for alternative chargers..."
+  "ready_to_charge": "Listo para cargar",
+  "arriving_at_xx": "Chegando a {{destinationName}}",
+  "arriving_at_charger": "Chegando ao cargador",
+  "search_this_area": "Procurar neste sitio",
+  "searching_charger_alternatives": "Procurando cargadores alternativos..."
 }
