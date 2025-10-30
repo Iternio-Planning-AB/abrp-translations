@@ -979,7 +979,7 @@
   "charge_break_preference_fewest_stops": "Vähemmän pysähdyksiä",
   "charge_break_preference_least_time": "Nopein saapuminen",
   "charge_break_preference_shorter_legs": "Lyhyemmät etapit",
-  "preferred_minimum_nbr_charger_stalls_title": "Vähiten latauspysähdyksiä",
+  "preferred_minimum_nbr_charger_stalls_title": "Latauspisteitä vähintään",
   "preferred_minimum_nbr_charger_stalls_description": "Latauslaitteiden suositeltu vähimmäismäärä latauspaikoissa",
   "nearby_chargers": "Laturit lähistöllä",
   "month_names": [
