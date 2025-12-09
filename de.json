@@ -2527,7 +2527,6 @@
   "estimated_consumption": "Est. consumption",
   "energy": "Energy",
   "cost": "Cost",
-  "use_live_soc": "Live SoC verwenden",
   "consumption": "Consumption",
   "charge_stop_optimal": "Optimal",
   "charge_stop_fewer": "Fewer",
@@ -2556,9 +2555,12 @@
   "energy_per_distance": "Energy per distance",
   "distance_per_energy": "Distance per energy",
   "no_results_found": "No results found for \"{{search}}\"",
-  "last_seen_time_ago": "Last seen {{time}} ago",
   "count_models": "{{count}} models",
   "locale": "Locale",
   "manage_live_data": "Manage your live data connections effortlessly! Link or unlink sources in real-time for instant data access and control.",
-  "privacy": "Privacy"
+  "privacy": "Privacy",
+  "use_live_soc": "Live SoC verwenden",
+  "last_seen_time_ago": "Zuletzt gesehen vor {{time}}",
+  "last_seen_time_ago_short": "Vor {{time}}",
+  "your_plan": "Your plan"
 }

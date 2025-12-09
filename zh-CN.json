@@ -2555,5 +2555,7 @@
   "count_models": "{{count}} models",
   "locale": "Locale",
   "manage_live_data": "Manage your live data connections effortlessly! Link or unlink sources in real-time for instant data access and control.",
-  "privacy": "Privacy"
+  "privacy": "Privacy",
+  "last_seen_time_ago_short": "{{time}} ago",
+  "your_plan": "Your plan"
 }
