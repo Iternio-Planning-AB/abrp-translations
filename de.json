@@ -2316,7 +2316,7 @@
   "disable_battery_optimization": "Bitte schalte die Akkuoptimierung auf deinem Telefon aus. Dies ist erforderlich, um auf einigen Handys Positionsaktualisierungen zu erhalten.",
   "allow_location_permission": "Bitte erlaube den Zugriff auf Standort- und Fahrzeugdaten auf dem Telefon. Stelle sicher, dass dein Auto geparkt ist.",
   "nearby_chargers_no_charger_zoom_out_for_wider_search": "Keine Ladestationen gefunden. Versuche, die Karte zu verkleinern oder zu verschieben, um die Suche zu erweitern.",
-  "obd_error_no_soc": "Wir konnten aden SoC in der Fahrzeugdaten Antwort nicht finden.",
+  "obd_error_no_soc": "Wir konnten den SoC in der Fahrzeugdaten Antwort nicht finden.",
   "obd_error_init_commands": "Fehler bei der Behandlung von OBD-Init-Befehlen",
   "obd_error_data_commands": "Fehler bei der Behandlung von OBD-Datenbefehlen",
   "obd_pid_editor_no_dongle_linked": "Kein OBD-Dongle verbunden",
@@ -2362,7 +2362,7 @@
   "planning_feature_9": "Berechnung der Batterietemperatur",
   "planning_feature_10": "Auswahl der Stopps auf Grundlage deiner Ladekurve",
   "planning_feature_11": "Berücksichtigung der Wetterbedingungen",
-  "planning_feature_12": "Vergleich der Zuveörlässigkeit von Ladestationen",
+  "planning_feature_12": "Vergleich der Zuverlässigkeit von Ladestationen",
   "planning_feature_13": "Berechnung der Heiz- und Kühlleistung",
   "planning_feature_14": "Anwendung deines persönlichen Verbrauchsprofils",
   "planning_feature_15": "Vermeidung unzuverlässiger Ladestationen",
@@ -2393,7 +2393,7 @@
   "qr_login_android_auto_additional_text": "Du findest es in deinem Benutzerprofil im Einstellungsmenü.",
   "automotive_tlm_permission_title": "Android Automotive Telemetrie",
   "eta_widget_info": "Info zur Reiseschätzung",
-  "tesla_fleet_streaming_toggle": "Tesla-Fahrzeugee können Daten an ABRP streamen, wenn das Fahrzeug aktiv ist. Um diese Funktion zu aktivieren, musst du in deinem Tesla unter Einstellungen->Sicherheit das Streaming durch Dritte zulassen.",
+  "tesla_fleet_streaming_toggle": "Tesla-Fahrzeuge können Daten an ABRP streamen, wenn das Fahrzeug aktiv ist. Um diese Funktion zu aktivieren, musst du in deinem Tesla unter Einstellungen->Sicherheit das Streaming durch Dritte zulassen.",
   "photo_example_good": "Gut",
   "photo_example_bad": "Schlecht",
   "photo_example_good_description": "Die Ladestationen und die Umgebung einbeziehen",
@@ -2415,5 +2415,5 @@
   "arriving_at_xx": "Ankunft bei {{destinationName}}",
   "arriving_at_charger": "Ankunft bei Ladestation",
   "searching_charger_alternatives": "Suche nach alternativen Ladestationen...",
-  "search_this_area": "Diesen Bereich durch1suchen"
+  "search_this_area": "Diesen Bereich durchsuchen"
 }
