@@ -411,7 +411,7 @@
   "3d_perspective": "3D-Perspektive",
   "alternatives": "Alternativen",
   "charger_departure_soc": "max. SoC beim Laden",
-  "charger_departure_soc_description": "Maximaler Batteriestand beim Laden an Ladepunkten",
+  "charger_departure_soc_description": "Erlaubter maximaler Batteriestand beim Laden",
   "incorrect_speed_limit_or_map_data": "Falsche Geschwindigkeitsbegrenzung oder Kartendaten?",
   "edit_on_open_street_map": "Auf Open Street Map bearbeiten",
   "copy": "kopieren",
