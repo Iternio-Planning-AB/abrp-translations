@@ -59,4 +59,15 @@ Provide concise, practical inline review comments on typos, incorrect translatio
 Follow the standard inline review JSON format defined in the system prompt.  
 Limit to **no more than 10 comments** total, each short and actionable, focusing on the highest priority issues only.  
 If no significant issues are found, return an empty array.  
-When suggesting corrections, provide the corrected translation text with proper formatting and preserved placeholders.
+
+**When suggesting corrections:**
+- Provide the **complete JSON line** including the key, colon, quotes, and comma (if present)
+- Preserve the **exact indentation** from the original line
+- Keep the **JSON key unchanged** - only modify the translation value
+- Ensure the suggestion is **ready to commit** without any additional formatting needed
+
+**Example of correct suggestion format:**
+```
+  "display_and_appearance": "Anzeige & Erscheinungsbild",
+```
+NOT just: `Anzeige & Erscheinungsbild`
