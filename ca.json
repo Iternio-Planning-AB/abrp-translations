@@ -2561,4 +2561,6 @@
   "locale": "Llengua",
   "manage_live_data": "Gestioneu les connexions de dades en temps real amb facilitat! Enllaceu o desenllaceu fonts al moment per a obtenir dades instantànies i control total.",
   "privacy": "Privadesa"
+  "last_seen_time_ago_short": "Des de {{time}}",
+  "your_plan": "El vostre pla"
 }
