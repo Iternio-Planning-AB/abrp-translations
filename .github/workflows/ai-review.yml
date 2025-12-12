@@ -1,11 +1,11 @@
 name: AI Review
 
 on:
-  push:
-    branches:
-      - main
-  pull_request_target:
-  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
+#  pull_request_target:
+#  workflow_dispatch:
 
 permissions:
   contents: read
