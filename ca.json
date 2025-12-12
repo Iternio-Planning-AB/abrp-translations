@@ -2416,7 +2416,7 @@
   "arriving_at_charger": "Arribada al carregador",
   "search_this_area": "Cerca en aquesta àrea",
   "searching_charger_alternatives": "S'estan cercant carregadors alternatius...",
-    "charge_stops": "Parades de recàrrega",
+  "charge_stops": "Parades de recàrrega",
   "charge_stops_description": "Menys parades incrementen el temps de recàrrega en cada parada.",
   "charge_stops_info_fewer": "Menys parades incrementen el temps de càrrega en cada parada.",
   "charge_stops_info_optimal": "L'opció òptima ofereix el millor equilibri entre una arribada ràpida i les vostre preferències.",
@@ -2562,5 +2562,8 @@
   "manage_live_data": "Gestioneu les connexions de dades en temps real amb facilitat! Enllaceu o desenllaceu fonts al moment per a obtenir dades instantànies i control total.",
   "privacy": "Privadesa",
   "last_seen_time_ago_short": "Des de {{time}}",
-  "your_plan": "El vostre pla"
+  "your_plan": "El vostre pla",
+  "app_update_beta": "This is a beta release",
+  "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
+  "app_update_read_about_beta": "Read more about beta releases"
 }

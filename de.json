@@ -2562,5 +2562,8 @@
   "use_live_soc": "Live SoC verwenden",
   "last_seen_time_ago": "Zuletzt gesehen vor {{time}}",
   "last_seen_time_ago_short": "Vor {{time}}",
-  "your_plan": "Dein Plan"
+  "your_plan": "Dein Plan",
+  "app_update_beta": "This is a beta release",
+  "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
+  "app_update_read_about_beta": "Read more about beta releases"
 }

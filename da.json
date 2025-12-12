@@ -2562,5 +2562,8 @@
   "manage_live_data": "Administrer dine live dataforbindelser ubesværet! Forbind eller fjern kilder i realtid for øjeblikkelig dataadgang og -kontrol.",
   "privacy": "Privatliv",
   "last_seen_time_ago_short": "{{time}} ago",
-  "your_plan": "Your plan"
+  "your_plan": "Your plan",
+  "app_update_beta": "This is a beta release",
+  "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
+  "app_update_read_about_beta": "Read more about beta releases"
 }

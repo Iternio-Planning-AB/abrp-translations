@@ -2557,5 +2557,8 @@
   "manage_live_data": "Manage your live data connections effortlessly! Link or unlink sources in real-time for instant data access and control.",
   "privacy": "Privacy",
   "last_seen_time_ago_short": "{{time}} ago",
-  "your_plan": "Your plan"
+  "your_plan": "Your plan",
+  "app_update_beta": "This is a beta release",
+  "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
+  "app_update_read_about_beta": "Read more about beta releases"
 }

@@ -2562,5 +2562,8 @@
   "manage_live_data": "Snadno spravujte svá živá datová připojení! Propojujte nebo odpojujte zdroje v reálném čase pro získání okamžitého přístupu k datům a ovládání.",
   "privacy": "Ochrana osobních údajů",
   "last_seen_time_ago_short": "Před {{time}}",
-  "your_plan": "Váš plán"
+  "your_plan": "Váš plán",
+  "app_update_beta": "This is a beta release",
+  "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
+  "app_update_read_about_beta": "Read more about beta releases"
 }

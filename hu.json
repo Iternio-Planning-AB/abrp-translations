@@ -2562,5 +2562,8 @@
   "manage_live_data": "Kezeld az élő adatkapcsolatodat könnyedén! Élőben kapcsolj be és ki adatforrásokat az azonnali adateléréshez és vezérléshez.",
   "privacy": "Adatvédelem",
   "last_seen_time_ago_short": "Ennyivel ezelőtt: {{time}}",
-  "your_plan": "Útiterved"
+  "your_plan": "Útiterved",
+  "app_update_beta": "This is a beta release",
+  "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
+  "app_update_read_about_beta": "Read more about beta releases"
 }
