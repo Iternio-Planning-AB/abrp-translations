@@ -2560,5 +2560,7 @@
   "count_models": "{{count}} modeller",
   "locale": "Lokale",
   "manage_live_data": "Administrer dine live dataforbindelser ubesværet! Forbind eller fjern kilder i realtid for øjeblikkelig dataadgang og -kontrol.",
-  "privacy": "Privatliv"
+  "privacy": "Privatliv",
+  "last_seen_time_ago_short": "{{time}} ago",
+  "your_plan": "Your plan"
 }
