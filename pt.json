@@ -2459,7 +2459,6 @@
   "obdble_connection_failed_title": "Falha na ligação OBD",
   "obdble_connection_failed_checklist": "Verifique o seguinte:\n\n• O dongle OBD está corretamente ligado à porta OBD do carro?\n• O carro está ligado ou em modo acessório?\n• O dongle OBD está ligado a outra aplicação? Se sim, desligue-o primeiro.\n• Tente remover o dongle e voltar a inseri-lo.\n• Certifique-se de que o Bluetooth está ativado no seu dispositivo.\n• Tente reiniciar o Bluetooth do seu dispositivo.\n\nSe o problema persistir, reporte um erro.",
   "driving_profile": "Perfil de condução",
-  "sync": "Sincronizar",
   "checking_network": "A verificar ligação à internet",
   "profile_edit_full_name_description": "O seu nome só é visível para si.",
   "profile_edit_email_description": "Só o utilizaremos para enviar atualizações importantes e recibos.",
