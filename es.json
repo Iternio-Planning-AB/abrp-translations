@@ -2392,7 +2392,7 @@
   "sign_in_with_abrp_credentials": "Iniciar sesión con tus credenciales de ABRP",
   "qr_login_android_auto_additional_text": "Puedes encontrarlo en tu perfil de usuario en el menú de configuración",
   "automotive_tlm_permission_title": "Android Automotive Telemetry",
-    "eta_widget_info": "Información de estimaciones de viaje",
+  "eta_widget_info": "Información de estimaciones de viaje",
   "tesla_fleet_streaming_toggle": "Los vehículos Tesla pueden transmitir datos a ABRP cuando el vehículo está activo. Para habilitarlo, debes permitir la transmisión de terceros en tu Tesla en Configuración > Seguridad.",
   "photo_example_good": "Buena",
   "photo_example_bad": "Mala",
