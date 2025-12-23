@@ -2559,5 +2559,15 @@
   "your_plan": "Your plan",
   "app_update_beta": "This is a beta release",
   "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
-  "app_update_read_about_beta": "Read more about beta releases"
+  "app_update_read_about_beta": "Read more about beta releases",
+  "parameter_error_current_soc_description": "The current state of charge (SoC) value is invalid. Please check your vehicle settings or live data connection.",
+  "parameter_error_reference_consumption_description": "The reference consumption value is invalid. Please check your vehicle settings or reset it to the default value.",
+  "stops_one": "1 stop",
+  "stops_other": "{{count}} stops",
+  "tolls_one": "1 toll",
+  "tolls_other": "{{count}} tolls",
+  "exclude_charger": "Exclude charger",
+  "excluded_chargers": "Excluded chargers",
+  "prefer_network": "Prefer network",
+  "avoid_network": "Avoid network"
 }
