@@ -2562,7 +2562,7 @@
   "manage_live_data": "Управляйте подключениями данных в реальном времени легко! Подключайте или отключайте источники мгновенно.",
   "privacy": "Конфиденциальность",
   "last_seen_time_ago_short": "{{time}} назад",
-  "your_plan": "Ваш план"
+  "your_plan": "Ваш план",
   "app_update_beta": "This is a beta release",
   "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
   "app_update_read_about_beta": "Read more about beta releases",
