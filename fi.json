@@ -2559,7 +2559,7 @@
   "your_plan": "Suunnitelmasi",
   "app_update_beta": "Tämä on betaversio",
   "app_update_beta_description": "ABRP:n beta-versiot julkaistaan vapaaehtoisille tavallista aiemmin – auta meitä parantamaan sovellusta ilmoittamalla havaitsemistasi ongelmista.",
-  "app_update_read_about_beta": "Lue lisää betaversioista"
+  "app_update_read_about_beta": "Lue lisää betaversioista",
   "parameter_error_current_soc_description": "The current state of charge (SoC) value is invalid. Please check your vehicle settings or live data connection.",
   "parameter_error_reference_consumption_description": "The reference consumption value is invalid. Please check your vehicle settings or reset it to the default value.",
   "stops_one": "1 stop",
