@@ -2555,9 +2555,19 @@
   "locale": "Paramètres régionaux",
   "manage_live_data": "Gérez vos connexions de données en direct sans effort ! Liez ou dissociez des sources en temps réel pour un accès et un contrôle instantanés des données.",
   "privacy": "Confidentialité",
-  "last_seen_time_ago_short": "l y a {{time}}",
+  "last_seen_time_ago_short": "il y a {{time}}",
   "your_plan": "votre trajet",
-  "app_update_beta": "This is a beta release",
-  "app_update_beta_description": "Beta releases of ABRP are made available earlier to volunteers - please help us improve the app by reporting issues.",
-  "app_update_read_about_beta": "Read more about beta releases"
+  "app_update_beta": "Ceci est une version bêta",
+  "app_update_beta_description": "Les versions bêta d'ABRP sont mises à la disposition des bénévoles en avant-première. Aidez-nous à améliorer l'application en signalant les problèmes.",
+  "app_update_read_about_beta": "En savoir plus sur les versions bêta",
+  "parameter_error_current_soc_description": "The current state of charge (SoC) value is invalid. Please check your vehicle settings or live data connection.",
+  "parameter_error_reference_consumption_description": "The reference consumption value is invalid. Please check your vehicle settings or reset it to the default value.",
+  "stops_one": "1 stop",
+  "stops_other": "{{count}} stops",
+  "tolls_one": "1 toll",
+  "tolls_other": "{{count}} tolls",
+  "exclude_charger": "Exclude charger",
+  "excluded_chargers": "Excluded chargers",
+  "prefer_network": "Prefer network",
+  "avoid_network": "Avoid network"
 }
