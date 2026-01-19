@@ -2609,7 +2609,7 @@
   "temperature_out_of_range": "Teplota je mimo akceptovatelný rozsah",
   "sharing_location": "Sdílení polohy",
   "disabled_animations_title": "Zakázané animace",
-  "disabled_animations_description": "Zjistili jsme, že jsou ve Vašem zařízení deaktivovány animace, což způsobuje několik problémů, jako je náhlý skokový pohyb mapy a matoucí uživatelské rozhraní. Pro nejlepší zážitek znovu povolte animace v nastavení systému Android nebo nastavte "Měřítko trvání animace" na 1.0x v možnostech pro vývojáře.",
+  "disabled_animations_description": "Zjistili jsme, že jsou ve Vašem zařízení deaktivovány animace, což způsobuje několik problémů, jako je náhlý skokový pohyb mapy a matoucí uživatelské rozhraní. Pro nejlepší zážitek znovu povolte animace v nastavení systému Android nebo nastavte \"Měřítko trvání animace\" na 1.0x v možnostech pro vývojáře.",
   "disabled_animations_description_aa": "Zjistili jsme, že jsou ve Vašem zařízení deaktivovány animace, zkontrolujte nastavení aplikace.",
   "go_to_accessibility_settings": "Otevřít nastavení přístupnosti",
   "go_to_developer_settings": "Otevřít možnosti pro vývojáře"
