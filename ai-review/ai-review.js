@@ -54,6 +54,15 @@ const SYSTEM_PROMPT = {
 Your task is to review translation changes and provide feedback in a specific JSON format. Always respond with valid JSON only - no markdown, no explanations outside the JSON.`,
 };
 
+// Static intro message prefixed to the AI summary (not processed by AI)
+const INTRO_MESSAGE = `👋 Thank you for contributing translations to ABRP!
+
+🤖 **This is an automated AI review** to help catch potential translation issues. This feature is new, so please let us know if the AI suggests anything that seems incorrect or unhelpful.
+
+---
+
+`;
+
 const getUserPrompt = (title, description, changedTranslations) => {
   return {
     role: 'user',
@@ -411,12 +420,12 @@ const getReviewAndSendToGitHub = async () => {
           }
         }
 
-        // Create summary comment
+        // Create summary comment with intro message
         await octokit.issues.createComment({
           owner,
           repo,
           issue_number: PR_NUMBER,
-          body: review.summary,
+          body: INTRO_MESSAGE + review.summary,
         });
       } catch (error) {
         console.error('failed to create comment', error);
