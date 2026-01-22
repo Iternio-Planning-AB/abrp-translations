@@ -1,1 +1,35 @@
+name: AI Code Review
 
+on:
+    pull_request:
+        types: [opened, synchronize, reopened, ready_for_review]
+
+jobs:
+    review:
+        runs-on: ubuntu-latest
+        # Skip draft PRs unless they're being marked as ready
+        if: github.event.pull_request.draft == false || github.event.action == 'ready_for_review'
+        permissions:
+            contents: read
+            pull-requests: write
+            issues: write
+        steps:
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "20"
+
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Install dependencies
+              run: cd ai-review && npm install
+
+            - name: Run AI Code Review
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  AZURE_OPEN_AI_SECRET: ${{ secrets.OPENAI_API_KEY }}
+                  AZURE_OPEN_AI_URL: ${{ secrets.AZURE_OPEN_AI_URL }}
+                  AZURE_OPEN_AI_DEPLOYMENT: ${{ secrets.AZURE_OPEN_AI_DEPLOYMENT }}
+                  PR_NUMBER: ${{ github.event.number }}
+              run: node ai-review/ai-review.js
