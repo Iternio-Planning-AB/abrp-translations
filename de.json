@@ -2596,7 +2596,7 @@
   "vehicle_selector_plug_default_tooltip": "This is the default connector for your vehicle.",
   "vehicle_selector_plug_adapter_tooltip": "Enable this if you have an adapter for this connector type.",
   "vehicle_selector_rim_size_description": "Select the rim size of your vehicle.",
-  "toll": "Toll",
+  "toll": "Maut",
   "invalid_consumption": "Please enter a valid consumption value",
   "consumption_out_of_range": "Consumption value is out of acceptable range",
   "invalid_speed": "Please enter a valid speed",
