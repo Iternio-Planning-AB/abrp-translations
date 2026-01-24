@@ -436,20 +436,40 @@ const getReviewAndSendToGitHub = async () => {
 
         // Create a single review with all comments
         // This sends only one email notification instead of one per comment
-        await octokit.pulls.createReview({
+        // Note: GitHub API allows creating a review with an empty comments array (just body)
+        const reviewParams = {
           owner,
           repo,
           pull_number: PR_NUMBER,
           commit_id: pr.head.sha,
           event: 'COMMENT', // Review type: COMMENT (not APPROVE or REQUEST_CHANGES)
           body: reviewBody,
-          comments: reviewComments, // All inline comments included in the review
-        });
+        };
 
-        console.log(`Created review with ${reviewComments.length} inline comments and ${generalComments.length} general comments`);
+        // Only include comments array if there are inline comments
+        // GitHub API requires comments to be an array when provided
+        if (reviewComments.length > 0) {
+          reviewParams.comments = reviewComments;
+        }
+
+        console.log(`Creating review with ${reviewComments.length} inline comments and ${generalComments.length} general comments`);
+        console.log('Review params:', JSON.stringify({
+          ...reviewParams,
+          comments: reviewComments.length > 0 ? `${reviewComments.length} comments` : 'none',
+          body: reviewBody.substring(0, 100) + '...',
+        }, null, 2));
+        
+        const reviewResponse = await octokit.pulls.createReview(reviewParams);
+        console.log(`Successfully created review ${reviewResponse.data.id} with ${reviewComments.length} inline comments`);
+        console.log('Review URL:', reviewResponse.data.html_url);
       } catch (error) {
-        console.error('failed to create review', error);
+        console.error('Failed to create review:', error);
+        if (error.response) {
+          console.error('Error response status:', error.response.status);
+          console.error('Error response data:', JSON.stringify(error.response.data, null, 2));
+        }
         core.setFailed(`Failed to create review: ${error.message}`);
+        throw error; // Re-throw to prevent fallback behavior
       }
     })
     .catch((error) => {
