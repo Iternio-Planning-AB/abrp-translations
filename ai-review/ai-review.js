@@ -5,7 +5,6 @@ const {
   ignoredRegex,
   filterDiffByIgnoredFiles,
   getLineNumber,
-  getNestedValue,
   parseTranslationChangesFromDiff,
 } = require('./utils');
 
@@ -426,7 +425,7 @@ const getReviewAndSendToGitHub = async () => {
 
         // Build review body with summary and general comments
         let reviewBody = INTRO_MESSAGE + review.summary;
-        
+
         if (generalComments.length > 0) {
           reviewBody += '\n\n## General Comments\n\n';
           generalComments.forEach(({ filePath, comment }) => {
@@ -437,7 +436,7 @@ const getReviewAndSendToGitHub = async () => {
         // Step 1: Create review with PENDING state (omit event parameter)
         // This creates the review with all comments but doesn't send notifications yet
         console.log(`Step 1: Creating pending review with ${reviewComments.length} inline comments`);
-        
+
         const pendingReviewParams = {
           owner,
           repo,
