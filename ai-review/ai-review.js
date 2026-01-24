@@ -5,7 +5,6 @@ const {
   ignoredRegex,
   filterDiffByIgnoredFiles,
   getLineNumber,
-  getNestedValue,
   parseTranslationChangesFromDiff,
 } = require('./utils');
 
@@ -364,72 +363,82 @@ const getReviewAndSendToGitHub = async () => {
       // Delete previous comments by the bot
       await deleteCommentsByUser('github-actions[bot]');
 
-      console.log('Creating comments...');
+      console.log('Creating review using two-step approach...');
 
       try {
-        if (review.issues?.length) {
-          // Group comments by file for batch processing
-          const commentsByFile = {};
-          review.issues.forEach(({ filePath, lineNumber, comment }) => {
-            if (!commentsByFile[filePath]) {
-              commentsByFile[filePath] = [];
-            }
-            commentsByFile[filePath].push({ lineNumber, comment });
-          });
+        // Prepare inline comments for the review
+        const reviewComments = [];
+        const generalComments = [];
 
-          // Create inline comments for each file
-          for (const [filePath, comments] of Object.entries(commentsByFile)) {
-            for (const { lineNumber, comment } of comments) {
-              if (lineNumber === -1) {
-                // Create a general comment on the PR
-                await octokit.issues.createComment({
-                  owner,
-                  repo,
-                  issue_number: PR_NUMBER,
-                  body: comment,
-                });
-              } else {
-                // Create an inline review comment
-                // GitHub requires side: 'RIGHT' for comments on the PR branch
-                try {
-                  await octokit.pulls.createReviewComment({
-                    owner,
-                    repo,
-                    pull_number: PR_NUMBER,
-                    body: comment,
-                    commit_id: pr.head.sha,
-                    path: filePath,
-                    line: lineNumber,
-                    side: 'RIGHT',
-                  });
-                } catch (error) {
-                  console.error(
-                    `Failed to create inline comment for ${filePath}:${lineNumber}`,
-                    error
-                  );
-                  // Fallback to general comment if inline fails
-                  await octokit.issues.createComment({
-                    owner,
-                    repo,
-                    issue_number: PR_NUMBER,
-                    body: `${filePath}:${lineNumber}\n\n${comment}`,
-                  });
-                }
-              }
+        if (review.issues?.length) {
+          review.issues.forEach(({ filePath, lineNumber, comment }) => {
+            if (lineNumber === -1) {
+              // Collect general comments (line not found)
+              generalComments.push({ filePath, comment });
+            } else {
+              // Collect inline comments
+              reviewComments.push({
+                path: filePath,
+                line: lineNumber,
+                side: 'RIGHT',
+                body: comment,
+              });
             }
-          }
+          });
         }
 
-        // Create summary comment with intro message
-        await octokit.issues.createComment({
+        // Build review body with summary and general comments
+        let reviewBody = INTRO_MESSAGE + review.summary;
+
+        if (generalComments.length > 0) {
+          reviewBody += '\n\n## General Comments\n\n';
+          generalComments.forEach(({ filePath, comment }) => {
+            reviewBody += `**${filePath}:**\n${comment}\n\n`;
+          });
+        }
+
+        // Step 1: Create review with PENDING state (omit event parameter)
+        // This creates the review with all comments but doesn't send notifications yet
+        console.log(`Step 1: Creating pending review with ${reviewComments.length} inline comments`);
+
+        const pendingReviewParams = {
           owner,
           repo,
-          issue_number: PR_NUMBER,
-          body: INTRO_MESSAGE + review.summary,
+          pull_number: PR_NUMBER,
+          commit_id: pr.head.sha,
+          body: reviewBody,
+          // Omit 'event' parameter to create a PENDING review
+          // This doesn't send email notifications
+        };
+
+        // Include comments if we have any
+        if (reviewComments.length > 0) {
+          pendingReviewParams.comments = reviewComments;
+        }
+
+        const pendingReview = await octokit.pulls.createReview(pendingReviewParams);
+        const reviewId = pendingReview.data.id;
+        console.log(`Created pending review ${reviewId} (no notifications sent yet)`);
+
+        // Step 2: Submit the pending review with COMMENT event
+        // This should only send ONE email notification for the review submission
+        console.log(`Step 2: Submitting review ${reviewId} with COMMENT event`);
+        await octokit.pulls.submitReview({
+          owner,
+          repo,
+          pull_number: PR_NUMBER,
+          review_id: reviewId,
+          event: 'COMMENT',
         });
+        console.log(`Successfully submitted review ${reviewId} with COMMENT event - should only send one notification`);
       } catch (error) {
-        console.error('failed to create comment', error);
-        core.setFailed(`Failed to create comments: ${error.message}`);
+        console.error('Failed to create review:', error);
+        if (error.response) {
+          console.error('Error response status:', error.response.status);
+          console.error('Error response data:', JSON.stringify(error.response.data, null, 2));
+        }
+        core.setFailed(`Failed to create review: ${error.message}`);
+        throw error;
       }
     })
     .catch((error) => {
