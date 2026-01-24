@@ -328,40 +328,8 @@ const deleteCommentsByUser = async (username) => {
   }
 };
 
-const dismissReviewsByUser = async (username) => {
-  try {
-    // List all reviews on the pull request
-    const reviewsResponse = await octokit.pulls.listReviews({
-      owner,
-      repo,
-      pull_number: PR_NUMBER,
-    });
-
-    const reviews = reviewsResponse.data || [];
-
-    // Filter reviews by the specific user
-    const userReviews = reviews.filter((review) => review.user.login === username);
-
-    // Dismiss each review made by that user
-    await Promise.allSettled(
-      userReviews.map((review) =>
-        octokit.pulls.dismissReview({
-          owner,
-          repo,
-          pull_number: PR_NUMBER,
-          review_id: review.id,
-          message: 'Superseded by new review',
-        })
-      )
-    );
-
-    if (userReviews.length > 0) {
-      console.log(`Dismissed ${userReviews.length} reviews by user ${username}`);
-    }
-  } catch (error) {
-    console.error('Failed to dismiss reviews by user', error);
-  }
-};
+// Note: We don't delete old check runs - GitHub will automatically show the latest one
+// Creating a new check run with the same name will effectively replace it
 
 const getReviewAndSendToGitHub = async () => {
   return requestReview()
@@ -396,15 +364,16 @@ const getReviewAndSendToGitHub = async () => {
         }
       });
 
-      // Delete previous comments and dismiss previous reviews by the bot
+      // Delete previous comments by the bot (cleanup)
       await deleteCommentsByUser('github-actions[bot]');
-      await dismissReviewsByUser('github-actions[bot]');
 
-      console.log('Creating review...');
+      const CHECK_NAME = 'AI Translation Review';
+
+      console.log('Creating check run...');
 
       try {
-        // Prepare inline comments for the review
-        const reviewComments = [];
+        // Prepare annotations for the check run
+        const annotations = [];
         const generalComments = [];
 
         if (review.issues?.length) {
@@ -413,63 +382,80 @@ const getReviewAndSendToGitHub = async () => {
               // Collect general comments (line not found)
               generalComments.push({ filePath, comment });
             } else {
-              // Collect inline comments
-              reviewComments.push({
-                path: filePath,
-                line: lineNumber,
-                side: 'RIGHT',
-                body: comment,
-              });
+              // Convert to check run annotations
+              // GitHub Checks API limits annotations to 50 per request
+              if (annotations.length < 50) {
+                annotations.push({
+                  path: filePath,
+                  start_line: lineNumber,
+                  end_line: lineNumber,
+                  annotation_level: 'warning', // 'notice', 'warning', or 'failure'
+                  message: comment,
+                  title: `Translation issue in ${filePath}`,
+                });
+              } else {
+                // If we exceed 50 annotations, add to general comments
+                generalComments.push({ filePath, comment: `${filePath}:${lineNumber} - ${comment}` });
+              }
             }
           });
         }
 
-        // Build review body with summary and general comments
-        let reviewBody = INTRO_MESSAGE + review.summary;
+        // Build check output summary
+        let summary = INTRO_MESSAGE + review.summary;
         
         if (generalComments.length > 0) {
-          reviewBody += '\n\n## General Comments\n\n';
+          summary += '\n\n## General Comments\n\n';
           generalComments.forEach(({ filePath, comment }) => {
-            reviewBody += `**${filePath}:**\n${comment}\n\n`;
+            summary += `**${filePath}:**\n${comment}\n\n`;
           });
         }
 
-        // Create a single review with all comments
-        // This sends only one email notification instead of one per comment
-        // Note: GitHub API allows creating a review with an empty comments array (just body)
-        const reviewParams = {
-          owner,
-          repo,
-          pull_number: PR_NUMBER,
-          commit_id: pr.head.sha,
-          event: 'COMMENT', // Review type: COMMENT (not APPROVE or REQUEST_CHANGES)
-          body: reviewBody,
-        };
-
-        // Only include comments array if there are inline comments
-        // GitHub API requires comments to be an array when provided
-        if (reviewComments.length > 0) {
-          reviewParams.comments = reviewComments;
+        if (annotations.length >= 50) {
+          summary += `\n\n⚠️ Note: Found ${review.issues.length} issues total. Showing first 50 as annotations. See details above.`;
         }
 
-        console.log(`Creating review with ${reviewComments.length} inline comments and ${generalComments.length} general comments`);
-        console.log('Review params:', JSON.stringify({
-          ...reviewParams,
-          comments: reviewComments.length > 0 ? `${reviewComments.length} comments` : 'none',
-          body: reviewBody.substring(0, 100) + '...',
-        }, null, 2));
+        // Determine check conclusion based on issues found
+        const conclusion = review.issues?.length > 0 ? 'action_required' : 'success';
+        const status = 'completed';
+
+        // Create check run
+        // GitHub Checks API doesn't send email notifications
+        const checkRunOutput = {
+          title: review.issues?.length > 0 
+            ? `Found ${review.issues.length} translation issue${review.issues.length > 1 ? 's' : ''}`
+            : 'No translation issues found',
+          summary,
+        };
+
+        // Only include annotations if we have any (GitHub API requirement)
+        if (annotations.length > 0) {
+          checkRunOutput.annotations = annotations;
+        }
+
+        const checkRunParams = {
+          owner,
+          repo,
+          name: CHECK_NAME,
+          head_sha: pr.head.sha,
+          status,
+          conclusion,
+          output: checkRunOutput,
+        };
+
+        console.log(`Creating check run with ${annotations.length} annotations and ${generalComments.length} general comments`);
         
-        const reviewResponse = await octokit.pulls.createReview(reviewParams);
-        console.log(`Successfully created review ${reviewResponse.data.id} with ${reviewComments.length} inline comments`);
-        console.log('Review URL:', reviewResponse.data.html_url);
+        const checkRunResponse = await octokit.checks.create(checkRunParams);
+        console.log(`Successfully created check run ${checkRunResponse.data.id}`);
+        console.log('Check run URL:', checkRunResponse.data.html_url);
       } catch (error) {
-        console.error('Failed to create review:', error);
+        console.error('Failed to create check run:', error);
         if (error.response) {
           console.error('Error response status:', error.response.status);
           console.error('Error response data:', JSON.stringify(error.response.data, null, 2));
         }
-        core.setFailed(`Failed to create review: ${error.message}`);
-        throw error; // Re-throw to prevent fallback behavior
+        core.setFailed(`Failed to create check run: ${error.message}`);
+        throw error;
       }
     })
     .catch((error) => {
