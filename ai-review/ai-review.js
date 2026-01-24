@@ -328,6 +328,41 @@ const deleteCommentsByUser = async (username) => {
   }
 };
 
+const dismissReviewsByUser = async (username) => {
+  try {
+    // List all reviews on the pull request
+    const reviewsResponse = await octokit.pulls.listReviews({
+      owner,
+      repo,
+      pull_number: PR_NUMBER,
+    });
+
+    const reviews = reviewsResponse.data || [];
+
+    // Filter reviews by the specific user
+    const userReviews = reviews.filter((review) => review.user.login === username);
+
+    // Dismiss each review made by that user
+    await Promise.allSettled(
+      userReviews.map((review) =>
+        octokit.pulls.dismissReview({
+          owner,
+          repo,
+          pull_number: PR_NUMBER,
+          review_id: review.id,
+          message: 'Superseded by new review',
+        })
+      )
+    );
+
+    if (userReviews.length > 0) {
+      console.log(`Dismissed ${userReviews.length} reviews by user ${username}`);
+    }
+  } catch (error) {
+    console.error('Failed to dismiss reviews by user', error);
+  }
+};
+
 const getReviewAndSendToGitHub = async () => {
   return requestReview()
     .then(async ({ review, fileContents }) => {
@@ -361,75 +396,60 @@ const getReviewAndSendToGitHub = async () => {
         }
       });
 
-      // Delete previous comments by the bot
+      // Delete previous comments and dismiss previous reviews by the bot
       await deleteCommentsByUser('github-actions[bot]');
+      await dismissReviewsByUser('github-actions[bot]');
 
-      console.log('Creating comments...');
+      console.log('Creating review...');
 
       try {
-        if (review.issues?.length) {
-          // Group comments by file for batch processing
-          const commentsByFile = {};
-          review.issues.forEach(({ filePath, lineNumber, comment }) => {
-            if (!commentsByFile[filePath]) {
-              commentsByFile[filePath] = [];
-            }
-            commentsByFile[filePath].push({ lineNumber, comment });
-          });
+        // Prepare inline comments for the review
+        const reviewComments = [];
+        const generalComments = [];
 
-          // Create inline comments for each file
-          for (const [filePath, comments] of Object.entries(commentsByFile)) {
-            for (const { lineNumber, comment } of comments) {
-              if (lineNumber === -1) {
-                // Create a general comment on the PR
-                await octokit.issues.createComment({
-                  owner,
-                  repo,
-                  issue_number: PR_NUMBER,
-                  body: comment,
-                });
-              } else {
-                // Create an inline review comment
-                // GitHub requires side: 'RIGHT' for comments on the PR branch
-                try {
-                  await octokit.pulls.createReviewComment({
-                    owner,
-                    repo,
-                    pull_number: PR_NUMBER,
-                    body: comment,
-                    commit_id: pr.head.sha,
-                    path: filePath,
-                    line: lineNumber,
-                    side: 'RIGHT',
-                  });
-                } catch (error) {
-                  console.error(
-                    `Failed to create inline comment for ${filePath}:${lineNumber}`,
-                    error
-                  );
-                  // Fallback to general comment if inline fails
-                  await octokit.issues.createComment({
-                    owner,
-                    repo,
-                    issue_number: PR_NUMBER,
-                    body: `${filePath}:${lineNumber}\n\n${comment}`,
-                  });
-                }
-              }
+        if (review.issues?.length) {
+          review.issues.forEach(({ filePath, lineNumber, comment }) => {
+            if (lineNumber === -1) {
+              // Collect general comments (line not found)
+              generalComments.push({ filePath, comment });
+            } else {
+              // Collect inline comments
+              reviewComments.push({
+                path: filePath,
+                line: lineNumber,
+                side: 'RIGHT',
+                body: comment,
+              });
             }
-          }
+          });
         }
 
-        // Create summary comment with intro message
-        await octokit.issues.createComment({
+        // Build review body with summary and general comments
+        let reviewBody = INTRO_MESSAGE + review.summary;
+        
+        if (generalComments.length > 0) {
+          reviewBody += '\n\n## General Comments\n\n';
+          generalComments.forEach(({ filePath, comment }) => {
+            reviewBody += `**${filePath}:**\n${comment}\n\n`;
+          });
+        }
+
+        // Create a single review with all comments
+        // This sends only one email notification instead of one per comment
+        await octokit.pulls.createReview({
           owner,
           repo,
-          issue_number: PR_NUMBER,
-          body: INTRO_MESSAGE + review.summary,
+          pull_number: PR_NUMBER,
+          commit_id: pr.head.sha,
+          event: 'COMMENT', // Review type: COMMENT (not APPROVE or REQUEST_CHANGES)
+          body: reviewBody,
+          comments: reviewComments, // All inline comments included in the review
         });
+
+        console.log(`Created review with ${reviewComments.length} inline comments and ${generalComments.length} general comments`);
       } catch (error) {
-        console.error('failed to create comment', error);
-        core.setFailed(`Failed to create comments: ${error.message}`);
+        console.error('failed to create review', error);
+        core.setFailed(`Failed to create review: ${error.message}`);
       }
     })
     .catch((error) => {
