@@ -373,6 +373,8 @@ const getReviewAndSendToGitHub = async () => {
 
       try {
         // Prepare annotations for the check run
+        // Check Run annotations created via checks.create with output.annotations
+        // do NOT send email notifications per annotation (they're safe!)
         const annotations = [];
         const generalComments = [];
 
@@ -419,8 +421,9 @@ const getReviewAndSendToGitHub = async () => {
         const conclusion = review.issues?.length > 0 ? 'action_required' : 'success';
         const status = 'completed';
 
-        // Create check run
-        // GitHub Checks API doesn't send email notifications
+        // Create check run with annotations
+        // Check Run annotations via checks.create with output.annotations field
+        // are safe and do NOT send email notifications per annotation
         const checkRunOutput = {
           title: review.issues?.length > 0 
             ? `Found ${review.issues.length} translation issue${review.issues.length > 1 ? 's' : ''}`
@@ -428,7 +431,8 @@ const getReviewAndSendToGitHub = async () => {
           summary,
         };
 
-        // Only include annotations if we have any (GitHub API requirement)
+        // Include annotations in output.annotations field
+        // These are Check Run annotations (not comments) and won't trigger emails
         if (annotations.length > 0) {
           checkRunOutput.annotations = annotations;
         }
@@ -444,6 +448,7 @@ const getReviewAndSendToGitHub = async () => {
         };
 
         console.log(`Creating check run with ${annotations.length} annotations and ${generalComments.length} general comments`);
+        console.log('Using checks.create with output.annotations - these are safe and do NOT send emails per annotation');
         
         const checkRunResponse = await octokit.checks.create(checkRunParams);
         console.log(`Successfully created check run ${checkRunResponse.data.id}`);
