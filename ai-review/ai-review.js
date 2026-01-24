@@ -327,41 +327,6 @@ const deleteCommentsByUser = async (username) => {
   }
 };
 
-const dismissReviewsByUser = async (username) => {
-  try {
-    // List all reviews on the pull request
-    const reviewsResponse = await octokit.pulls.listReviews({
-      owner,
-      repo,
-      pull_number: PR_NUMBER,
-    });
-
-    const reviews = reviewsResponse.data || [];
-
-    // Filter reviews by the specific user
-    const userReviews = reviews.filter((review) => review.user.login === username);
-
-    // Dismiss each review made by that user
-    await Promise.allSettled(
-      userReviews.map((review) =>
-        octokit.pulls.dismissReview({
-          owner,
-          repo,
-          pull_number: PR_NUMBER,
-          review_id: review.id,
-          message: 'Superseded by new review',
-        })
-      )
-    );
-
-    if (userReviews.length > 0) {
-      console.log(`Dismissed ${userReviews.length} reviews by user ${username}`);
-    }
-  } catch (error) {
-    console.error('Failed to dismiss reviews by user', error);
-  }
-};
-
 const getReviewAndSendToGitHub = async () => {
   return requestReview()
     .then(async ({ review, fileContents }) => {
@@ -395,9 +360,8 @@ const getReviewAndSendToGitHub = async () => {
         }
       });
 
-      // Delete previous comments and dismiss previous reviews by the bot
+      // Delete previous comments by the bot
       await deleteCommentsByUser('github-actions[bot]');
-      await dismissReviewsByUser('github-actions[bot]');
 
       console.log('Creating review using two-step approach...');
 
