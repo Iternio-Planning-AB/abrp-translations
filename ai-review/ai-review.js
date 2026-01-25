@@ -71,7 +71,7 @@ const getUserPrompt = (title, description, changedTranslations) => {
 1. Translation accuracy - does the translation convey the same meaning as the English source?
 2. Grammar and spelling errors in the translation
 3. Consistency - are similar terms translated consistently?
-4. Placeholder preservation - are {{placeholders}} kept intact and not translated?
+4. Placeholder preservation - are {{placeholders}} kept intact and not translated? Also placeholder names should stay the same.
 5. Pluralization rules - are plural forms correct for the target language?
 6. Context appropriateness - is the translation suitable for an EV route planner app?
 7. Untranslated content - is there English text left untranslated that should be translated?
