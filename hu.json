@@ -2614,7 +2614,7 @@
   "go_to_accessibility_settings": "Hozzáférés Beállítások megnyitása",
   "go_to_developer_settings": "Fejlesztői beállítások megnyitása",
   "real_time": "Valós idejű",
-  "seasonal": "Évszak",
+  "seasonal": "Évszakos",
   "max_charge_limit_title": "Max. töltöttség határ",
   "invalid_max_charge_limit": "Adj meg egy érvényes százalékot (50-100)"
 }
