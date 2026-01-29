@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Ми виявили, що анімації на вашому пристрої вимкнені, що спричиняє проблеми, такі як різкі стрибки карти та заплутаний інтерфейс. Для найкращого досвіду увімкніть анімації в налаштуваннях Android або встановіть «Масштаб анімації» на 1.0x у параметрах розробника.",
   "disabled_animations_description_aa": "Ми виявили, що анімації на вашому пристрої вимкнені. Перевірте налаштування додатка для деталей.",
   "go_to_accessibility_settings": "Відкрити налаштування спеціальних можливостей",
-  "go_to_developer_settings": "Відкрити параметри розробника"
+  "go_to_developer_settings": "Відкрити параметри розробника",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

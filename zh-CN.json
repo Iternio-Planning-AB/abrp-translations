@@ -2607,5 +2607,9 @@
   "disabled_animations_description": "We've detected disabled animations on your device, which causes several issues like sudden, jumping map movement and a confusing user interface. For the best experience, please re-enable animations in your Android System Settings, or set the \"Animator duration scale\" to 1.0x in Developer options.",
   "disabled_animations_description_aa": "We've detected disabled animations on your device, check app settings for details.",
   "go_to_accessibility_settings": "Open Accessibility Settings",
-  "go_to_developer_settings": "Open Developer options"
+  "go_to_developer_settings": "Open Developer options",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

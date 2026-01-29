@@ -791,7 +791,7 @@
   "vegetarian": "Vegetariánska",
   "bistro": "Bistro",
   "steakhouse": "Steakhouse",
-"international": "Medzinárodná",
+  "international": "Medzinárodná",
   "type_of_amenity": "Typ vybavenosti",
   "type_of_food": "Typ jedla",
   "all_types": "Všetky typy",
@@ -1241,7 +1241,7 @@
   "change_ios_appearance_description": "Na iOS zmeníte farebný režim mapy prepnutím medzi tmavým a svetlým režimom v nastaveniach vzhľadu.",
   "kind_of_support": "S čím potrebujete pomôcť?",
   "contact_support": "Kontaktovať podporu",
-"read_manual": "Prečítať manuál",
+  "read_manual": "Prečítať manuál",
   "faq": "Často kladené otázky (FAQ)",
   "login_issue": "Problém s prihlásením",
   "subscription_issue": "Problém s predplatným",
@@ -1625,7 +1625,7 @@
   "set_to": "Nastaviť na",
   "prefer": "preferovať",
   "default": "predvolené",
-"no_gps_location_permission": "GPS zamietnuté",
+  "no_gps_location_permission": "GPS zamietnuté",
   "no_activities_month": "Žiadne aktivity pre tento mesiac",
   "no_activities_day": "Žiadne aktivity pre tento deň",
   "apply_settings": "Aplikujem nastavenia...",
@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Na vašom zariadení sme zistili vypnuté animácie, čo spôsobuje viaceré problémy, ako napríklad trhaný pohyb mapy a mätúce používateľské rozhranie. Pre najlepší zážitok znova povoľte animácie v systémových nastaveniach Androidu alebo v možnostiach pre vývojárov nastavte „Mierka dĺžky animácie“ na 1,0x.",
   "disabled_animations_description_aa": "Na vašom zariadení sme zistili vypnuté animácie, podrobnosti nájdete v nastaveniach aplikácie.",
   "go_to_accessibility_settings": "Otvoriť nastavenia zjednodušenia ovládania",
-  "go_to_developer_settings": "Otvoriť možnosti pre vývojárov"
+  "go_to_developer_settings": "Otvoriť možnosti pre vývojárov",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Nous avons détecté des animations désactivées sur votre appareil, ce qui provoque plusieurs problèmes tels que des sauts soudains de la carte Mouvements et interface utilisateur confuse. Pour une expérience optimale, veuillez réactiver les animations dans les paramètres système Android ou définir l'\"Échelle de durée de l'animateur\" sur 1,0x dans les options pour les développeurs",
   "disabled_animations_description_aa": "Nous avons détecté des animations désactivées sur votre appareil. Consultez les paramètres de l'application pour plus de détails.",
   "go_to_accessibility_settings": "Ouvrir les paramètres d'accessibilité",
-  "go_to_developer_settings": "Ouvrir les options pour les développeurs"
+  "go_to_developer_settings": "Ouvrir les options pour les développeurs",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

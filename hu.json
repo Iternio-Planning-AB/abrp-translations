@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Nem engedélyezett animációkat észleltünk az eszközödön, amik bizonyos problémákat okoznak, úgymint hirtelen ugrás a térképen és zavaró felhasználói interfész. A jobb használhatóság érdekében kapcsold be újra az animációk angedélyezését az eszközös Android rendszerbeállításiban, vagy állítsd az \"Animációk tempója\" értékét 1.0x-re a Fejlesztői beállításokban.",
   "disabled_animations_description_aa": "Nem engedélyezett animációkat észleltünk az eszközödön, ellenőrizd az app beállításait a részletekért.",
   "go_to_accessibility_settings": "Hozzáférés Beállítások megnyitása",
-  "go_to_developer_settings": "Fejlesztői beállítások megnyitása"
+  "go_to_developer_settings": "Fejlesztői beállítások megnyitása",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

@@ -680,7 +680,7 @@
   "choose_referral_code": "Valitse viittauskoodi",
   "for": "aika",
   "at": "klo",
-  "till": "%",
+  "till": "kohteeseen",
   "country_borders": "Maarajat (alfa)",
   "waypoint_notes": "Muistiinpanot",
   "waypoint_notes_placeholder": "Huomautukset, tärkeät tiedot, jne.",
@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Havaitsimme, että animaatiot on poistettu käytöstä laitteessasi. Tämä aiheuttaa useita ongelmia, kuten kartan äkillistä nykivää liikettä ja sekavan käyttöliittymän. Parhaan käyttökokemuksen saat ottamalla animaatiot uudelleen käyttöön Androidin järjestelmäasetuksissa tai asettamalla Kehittäjäasetuksista kohdan \"Animator duration scale\" arvoon 1.0x.",
   "disabled_animations_description_aa": "Havaitsimme, että animaatiot on poistettu käytöstä laitteessasi. Tarkista lisätiedot sovelluksen asetuksista.",
   "go_to_accessibility_settings": "Avaa helppokäyttöisyysasetukset",
-  "go_to_developer_settings": "Avaa kehittäjäasetukset"
+  "go_to_developer_settings": "Avaa kehittäjäasetukset",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

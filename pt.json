@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Detetámos animações desativadas no seu dispositivo, o que causa vários problemas, como movimentos bruscos e saltos no mapa, bem como uma interface confusa. Para a melhor experiência, volte a ativar as animações nas Definições do sistema Android ou defina a \"Escala de duração do animador\" para 1,0x nas Opções de programador.",
   "disabled_animations_description_aa": "Detetámos animações desativadas no seu dispositivo. Consulte as definições da aplicação para mais detalhes.",
   "go_to_accessibility_settings": "Abrir Definições de Acessibilidade",
-  "go_to_developer_settings": "Abrir Opções de programador"
+  "go_to_developer_settings": "Abrir Opções de programador",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

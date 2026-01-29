@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Hem detectat que les animacions estan desactivades en el vostre aparell, això causa diversos problemes com ara moviments de mapa sobtats i una interfície d'usuari confusa. Per a obtenir una millor experiència, activeu les animacions en la configuracó de sistema Android, o definiu la «escala de durada de l'animació» a 1.0x en les opcions de desenvolupament.",
   "disabled_animations_description_aa": "Hem detectat que les animacions estna desactivades en el vostre aparell, reviseu la configuració de l'aplicació per a més detalls.",
   "go_to_accessibility_settings": "Obre la configuració d'accessibilitat",
-  "go_to_developer_settings": "Obre les opcions de desenvolupament"
+  "go_to_developer_settings": "Obre les opcions de desenvolupament",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

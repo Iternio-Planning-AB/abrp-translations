@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Wir haben deaktivierte Animationen auf deinem Gerät erkannt, was zu mehreren Problemen wie plötzlichen, springenden Kartenbewegungen und einer verwirrenden Benutzeroberfläche führt. Für das beste Erlebnis aktiviere bitte die Animationen in deinen Android-Systemeinstellungen erneut oder setze die „Animator-Dauer-Skala“ in den Entwickleroptionen auf 1,0x.",
   "disabled_animations_description_aa": "Wir haben deaktivierte Animationen auf deinem Gerät erkannt. Überprüfe die App-Einstellungen für Details.",
   "go_to_accessibility_settings": "Bedienungshilfen öffnen",
-  "go_to_developer_settings": "Entwickleroptionen öffnen"
+  "go_to_developer_settings": "Entwickleroptionen öffnen",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }

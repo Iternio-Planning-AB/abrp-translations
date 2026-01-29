@@ -2612,5 +2612,9 @@
   "disabled_animations_description": "Мы обнаружили, что анимации на вашем устройстве отключены, что вызывает проблемы, такие как резкие скачки карты и запутанный интерфейс. Для наилучшего опыта включите анимации в настройках Android или установите «Масштаб анимации» на 1.0x в параметрах разработчика.",
   "disabled_animations_description_aa": "Мы обнаружили, что анимации на вашем устройстве отключены. Проверьте настройки приложения для получения подробностей.",
   "go_to_accessibility_settings": "Открыть настройки специальных возможностей",
-  "go_to_developer_settings": "Открыть параметры разработчика"
+  "go_to_developer_settings": "Открыть параметры разработчика",
+  "real_time": "Real-time",
+  "seasonal": "Seasonal",
+  "max_charge_limit_title": "Max charge limit",
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
 }
