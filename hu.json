@@ -2615,6 +2615,6 @@
   "go_to_developer_settings": "Fejlesztői beállítások megnyitása",
   "real_time": "Valós idejű",
   "seasonal": "Évszakos",
-  "max_charge_limit_title": "Max. töltöttség határ",
+  "max_charge_limit_title": "Max. töltési határ",
   "invalid_max_charge_limit": "Adj meg egy érvényes százalékot (50-100)"
 }
