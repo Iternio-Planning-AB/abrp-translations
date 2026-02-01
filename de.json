@@ -1571,7 +1571,7 @@
   "grant_automotive_permissions": "Gehe zu den App-Einstellungen und stelle sicher, dass die Berechtigungen „Standort“ und „Fahrzeuginformationen“ gewährt sind.",
   "saved_destination_charge_at_location": "Lade an diesem Ort",
   "saved_destination_charge_at_location_description": "Diese Informationen sind privat und werden nur in deinem Konto gespeichert.",
-  "share_apple_link": "Öffnen in Apple Maps",
+  "share_apple_link": "Öffnen in Apple Karten",
   "delete_all_activities": "Gespeicherte Aktivitäten löschen",
   "delete_all_activities_description": "Alle gespeicherten Aktivitäten, die mit diesem Fahrzeug verbunden sind, werden gelöscht.",
   "delete_all_activities_dialog": "Bist du sicher, dass du alle mit diesem Fahrzeug verbundenen Aktivitäten löschen möchtest?",
@@ -2613,8 +2613,8 @@
   "disabled_animations_description_aa": "Wir haben deaktivierte Animationen auf deinem Gerät erkannt. Überprüfe die App-Einstellungen für Details.",
   "go_to_accessibility_settings": "Bedienungshilfen öffnen",
   "go_to_developer_settings": "Entwickleroptionen öffnen",
-  "real_time": "Real-time",
-  "seasonal": "Seasonal",
-  "max_charge_limit_title": "Max charge limit",
-  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
+  "real_time": "Echtzeit",
+  "seasonal": "Saisonal",
+  "max_charge_limit_title": "Maximale Ladegrenze",
+  "invalid_max_charge_limit": "Bitte gib einen gültigen Prozentsatz ein (50–100)"
 }
