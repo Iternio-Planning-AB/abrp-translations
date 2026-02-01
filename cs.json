@@ -2613,8 +2613,8 @@
   "disabled_animations_description_aa": "Zjistili jsme, že jsou ve Vašem zařízení deaktivovány animace, zkontrolujte nastavení aplikace.",
   "go_to_accessibility_settings": "Otevřít nastavení přístupnosti",
   "go_to_developer_settings": "Otevřít možnosti pro vývojáře",
-  "real_time": "Real-time",
-  "seasonal": "Seasonal",
-  "max_charge_limit_title": "Max charge limit",
-  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
+  "real_time": "V reálném čase",
+  "seasonal": "Sezónní",
+  "max_charge_limit_title": "Maximální limit nabíjení",
+  "invalid_max_charge_limit": "Zadejte platná procenta (50-100)"
 }
