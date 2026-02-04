@@ -1652,7 +1652,7 @@
   "add_new_charger_find_network": "Zu welchem Ladenetz gehören die Ladestationen?",
   "add_charger_link_more_information": "Link zu Informationen zur Ladestation",
   "add_charger_no_stalls_added": "Keine zusätzlichen Stalls hinzugefügt",
-  "network_name": "Name des Netzes",
+  "network_name": "Name des Ladenetzes",
   "unknown_vehicle_delete_description": "Dieses Fahrzeug ist unvollständig oder es fehlen wichtige Informationen. Möchtest du es löschen?",
   "unknown_vehicle_delete_title": "Unbekanntes Fahrzeug",
   "select_configuration": "Konfiguration auswählen",
