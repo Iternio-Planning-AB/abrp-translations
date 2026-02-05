@@ -1962,7 +1962,7 @@
   "copied_to_clipboard": "In die Zwischenablage kopiert",
   "log_in_rivian": "Rivian Eigentümer Konto",
   "rivian_login_description": "Melde dich bei ABRP mit deinem Rivian Eigentümer Konto an, oder verbinde dein bestehenden Rivian- und ABRP-Konten",
-  "obd_pid_editor": "OBD PID editor",
+  "obd_pid_editor": "OBD PID Editor",
   "obd_pid_editor_warning": "Warnung: Diese Funktion ist nur für fortgeschrittene Benutzer geeignet. Benutzung auf eigene Gefahr!",
   "obd_pid_init_commands": "Befehle zur Initialisierung",
   "obd_pid_data_commands": "Befehle zum Abrufen von Daten",
