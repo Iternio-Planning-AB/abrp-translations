@@ -2616,5 +2616,7 @@
   "real_time": "Real-time",
   "seasonal": "Seasonal",
   "max_charge_limit_title": "Max charge limit",
-  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)",
+  "next_charge_in": "Next: Charge in {{duration}}",
+  "next_arrive_in": "Next: Arrive in {{duration}}",
 }
