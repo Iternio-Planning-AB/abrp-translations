@@ -2155,7 +2155,7 @@
   "report_bug_description": "Descripció",
   "report_bug_placeholder": "Descripció del problema",
   "create_an_issue": "Crea un informe",
-  "create_an_issue_description": "Això crearà una publicació pública en el nostre lloc de retroalimentació d'usuaris (Featurebase) que qualsevol persona pot veure. Descriviu el problemaPlease detalladament.",
+  "create_an_issue_description": "Això crearà una publicació pública en el nostre lloc de retroalimentació d'usuaris (Featurebase) que qualsevol persona pot veure. Descriviu el problema detalladament.",
   "open_featurebase": "Obre Featurebase",
   "view_on_featurebase": "Mostra a Featurebase",
   "success_report_bug": "Gràcies per informar del problema!",
