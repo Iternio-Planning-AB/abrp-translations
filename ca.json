@@ -2137,7 +2137,7 @@
   "live_data_share_group_end_date_error": "Introduïu una data de finalització",
   "live_data_share_group_create_success": "El grup s'ha creat satisfactòriament",
   "live_data_share_group_edited_success": "El grup s'ha editat satisfactòriament",
-  "live_data_share_group_create_error": "No s'ha pogut crear el grup. Contacte amb l'assistència s el problema persisteix",
+  "live_data_share_group_create_error": "No s'ha pogut crear el grup. Contacte amb l'assistència si el problema persisteix",
   "live_data_share_group_view_link": "Compartiu l'enllaç per a permetre que algú vegi el grup",
   "live_data_share_group_join_link": "Compartiu l'enllaç per permetre que algú s'uneixi al grup",
   "live_data_sharing_group_user_created_groups": "Els vostres grups",
