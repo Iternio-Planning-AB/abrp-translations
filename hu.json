@@ -2618,7 +2618,7 @@
   "route_label_fewer_stops": "Kevesebb megálló",
   "open_mail_app_description": "Melyik alkalmazást szeretnéd megnyitni?",
   "grant_permission_vehicle_telemetry": "Engedélyezd a jármű telemetriát és a lokáció hozzáférést.",
-  "grant": "Elfogadás",
+  "grant": "Engedélyez",
   "sign_in_with_google_instruction": "Jelentkezz be a Google fiókoddal a folytatáshoz.",
   "plan_options": "Tervezési opciók",
   "plan_options_network_preferences_empty_description": "Nincs preferált hálózat.",
