@@ -38,19 +38,9 @@
   "no": "Nē",
   "settings": "Iestatījumi",
   "start_driving": "Sākt braukt",
-  "charger": {
-    "zero": "Nav uzlāžu",
-    "one": "Viena uzlāde",
-    "other": "{{count}} uzlādes"
-  },
   "charges_zero": "Nav uzlāžu",
   "charges_one": "Viena uzlāde",
   "charges_other": "{{count}} uzlādes",
-  "drives": {
-    "zero": "Nav braucienu",
-    "one": "Viens brauciens",
-    "other": "{{count}} braucieni"
-  },
   "rides_zero": "Nav braucienu",
   "rides_one": "Viens brauciens",
   "rides_other": "{{count}} braucieni",
@@ -2527,7 +2517,6 @@
   "charge_stop_fewest": "Fewest",
   "preview_voice": "Preview voice",
   "previewing_voice": "Previewing voice",
-  "add_more_voices_hint": "You can add more voices in system settings.",
   "system_settings": "System settings",
   "paint_color": "Paint color",
   "leave_now": "Leave now",
@@ -2615,6 +2604,24 @@
   "go_to_developer_settings": "Open Developer options",
   "real_time": "Real-time",
   "seasonal": "Seasonal",
+  "add_more_voices_hint": "Install more voices in iOS Settings -> Accessibility -> Read & Speak -> Voices.",
+  "select_better_voice_hint": "Select enhanced or premium voice to get better navigation announcements.",
+  "low_quality_voices_title": "High-quality voice available",
+  "low_quality_voices_description": "For clearer navigation instructions, configure a higher quality voice.",
+  "fast": "Fast",
+  "diagnostics": "Diagnostics",
+  "tts_autoplay_no_engines_found": "No voice engines found, check app settings for details.",
+  "tts_autoplay_no_voices_found": "No voices found, check app settings for details.",
+  "callout_faster_route": "Faster",
+  "route_label_fewer_stops": "Fewer stops",
+  "open_mail_app_description": "Which app would you like to open?",
+  "grant_permission_vehicle_telemetry": "Grant permission for vehicle telemetry and location access.",
+  "grant": "Grant",
   "max_charge_limit_title": "Max charge limit",
-  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)"
+  "invalid_max_charge_limit": "Please enter a valid percentage (50-100)",
+  "sign_in_with_google_instruction": "Sign in with your Google account to continue.",
+  "plan_options": "Plan options",
+  "plan_options_network_preferences_empty_description": "No preferred networks.",
+  "next_charge_in": "Next: Charge in {{duration}}",
+  "next_arrive_in": "Next: Arrive in {{duration}}"
 }
