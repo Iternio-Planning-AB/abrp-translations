@@ -2621,7 +2621,7 @@
   "grant": "Engedélyez",
   "sign_in_with_google_instruction": "Jelentkezz be a Google fiókoddal a folytatáshoz.",
   "plan_options": "Tervezési opciók",
-  "plan_options_network_preferences_empty_description": "Nincs preferált hálózat.",
+  "plan_options_network_preferences_empty_description": "Nincsenek preferált hálózatok.",
   "next_charge_in": "|->: Töltés {{duration}} múlva",
   "next_arrive_in": "|-Y: Érkezés {{duration}} múlva"
 }
