@@ -2613,7 +2613,7 @@
   "fast": "Gyors",
   "diagnostics": "Diagnosztika",
   "tts_autoplay_no_engines_found": "Nem található szövegfelolvasó, a részletekért ellenőrizd az app beállításokat.",
-  "tts_autoplay_no_voices_found": "Nem található hang, a részletekért ellenőrizd az app beállítsokat.",
+  "tts_autoplay_no_voices_found": "Nem található hang, a részletekért ellenőrizd az app beállításokat.",
   "callout_faster_route": "Gyorsabb",
   "route_label_fewer_stops": "Kevesebb megálló",
   "open_mail_app_description": "Melyik alkalmazást szeretnéd megnyitni?",
