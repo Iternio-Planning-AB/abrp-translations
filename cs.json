@@ -2623,5 +2623,6 @@
   "plan_options": "Volby plánování",
   "plan_options_network_preferences_empty_description": "Žádné preferované sítě.",
   "next_charge_in": "Další: Nabíjení v {{duration}}",
-  "next_arrive_in": "Další: Příjezd v {{duration}}"
+  "next_arrive_in": "Další: Příjezd v {{duration}}",
+  "please_wait_for_charger": "Čekejte na načtení nabíječky"
 }
