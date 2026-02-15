@@ -2606,7 +2606,7 @@
   "seasonal": "Saisonal",
   "max_charge_limit_title": "Maximale Ladegrenze",
   "invalid_max_charge_limit": "Bitte gib einen gültigen Prozentsatz ein (50–100)",
-  "add_more_voices_hint": "Installier  weitere Stimmen in den iOS-Einstellungen -> Bedienungshilfen -> Lesen & Sprechen -> Stimmen.",
+  "add_more_voices_hint": "Installiere weitere Stimmen in den iOS-Einstellungen -> Bedienungshilfen -> Lesen & Sprechen -> Stimmen.",
   "select_better_voice_hint": "Wähle „Erweiterte“ oder „Premium“-Sprachausgabe, um bessere Navigationsansagen zu erhalten.",
   "low_quality_voices_title": "Hochwertige Sprachqualität verfügbar",
   "low_quality_voices_description": "Für klarere Navigationsanweisungen konfiguriere eine höhere Sprachqualität.",
