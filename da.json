@@ -2623,5 +2623,6 @@
   "plan_options": "Plan options",
   "plan_options_network_preferences_empty_description": "No preferred networks.",
   "next_charge_in": "Next: Charge in {{duration}}",
-  "next_arrive_in": "Next: Arrive in {{duration}}"
+  "next_arrive_in": "Next: Arrive in {{duration}}",
+  "please_wait_for_charger": "Please wait while loading charger"
 }
