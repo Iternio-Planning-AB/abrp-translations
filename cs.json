@@ -2622,6 +2622,6 @@
   "sign_in_with_google_instruction": "Pro pokračování se přihlaste s Vaším účtem Google.",
   "plan_options": "Volby plánování",
   "plan_options_network_preferences_empty_description": "Žádné preferované sítě.",
-  "next_charge_in": "Další: Naíjení v {{duration}}",
+  "next_charge_in": "Další: Nabíjení v {{duration}}",
   "next_arrive_in": "Další: Příjezd v {{duration}}"
 }
