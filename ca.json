@@ -1459,7 +1459,7 @@
   "low_max_speed_warning": "Heu establert un valor baix de velocitat màxim ({{max_speed}}) en la configuració.",
   "charging_planned_charge_complete": "S'ha completat la recàrrega planificada",
   "dismiss_rest_of_trip": "Resta de la conducció",
-  "highmobility_description_x": "{{brand}}La connexió ABRP Prèmium ofereix connexió directa de dades al vostre cotxe a través de la connexió oficial OTA de {{brand}}.",
+  "highmobility_description_x": "{{brand}} La connexió ABRP Prèmium ofereix connexió directa de dades al vostre cotxe a través de la connexió oficial OTA de {{brand}}.",
   "favorite_settings_title_appearance": "Configuració de l'aparença",
   "data_attribution": "Dades proporcionades per: ",
   "feedback_results_toilet_title": "Banys disponibles",
