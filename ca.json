@@ -2609,7 +2609,7 @@
   "add_more_voices_hint": "Instal·leu més veus a la Configuració -> Accessibilitat -> Veus en temps real -> Veus.",
   "select_better_voice_hint": "Seleccioneu una veu millorada o prèmium per a obtenir millors indicacions de navegació.",
   "low_quality_voices_title": "Hi ha disponible una veu millorada",
-  "low_quality_voices_description": "Per instruccions de navegació més clarers, configureu una veu millorada.",
+  "low_quality_voices_description": "Per instruccions de navegació més clares, configureu una veu millorada.",
   "fast": "Ràpid",
   "diagnostics": "Diagnòstics",
   "tts_autoplay_no_engines_found": "No s'ha trobat cap motor de veu, comproveu la configuració de l'aplicació per a més detalls.",
