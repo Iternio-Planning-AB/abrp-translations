@@ -2615,7 +2615,7 @@
   "tts_autoplay_no_engines_found": "No s'ha trobat cap motor de veu, comproveu la configuració de l'aplicació per a més detalls.",
   "tts_autoplay_no_voices_found": "No s'ha trobat cap veu, comproveu la configuració de l'aplicació per a més detalls.",
   "callout_faster_route": "Més ràpid",
-  "route_label_fewer_stops": "Menys aturades",
+  "route_label_fewer_stops": "Menys parades",
   "open_mail_app_description": "Quina aplicació voleu obrir?",
   "grant_permission_vehicle_telemetry": "Condeciu permís per a la telemetrica de vehicles i accés a la ubicació.",
   "grant": "Concedeix",
