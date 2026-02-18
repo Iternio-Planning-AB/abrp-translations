@@ -2624,5 +2624,5 @@
   "plan_options_network_preferences_empty_description": "Ei suosittuja verkostoja.",
   "next_charge_in": "Seuraavaksi: lataus {{duration}}",
   "next_arrive_in": "Seuraavaksi: saapuminen {{duration}}",
-  "please_wait_for_charger": "Please wait while loading charger"
+  "please_wait_for_charger": "Ladataan laturin tietoja"
 }
