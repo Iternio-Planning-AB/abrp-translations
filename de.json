@@ -2624,5 +2624,5 @@
   "plan_options_network_preferences_empty_description": "Keine bevorzugten Netzwerke.",
   "next_charge_in": "Als nächstes: Aufladen in {{duration}}",
   "next_arrive_in": "Als nächstes: Ankunft in {{duration}}",
-  "please_wait_for_charger": "Bitte warte auf das Ladegerät."
+  "please_wait_for_charger": "Bitte warte während die Ladestationen geladen werden."
 }
