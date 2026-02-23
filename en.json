@@ -774,6 +774,7 @@
   "charger_preferences_description": "Manage chargers you selected to avoid.",
   "charger_preferences": "Chargers to avoid",
   "please_wait_for_chargers": "Please wait while loading chargers",
+  "please_wait_for_charger": "Please wait while loading charger",
   "invalid_plan_check_preferences_title": "Check preferences",
   "invalid_plan_check_preferences_description": "Your charger or network preferences may prevent a valid plan.",
   "select_vehicle": "Select your vehicle",
