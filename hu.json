@@ -2624,5 +2624,5 @@
   "plan_options_network_preferences_empty_description": "Nincsenek preferált hálózatok.",
   "next_charge_in": "|->: Töltés {{duration}} múlva",
   "next_arrive_in": "|-Y: Érkezés {{duration}} múlva",
-  "please_wait_for_charger": "Please wait while loading charger"
+  "please_wait_for_charger": "Várjon, amíg a töltő adatai betöltődnek"
 }
