@@ -458,7 +458,7 @@
   "save_my_activity": "Shrani mojo dejavnost",
   "save_my_activity_description": "Dostopali boste lahko do svojih preteklih voženj in stroškov",
   "delete_all_activities": "Izbriši shranjene dejavnosti",
-  "delete_all_activities_description": "Vse shranjene i, povezane s tem avtomobilom, bodo izbrisane",
+  "delete_all_activities_description": "Vse shranjene aktivnosti, povezane s tem avtomobilom, bodo izbrisane",
   "delete_all_activities_dialog": "Ali ste prepričani, da želite izbrisati vse i, povezane s tem vozilom?",
   "delete_activities_rejected": "i ni bilo mogoče izbrisati",
   "delete_all_activities_warning": "Tega dejanja ni mogoče razveljaviti",
