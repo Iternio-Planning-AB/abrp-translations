@@ -826,7 +826,7 @@
   "direction_continue": "Nadaljujte {{direction}}",
   "direction_fork": "Na razcepu se držite {{direction}}",
   "direction_fork_ref_destination": "Držite se {{direction}} na {{ref}} proti {{destination}}",
-  "direction_fork_destination": "Držite se {{direction}} na {{ref}} proti {{destination}}",
+  "direction_fork_destination": "Držite se {{direction}} proti {{destination}}",
   "direction_fork_ref": "Držite se {{direction}} na {{ref}}",
   "direction_arrival": "Cilj je {{direction_variant}}",
   "direction_arrival_no_dir": "Prispeli ste na cilj",
