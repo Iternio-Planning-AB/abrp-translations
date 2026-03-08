@@ -833,7 +833,7 @@
   "direction_arrival_charger": "Polnite {{duration}} za doseg do {{to_soc}} %.",
   "direction_offramp": "Zavijte na izvoz {{direction}}",
   "direction_offramp_ref_destination": "Zavijte na izvoz {{direction}} na {{ref}} proti {{destination}}",
-  "direction_offramp_destination": "Zavijte na izvoz {{direction}} na {{ref}} proti {{destination}}",
+  "direction_offramp_destination": "Zavijte na izvoz {{direction}} proti {{destination}}",
   "direction_offramp_ref": "Zavijte na izvoz {{direction}} na {{ref}}",
   "direction_offramp_exit": "Pojdite na izvoz {{exit}}",
   "direction_offramp_exit_destination": "Pojdite na izvoz {{exit}} proti {{destination}}",
