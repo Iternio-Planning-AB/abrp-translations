@@ -830,7 +830,7 @@
   "direction_fork_ref": "Držite se {{direction}} na {{ref}}",
   "direction_arrival": "Cilj je {{direction_variant}}",
   "direction_arrival_no_dir": "Prispeli ste na cilj",
-  "direction_arrival_charger": "Polnite {{duration}} za doseg do {{to_soc}} %.",
+  "direction_arrival_charger": "Polnite {{duration}} za doseg do {{to_soc}}%.",
   "direction_offramp": "Zavijte na izvoz {{direction}}",
   "direction_offramp_ref_destination": "Zavijte na izvoz {{direction}} na {{ref}} proti {{destination}}",
   "direction_offramp_destination": "Zavijte na izvoz {{direction}} proti {{destination}}",
