@@ -2598,7 +2598,7 @@
   "temperature_out_of_range": "Temperaturen er uden for det acceptable område",
   "sharing_location": "Deling af placering",
   "disabled_animations_title": "Deaktiverede animationer",
-  "disabled_animations_description": "Vi har registreret deaktiverede animationer på din enhed, hvilket forårsager flere problemer, såsom pludselige, hoppende kortbevægelser og en forvirrende brugergrænseflade. For at få den bedste oplevelse skal du genaktivere animationer i dine Android-systemindstillinger eller indstille "Animatorens varighedsskala" til 1,0x i udviklerindstillingerne.",
+  "disabled_animations_description": "Vi har registreret deaktiverede animationer på din enhed, hvilket forårsager flere problemer, såsom pludselige, hoppende kortbevægelser og en forvirrende brugergrænseflade. For at få den bedste oplevelse skal du genaktivere animationer i dine Android-systemindstillinger eller indstille \"Animatorens varighedsskala\" til 1,0x i udviklerindstillingerne.",
   "disabled_animations_description_aa": "Vi har registreret deaktiverede animationer på din enhed. Tjek appindstillingerne for at få flere oplysninger.",
   "go_to_accessibility_settings": "Åbn tilgængelighedsindstillinger",
   "go_to_developer_settings": "Åbn udviklerindstillinger",
