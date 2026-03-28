@@ -2671,7 +2671,7 @@
   "charger_add_photo": "Přidat fotku",
   "cold_battery_precondition": "Předpříprava pro úsporu {{duration}}",
   "cold_battery_penalty": "Studená baterie {{duration}}",
-  "avoiding_network": "Síť pro vyhnutí",
+  "avoiding_network": "Vyhnout se síti",
   "next_ferry_in": "Další: Trajekt za {{duration}}",
   "replace": "Nahradit",
   "replace_vehicle": "Nahradit vozidlo",
