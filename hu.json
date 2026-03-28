@@ -2650,7 +2650,7 @@
   "charger_plugs_speed_very_fast": "Nagyon gyors",
   "charger_plugs_speed_fast": "Gyors",
   "charger_plugs_speed_slow": "Lassú",
-  "charger_plugs_show_incompatible": "Mutaasd a nem kompatibilis csatlakozókat",
+  "charger_plugs_show_incompatible": "Mutasd a nem kompatibilis csatlakozókat",
   "charger_plugs_hide_incompatible": "Rejtsd el a nem kompatibilis csatlakozókat",
   "charger_rating_count": "{{count}} értékelés",
   "charger_rating_count_one": "{{count}} értékelés",
