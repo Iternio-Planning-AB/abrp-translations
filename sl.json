@@ -2653,7 +2653,7 @@
   "charger_plugs_show_incompatible": "Prikaži nekompatibilne priključke",
   "charger_plugs_hide_incompatible": "Skrij nekompatibilne priključke",
   "charger_rating_count": "{{count}} ocen",
-  "charger_rating_count_one": "{{count}} ocene",
+  "charger_rating_count_one": "{{count}} ocena",
   "charger_no_ratings": "Brez ocen",
   "charger_your_rating": "Vaša ocena",
   "charger_pricing_title": "Naročnine in cene",
