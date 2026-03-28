@@ -2371,7 +2371,7 @@
   "adjust_volume": "Prilagodite glasnost",
   "adjust_volume_onscreen_description": "Med predvajanjem tega sporočila prilagodite glasnost navigacijskih navodil s kontrolniki vašega avtomobila.",
   "adjust_volume_description_tts": "To je navigacijsko navodilo. Uporabite gumbe za glasnost vašega avtomobila, da prilagodite navigacijsko vodenje na udobno raven. Če to ne slišite, povečajte glasnost. Med vašo vožnjo se bodo na tej ravni predvajala navigacijska navodila. Nadaljujte s prilagajanjem, dokler se ne počutite ravno prav. To sporočilo se bo nadaljevalo še nekaj trenutkov, da boste imeli čas za pravilno nastavitev glasnosti.",
-  "pick_amenity": "Izberite dodatne storitve",
+  "pick_amenity": "Izberite dodatno storitev",
   "fetching_amenities": "Pridobivanje dodatnih storitev ...",
   "last_successful_charging": "Zadnje uspešno polnjenje",
   "open_tesla_station": "Odprto za vozila, ki niso Tesla",
