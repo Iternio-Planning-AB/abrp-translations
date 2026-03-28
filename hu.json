@@ -2666,7 +2666,7 @@
   "no_recent_charging_sessions": "Nincsenek közelmúltbeli töltési munkamenetek",
   "no_live_status": "Nincs élő állapot",
   "busier_than_usual": "Elfoglaltabb mint általában",
-  "opening_hours_open": "Nyitás",
+  "opening_hours_open": "Nyitva",
   "opening_hours_closes": "Zárás",
   "charger_add_photo": "Adj hozzá képet",
   "cold_battery_precondition": "Előkondicionálás {{duration}} megnyeréséhez",
