@@ -2639,7 +2639,7 @@
   "charger_amenity_trailer_compatible": "Utánfutó-kompatibilis",
   "charger_amenity_show_votes": "Mutasd a szavazatokat",
   "charger_amenity_hide_votes": "Rejtsd el a szavazatokat",
-  "charger_amenity_report": "Jelents szolgáltatást",
+  "charger_amenity_report": "Jelentsd a szolgáltatást",
   "charger_amenity_none": "Nincsenek jelentett szolgáltatások",
   "charger_amenity_third_party": "Harmadik fél adata",
   "charger_amenity_votes": "{{count}} szavazat",
