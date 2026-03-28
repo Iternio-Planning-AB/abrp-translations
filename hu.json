@@ -2672,7 +2672,7 @@
   "cold_battery_precondition": "Előkondicionálás {{duration}} megtakarításához",
   "cold_battery_penalty": "Hideg akku {{duration}}",
   "avoiding_network": "Hálózat elkerülése",
-  "next_ferry_in": "Következő: komp {{duration} időn belül}",
+  "next_ferry_in": "Következő: komp {{duration}} időn belül",
   "replace": "Cserélés",
   "replace_vehicle": "Cseréld a jármúvet",
   "ev_routing_api": "EV útvonaltervező API",
