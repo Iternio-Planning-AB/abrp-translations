@@ -2641,7 +2641,7 @@
   "charger_amenity_hide_votes": "Rejtsd el a szavazatokat",
   "charger_amenity_report": "Jelentsd a szolgáltatást",
   "charger_amenity_none": "Nincsenek jelentett szolgáltatások",
-  "charger_amenity_third_party": "Harmadik fél adata",
+  "charger_amenity_third_party": "Harmadik fél adatai",
   "charger_amenity_votes": "{{count}} szavazat",
   "saved_location": "Elmentett helyzet",
   "charger_plugs_title": "Csatlakozók",
