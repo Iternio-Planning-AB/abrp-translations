@@ -2674,7 +2674,7 @@
   "avoiding_network": "Hálózat elkerülése",
   "next_ferry_in": "Következő: komp {{duration}} időn belül",
   "replace": "Cserélés",
-  "replace_vehicle": "Cseréld a jármúvet",
+  "replace_vehicle": "Cseréld a járművet",
   "ev_routing_api": "EV útvonaltervező API",
   "for_cpos": "For CPOs",
   "charger_nearby_title": "Közelben",
