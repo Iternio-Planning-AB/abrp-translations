@@ -65,7 +65,7 @@
   "weather_source": "Vir vremena",
   "weather_realtime_description": "Uporablja vreme v realnem času in napoved za nekaj dni naprej. Če dlje v prihodnost, uporabljamo sezonsko vreme.",
   "weather_seasonal_description": "Uporablja zgodovinska povprečja za sezono.",
-  "weather_manual_description": "Uporablja ročne nastavitve temperature in razmere na cesti.",
+  "weather_manual_description": "Uporablja ročne nastavitve temperature, cestnih razmer in vetra.",
   "manual_settings": "Ročne nastavitve",
   "wind_and_temperature": "Veter in temperatura",
   "road_conditions": "Razmere na cesti",
