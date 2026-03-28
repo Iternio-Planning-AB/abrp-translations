@@ -2669,7 +2669,7 @@
   "opening_hours_open": "Nyitva",
   "opening_hours_closes": "Zárva",
   "charger_add_photo": "Adj hozzá képet",
-  "cold_battery_precondition": "Előkondicionálás a {{duration}} megtakarításhoz",
+  "cold_battery_precondition": "Előkondicionálás a {{duration}}-os megtakarítás érdekében",
   "cold_battery_penalty": "Hideg akku {{duration}}",
   "avoiding_network": "Hálózat elkerülése",
   "next_ferry_in": "Következő: komp {{duration}} időn belül",
