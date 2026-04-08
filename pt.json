@@ -2640,7 +2640,7 @@
   "charger_amenity_show_votes": "Mostrar votos",
   "charger_amenity_hide_votes": "Ocultar votos",
   "charger_amenity_report": "Reportar serviço",
-  "charger_amenity_none": "Sem serviços reportadas",
+  "charger_amenity_none": "Sem serviços reportados",
   "charger_amenity_third_party": "Dados de terceiros",
   "charger_amenity_votes": "{{count}} votos",
   "saved_location": "Local guardado",
