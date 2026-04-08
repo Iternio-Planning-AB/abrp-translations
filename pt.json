@@ -2676,7 +2676,7 @@
   "replace": "Substituir",
   "replace_vehicle": "Substituir veículo",
   "ev_routing_api": "API de roteamento para VE",
-  "for_cpos": "Para OPCs",
+  "for_cpos": "Para CPOs",
   "charger_nearby_title": "Nas proximidades",
   "charger_nearby_chargers_tab": "Carregadores ({{count}})",
   "charger_nearby_amenities_tab": "Serviços ({{count}})",
