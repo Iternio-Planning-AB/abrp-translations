@@ -2672,7 +2672,7 @@
   "opening_hours_closes": "Schließt",
   "charger_add_photo": "Foto hinzufügen",
   "cold_battery_precondition": "Voraussetzung zum Speichern von {{duration}}",
-  "cold_battery_penalty": "Kalte Batterie {{Dauer}}",
+  "cold_battery_penalty": "Kalte Batterie {{duration}}",
   "avoiding_network": "Netzwerk vermeiden",
   "next_ferry_in": "Weiter: Fähre in {{duration}}",
   "ev_routing_api": "EV Routing API",
