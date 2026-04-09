@@ -2648,7 +2648,7 @@
 "charger_plugs_speed_hyper_fast": "Надшвидка",
 "charger_plugs_speed_super_fast": "Дуже швидка",
 "charger_plugs_speed_very_fast": "Швидка",
-"charger_plugs_speed_fast": "Середня",
+  "charger_plugs_speed_fast": "Швидка",
 "charger_plugs_speed_slow": "Повільна",
 "charger_plugs_show_incompatible": "Показати несумісні роз'єми",
 "charger_plugs_hide_incompatible": "Приховати несумісні роз'єми",
