@@ -2703,6 +2703,6 @@
   "abrp_login_failed": "Valami félrement a bejelentkezés során. Kérlek, próbáld meg újra, vagy vedd fel a kapcsolatot a supportunkkal, ha a probléma továbbra is fennáll. Ha a supportot keresed, kérlek mellékeld azt az email címet és bejelentkezési módot, amit a bejelentkezés során használtál (pl. email/jelszó, Google, Apple)",
   "abrp_login_failed_support_message": "Kérlek írd le a fiókoddal kapcsolatos gondot olyan világosan, amennyire csak lehetséges.\n\nAz email-cím, amivel próbálok bejelentkezni::\n\nEzt a belépési módot használom (pl. email/jelszó, Google, Apple):",
   "abrp_login_no_abrp_account_for_google_account": "Sajnáljuk, nem találunk ABRP fiókot a kiválasztott Google fiókhoz, kérlek először regisztrálj egy másik eszközön, majd ismét jelentkezz be.",
-  "abrp_login_failed_template": "Valami félrement a bejelentkezés soránn. Kérlek próbáld meg újra, vagy vedd fel a kapcsolatot a supporttal, amennyiben a probléma továbbra is fennáll. Győződj meg róla, hogy mellékeled a bejelentkezéshez használt email címedet.",
+  "abrp_login_failed_template": "Valami félrement a bejelentkezés során. Kérlek próbáld meg újra, vagy vedd fel a kapcsolatot a supporttal, amennyiben a probléma továbbra is fennáll. Győződj meg róla, hogy mellékeled a bejelentkezéshez használt email címedet.",
   "abrp_login_contact_support_qr": "Olvasd be ezt a QR kódot egy másik eszközön, vagy fordulj a supporthoz."
 }
