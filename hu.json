@@ -2697,7 +2697,7 @@
   "last_seen_time": "Utoljára nézve {{time}}",
   "power_kW": "Teljesítmény: {{power}} kW",
   "abrp_auth_login_title": "Továbbfejlesztett fiók biztonság",
-  "abrp_auth_login_description": "Javítottuk a fiókod biztoságát, és ez egy újraautentikálást igényel a te oldaladról.",
+  "abrp_auth_login_description": "Javítottuk a fiókod biztonságát, és ez egy újraautentikálást igényel a te oldaladról.",
   "abrp_qr_login_scan_instruction": "Nyisd meg a kamera alkalmazást azon az eszközön, amin már bejelentkeztél, és olvasd be ezt a kódot.",
   "abrp_google_login_automotive_continuation_url": "Nem tudtunk bejelentkeztetni, ellenőrizd ezt a QR kódot egy másik eszközön, és azt követőleg próbálj meg újból bejelentkezni.",
   "abrp_login_failed": "Valami félrement a bejelentkezés során. Kérlek, próbáld meg újra, vagy vedd fel a kapcsolaott a supportunkkal, ha a probléma továbbra is fennáll. Ha a supportot keresed, kérlek mellékeld azt az email címet és bejelentkezési módot, amit a bejelentkezés során használtál (pl. email/jelszó, Google, Apple)",
