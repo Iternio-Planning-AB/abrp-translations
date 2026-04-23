@@ -2709,7 +2709,7 @@
   "rate_charger_amenities_question": "Milyen szolgáltatások érhetők el?",
   "rate_charger_issue_title": "Probléma",
   "rate_charger_issue_connection_error": "Csatlakozási probléma",
-  "rate_charger_issue_payment": "Fizetési probléma",
+  "rate_charger_issue_payment": "Fizetési problémák",
   "rate_charger_issue_physical_damage": "Fizikai sérülés",
   "rate_charger_issue_interrupted": "Töltés megszakadt",
   "rate_charger_issue_low_power": "Alacsony töltési teljesítmény",
