@@ -2695,7 +2695,7 @@
   "ev_comparison": "Sähköautojen vertailu",
   "charging_soc_percent": "Lataus: {{soc}}%",
   "last_seen_time": "Viimeksi nähty {{time}}",
-  "power_kW": "Teho: {{power}} kW"
+  "power_kW": "Teho: {{power}} kW",
   "abrp_auth_login_title": "Parannettu tiliturvallisuus",
   "abrp_auth_login_description": "Olemme parantaneet tilisi turvallisuutta, mikä edellyttää uudelleentunnistautumista.",
   "abrp_qr_login_scan_instruction": "Avaa kameran sovellus laitteella, joka on jo kirjautuneena, ja skannaa tämä koodi.",
