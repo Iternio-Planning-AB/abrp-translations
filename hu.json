@@ -2706,7 +2706,7 @@
   "abrp_login_failed_template": "Valami félrement a bejelentkezés során. Kérlek próbáld meg újra, vagy vedd fel a kapcsolatot a supporttal, amennyiben a probléma továbbra is fennáll. Győződj meg róla, hogy mellékeled a bejelentkezéshez használt email címedet.",
   "abrp_login_contact_support_qr": "Olvasd be ezt a QR kódot egy másik eszközön, vagy fordulj a supporthoz.",
   "rate_charger_charge_question": "Sikeresen töltöttél?",
-  "rate_charger_amenities_question": "Mlyen szolgáltatások érhetők el?",
+  "rate_charger_amenities_question": "Milyen szolgáltatások érhetők el?",
   "rate_charger_issue_title": "Gond",
   "rate_charger_issue_connection_error": "Csatlakozási probléma",
   "rate_charger_issue_payment": "Fizetési probléma",
