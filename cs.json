@@ -2727,7 +2727,7 @@
   "charger_prefer": "Preferovat",
   "charger_avoid": "Vyhnout se",
   "charger_preferred": "Preferováno",
-  "charger_avoided": "Vyhnout se",
+  "charger_avoided": "Vyloučeno",
   "charger_trip_status": "Stav",
   "charger_details_pay_with": "Zaplatit pomocí {{operator}}",
   "charger_details_open_with_app": "Otevřít s aplikací {{operator}}"
