@@ -2697,7 +2697,7 @@
   "last_seen_time": "Últim cop vist: {{time}}",
   "power_kW": "Potència: {{power}} kW",
   "abrp_auth_login_title": "Seguretat de comptes millorada",
-  "abrp_auth_login_description": "Hem millorat la seguretat dels comptes i requereix tornar a autenticar-vos.",
+  "abrp_auth_login_description": "Hem millorat la seguretat dels comptes, i ara heu de tornar a autenticar-vos.",
   "abrp_qr_login_scan_instruction": "Obriu l'aplicació de càmera en un dispositiu que ja tingui sessió iniciada i escanegeu aquest codi.",
   "abrp_google_login_automotive_continuation_url": "No podem iniciar sessió. Comproveu el codi QR en un altre aparell i torneu a intentar d'iniciar sessió.",
   "abrp_login_failed": "Alguna cosa ha anat malament en iniciar sessió. Torneu a intentar, o contacteu amb l'assistència si el problema persisteix. Si contacteu amb l'assistència, incloeu l'adreça de correu que useu per a iniciar sessió i el mètode d'inici de sessió (p. ex., correu/contrasenya, Google, Apple).",
