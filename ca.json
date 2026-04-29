@@ -2714,7 +2714,7 @@
   "rate_charger_issue_interrupted": "Recàrrega interrompuda",
   "rate_charger_issue_low_power": "Poca potència de recàrrega",
   "rate_charger_issue_blocked": "Bloqueig físic",
-  "submitted": "Tramès",
+  "submitted": "Enviat",
   "trip_details": "Detalls del viatge",
   "charger_est_cost": "Cost estimat",
   "charger_actions": "Accions del carregador",
