@@ -1788,7 +1788,7 @@
   "direction_roundabout_nodir": "Pojdite na {{exit}} izhod",
   "direction_roundabout_nodir_ref": "Pojdite na {{exit}} izhod proti {{ref}}",
   "direction_roundabout_nodir_destination": "Pojdite na {{exit}} izhod proti {{destination}}",
-  "direction_roundabout_nodir_ref_destination": "Pojdite na {{exit}} izhod za {{ref}} proti {{destination}}",
+  "direction_roundabout_nodir_ref_destination": "Pojdite na {{exit}} izhod proti {{ref}} proti {{destination}}",
   "plan_summary": "Povzetek načrta",
   "details_title_charger_characteristics": "Značilnosti polnilnika",
   "details_title_avilable_plus": "Vtičnice na voljo",
