@@ -2775,7 +2775,7 @@
   "error_linking_rivian_telemetry": "Rivian távadat kapcsolódás nem sikerült, kérlek próbáld újra vagy küldj hibajelentést.",
   "rivian_abrp_vehicles": "Íme az ABRP járműve(i)d. Válassz egyet távadat kapcsolódáshoz egy létező járműhöz vagy adj meg egy újabbat.",
   "rivian_no_abrp_vehicles": "Nem található megfelelő ABRP jármű, adj meg egy újat a távadat kapcsolódás befejezéséhez.",
-  "rivian_multiple_vehicles": "Folytasd a távadat kapcsolódást új járművek hozzáadásával az ABPR fiókodhoz.",
+  "rivian_multiple_vehicles": "Folytasd a távadat kapcsolódást új járművek hozzáadásával az ABRP fiókodhoz.",
   "save_new_vehicles": "Adj hozzá új járműveket",
   "rivian_telemetry_linking": "Rivian távadat kapcsolódás",
   "rivian_telemetry_linked_to_other_vehicle": "Már egy másik járműhöz van kapcsolódva"
