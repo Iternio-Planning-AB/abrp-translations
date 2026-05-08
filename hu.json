@@ -2772,7 +2772,7 @@
   "premium_feature_real_time_traffic_weather": "Valós idejű forgalom & időjárás",
   "premium_feature_live_charger_status": "Élő töltő állapot",
   "manage_account": "Fiók kezelése",
-  "error_linking_rivian_telemetry": "Rivian távadat kapcsolódás nem sikerült, kérlek próbáld újra vagy küldj hibajelentést.",
+  "error_linking_rivian_telemetry": "Rivian távadat csatlakoztatása sikertelen, kérlek próbáld újra vagy küldj hibajelentést.",
   "rivian_abrp_vehicles": "Íme az ABRP járműve(i)d. Válassz egyet távadat kapcsolódáshoz egy létező járműhöz vagy adj meg egy újabbat.",
   "rivian_no_abrp_vehicles": "Nem található megfelelő ABRP jármű, adj meg egy újat a távadat kapcsolódás befejezéséhez.",
   "rivian_multiple_vehicles": "Folytasd a távadat kapcsolódást új járművek hozzáadásával az ABRP fiókodhoz.",
