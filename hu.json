@@ -2731,7 +2731,7 @@
   "charger_details_pay_with": "Fizetés ezzel: {{operator}}",
   "charger_details_open_with_app": "Megnyitás a(z) {{operator}} alkalmazással",
   "add_to_plan": "Add hozzá a tervhez",
-  "charger_amenity_vote": "Szavazat",
+  "charger_amenity_vote": "Szavazz",
   "toast_charger_bookmarked": "Töltő megjelölve",
   "toast_charger_bookmark_removed": "Jelölés eltávolítva",
   "toast_network_preferred": "Hálózat kedvelve",
