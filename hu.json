@@ -2750,7 +2750,7 @@
   "charger_accessibility_only_trucks": "Csak teherautók",
   "charger_accessibility_only_2_wheelers": "Csak motorkerékpárok",
   "charger_accessibility_only_bus": "Csak buszok",
-  "charger_accessibility_only_brand": "csak {{brand}}",
+  "charger_accessibility_only_brand": "Csak {{brand}}",
   "charger_accessibility_only_carsharing": "Csak autómegosztó",
   "charger_accessibility_only_taxis": "Csak taxik",
   "charger_accessibility_only_residential": "Csak bentlakók",
