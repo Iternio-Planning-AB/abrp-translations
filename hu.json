@@ -2740,7 +2740,7 @@
   "toast_charger_avoided_in_planning": "A töltő ki lesz hagyva tervezéskor",
   "toast_charger_avoid_in_planning_removed": "A töltő többé nem lesz kihagyva",
   "from_waypoint": "ettől: {{name}}",
-  "from_waypoint_charger": "ettől a töltőtől: {{name}}",
+  "from_waypoint_charger": "ettől a {{name}} töltőtől:",
   "from_waypoint_ferry": "ettől a komptól: {{name}}",
   "rate_charger_restroom_question": "Mosdó elérhető?",
   "rate_charger_trailer_question": "Trailer-accessible?",
