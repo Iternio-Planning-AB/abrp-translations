@@ -2736,7 +2736,7 @@
   "toast_charger_bookmark_removed": "Záložka byla odebrána",
   "toast_network_preferred": "Síť je preferována",
   "toast_network_avoided": "Síti se vyhýbá",
-  "toast_network_preference_cleared": "Preference sítě byly vymazány",
+  "toast_network_preference_cleared": "Preference sítě byla vymazána",
   "toast_charger_avoided_in_planning": "Při plánování se vyhneme nabíječce",
   "toast_charger_avoid_in_planning_removed": "Nabíječce se už nebudeme vyhýbat",
   "from_waypoint": "z {{name}}",
