@@ -2743,7 +2743,7 @@
   "from_waypoint_charger": "z nabíječky {{name}}",
   "from_waypoint_ferry": "z trajektu {{name}}",
   "rate_charger_restroom_question": "Je dostupná toaleta?",
-  "rate_charger_trailer_question": "Je možná přívěs?",
+  "rate_charger_trailer_question": "Přívěs povolen?",
   "rate_charger_dog_question": "Přátelské ke psům?",
   "rate_charger_family_question": "Přátelské k rodinám?",
   "charger_accessibility_only_customers": "Jen zákazníci",
