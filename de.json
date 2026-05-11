@@ -2317,7 +2317,7 @@
   "relink": "Neuverknüpfung",
   "relink_live_data": "Live-Daten neu verknüpfen",
   "relink_live_data_message": "Bist du sicher, dass du die Verknüpfung von Live-Daten aufheben und erneut verknüpfen möchtest?",
-  "live_data_deauthorized": "Live-Daten Autorisierung deaktivieren",
+  "live_data_deauthorized": "Live-Daten nicht autorisiert",
   "live_data_deauthorized_description": "Die Autorisierung der Live-Datenverbindung für dieses Fahrzeug wurde deaktiviert. Dies bedeutet, dass du auch keine Live-Daten erhältst, bis du die Verbindung erneut herstellst.",
   "live_data_deauthorized_streaming_description": "Die Autorisierung der Live-Datenverbindung für dieses Fahrzeug wurde deaktiviert. Da du Daten streamst, kannst du immer noch Daten erhalten, aber es werden Eigenschaften fehlen oder seltener sein. Bitte verbinde die Verbindung erneut.",
   "opening_hours_title": "Öffnungszeiten",
