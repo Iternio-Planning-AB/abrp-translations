@@ -1504,7 +1504,7 @@
   "report_charge_error_incorrect_charger_data": "Informationen zum Ladepunkt nicht korrekt",
   "report_charge_error_incorrect_pricing": "Falsche Preisinformationen",
   "report_charge_error_incorrect_provider": "Falscher Anbieter (CPO)",
-  "report_charge_error_incorrect_user_ratings": "Informationen zu den Serviceeinrichtungen nicht korrekt",
+  "report_charge_error_incorrect_user_ratings": "Die Angaben zu den Serviceeinrichtungen sind nicht korrekt",
   "report_charge_error_incorrect_live_data": "Probleme mit Live-Daten",
   "report_charge_error_issues_charging": "Probleme beim Laden",
   "amount_affix": "Stück",
