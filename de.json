@@ -2198,7 +2198,7 @@
   "amenity_add_plan": "Zum Plan hinzufügen",
   "amenity_options": "Optionen für Serviceeinrichtungen",
   "add_amentity": "Serviceeinrichtung hinzufügen",
-  "amenities_wp_button": "Ladestation um den Standort der Serviceeinrichtung",
+  "amenities_wp_button": "Ladestation in der Nähe der Serviceeinrichtung",
   "amenities_selection_duration_cost": "{{cost}} zu deiner Reise",
   "amenities_more": "+ {{count}} weitere {{category}} in der Nähe",
   "view_charger": "Ladestation anzeigen",
