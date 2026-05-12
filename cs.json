@@ -2853,7 +2853,7 @@
   "login_abrp_timeout": "Vypršela doba čekání na přihlášení. Vracíme se k přihlášení.",
   "resend_code": "Znovu odeslat kód",
   "signup_terms_prefix": "Pokračováním souhlasíte s dokumenty",
-  "terms_acceptance_generic": "Pokračováním souhblasíte s našimi podmínkami.",
+  "terms_acceptance_generic": "Pokračováním souhlasíte s našimi podmínkami.",
   "six_digit_code": "Šestimístný kód",
   "trouble_signing_in": "Máte potíže s přihlášením?",
   "verification_code_sent": "Poslali jsme Vám e-mail s ověřovacím kódem.",
