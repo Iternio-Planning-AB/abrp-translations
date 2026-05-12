@@ -2897,7 +2897,7 @@
   "rivian_error_upstream": "Nelze se přihlásit do služby Rivian. Zkuste to znovu.",
   "oidc_link_email_mismatch": "E-mailová adresa u propojeného účtu se neshoduje. Zkuste propojení provést znovu.",
   "portal_query_error_generic": "Došlo k chybě. Zkuste to znovu.",
-  "validation_generic": "Něco se pokazilo. Zkuste to znovu",
+  "validation_generic": "Něco se pokazilo. Zkuste to znovu.",
   "email_verify_invalid_code": "Neplatný kód. Zkuste to znovu.",
   "email_verify_info_sent": "Poslali jsme Vám e-mail s kódem a ověřovacím odkazem.",
   "email_verify_link_used": "Tento ověřovací odkaz již není platný. Pokračujte v přihlašovacím okně a vyžádejte si nový.",
