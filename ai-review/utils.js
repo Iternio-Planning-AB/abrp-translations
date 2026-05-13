@@ -109,7 +109,15 @@ const getNestedValue = (obj, key) => {
 
 /**
  * Parse the diff to extract changed translation entries.
- * Returns an array of { file, key, value, englishValue, line } objects.
+ *
+ * For each added (`+`) line we also try to find the matching removed (`-`) line
+ * for the same key in the same file, so the AI reviewer gets the previous
+ * translation as context. This prevents the reviewer from suggesting a
+ * "better" translation that just happens to be the value the contributor
+ * intentionally replaced.
+ *
+ * Returns an array of { file, key, newValue, oldValue, englishValue, line } objects.
+ * `oldValue` is null when the entry is a brand-new key.
  */
 const parseTranslationChangesFromDiff = (diff, englishTranslations) => {
   const changes = [];
@@ -129,23 +137,43 @@ const parseTranslationChangesFromDiff = (diff, englishTranslations) => {
     // Skip non-translation files and en.json (source file)
     if (!filePath.endsWith('.json') || filePath === 'en.json') continue;
 
-    // Find all added lines (lines starting with +, but not +++ header)
     const lines = section.split('\n');
-    for (const line of lines) {
-      // Match added lines that contain translation key-value pairs
-      if (line.startsWith('+') && !line.startsWith('+++')) {
-        const content = line.slice(1); // Remove the leading +
 
-        // Match JSON key-value pairs like: "key": "value" or "key": { for nested
+    // First pass: collect removed values per key so we can pair them with the
+    // matching added line below. If the same key is touched more than once in
+    // the same file (rare, but possible across hunks) the last removed value
+    // wins, which is fine for context purposes.
+    const removedByKey = new Map();
+    for (const line of lines) {
+      // Skip the `--- a/...` diff header
+      if (line.startsWith('-') && !line.startsWith('---')) {
+        const content = line.slice(1);
+        const kvMatch = content.match(/^\s*"([^"]+)":\s*"(.*)"/);
+        if (kvMatch) {
+          const [, key, value] = kvMatch;
+          removedByKey.set(key, value);
+        }
+      }
+    }
+
+    // Second pass: emit one change per added line, with oldValue when present
+    for (const line of lines) {
+      // Skip the `+++ b/...` diff header
+      if (line.startsWith('+') && !line.startsWith('+++')) {
+        const content = line.slice(1);
+
+        // Match JSON key-value pairs like: "key": "value"
         const kvMatch = content.match(/^\s*"([^"]+)":\s*"(.*)"/);
         if (kvMatch) {
           const [, key, value] = kvMatch;
           const englishValue = getNestedValue(englishTranslations, key);
+          const oldValue = removedByKey.has(key) ? removedByKey.get(key) : null;
 
           changes.push({
             file: filePath,
             key,
-            value,
+            newValue: value,
+            oldValue,
             englishValue: englishValue || '(no English source found)',
             line: content,
           });

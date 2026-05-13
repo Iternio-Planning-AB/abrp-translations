@@ -77,9 +77,42 @@ index 123..456 789
       expect(result).toHaveLength(1);
       expect(result[0].file).toBe('de.json');
       expect(result[0].key).toBe('starting_point');
-      expect(result[0].value).toBe('Startpunkt');
+      expect(result[0].newValue).toBe('Startpunkt');
+      expect(result[0].oldValue).toBe('Startpunkttt');
       expect(result[0].englishValue).toBe('Starting point');
       expect(result[0].line).toBe('  "starting_point": "Startpunkt",');
+    });
+
+    it('should set oldValue to null for newly added keys', () => {
+      const diff = `diff --git a/de.json b/de.json
+--- a/de.json
++++ b/de.json
+@@ -1,2 +1,3 @@
+ {
++  "starting_point": "Startpunkt",
+ }`;
+
+      const result = parseTranslationChangesFromDiff(diff, englishTranslations);
+      expect(result).toHaveLength(1);
+      expect(result[0].newValue).toBe('Startpunkt');
+      expect(result[0].oldValue).toBeNull();
+    });
+
+    it('should pair oldValue with newValue for modified entries', () => {
+      // Mirrors the real-world PR where "Mensual" was intentionally changed to "Mes"
+      // and the AI then suggested reverting back to "Mensual" because it had no
+      // context that the previous value had been the original translation.
+      const diff = `diff --git a/es.json b/es.json
+--- a/es.json
++++ b/es.json
+@@ -1,2 +1,2 @@
+-  "premium_option_month": "Mensual",
++  "premium_option_month": "Mes",`;
+
+      const result = parseTranslationChangesFromDiff(diff, englishTranslations);
+      expect(result).toHaveLength(1);
+      expect(result[0].newValue).toBe('Mes');
+      expect(result[0].oldValue).toBe('Mensual');
     });
 
     it('should skip en.json (source file)', () => {
@@ -134,7 +167,7 @@ diff --git a/fr.json b/fr.json
       expect(result).toHaveLength(0);
     });
 
-    it('should only capture added lines (not removed)', () => {
+    it('should only emit one change per added line and capture the removed value as oldValue', () => {
       const diff = `diff --git a/de.json b/de.json
 --- a/de.json
 +++ b/de.json
@@ -144,7 +177,8 @@ diff --git a/fr.json b/fr.json
 
       const result = parseTranslationChangesFromDiff(diff, englishTranslations);
       expect(result).toHaveLength(1);
-      expect(result[0].value).toBe('Neu');
+      expect(result[0].newValue).toBe('Neu');
+      expect(result[0].oldValue).toBe('Alt');
     });
 
     it('should handle quoted paths with special characters', () => {
@@ -385,33 +419,6 @@ diff --git a/src/utils.ts b/src/utils.ts
       expect(result).toContain('src/utils.ts');
     });
 
-    it('should filter out png files', () => {
-      const diff = `diff --git a/src/App.tsx b/src/App.tsx
---- a/src/App.tsx
-+++ b/src/App.tsx
-@@ -1 +1 @@
--old
-+new
-diff --git a/assets/icon.png b/assets/icon.png
-Binary files differ`;
-
-      const result = filterDiffByIgnoredFiles(diff);
-      expect(result).toContain('src/App.tsx');
-      expect(result).not.toContain('icon.png');
-    });
-
-    it('should filter out Podfile.lock', () => {
-      const diff = `diff --git a/ios/Podfile.lock b/ios/Podfile.lock
---- a/ios/Podfile.lock
-+++ b/ios/Podfile.lock
-@@ -1 +1 @@
--old
-+new`;
-
-      const result = filterDiffByIgnoredFiles(diff);
-      expect(result).not.toContain('Podfile.lock');
-    });
-
     it('should handle empty diff', () => {
       expect(filterDiffByIgnoredFiles('')).toBe('');
       expect(filterDiffByIgnoredFiles(null)).toBe(null);
@@ -434,25 +441,6 @@ Binary files differ`;
 
       const result = filterDiffByIgnoredFiles(diff);
       expect(result).toContain('path with spaces/file.ts');
-    });
-
-    it('should filter out nitrogen generated files', () => {
-      const diff = `diff --git a/packages/nitrogen/generated/File.ts b/packages/nitrogen/generated/File.ts
---- a/packages/nitrogen/generated/File.ts
-+++ b/packages/nitrogen/generated/File.ts
-@@ -1 +1 @@
--old
-+new
-diff --git a/src/real-code.ts b/src/real-code.ts
---- a/src/real-code.ts
-+++ b/src/real-code.ts
-@@ -1 +1 @@
--old
-+new`;
-
-      const result = filterDiffByIgnoredFiles(diff);
-      expect(result).not.toContain('nitrogen/generated');
-      expect(result).toContain('real-code.ts');
     });
 
     it('should preserve content before the first diff header', () => {

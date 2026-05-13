@@ -50,7 +50,9 @@ const SYSTEM_PROMPT = {
   role: 'system',
   content: `You are an expert translator and localization specialist. You review translations for an EV route planner and navigation app (A Better Routeplanner / ABRP).
 
-Your task is to review translation changes and provide feedback in a specific JSON format. Always respond with valid JSON only - no markdown, no explanations outside the JSON.`,
+Your task is to review the NEW translation values that contributors are submitting in a pull request. Each change has been made deliberately by the contributor, so focus on flagging genuine issues with the new value (\`newValue\`) and never suggest reverting to the previous value (\`oldValue\`) just because it sounded fine.
+
+Always respond with valid JSON only - no markdown, no explanations outside the JSON.`,
 };
 
 // Static intro message prefixed to the AI summary (not processed by AI)
@@ -65,22 +67,33 @@ const INTRO_MESSAGE = `👋 Thank you for contributing translations to ABRP!
 const getUserPrompt = (title, description, changedTranslations) => {
   return {
     role: 'user',
-    content: `Review the translation changes below. Follow these rules strictly:
+    content: `Review the translation changes below. Follow these rules strictly.
 
-## What to Review
-1. Translation accuracy - does the translation convey the same meaning as the English source?
-2. Grammar and spelling errors in the translation
-3. Consistency - are similar terms translated consistently?
-4. Placeholder preservation - are {{placeholders}} kept intact and not translated? Also placeholder names should stay the same.
-5. Pluralization rules - are plural forms correct for the target language?
-6. Context appropriateness - is the translation suitable for an EV route planner app?
-7. Untranslated content - is there English text left untranslated that should be translated?
+## Input Schema
+Each entry in "Changed Translations" describes ONE modified line in the PR:
+- "file": the language file (e.g. "de.json")
+- "key": the translation key
+- "newValue": the NEW translation value the contributor is proposing — THIS is what you review
+- "oldValue": the PREVIOUS translation value, before this PR (null when the key is brand new) — provided ONLY as context so you understand the change
+- "englishValue": the English source string (the meaning to convey)
+- "line": the exact line from the file that contains "newValue" — use this verbatim for "lineContent"
+
+## What to Review (about \`newValue\` only)
+1. Translation accuracy - does \`newValue\` convey the same meaning as \`englishValue\`?
+2. Grammar and spelling errors in \`newValue\`
+3. Consistency - are similar terms translated consistently across the \`newValue\`s in this PR?
+4. Placeholder preservation - are {{placeholders}} from \`englishValue\` kept intact in \`newValue\`? Placeholder names must stay identical.
+5. Pluralization rules - are plural forms in \`newValue\` correct for the target language?
+6. Context appropriateness - is \`newValue\` suitable for an EV route planner app?
+7. Untranslated content - is \`newValue\` left in English when it should be translated?
 
 ## What NOT to Review
-1. The English source text (only review the translations)
-2. Minor stylistic preferences that don't affect meaning
-3. Positive feedback - only report problems
-4. Formatting/whitespace issues that don't affect the meaning
+1. The English source text (\`englishValue\`) - never suggest changes to English.
+2. The previous translation (\`oldValue\`) - it is shown only for context. NEVER suggest reverting \`newValue\` back to \`oldValue\` or to anything close to it. The contributor changed it deliberately.
+3. Subjective stylistic preferences where multiple translations are acceptable - the contributor chose \`newValue\` deliberately, only flag genuine errors.
+4. Positive feedback - only report problems.
+5. Formatting/whitespace differences that don't affect meaning.
+6. Length/conciseness preferences (e.g. don't suggest a longer or shorter wording unless the current one is actually wrong).
 
 ## Output Format
 Respond with ONLY a JSON object in this exact structure:
@@ -97,9 +110,10 @@ Respond with ONLY a JSON object in this exact structure:
 
 ## lineContent Rules (IMPORTANT for line matching)
 The lineContent field is used to find the exact line number in the file. Follow these rules:
-1. Use the EXACT line as it appears in the "line" field of the changed translations
+1. Use the EXACT line as it appears in the "line" field of the changed translations (this is the NEW line, after the change)
 2. Include the full line with the key and value, e.g.: "  \\"key\\": \\"translated value\\","
 3. Do NOT paraphrase or modify the line content
+4. Do NOT use the old translation (\`oldValue\`) as the lineContent - it no longer exists in the file
 
 ## GitHub Suggestions
 When you can propose a better translation, use GitHub's suggestion syntax in the comment field:
@@ -107,16 +121,18 @@ When you can propose a better translation, use GitHub's suggestion syntax in the
   "key": "improved translation",
 \`\`\`
 
-IMPORTANT: Preserve the EXACT indentation (2 spaces) and include the trailing comma if present in the original.
+IMPORTANT:
+- Preserve the EXACT indentation (2 spaces) and include the trailing comma if present in the original.
+- The suggestion must NOT be equal to \`oldValue\` (that would just revert the contributor's change).
 
-Example:
+Example (typo fix on a NEW value):
 {
   "filePath": "de.json",
   "lineContent": "  \\"starting_point\\": \\"Startpunkttt\\",",
   "comment": "Typo in German translation:\n\`\`\`suggestion\n  \\"starting_point\\": \\"Startpunkt\\",\n\`\`\`"
 }
 
-Only use suggestions when you have a specific improvement. For general issues without a clear fix, just explain the problem.
+Only use suggestions when you have a specific, objectively better translation. For general issues without a clear fix, just explain the problem.
 
 If there are no issues, return: {"summary": "No significant issues found.", "issues": []}
 
