@@ -2779,6 +2779,6 @@
   "save_new_vehicles": "Přidat nová vozidla",
   "rivian_telemetry_linking": "Propojení telemetrie Rivian",
   "rivian_telemetry_linked_to_other_vehicle": "Již propojeno s jiným vozidlem",
-  "live_data_sharing_charging_to": "Charging: {{soc}}%{{chargingGoal}}",
-  "by_operator": "by {{operator}}"
+  "live_data_sharing_charging_to": "Nabíjení: {{soc}} % {{chargingGoal}}",
+  "by_operator": "operátorem {{operator}}"
 }
