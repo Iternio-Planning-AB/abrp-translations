@@ -2774,7 +2774,7 @@
   "manage_account": "Gérer le compte",
   "error_linking_rivian_telemetry": "Échec de la liaison de la télémétrie Rivian, réessaie ou envoie un rapport de bug.",
   "rivian_abrp_vehicles": "Voici tes véhicules ABRP. Sélectionnes-en un pour lier la télémétrie à un véhicule existant ou ajoutes-en un nouveau.",
-  "rivian_no_abrp_vehicles": "No matching ABPR vehicles found, add a new one to finish telemetry linking.",
+  "rivian_no_abrp_vehicles": "Aucun véhicule ABPR correspondant trouvé, ajoutez-en un nouveau pour terminer la liaison de télémétrie.",
   "rivian_multiple_vehicles": "Continue la liaison de la télémétrie en ajoutant de nouveaux véhicules à ton compte ABRP.",
   "save_new_vehicles": "Ajouter de nouveaux véhicules",
   "rivian_telemetry_linking": "Liaison de la télémétrie Rivian",
