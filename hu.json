@@ -2774,7 +2774,7 @@
   "manage_account": "Fiók kezelése",
   "error_linking_rivian_telemetry": "A Rivian telemetria összekapcsolása nem sikerült, próbáld újra, vagy küldj be hibajelentést.",
   "rivian_abrp_vehicles": "Ezek az ABRP-fiókodhoz tartozó járműveid. Válassz egyet a telemetria meglévő járműhöz való összekapcsolásához, vagy adj hozzá újat.",
-  "rivian_no_abrp_vehicles": "nem található megfelelő ABRP jármű, adj hzzá egy újat a telemetriai kapcsolódás befejezéséhez.",
+  "rivian_no_abrp_vehicles": "nem található megfelelő ABRP jármű, adj hozzá egy újat a telemetriai kapcsolódás befejezéséhez.",
   "rivian_multiple_vehicles": "Folytasd a telemetria összekapcsolását új járművek hozzáadásával az ABRP-fiókodhoz.",
   "save_new_vehicles": "Új járművek hozzáadása",
   "rivian_telemetry_linking": "Rivian telemetria összekapcsolása",
