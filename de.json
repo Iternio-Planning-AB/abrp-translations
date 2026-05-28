@@ -2788,8 +2788,8 @@
   "rivian_terms_acceptance_message": "Wenn du unten auf „Akzeptieren“ klickst, erklärst du dich mit den <url>Allgemeinen Geschäftsbedingungen</url> von Rivian einverstanden und bestätigst, dass du die <url2>Datenschutzerklärung</url2> von Rivian zur Kenntnis genommen hast.",
   "rivian_terms_accept": "Akzeptieren",
   "rivian_terms_decline_note": "Um A Better Routeplanner weiterhin nutzen zu können, musst du diesen Bedingungen zustimmen.",
-  "autoplay_voice_input_permission_not_granted": "Bitte halte an einem sicheren Ort an und erteile der Sprachsteuerung zunächst die erforderlichen Berechtigungen auf deinem Smartphone.",
-  "voice_input": "Sprachsteuerung",
+  "autoplay_voice_input_permission_not_granted": "Bitte halte an einem sicheren Ort an und erteile der Spracheingabe zunächst die erforderlichen Berechtigungen auf deinem Smartphone.",
+  "voice_input": "Spracheingabe",
   "voice_input_language_auto_detect": "Automatische Erkennung",
   "voice_input_request_pending": "Plan wird abgerufen..."
 }
