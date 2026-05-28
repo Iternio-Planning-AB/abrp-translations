@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Povezovanje telemetrije Rivian",
   "rivian_telemetry_linked_to_other_vehicle": "Že povezano z drugim vozilom",
   "live_data_sharing_charging_to": "Polnjenje: {{soc}}%{{chargingGoal}}",
-  "by_operator": "od {{operator}}"
+  "by_operator": "od {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

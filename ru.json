@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Подключение телеметрии Rivian",
   "rivian_telemetry_linked_to_other_vehicle": "Уже подключено к другому транспортному средству",
   "live_data_sharing_charging_to": "Зарядка: {{soc}}%{{chargingGoal}}",
-  "by_operator": "от {{operator}}"
+  "by_operator": "от {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

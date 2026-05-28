@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "קישור טלמטריה של Rivian",
   "rivian_telemetry_linked_to_other_vehicle": "כבר מקושר לרכב אחר",
   "live_data_sharing_charging_to": "טעינה: {{soc}}%{{chargingGoal}}",
-  "by_operator": "על ידי {{operator}}"
+  "by_operator": "על ידי {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

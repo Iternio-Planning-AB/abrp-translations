@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Rivianin telemetrian yhdistäminen",
   "rivian_telemetry_linked_to_other_vehicle": "Yhdistetty jo toiseen ajoneuvoon",
   "live_data_sharing_charging_to": "Lataus: {{soc}}%{{chargingGoal}}",
-  "by_operator": "operaattorilta {{operator}}"
+  "by_operator": "operaattorilta {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

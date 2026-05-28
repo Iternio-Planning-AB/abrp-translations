@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Conectarea telemetriei Rivian",
   "rivian_telemetry_linked_to_other_vehicle": "Deja conectat la alt vehicul",
   "live_data_sharing_charging_to": "Se încarcă: {{soc}}%{{chargingGoal}}",
-  "by_operator": "de {{operator}}"
+  "by_operator": "de {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

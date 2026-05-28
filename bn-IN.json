@@ -2780,5 +2780,8 @@
   "save_new_vehicles": "নতুন যাওবাহন যোগ করো",
   "rivian_telemetry_linking": "Rivian টেলিমেট্রি লিঙ্কিং",
   "rivian_telemetry_linked_to_other_vehicle": "ইতিমধ্যেই অন্য কোনও গাড়ির সাথে লিঙ্ক করা হয়েছে",
-  "by_operator": "{{অপারেটর}} দ্বারা"
+  "by_operator": "{{অপারেটর}} দ্বারা",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

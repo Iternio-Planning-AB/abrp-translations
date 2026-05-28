@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Rivian テレメトリ連携",
   "rivian_telemetry_linked_to_other_vehicle": "すでに別の車両に連携されています",
   "live_data_sharing_charging_to": "充電中: {{soc}}%{{chargingGoal}}",
-  "by_operator": "{{operator}} 提供"
+  "by_operator": "{{operator}} 提供",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

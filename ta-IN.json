@@ -2780,5 +2780,8 @@
   "save_new_vehicles": "புதிய வாகனங்களைச் சேர்க்கவும்",
   "rivian_telemetry_linking": "Rivian டெலிமெட்ரி இணைப்பு",
   "rivian_telemetry_linked_to_other_vehicle": "வேறு சில வாகனங்களுடன் ஏற்கனவே இணைக்கப்பட்டுள்ளது",
-  "by_operator": "{{operator}} மூலம்"
+  "by_operator": "{{operator}} மூலம்",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Rivian telemetria összekapcsolása",
   "rivian_telemetry_linked_to_other_vehicle": "Már egy másik járműhöz van kapcsolva",
   "live_data_sharing_charging_to": "Töltés: {{soc}}%{{chargingGoal}}",
-  "by_operator": "{{operator}} által"
+  "by_operator": "{{operator}} által",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Rivian-telemetritilknytning",
   "rivian_telemetry_linked_to_other_vehicle": "Allerede tilknyttet et andet køretøj",
   "live_data_sharing_charging_to": "Lader: {{soc}}%{{chargingGoal}}",
-  "by_operator": "af {{operator}}"
+  "by_operator": "af {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

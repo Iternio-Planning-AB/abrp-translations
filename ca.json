@@ -2780,5 +2780,8 @@
   "rivian_telemetry_linking": "Enllaç de la telemetria de Rivian",
   "rivian_telemetry_linked_to_other_vehicle": "Ja està enllaçat amb un altre vehicle",
   "live_data_sharing_charging_to": "Càrrega: {{soc}}%{{chargingGoal}}",
-  "by_operator": "per {{operator}}"
+  "by_operator": "per {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

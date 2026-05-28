@@ -2767,5 +2767,8 @@
   "save_new_vehicles": "Add new vehicles",
   "rivian_telemetry_linking": "Rivian telemetry linking",
   "rivian_telemetry_linked_to_other_vehicle": "Linked to some other vehicle already",
-  "by_operator": "by {{operator}}"
+  "by_operator": "by {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }

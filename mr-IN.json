@@ -2780,5 +2780,8 @@
   "save_new_vehicles": "नवीन वाहने जोडा",
   "rivian_telemetry_linking": "रिव्हियन टेलिमेट्री लिंकिंग",
   "rivian_telemetry_linked_to_other_vehicle": "आधीच दुसऱ्या वाहनाशी जोडलेले आहे",
-  "by_operator": "{{operator}} द्वारे"
+  "by_operator": "{{operator}} द्वारे",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo"
 }
