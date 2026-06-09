@@ -2780,5 +2780,16 @@
   "rivian_telemetry_linking": "Rivian telemetria összekapcsolása",
   "rivian_telemetry_linked_to_other_vehicle": "Már egy másik járműhöz van kapcsolva",
   "live_data_sharing_charging_to": "Töltés: {{soc}}%{{chargingGoal}}",
-  "by_operator": "{{operator}} által"
+  "by_operator": "{{operator}} által",
+  "add_photo": "Tölts fel fotót",
+  "add_more_photos": "Tölts fel több fotót",
+  "take_photo": "Készíts fotót",
+  "rivian_terms_acceptance_title": "A Better Routeplannert most elhozta neked a Rivian",
+  "rivian_terms_acceptance_message": "Az alábbi \"Elfogad\"-ra kattintva, egyetértesz a Rivian <url>General Terms</url> dokuval és elfogadod a Rivian <url2>Data Privacy Notice</url2>-t.",
+  "rivian_terms_accept": "Elfogad",
+  "rivian_terms_decline_note": "Ezen feltételek elfogadása szükséges az A Better Routeplanner használatának folytatásához.",
+  "autoplay_voice_input_permission_not_granted": "Kérlek, állj meg valahol egy biztoságos helyen és add meg először a hang engedélyeket a telefonodon.",
+  "voice_input": "Hang bemenet",
+  "voice_input_language_auto_detect": "Automatikus felismerés",
+  "voice_input_request_pending": "Terv letöltése..."
 }

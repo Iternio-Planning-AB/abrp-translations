@@ -2780,5 +2780,16 @@
   "rivian_telemetry_linking": "Rivian telemetrijas savienošana",
   "rivian_telemetry_linked_to_other_vehicle": "Jau savienots ar citu transportlīdzekli",
   "live_data_sharing_charging_to": "Uzlāde: {{soc}}%{{chargingGoal}}",
-  "by_operator": "no {{operator}}"
+  "by_operator": "no {{operator}}",
+  "add_photo": "Add photo",
+  "add_more_photos": "Add more photos",
+  "take_photo": "Take photo",
+  "rivian_terms_acceptance_title": "A Better Routeplanner is now brought to you by Rivian",
+  "rivian_terms_acceptance_message": "By clicking \"Accept\" below, you agree to Rivian's <url>General Terms</url> and acknowledge Rivian's <url2>Data Privacy Notice</url2>.",
+  "rivian_terms_accept": "Accept",
+  "rivian_terms_decline_note": "Accepting these terms is required to continue using A Better Routeplanner.",
+  "autoplay_voice_input_permission_not_granted": "Please stop somewhere safe and grant the voice permissions on your phone first.",
+  "voice_input": "Voice input",
+  "voice_input_language_auto_detect": "Auto detect",
+  "voice_input_request_pending": "Fetching plan..."
 }
