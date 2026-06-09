@@ -1664,7 +1664,7 @@
   "email_verification_failed_description": "La vérification de l'e-mail a échoué. Veuillez réessayer. Si le problème persiste, veuillez contacter notre équipe d'assistance.",
   "round_trip": "Aller-retour",
   "back_to_start": "Retour au début",
-  "reverse_destinations": "Plan inversé",
+  "reverse_destinations": "Trajet inversé",
   "new": "nouveau",
   "report_charge_error_upload_camera": "Prendre photo",
   "report_charge_error_upload_library": "Bibliothèque",
@@ -2781,7 +2781,15 @@
   "rivian_telemetry_linked_to_other_vehicle": "Déjà lié à un autre véhicule",
   "live_data_sharing_charging_to": "En charge : {{soc}}%{{chargingGoal}}",
   "by_operator": "par {{operator}}",
-  "add_photo": "Add photo",
-  "add_more_photos": "Add more photos",
-  "take_photo": "Take photo"
+  "add_photo": "Ajouter une photo",
+  "add_more_photos": "Ajouter d'autres photos",
+  "take_photo": "Prendre une photo",
+  "rivian_terms_acceptance_title": "A Better Routeplanner vous est désormais proposé par Rivian",
+  "rivian_terms_acceptance_message": "En cliquant sur \"Accepter\" ci-dessous, vous acceptez les <url>Conditions générales</url> de Rivian et vous reconnaissez la <url2>Politique de confidentialité des données</url2> de Rivian.",
+  "rivian_terms_accept": "Accepter",
+  "rivian_terms_decline_note": "L'acceptation de ces conditions est requise pour continuer à utiliser A Better Routeplanner.",
+  "autoplay_voice_input_permission_not_granted": "Veuillez vous arrêter dans un endroit sûr et autoriser l'accès vocal sur votre téléphone au préalable.",
+  "voice_input": "Saisie vocale",
+  "voice_input_language_auto_detect": "Détection automatique",
+  "voice_input_request_pending": "Récupération du trajet..."
 }

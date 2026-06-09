@@ -2783,5 +2783,13 @@
   "by_operator": "operaattorilta {{operator}}",
   "add_photo": "Lisää kuva",
   "add_more_photos": "Lisää kuvia",
-  "take_photo": "Ota kuva"
+  "take_photo": "Ota kuva",
+  "rivian_terms_acceptance_title": "A Better Routeplanner on nyt osa Riviania",
+  "rivian_terms_acceptance_message": "Napsauttamalla alla olevaa \"Hyväksy\"-painiketta hyväksyt Rivianin <url>yleiset ehdot</url> ja vahvistat tutustuneesi Rivianin <url2>tietosuojailmoitukseen</url2>.",
+  "rivian_terms_accept": "Hyväksy",
+  "rivian_terms_decline_note": "Näiden ehtojen hyväksyminen on edellytys A Better Routeplannerin käytön jatkamiselle.",
+  "autoplay_voice_input_permission_not_granted": "Pysähdy turvalliseen paikkaan ja myönnä ensin puhekäytön käyttöoikeudet puhelimessasi.",
+  "voice_input": "Puheohjaus",
+  "voice_input_language_auto_detect": "Tunnista automaattisesti",
+  "voice_input_request_pending": "Haetaan reittiä..."
 }
