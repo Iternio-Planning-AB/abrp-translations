@@ -2774,7 +2774,7 @@
   "manage_account": "Administrer konto",
   "error_linking_rivian_telemetry": "Tilknytning af Rivian-telemetri mislykkedes, prøv igen eller indsend en fejlrapport.",
   "rivian_abrp_vehicles": "Dette er dine ABRP-køretøjer. Vælg ét for at tilknytte telemetri til et eksisterende køretøj, eller tilføj et nyt.",
-  "rivian_no_abrp_vehicles": "Ingen matchende ABPR-køretøjer fundet. Tilføj et nyt for at afslutte telemetri-tilknytningen.",
+  "rivian_no_abrp_vehicles": "Ingen matchende ABRP-køretøjer fundet. Tilføj et nyt for at afslutte telemetri-tilknytningen.",
   "rivian_multiple_vehicles": "Fortsæt med tilknytningen af telemetrien ved at tilføje nye køretøjer til din ABRP-konto.",
   "save_new_vehicles": "Tilføj nye køretøjer",
   "rivian_telemetry_linking": "Rivian-telemetritilknytning",
