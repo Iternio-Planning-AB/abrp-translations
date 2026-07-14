@@ -2869,7 +2869,7 @@
   "more_colors_empty": "Pro toto vozidlo nejsou k dispozici žádné barvy.",
   "more_colors_error": "Barvy se nepodařilo načíst. Zkuste to znovu.",
   "more_colors_image_failed": "Náhledový obrázek se nepodařilo načíst.",
-  "vehicle_color_select_paint": "Barva nátěru: {{color}}",
+  "vehicle_color_select_paint": "Vybrat barvu nátěru: {{color}}",
   "vehicle_color_black": "Černá",
   "vehicle_color_grey": "Šedá",
   "vehicle_color_white": "Bílá",
