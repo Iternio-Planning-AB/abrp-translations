@@ -2623,7 +2623,7 @@
   "real_time": "Realiuoju laiku",
   "seasonal": "Sezoninis",
   "max_charge_limit_title": "Maksimali įkrovos riba",
-  "invalid_max_charge_limit": "Įveskite maksimalų įkrovos lygį nuo 50 iki 100 %",
+  "invalid_max_charge_limit": "Įveskite teisingą procentinę reikšmę (nuo 50 iki 100 %)",
   "add_more_voices_hint": "Įdiekite papildomus balsus iOS nustatymuose -> Pritaikymas neįgaliesiems -> Skaitymas ir kalba -> Balsai.",
   "select_better_voice_hint": "Pasirinkite patobulintą arba aukščiausios kokybės balsą, kad gautumėte geresnius navigacijos patarimus.",
   "low_quality_voices_title": "Yra aukštos kokybės balsas",
