@@ -2837,7 +2837,7 @@
   "reference_consumption_tooltip_automatic": "Spotřeba přímo ovlivňuje dojezd Vašeho vozidla. Tato hodnota vychází z více faktorů, a proto se může lišit od hodnoty zobrazené ve Vašem vozidle.",
   "charger_accessibility_open_to_all_evs": "Přístupné všem EV",
   "vehicle_selector_optional": "(volitelné)",
-  "vehicle_selector_create_custom_vehicle": "Vytvořit od začátku",
+  "vehicle_selector_create_custom_vehicle": "Vytvořit vlastní vozidlo",
   "vehicle_selector_request_vehicle": "Požádat",
   "vehicle_selector_request_vehicle_description": "Požádejte o přidání vozidla prostřednictvím podpory.",
   "vehicle_selector_custom_vehicle_description": "Vytvořte nebo přidejte vlastní vozidlo.",
