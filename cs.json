@@ -2879,7 +2879,7 @@
   "vehicle_color_yellow": "Žlutá",
   "vehicle_color_green": "Zelená",
   "plan_not_found_avoid_hint": "Máte zapnuté možnosti vyhýbání se ({{options}}), což může znemožnit nalezení funkční trasy.",
-  "review_avoid_settings": "Nastavení blokování recenzí",
+  "review_avoid_settings": "Nastavení vyhýbání se",
   "mail_app_unavailable_title": "Nemohli jsme otevřít Vaši e-mailovou aplikaci",
   "mail_app_unavailable_message": "Kontaktujte nás na {{email}}",
   "plan_overview": "Přehled plánu",
