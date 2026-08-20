@@ -1199,7 +1199,7 @@
   "no_data_linked": "No hi ha dades en temps real enllaçades",
   "obd": "OBD",
   "in_car_tlm_description": "Les dades en temps real en el cotxe solen ser la millor opció per a les dades en temps real enriquides, permeten el calibratge precís del consum del vehicle. Normalment, això implica una connexió Bluetooth amb el cotxe o un adaptador. Les dades en temps real en cotxe normalment no funcionen si no esteu en el cotxe.",
-  "ota_tlm_description": "Les dades en temps real OTA (Over-the-air) permeten obtenir dades del vostre cotxe a través d'una connexió de dades de telefònica mòbi. Això funcionarà fins i tot quan no estigueu en el cotxe, però normalment dona dades menys detallades que una connexió en el cotxe.",
+  "ota_tlm_description": "Les dades en temps real OTA (Over-the-air) permeten obtenir dades del vostre cotxe a través d'una connexió de dades mòbil. Això funcionarà fins i tot quan no estigueu en el cotxe, però normalment dona dades menys detallades que una connexió en el cotxe.",
   "live_data_automotive": "Android Automotive",
   "allow_ferry_warning": "No permeteu viatges en ferri en la ruta",
   "make_primary": "Tria com a principal",
