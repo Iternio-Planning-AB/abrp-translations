@@ -2906,7 +2906,7 @@
   "obdble_unsupported_device_title": "Nepodporované zařízení",
   "obdble_unsupported_device_body": "Tento model není podporován. Chcete-li pokračovat, vyberte jiné zařízení nebo si přečtěte náš článek: <url>Výběr zařízení OBD</url>.",
   "obdble_scan_failed": "Vyhledávání zařízení OBD se nezdařilo. Zkuste to znovu.",
-  "no_server_connection_title": "Nelze se připojit k serveru,
+  "no_server_connection_title": "Nelze se připojit k serveru",
   "no_server_connection_message": "Zkontrolujte připojení k internetu a zkuste to znovu.",
   "session_error_message": "Došlo k problému s Vaší relací. Zkuste to později.",
   "find_chargers_sort_by": "Řadit podle",
