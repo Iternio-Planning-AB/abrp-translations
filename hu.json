@@ -2894,7 +2894,7 @@
   "obdble_setup_step1_body": "Az adapternek a kapcsolódáshoz BLE-re (Bluetooth Low Energy) van szüksége– nem a klasszikus Bluetooth-ra.",
   "obdble_setup_step1_link": "Ha még nem vettél, <url>itt olvashatsz bővebben egy OBD eszköz választásáról</url>.",
   "obdble_setup_warning_title": "OBD-adapter használata a saját kockázatodra történik",
-  "obdble_setup_warning_body": "Rivian, LLC nem felelős semmilyen speciális, véletlen, közvetett vagy következmény kárért, ami az ABRP OBD Kapcsolat szolgáltatás általad történő használata vagy használatra képtelensége kapcsán áll elő.",
+  "obdble_setup_warning_body": "Rivian, LLC nem felelős semmilyen speciális, véletlen, közvetett vagy következményes kárért, ami az ABRP OBD Kapcsolat szolgáltatás általad történő használata vagy használatra képtelensége kapcsán áll elő.",
   "obdble_setup_step2_title": "Szállj be a járművedbe",
   "obdble_setup_step2_body1": "Ülj be a vezetőülésbe a BLE OBD-adaptereddel.",
   "obdble_setup_step2_body2": "Győződj meg róla, hogy a telefonodon a Bluetooth be van kapcsolva.",
