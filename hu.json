@@ -2879,7 +2879,7 @@
   "vehicle_color_yellow": "Sárga",
   "vehicle_color_green": "Zöld",
   "plan_not_found_avoid_hint": "You have avoid options enabled ({{options}}), which can make it impossible to find a working route.",
-  "review_avoid_settings": "Tekintsd át az eLkerülési beállításokat",
+  "review_avoid_settings": "Tekintsd át az elkerülési beállításokat",
   "mail_app_unavailable_title": "Nem tudtuk megnyitni a mail alkalmazásodat",
   "mail_app_unavailable_message": "Vedd fel velünk a kapcsolatot: {{email}}",
   "plan_overview": "Terv áttekintés",
