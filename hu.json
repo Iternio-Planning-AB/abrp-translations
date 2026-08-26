@@ -2937,7 +2937,7 @@
   "obd_pid_minimum": "Minimum",
   "obd_pid_maximum": "Maximum",
   "obd_pid_enter_minimum": "Írd be a minimum értékét",
-  "obd_pid_enter_maximum": "Írj be maximumot",
+  "obd_pid_enter_maximum": "Írd be a maximum értékét",
   "obd_pid_map_results": "Térképezd fel az eredményeket",
   "obd_pid_map_results_description": "Térképezz fel bizonyos egyenlet eredményeket egy meghatározott értékhez.",
   "obd_pid_mappings": "Leképezések",
