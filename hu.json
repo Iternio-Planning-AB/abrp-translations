@@ -2931,7 +2931,7 @@
   "obd_pid_add_command": "Adj meg parancsot",
   "obd_pid_obd_command": "OBD parancs",
   "obd_pid_enter_command": "Írd be a parancsot",
-  "obd_pid_select_telemetry_key": "Válassz telemtria kulcsot",
+  "obd_pid_select_telemetry_key": "Válassz telemetria kulcsot",
   "obd_pid_enter_key": "Írj be kulcsot",
   "obd_pid_enter_equation": "Írj be egyenletet",
   "obd_pid_minimum": "Minimum",
