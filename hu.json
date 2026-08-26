@@ -2883,7 +2883,7 @@
   "mail_app_unavailable_title": "Nem tudtuk megnyitni a mail alkalmazásodat",
   "mail_app_unavailable_message": "Vedd fel velünk a kapcsolatot: {{email}}",
   "plan_overview": "Terv áttekintés",
-  "copy_address": "Másold be a címet",
+  "copy_address": "Másold a címet",
   "share_final_destination_only": "csak a végcélt",
   "no_map_app_installed": "Nem található kompatibilis alkalmazás",
   "map_app_open_failed": "Nem sikerült megnyitni a kiválasztott térkép alkalmazást.",
