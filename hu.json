@@ -2921,7 +2921,7 @@
   "oauth_error_invalid_parameters": "Érvénytelen OAuth paraméterek.",
   "oauth_error_invalid_scope": "Érvénytelen OAuth hatókör.",
   "oauth_error_blocked_request": "Ez a kapcsolatfelvételi kérés blokkolva lett, mert nem érvényes. Kérlek kezdd újra abból az alkalmazásból, amelyet használtál.",
-  "obd_pid_protocol_version": "OBD protocol verzió",
+  "obd_pid_protocol_version": "OBD protokoll verzió",
   "obd_pid_data_fetching": "Adat lekérés",
   "obd_pid_test_parameter_identificator": "Teszt paraméter azonosító",
   "obd_pid_submit_configuration": "Küldd be a konfigurációt",
