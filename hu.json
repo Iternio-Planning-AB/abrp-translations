@@ -2910,7 +2910,7 @@
   "no_server_connection_message": "Kérlek ellenőrizd az internet kapcsolatodat és próbáld újra.",
   "session_error_message": "Probléma volt a munkameneteddel. Kérlek próbáld újra később.",
   "find_chargers_sort_by": "Rendezve",
-  "find_chargers_sort_relevance": "Fontosság",
+  "find_chargers_sort_relevance": "Relevancia",
   "find_chargers_sort_distance": "Távolság",
   "find_chargers_min_stalls_chip": "Töltőoszlopok",
   "find_chargers_min_stalls_title": "Töltőoszlopok",
