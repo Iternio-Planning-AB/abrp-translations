@@ -2953,7 +2953,7 @@
   "obd_pid_duplicate_not_saved": "Nem lett mentve: ez a parancs már létezik",
   "obd_pid_invalid_not_saved": "Nem lett mentve: a parancs részletei nem teljesek vagy érvénytelenek",
   "vehicle_selector_manage_custom_vehicles": "Kezeld az egyedi járműveket",
-  "live_data_connect_description": "Csatlakoztasd a járművedet egy élő adatforráshoz, hogy pontos akku állapotot és élő útvonal becsléseket kapjál.",
+  "live_data_connect_description": "Csatlakoztasd a járművedet egy élő adatforráshoz, hogy pontos akku állapotot és élő útvonal becsléseket kapj.",
   "available_methods": "Elérhető módszerek",
   "unavailable_methods": "Nem elérhető módszerek",
   "not_connected": "Nincs csatlakoztatva",
