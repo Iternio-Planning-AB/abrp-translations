@@ -2890,7 +2890,7 @@
   "look_at_phone_when_safe": "Csak akkor nézz a telefonod képernyőjére, amikor azt biztonságosan tudod megtenni.",
   "premium_required_sign_in_when_parked": "Akkor jelentkezzél be a Premium eléréshez, amikor a járműved le van parkolva.",
   "connect_obd_adapter": "Csatlakoztasd az OBD-adaptert",
-  "obdble_setup_step1_title": "Győződj meg róla, kompatibilis adaptered van",
+  "obdble_setup_step1_title": "Győződj meg róla, hogy kompatibilis adaptered van",
   "obdble_setup_step1_body": "Az adapternek a kapcsolódáshoz BLE-re (Bluetooth Low Energy) van szüksége– nem a klasszikus Bluetooth-ra.",
   "obdble_setup_step1_link": "Ha még nem vettél, <url>itt olvashatsz bővebben egy OBD eszköz választásáról</url>.",
   "obdble_setup_warning_title": "OBD-adapter használata a saját kockázatodra történik",
