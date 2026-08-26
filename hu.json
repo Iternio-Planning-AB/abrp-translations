@@ -2964,7 +2964,7 @@
   "currently_unavailable_for_vehicle": "Jelenleg nem elérhető a járművedre",
   "advanced_obd_settings": "Haladó OBD beállítások",
   "supported_capabilities": "Támogatott képességek",
-  "live_data_method_enode_description": "A jármű API-khoz kapczolódik a gyártó saját szolgáltatásain keresztül mobilhálózaton át",
+  "live_data_method_enode_description": "A jármű API-khoz kapcsolódik a gyártó saját szolgáltatásain keresztül mobilhálózaton át",
   "live_data_method_enode_footnote": "A legtöbb jármű egy aktív gyártói adatelőfizetést igényel ahhoz, hogy ez működjön.",
   "live_data_method_obd_description": "Csatlakoztasd a járművedet az iOS vagy Android eszközödhöz BLE-n (Bluetooth Low Energy) keresztül a felhasználó által telepített OBD-adaptert használva",
   "live_data_method_automotive_description": "Élő adatokat szolgáltat közvetlenül a járműved beépített Android Automotive rendszeréből miközben vezetsz.",
