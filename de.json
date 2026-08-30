@@ -2939,7 +2939,7 @@
   "obd_pid_enter_minimum": "Mindestwert eingeben",
   "obd_pid_enter_maximum": "Maximalwert eingeben",
   "obd_pid_map_results": "Zuordnungs-Ergebnisse",
-  "obd_pid_map_results_description": "Ordne bestimmte Ergebnisse der Gleichung einen vorgegebenen Wert zu.",
+  "obd_pid_map_results_description": "Ordne bestimmten Ergebnissen der Gleichung einen vorgegebenen Wert zu.",
   "obd_pid_mappings": "Zuordnungen",
   "obd_pid_no_mappings": "Keine Zuordnungen",
   "obd_pid_create_mapping": "Zuordnung erstellen",
