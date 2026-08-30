@@ -2881,7 +2881,7 @@
   "plan_not_found_avoid_hint": "Bei dir sind Ausweichoptionen aktiviert ({{options}}), was dazu führen kann, dass keine funktionierende Route gefunden werden kann.",
   "review_avoid_settings": "Überprüfen der Einstellungen zur Vermeidung",
   "mail_app_unavailable_title": "Wir konnten deine E-Mail-App nicht öffnen",
-  "mail_app_unavailable_message": "Kontaktiere uns unter {{email}}}",
+  "mail_app_unavailable_message": "Kontaktiere uns unter {{email}}",
   "plan_overview": "Planübersicht",
   "copy_address": "Adresse kopieren",
   "share_final_destination_only": "nur Endziel",
