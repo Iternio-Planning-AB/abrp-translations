@@ -2837,7 +2837,7 @@
   "reference_consumption_tooltip_automatic": "La consommation influe directement sur l'autonomie de votre véhicule. Cette valeur repose sur plusieurs facteurs, c'est pourquoi elle peut différer de celle affichée dans votre véhicule.",
   "charger_accessibility_open_to_all_evs": "Ouvert à tous les EV",
   "vehicle_selector_optional": "(facultatif)",
-  "vehicle_selector_create_custom_vehicle": "Create from scratch",
+  "vehicle_selector_create_custom_vehicle": "Créer de toutes pièces",
   "vehicle_selector_request_vehicle": "Demander",
   "vehicle_selector_request_vehicle_description": "Demandez l'ajout d'un véhicule via le support.",
   "vehicle_selector_custom_vehicle_description": "Créez ou ajoutez un véhicule personnalisé.",
