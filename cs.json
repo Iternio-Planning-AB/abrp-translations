@@ -1891,7 +1891,7 @@
   "obd_pid_reset_configuration": "Resetovat nastavení",
   "obd_pid_submit_completed": "Nastavení bylo uloženo",
   "obd_pid_no_items": "Žádné položky",
-  "obd_pid_add_command": "Přodat příkaz",
+  "obd_pid_add_command": "Přidat příkaz",
   "obd_pid_obd_command": "Příkaz OBD",
   "obd_pid_enter_command": "Zadejte příkaz",
   "obd_pid_select_telemetry_key": "Vybrat klíč telemetrie",
