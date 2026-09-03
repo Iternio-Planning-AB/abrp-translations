@@ -1904,7 +1904,7 @@
   "obd_pid_map_results": "Výsledky mapování",
   "obd_pid_map_results_description": "Přiřaďte určité výsledky rovnic k zadané hodnotě.",
   "obd_pid_mappings": "Mapování",
-  "obd_pid_no_mappings": "Žádná mapovávní",
+  "obd_pid_no_mappings": "Žádné mapování",
   "obd_pid_create_mapping": "Vytvořit mapování",
   "obd_pid_when_results_is": "Když jsou výsledky…",
   "obd_pid_mapping_default_hint": "Použijte \"výchozí\" pro vyhledání všech výsledků, u nichž není uvedeno nic konkrétního",
