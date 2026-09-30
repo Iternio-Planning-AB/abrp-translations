@@ -1945,9 +1945,9 @@
   "years_affix_one": "an",
   "years_affix_other": "ans",
   "support_hub": "Centre d'assistance",
-  "charger_count_one": "{{count}} charger",
-  "charger_count_other": "{{count}} chargers",
-  "driving_orientation": "Driving orientation",
-  "driving_orientation_left": "Left",
-  "driving_orientation_right": "Right"
+  "charger_count_one": "{{count}} chargeur",
+  "charger_count_other": "{{count}} chargeurs",
+  "driving_orientation": "Sens de conduite",
+  "driving_orientation_left": "Gauche",
+  "driving_orientation_right": "Droite"
 }
