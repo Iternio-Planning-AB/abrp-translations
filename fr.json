@@ -1722,7 +1722,7 @@
   "obdble_setup_warning_title": "L'utilisation d'un adaptateur OBD se fait à vos risques et périls",
   "obdble_setup_warning_body": "Rivian, LLC décline toute responsabilité en cas de dommages particuliers, accessoires, indirects ou consécutifs liés à votre utilisation ou à votre incapacité à utiliser la fonctionnalité de connexion OBD d'ABRP.",
   "obdble_setup_step2_title": "Installez-vous dans votre véhicule",
-  "obdble_setup_step2_body1": "Prenez place au volant avec votre adaptateur OBD BLE.",
+  "obdble_setup_step2_body1": "Prenez place au volant et assurez-vous que le Bluetooth de votre téléphone est activé.",
   "obdble_setup_step3_title": "Connectez l'adaptateur OBD",
   "obdble_setup_step3_body1": "Localisez le port de diagnostic embarqué (OBD) de votre véhicule et insérez l'adaptateur. Consultez le manuel du propriétaire si vous avez du mal à le trouver.",
   "obdble_setup_step3_body2": "Mettez le véhicule sous tension pour activer l'adaptateur.",
