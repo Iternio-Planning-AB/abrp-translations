@@ -1761,7 +1761,7 @@
   "obd_pid_maximum": "Maximum",
   "obd_pid_enter_minimum": "Saisir le minimum",
   "obd_pid_enter_maximum": "Saisir le maximum",
-  "obd_pid_map_results": "Mapper les résultats",
+  "obd_pid_map_results": "Associer les résultats",
   "obd_pid_map_results_description": "Associer certains résultats d'équation à une valeur spécifique.",
   "obd_pid_mappings": "Associations",
   "obd_pid_no_mappings": "Aucune association",
