@@ -1672,7 +1672,7 @@
   "vehicle_selector_add_vehicle_by_id": "Afegeix mitjançant l'ID del model del vehicle",
   "vehicle_selector_custom_vehicles": "Vehicles personalitzats",
   "vehicle_selector_created_date": "Creat el {{date}}",
-  "count_models_one": "Model {{count}}",
+  "count_models_one": "{{count}} model",
   "recenter_on_plan": "Recentra sobre l'itinerari",
   "manage_account_on_another_device": "Utilitzeu un altre dispositiu amb ABRP per gestionar el vostre compte",
   "failed_to_fetch_qr_login": "No s'ha pogut obtenir el codi QR d'inici de sessió.",
