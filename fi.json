@@ -1666,7 +1666,7 @@
   "icon": "Kuvake",
   "reference_consumption_tooltip_automatic": "Kulutus vaikuttaa suoraan ajoneuvosi toimintamatkaan. Tämä arvo perustuu useisiin tekijöihin, minkä vuoksi se voi poiketa ajoneuvossasi näkyvästä arvosta.",
   "charger_accessibility_open_to_all_evs": "Avoin kaikille sähköautoille",
-  "vehicle_selector_create_custom_vehicle": "Luo alusta alkaen",
+  "vehicle_selector_create_custom_vehicle": "Luo mukautettu ajoneuvo",
   "vehicle_selector_request_vehicle": "Pyydä",
   "vehicle_selector_request_vehicle_description": "Pyydä ajoneuvon lisäämistä tuen kautta.",
   "vehicle_selector_custom_vehicle_description": "Luo tai lisää mukautettu ajoneuvo.",
