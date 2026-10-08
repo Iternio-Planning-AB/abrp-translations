@@ -1,0 +1,27 @@
+name: Check Placeholders
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  placeholders:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Compare placeholders with en.json
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          git fetch --no-tags origin "$BASE_REF"
+          mapfile -t files < <(git diff --name-only --diff-filter=AM "origin/$BASE_REF...HEAD" -- '*.json' ':!en.json' ':!.github/**' ':!ai-review/**')
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No translation files changed."
+            exit 0
+          fi
+          python3 .github/scripts/check-placeholders.py "origin/$BASE_REF" "${files[@]}"
