@@ -1945,11 +1945,11 @@
   "years_affix_one": "év",
   "years_affix_other": "év",
   "support_hub": "Támogatási központ",
-  "charger_count_one": "{{count}} charger",
-  "charger_count_other": "{{count}} chargers",
-  "driving_orientation": "Driving orientation",
-  "driving_orientation_left": "Left",
-  "driving_orientation_right": "Right",
-  "amenity_no_candidates": "No stop matching your amenity could be found along this route. Remove the stop or change its options and plan again.",
-  "amenity_no_candidates_on_route": "No matching amenity found on your route"
+  "charger_count_one": "{{count}} töltő",
+  "charger_count_other": "{{count}} töltő",
+  "driving_orientation": "Vezetési oldal",
+  "driving_orientation_left": "Bal",
+  "driving_orientation_right": "Jobb",
+  "amenity_no_candidates": "Nincs megfelelő szolgáltatás ennek az útvonalnak a mentén. Távolítsa el a megállót, vagy módosítsa a beállításait és tervezzen újra.",
+  "amenity_no_candidates_on_route": "Nem található megfelelő szolgáltatás az útvonalán"
 }
