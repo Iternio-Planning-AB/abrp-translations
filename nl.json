@@ -589,7 +589,7 @@
   "feedback_has_playground": "Heeft deze locatie een kinderspeelplaats of een speelvriendelijk gebied in de buurt?",
   "feedback_dog_friendly": "Is dit een fijne locatie om je hond uit te laten?",
   "try_again": "Probeer nogmaals",
-  "high_max_speed_warning": "U heeeft een hoge waarde ({{max_speed}}) ingesteld in de instelling.",
+  "high_max_speed_warning": "U heeft een hoge waarde ({{max_speed}}) ingesteld in de instelling.",
   "high_speed_factor": "U heeft een hoge referentiesnelheid ({{speed}} %) ingesteld. Deze instelling betekent dat u {{speed}} % van de maximumsnelheid wilt rijden, ofwel veel sneller dan toegestaan.",
   "low_speed_factor": "U heeft een lage referentiesnelheid ({{speed}} %) ingesteld. Deze instelling betekent dat u {{speed}} % van de maximumsnelheid wilt rijden, ofwel veel langzamer dan toegestaan.",
   "set_to_x": "Ingesteld op {{x}}",

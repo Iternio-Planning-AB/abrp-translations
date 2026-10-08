@@ -24,7 +24,11 @@ def flatten(obj, prefix=""):
 
 def placeholders(value):
     text = value if isinstance(value, str) else json.dumps(value, ensure_ascii=False)
-    return Counter(m.replace(" ", "") for m in PLACEHOLDER.findall(text))
+    found = Counter(m.replace(" ", "") for m in PLACEHOLDER.findall(text))
+    stray = sum(PLACEHOLDER.sub("", text).count(brace) for brace in "{}")
+    if stray:
+        found["stray { or }"] = stray
+    return found
 
 
 def load_base(ref, path):
