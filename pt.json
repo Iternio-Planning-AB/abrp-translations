@@ -914,7 +914,7 @@
   "delete_configuration_description": "Isto irá eliminar permanentemente a configuração. \n\n Tem a certeza?",
   "no_response_since": "{{diff}} sem dados OBD",
   "historical_data_shared": "Dados históricos partilhados",
-  "charger_status_unknown_stalls_count_one": "estado desconhecido • um lugar",
+  "charger_status_unknown_stalls_count_one": "unknown status • {{count}} stall",
   "charger_status_unknown_stalls_count_other": "estado desconhecido • {{count}} lugares",
   "start_from_here": "Começar daqui",
   "reference_consumption_tooltip": "O consumo de referência é utilizado para calcular o seu consumo e autonomia. O valor difere do valor médio apresentado no veículo. Enquanto o valor do veículo reflete o seu consumo histórico, esta referência serve como uma representação de base.",

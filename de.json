@@ -18,7 +18,7 @@
   "device_serial_number_needed": "Als Erstes braucht ABRP die Seriennummer deines {{deviceName}}",
   "connect_device_to_ABRP": "{{deviceName}} mit ABRP verknüpfen",
   "register_device": "Gerät anmelden",
-  "device_registration_successful": "Anmeldung erfolgreich!",
+  "device_registration_successful": "Your {{deviceName}} has been successfully registered!",
   "order_device_here": "Hier bestellen!",
   "no_device": "Noch kein {{deviceName}} bestellt?",
   "device_registration_title": "Einrichtung von {{deviceName}}",

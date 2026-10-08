@@ -296,7 +296,7 @@
   "calib_ref_cons_confidence_description": "הכיול מבוסס על מה שאנו מודדים מהמכונית תוך כדי נסיעה בתנאים שונים. למשל, אנו זקוקים לכמות מסוימת של נהיגה במהירות נמוכה, בינונית וגבוהה כדי לקבל תמונה שלמה של הצריכה. ככל שמספרי הביטחון קרובים ל 100 % ככל שאנו בטוחים יותר בצריכה. ",
   "x_min_to_complete_charging": "{{count}} דקות עד שהטעינה הושלמה",
   "charging_complete": "הטעינה הושלמה!",
-  "notification_next_stop": "next",
+  "notification_next_stop": "Next: {{duration}} to {{destination}}",
   "your_car": "הרכב שלך",
   "notifications": "התראות",
   "battery_capacity": "קיבולת סוללה",
