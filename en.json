@@ -1545,6 +1545,8 @@
   "amenity_select_food_types": "Select food types",
   "amenities_more_subcategory_selected": "+ {{count}} more fitting categories selected",
   "amenity_food_types_title": "Food types",
+  "amenity_no_candidates": "No stop matching your amenity could be found along this route. Remove the stop or change its options and plan again.",
+  "amenity_no_candidates_on_route": "No matching amenity found on your route",
   "plus_count_amenities": "+ {{count}} more amenities",
   "drive_duration": "Drive duration",
   "trip_summary": "Trip summary",

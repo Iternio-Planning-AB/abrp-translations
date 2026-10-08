@@ -1949,5 +1949,7 @@
   "charger_count_other": "{{count}} Ladestationen",
   "driving_orientation": "Fahrorientierung",
   "driving_orientation_left": "Links",
-  "driving_orientation_right": "Rechts"
+  "driving_orientation_right": "Rechts",
+  "amenity_no_candidates": "No stop matching your amenity could be found along this route. Remove the stop or change its options and plan again.",
+  "amenity_no_candidates_on_route": "No matching amenity found on your route"
 }
