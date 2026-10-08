@@ -1722,7 +1722,7 @@
   "obdble_setup_warning_title": "Käytät OBD-sovitinta omalla vastuullasi",
   "obdble_setup_warning_body": "Rivian, LLC ei vastaa erityisistä, satunnaisista, epäsuorista tai välillisistä vahingoista, jotka liittyvät ABRP OBD -yhteysominaisuuden käyttöön tai siihen, ettei ominaisuutta voida käyttää.",
   "obdble_setup_step2_title": "Siirry ajoneuvoosi",
-  "obdble_setup_step2_body1": "Istu kuljettajan paikalle ja ota BLE OBD -sovitin mukaasi.",
+  "obdble_setup_step2_body1": "Istu kuljettajan paikalle, varmista että puhelimesi Bluetooth on päällä ja ota BLE OBD -sovitin mukaasi.",
   "obdble_setup_step3_title": "Yhdistä OBD-sovitin",
   "obdble_setup_step3_body1": "Etsi ajoneuvosi OBD-portti (On-Board Diagnostics) ja liitä sovitin siihen. Tarkista ajoneuvon käyttöohje, jos portin löytäminen on vaikeaa.",
   "obdble_setup_step3_body2": "Kytke ajoneuvoon virta, jotta sovitin aktivoituu.",
