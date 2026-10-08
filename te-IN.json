@@ -646,7 +646,7 @@
   "days_affix_one": "రోజు",
   "days_affix_other": "రోజులు",
   "low_soc_warning": "మీ సెట్టింగ్‌లలో, మీరు 15% కంటే తక్కువ రుసుములతో బయలుదేరుతారు",
-  "high_ref_consumption_warning": "{{ref_consumption}} మీరు మీ కారు రిఫరెన్స్ వినియోగాన్ని Wh/km కంటే ఎక్కువగా సెట్ చేసారు",
+  "high_ref_consumption_warning": "{{ref_consumtion}} మీరు మీ కారు రిఫరెన్స్ వినియోగాన్ని Wh/km కంటే ఎక్కువగా సెట్ చేసారు",
   "high_battery_degradation_warning": "మీరు బ్యాటరీ డ్రెయిన్‌ను చాలా ఎక్కువగా సెట్ చేసారు",
   "parameter_error_current_soc_description": "ప్రస్తుత ఛార్జ్ స్థితి (SoC) విలువ చెల్లదు. మీ వాహన సెట్టింగ్‌లు లేదా లైవ్ డేటా కనెక్షన్‌ని తనిఖీ చేయండి.",
   "parameter_error_reference_consumption_description": "సూచన వినియోగ విలువ చెల్లదు. మీ వాహన సెట్టింగ్‌లను తనిఖీ చేయండి లేదా డిఫాల్ట్ విలువకు రీసెట్ చేయండి.",

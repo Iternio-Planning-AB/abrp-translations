@@ -1475,7 +1475,7 @@
   "vehicle_selector_car_selector_no_vehicles_found": "তোমার নির্বাচিত ফিল্টারগুলির সাথে মেলে কোনো যাওবাহন পাওয়া যায়নি৷",
   "no_more_alternatives": "আর কোন বিকল্প নেই",
   "ferry": "ফেরি",
-  "eta_arrival": "ETA {{আগত}}",
+  "eta_arrival": "ETA {{arrival}}",
   "vehicle_selector_no_model_found": "যানবাহন অনুপস্থিত?",
   "searching_charger_alternatives": "বিকল্প চার্জার খোঁজা হচ্ছে...",
   "view_more_alternatives": "আরো বিকল্প দেখো",

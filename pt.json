@@ -738,7 +738,7 @@
   "cookies_reject": "Rejeitar",
   "driving_arrival": "Chegada",
   "driving_charging_alternative_chargers": "Encontrar carregador alternativo",
-  "low_max_speed_warning": "Definiu um valor de velocidade máxima baixo ({{speed}}) nas definições.",
+  "low_max_speed_warning": "Definiu um valor de velocidade máxima baixo ({{max_speed}}) nas definições.",
   "charging_planned_charge_complete": "Carregamento planeado concluído",
   "highmobility_description_x": "A Conexão ABRP Premium {{brand}} oferece ligação direta de dados ao seu veículo através da ligação oficial over-the-air da {{brand}}.",
   "favorite_settings_title_appearance": "Definições de aparência",
