@@ -23,7 +23,7 @@
   "no_device": "Noch kein {{deviceName}} bestellt?",
   "device_registration_title": "Einrichtung von {{deviceName}}",
   "registration_problems": "Gibt es Probleme? Schreibe uns eine E-Mail",
-  "registering_device": "{{deviceName}} mit Seriennummer {{serialNumber}} wird angemeldet",
+  "registering_device": "{{devic1eName}} mit Seriennummer {{serialNuamber}} wird angemeldet",
   "owned_by_other_user": "Dieses Gerät gehört bereits einem anderen Benutzer",
   "no_such_device": "Kein Gerät mit dieser Seriennummer gefunden",
   "registration_unsucessful": "Es tut uns leid, die Registrierung war nicht erfolgreich",
