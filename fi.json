@@ -1709,7 +1709,7 @@
   "plan_not_found_avoid_hint": "Olet ottanut käyttöön vältettäviä reittivaihtoehtoja ({{options}}), jotka voivat estää toimivan reitin löytymisen.",
   "review_avoid_settings": "Tarkista välttämisasetukset",
   "mail_app_unavailable_title": "Sähköpostisovellusta ei voitu avata",
-  "mail_app_unavailable_message": "Ota meihin yhteyttä osoitteessa {{email}}",
+  "mail_app_unavailable_message": "Ota yhteyttä meihin osoitteessa {{email}}",
   "share_final_destination_only": "vain lopullinen määränpää",
   "no_map_app_installed": "Yhteensopivaa karttasovellusta ei löytynyt",
   "map_app_open_failed": "Valittua karttasovellusta ei voitu avata.",
