@@ -1722,7 +1722,7 @@
   "obdble_setup_warning_title": "Používání OBD adaptéru je na vlastní riziko",
   "obdble_setup_warning_body": "Rivian, LLC nenese odpovědnost za žádné zvláštní, náhodné, nepřímé ani následné škody související s Vaším používáním nebo nemožností používání funkce ABRP OBD Connection.",
   "obdble_setup_step2_title": "Vstupte do vozidla.",
-  "obdble_setup_step2_body1": "Posaďte se za volant se svým adaptérem BLE OBD.",
+  "obdble_setup_step2_body1": "Posaďte se za volant a ujistěte se, že máte na telefonu zapnuté Bluetooth.",
   "obdble_setup_step3_title": "Připojte OBD adaptér",
   "obdble_setup_step3_body1": "Najděte port palubní diagnostiky (OBD) ve svém vozidle a zapojte do něj adaptér. Pokud máte potíže s jeho nalezením, podívejte se do uživatelské příručky.",
   "obdble_setup_step3_body2": "Zapněte vozidlo, aby se adaptér aktivoval.",
