@@ -1945,9 +1945,11 @@
   "years_affix_one": "Jahr",
   "years_affix_other": "Jahre",
   "support_hub": "Support-Center",
-  "charger_count_one": "{{count}} charger",
-  "charger_count_other": "{{count}} chargers",
-  "driving_orientation": "Driving orientation",
-  "driving_orientation_left": "Left",
-  "driving_orientation_right": "Right"
+  "charger_count_one": "{{count}} Ladestation",
+  "charger_count_other": "{{count}} Ladestationen",
+  "driving_orientation": "Fahrorientierung",
+  "driving_orientation_left": "Links",
+  "driving_orientation_right": "Rechts",
+  "amenity_no_candidates": "No stop matching your amenity could be found along this route. Remove the stop or change its options and plan again.",
+  "amenity_no_candidates_on_route": "No matching amenity found on your route"
 }

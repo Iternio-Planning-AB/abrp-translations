@@ -1949,5 +1949,7 @@
   "charger_count_other": "{{count}} nabíječek",
   "driving_orientation": "Orientace při řízení",
   "driving_orientation_left": "Vlevo",
-  "driving_orientation_right": "Vpravo"
+  "driving_orientation_right": "Vpravo",
+  "amenity_no_candidates": "No stop matching your amenity could be found along this route. Remove the stop or change its options and plan again.",
+  "amenity_no_candidates_on_route": "No matching amenity found on your route"
 }
