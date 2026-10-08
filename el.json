@@ -299,7 +299,7 @@
   "battery_capacity": "Χωρητικότητα μπαταρίας",
   "add_ferry_line": "Προσθήκη γραμμής πλοίου",
   "share_map_app_picker": "Ποια εφαρμογή θα θέλατε να χρησιμοποιήσετε;",
-  "there_is_a_faster_route": "Υπάρχει μία διαδρομή {{duration}} πιο γρήγορη",
+  "there_is_a_faster_route": "There is a faster route",
   "view_alternatives": "Δείτε εναλλακτικές",
   "plan_no_longer_viable": "Αυτό το πλάνο δεν είναι πια εφικτό",
   "always_log": "Κρατάτε πάντα ιστορικό",

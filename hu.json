@@ -299,7 +299,7 @@
   "battery_capacity": "Akkumulátor kapacitás",
   "add_ferry_line": "Kompjárat hozzáadása",
   "share_map_app_picker": "Melyik alkalmazást szeretnéd használni?",
-  "there_is_a_faster_route": "Elérhető egy {{duration}}-al gyorsabb útvonal",
+  "there_is_a_faster_route": "There is a faster route",
   "view_alternatives": "Alternatív útvonalak megjelenítése",
   "plan_no_longer_viable": "Ez az útvonal már nem használható",
   "always_log": "Naplózás minden esetben",

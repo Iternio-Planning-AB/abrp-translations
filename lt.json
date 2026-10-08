@@ -297,7 +297,7 @@
   "battery_capacity": "Baterijos talpa",
   "add_ferry_line": "Pridėti kelto liniją",
   "share_map_app_picker": "Kurią programėlę norėtumėte naudoti?",
-  "there_is_a_faster_route": "Yra {{duration}} trumpesnis maršrutas",
+  "there_is_a_faster_route": "There is a faster route",
   "view_alternatives": "Peržiūrėti alternatyvas",
   "plan_no_longer_viable": "Šis maršrutas nebetinkamas",
   "always_log": "Visada registruoti įvykius",

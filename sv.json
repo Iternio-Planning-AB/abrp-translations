@@ -301,7 +301,7 @@
   "notifications": "Aviseringar",
   "add_ferry_line": "Lägg till färjelinje",
   "share_map_app_picker": "Vilken app vill du använda?",
-  "there_is_a_faster_route": "Det finns en {{duration}} snabbare rutt",
+  "there_is_a_faster_route": "There is a faster route",
   "view_alternatives": "Visa alternativ",
   "plan_no_longer_viable": "Denna plan är inte längre möjlig",
   "always_log": "Spara min kördata",

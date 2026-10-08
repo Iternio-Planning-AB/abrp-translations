@@ -297,7 +297,7 @@
   "battery_capacity": "Capacité",
   "add_ferry_line": "Ajouter une ligne de ferry",
   "share_map_app_picker": "Quelle application souhaitez-vous utiliser ?",
-  "there_is_a_faster_route": "Il existe un itinéraire plus rapide de {{duration}}",
+  "there_is_a_faster_route": "There is a faster route",
   "view_alternatives": "Voir les alternatives",
   "plan_no_longer_viable": "Ce plan n'est plus viable",
   "always_log": "Toujours se connecter",

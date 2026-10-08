@@ -299,7 +299,7 @@
   "battery_capacity": "Ємність акумулятора",
   "add_ferry_line": "Додати поромну переправу",
   "share_map_app_picker": "Яку програму Ви б хотіли використовувати?",
-  "there_is_a_faster_route": "Є маршрут на {{duration}} коротше",
+  "there_is_a_faster_route": "There is a faster route",
   "view_alternatives": "Переглянути альтернативні варіанти",
   "plan_no_longer_viable": "Цей маршрут більше не актуальний",
   "always_log": "Завжди вести журнал подій",

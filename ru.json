@@ -299,7 +299,7 @@
   "battery_capacity": "Ёмкость батареи",
   "add_ferry_line": "Добавить паромную переправу",
   "share_map_app_picker": "Какое приложение Вы бы хотели использовать?",
-  "there_is_a_faster_route": "Есть маршрут на {{duration}} короче",
+  "there_is_a_faster_route": "There is a faster route",
   "view_alternatives": "Посмотреть альтернативные варианты",
   "plan_no_longer_viable": "Этот маршрут больше не актуален",
   "always_log": "Всегда вести журнал событий",
