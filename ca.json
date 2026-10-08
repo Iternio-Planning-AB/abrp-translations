@@ -663,7 +663,7 @@
   "direction_fork_destination": "Manteniu-vos {{direction}} en direcció {{destination}}",
   "direction_fork_ref": "Manteniu-vos {{direction}} cap a {{ref}}",
   "direction_offramp_ref_destination": "Agafeu el branc {{direction}} cap a {{ref}} direcció {{destination}}",
-  "direction_offramp_destination": "Agafeu el branc {{direction}} direcció {{destination}}",
+  "direction_offramp_destination": "Agafeu el branc {{direction}} cap a {{destination}}",
   "direction_offramp_exit_destination": "Agafeu la sortida {{exit}} en direcció {{destination}}",
   "direction_offramp_exit_ref": "Agafeu la sortida {{exit}} cap a {{ref}}",
   "direction_offramp_exit_ref_destination": "Agafeu la sortida {{exit}} cap a {{ref}} en direcció {{destination}}",
