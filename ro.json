@@ -19,7 +19,7 @@
   "connect_device_to_ABRP": "Conectează {{deviceName}} cu A Better Routeplanner",
   "register_device": "Înregistrare dispozitiv",
   "initial_device_configuration": "Acum că dispozitivul este înregistrat, luați mașina pentru o scurtă călătorie de cinci minute, astfel încât {{deviceName}} să vă poată cunoaște mașina. Ar trebui să vedeți cum datele sunt populate în scurt timp. Dacă datele nu apar după această primă călătorie, deconectați {{deviceName}} timp de 30 de secunde, apoi conectați-l din nou și faceți încă o scurtă călătorie de cinci minute.",
-  "device_registration_successful": "{{deviceName}} a fost înregistrat cu succes!",
+  "device_registration_successful": "Dispozitivul {{deviceName}} a fost înregistrat cu succes!",
   "order_device_here": "Comandă!",
   "no_device": "Nu ai {{deviceName}} încă?",
   "device_registration_title": "Configurare {{deviceName}}",

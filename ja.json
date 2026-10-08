@@ -409,7 +409,7 @@
   "direction_roundabout_exit": "ラウンドアバウトを終了します",
   "direction_continue": "続行{{direction}}",
   "direction_fork": "フォークで{{direction}}を保持します",
-  "direction_fork_ref_destination": "{{direction}}方向を維持し、{{ref}}を{{destination}}方面へ進みます",
+  "direction_fork_ref_destination": "{{direction}}側を進み、{{ref}}を{{destination}}方面へ進みます",
   "direction_fork_destination": "{{direction}}に{{destination}}に向かって",
   "direction_fork_ref": "{{direction}}から{{ref}}を保持します",
   "direction_arrival": "目的地は{{direction_variant}}です",
