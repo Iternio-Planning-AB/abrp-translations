@@ -1951,5 +1951,5 @@
   "driving_orientation_left": "Bal",
   "driving_orientation_right": "Jobb",
   "amenity_no_candidates": "Nincs megfelelő szolgáltatás ennek az útvonalnak a mentén. Távolítsa el a megállót, vagy módosítsa a beállításait és tervezzen újra.",
-  "amenity_no_candidates_on_route": "Nem található magfelelő szolgáltatás az útvonalán"
+  "amenity_no_candidates_on_route": "Nem található megfelelő szolgáltatás az útvonalán"
 }
