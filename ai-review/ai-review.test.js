@@ -4,6 +4,9 @@ const {
   filterDiffByIgnoredFiles,
   parseTranslationChangesFromDiff,
   getNestedValue,
+  getGlossaryPath,
+  getGlossaryPaths,
+  buildGlossarySection,
 } = require('./utils');
 
 describe('ai-review translation parsing tests', () => {
@@ -457,6 +460,68 @@ diff --git a/src/App.tsx b/src/App.tsx
       expect(result).toContain('Some preamble text');
       expect(result).toContain('Another line of metadata');
       expect(result).toContain('src/App.tsx');
+    });
+  });
+});
+
+describe('glossary helpers', () => {
+  describe('getGlossaryPath', () => {
+    it('maps a language file to its glossary', () => {
+      expect(getGlossaryPath('de.json')).toBe('glossary/de.md');
+      expect(getGlossaryPath('pt-br.json')).toBe('glossary/pt-br.md');
+      expect(getGlossaryPath('zh-TW.json')).toBe('glossary/zh-TW.md');
+    });
+
+    it('has no glossary for English or non-language files', () => {
+      expect(getGlossaryPath('en.json')).toBeNull();
+      expect(getGlossaryPath('package.json')).toBeNull();
+      expect(getGlossaryPath('README.md')).toBeNull();
+      expect(getGlossaryPath(undefined)).toBeNull();
+    });
+
+    it('never builds a path outside the glossary folder', () => {
+      expect(getGlossaryPath('../secrets.json')).toBeNull();
+      expect(getGlossaryPath('glossary/de.json')).toBeNull();
+      expect(getGlossaryPath('de/../../x.json')).toBeNull();
+    });
+  });
+
+  describe('getGlossaryPaths', () => {
+    it('returns each touched language once', () => {
+      const changes = [{ file: 'de.json' }, { file: 'de.json' }, { file: 'fr.json' }, { file: 'en.json' }];
+      expect(getGlossaryPaths(changes)).toEqual(['glossary/de.md', 'glossary/fr.md']);
+    });
+
+    it('handles an empty list', () => {
+      expect(getGlossaryPaths([])).toEqual([]);
+      expect(getGlossaryPaths(undefined)).toEqual([]);
+    });
+  });
+
+  describe('buildGlossarySection', () => {
+    it('is empty when no glossary was found', () => {
+      expect(buildGlossarySection([], 'concepts')).toBe('');
+      expect(buildGlossarySection([{ path: 'glossary/de.md', content: null }], 'concepts')).toBe('');
+    });
+
+    it('contains the concepts once and every glossary', () => {
+      const section = buildGlossarySection(
+        [
+          { path: 'glossary/de.md', content: 'German terms' },
+          { path: 'glossary/fr.md', content: 'French terms' },
+        ],
+        'Shared concepts'
+      );
+      expect(section).toContain('## Glossary');
+      expect(section.match(/Shared concepts/g)).toHaveLength(1);
+      expect(section).toContain('### glossary/de.md\nGerman terms');
+      expect(section).toContain('### glossary/fr.md\nFrench terms');
+    });
+
+    it('works without a concepts file', () => {
+      const section = buildGlossarySection([{ path: 'glossary/de.md', content: 'German terms' }], null);
+      expect(section).toContain('German terms');
+      expect(section).not.toContain('Concepts');
     });
   });
 });

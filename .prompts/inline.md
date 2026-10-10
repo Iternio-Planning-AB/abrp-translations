@@ -22,7 +22,7 @@ Provide concise, practical inline review comments on typos, incorrect translatio
 2. **Incorrect translations** - mistranslations, wrong meaning, cultural inappropriateness
 3. **Grammatical errors** - wrong tense, case, gender, agreement, or sentence structure
 4. **Typos and spelling errors** - misspelled words in the target language
-5. **Inconsistent terminology** - using different terms for the same concept within the file
+5. **Inconsistent terminology** - using different terms for the same concept within the file, or contradicting the glossary of that language (`glossary/<language>.md`, if it exists)
 6. **Formatting issues** - incorrect placeholders, missing/extra variables (e.g., `{variable}`), broken HTML tags
 
 ---

@@ -31,6 +31,8 @@ You can help in two ways:
 
 3. Maintain all punctuation and formatting symbols
 
+4. Check the [glossary](glossary/README.md) if there is one for your language (for example [German](glossary/de.md)): it fixes one translation per term so the app stays consistent. The automated reviews use it to check new translations.
+
 ## 📱 Get the App
 
 - [iOS App Store](https://apps.apple.com/us/app/a-better-routeplanner-abrp/id1490860521)
