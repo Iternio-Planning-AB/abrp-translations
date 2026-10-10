@@ -446,7 +446,7 @@
   "error_adding_to_calendar": "Fehler beim Hinzufügen zum Kalender",
   "calendar_set_departure_time": "Lege ein zukünftiges Abfahrtsdatum fest, um den Plan in den Kalender zu exportieren.",
   "yes_absolutely_sure": "Ja, ich bin mir ganz sicher!",
-  "direction_arrival_charger": "Lade für {{duration}} bis {{to_soc}} %.",
+  "direction_arrival_charger": "Lade {{duration}} lang, um {{to_soc}} % zu erreichen.",
   "coordinates": "Koordinaten",
   "address": "Adresse",
   "direction_next_instruction": "danach",
