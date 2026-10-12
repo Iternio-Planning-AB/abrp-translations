@@ -1950,6 +1950,6 @@
   "driving_orientation": "Ajopuoli",
   "driving_orientation_left": "Vasen",
   "driving_orientation_right": "Oikea",
-  "amenity_no_candidates": "No stop matching your amenity could be found along this route. Remove the stop or change its options and plan again.",
-  "amenity_no_candidates_on_route": "No matching amenity found on your route"
+  "amenity_no_candidates": "Reitin varrelta ei löytynyt palvelutoivettasi vastaavaa pysähdyspaikkaa. Poista pysähdys tai muuta sen asetuksia ja suunnittele reitti uudelleen.",
+  "amenity_no_candidates_on_route": "Reitiltä ei löytynyt sopivaa palvelua"
 }
