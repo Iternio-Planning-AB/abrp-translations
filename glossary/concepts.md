@@ -44,6 +44,9 @@ the glossary of each language.
 | `sleep`, `idle`, `device_sleeping` | the vehicle or device is asleep or idle |
 | `reference_consumption` | the plan setting; the English text is just "Consumption" |
 | `realtime_chargers` | the charger **availability** feature |
+| `always_log` | the setting that always records your drives (activity logging), never "sign in" |
+| `live_data_automotive` | Android **Automotive** (the car's built-in system), not Android Auto |
+| `driving_v2_map_compass_n`, `_e`, `_s`, `_w` | compass-point letters on the driving map; use your language's letters |
 
 ## Strings assembled by the app
 
@@ -59,6 +62,9 @@ its own:
 - `premium_option_payment_desription`: "then {{price}} every {{duration}}" where the duration is
   `year` or `month`.
 - `amenity_stop`, `amenities_more`: `{{category}}` is a translated category label.
+- Percentages that the app formats itself are shown as `80%`, number first, in every language.
+  `live_data_sharing_charging_to` gets " to 80%" appended by the app, so keep `{{soc}}%` as a
+  suffix too, or one label shows both orders.
 - Arrays such as `table_heading` and `daily_summary_export_header`: one entry per column, same
   length and order as English.
 - `<url>…</url>`, `<bold>…</bold>`, `<url2>…</url2>`: markup tags; keep the tags and translate
@@ -68,3 +74,32 @@ its own:
 
 ABRP, A Better Routeplanner, Apple CarPlay, Android Auto, Android Automotive, Apple Watch, Tronity,
 Smartcar, Enode, Car Scanner, Featurebase, Rivian, Tesla, Mapbox, OBD, BLE, TTS, EV, CPO, SoC.
+
+## To be confirmed
+
+Readings of the English that are likely but not yet confirmed. If you know the answer, say so in
+a pull request; confirmed points move into the tables above.
+
+- `idle`, `started`, `succeeded`, `failed`, `unnecessary` sit together and are probably the states
+  of a test command in the OBD PID editor, not the vehicle being asleep (the `idle` row above).
+- `sleep` sits next to `shopping` and may be an amenity category ("somewhere to sleep") rather than
+  the vehicle status in the row above.
+- `driving_orientation`: a car display setting with Left and Right options, read as the driver's side.
+- `driving_v2_sheet_label`: the accessibility name of the panel at the bottom of the driving view.
+  `driving_v2_charge_rate_prompt`: the label next to the rating stars ("Rate").
+- `driving_v2_share_live_drive*`: sharing the current drive live with other people.
+- `driving_v2_charge_to_duration`: a notification text, so a noun phrase may read better than a command.
+- `amenities_wp_button`: a charger that has amenities near a chosen location.
+- `add_guidepoint`: a point that shapes the route on the map, different from a waypoint.
+- `session_price`: the price per charging session. `for`: the "charge for X minutes" option next to `to`.
+- `opening_hours_closes`: a time follows it. `details_page_marker`: a dropped pin.
+- `access_token`: "REFRESH token" is the name of a Tesla token type, not a verb.
+- `max_speed`, `routes_planned`: used as lower-case words inside a sentence.
+- `upgrade` on a live data connection option: the option needs Premium, so it means upgrading to Premium.
+- `obd_pid_mapping_default_hint`: "default" is a word the user types, so it stays untranslated.
+  `obd_firmware_error_manifest_malformed`: `version` and `firmware` are field names.
+- `car_scanner_step2_item2` ("ABRP Integration") and `tesla_fleet_streaming_toggle`
+  ("Settings->Security") name menu items in other apps; use the names those apps show in your
+  language if you know them.
+- `From`, `To` are used both on plan rows and for a date range; if your language needs different
+  words for the two, say so, they may need separate keys.
