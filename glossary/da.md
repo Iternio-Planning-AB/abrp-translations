@@ -65,7 +65,7 @@ companies carry no pronoun.
 | dismiss | **Luk**, **Skjul** | Afbryd |
 | settings, preferences | **indstillinger**, **præferencer** | |
 | chart, graph | **diagram**, **graf** | |
-| unit system labels (`imperial`, `british`) | **US**, **UK**, mirroring English | Britisk |
+| unit system labels (`imperial`, `british`) | **US**, **UK**, as in English | USA, Britisk |
 
 ## Conventions
 
