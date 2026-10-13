@@ -9,7 +9,8 @@ language they review and flag new translations that contradict it.
 | [`concepts.md`](concepts.md) | What the English terms mean (charger vs. stall vs. plug, …). Shared by every language. |
 | `<language>.md` | The chosen terms, register and style rules for one language, named like the translation file: `de.md` for `de.json`, `pt-br.md` for `pt-br.json`. |
 
-Available languages: [German](de.md).
+Available languages: [Danish](da.md), [Dutch](nl.md), [French](fr.md), [German](de.md),
+[Italian](it.md), [Spanish](es.md), [Turkish](tr.md).
 
 ## Using a glossary
 
@@ -30,3 +31,5 @@ they are touched anyway.
 - Keep it language specific. Meaning of English terms belongs in `concepts.md`.
 - Keep entries short and checkable: a reviewer must be able to decide from the table whether a
   translation follows it.
+- Put choices and readings that are not agreed yet under `## To be confirmed`, as short questions.
+  Language-specific ones go in the language's glossary, readings of the English in `concepts.md`.
