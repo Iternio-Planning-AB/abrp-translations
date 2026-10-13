@@ -65,7 +65,7 @@ or flow.
 | chart, graph | **grafiek** | diagram |
 | photo, image | **foto**, **afbeelding** (mirror English) | |
 | electric current (`current`) | **Stroom** | Huidige |
-| unit system labels (`imperial`, `british`) | **VS**, **VK**, mirroring English | Amerikaans, Brits |
+| unit system labels (`imperial`, `british`) | **US**, **UK**, as in English | VS, VK, Amerikaans, Brits |
 
 ## Conventions
 
@@ -90,7 +90,6 @@ or flow.
 - **laadpunt** for stall: the file mixed plek, plaats and oplaadpunt. OK?
 - **laadpas** instead of oplaadpas or laadkaart. OK?
 - **laadtoestand (SoC)** when SoC is spelled out, instead of accuniveau. OK?
-- **VS / VK** as unit labels, mirroring English "US"/"UK" (was "Amerikaans"/"Brits"). OK?
 - **plan** or **route** for a saved or calculated plan? The file uses both.
 - **live data** written open ("live data-verbinding"), or the spelling-rule form "livedata"?
 - Quotes: the file had no majority („…“, '…', "…"). Is **“…”** right?
