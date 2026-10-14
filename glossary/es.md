@@ -13,7 +13,7 @@ Split by direction of address, as agreed in PR 1359:
   directo"). A tú imperative is accepted where the file already has it
   ("Inténtalo de nuevo"). Never usted on a button.
 - Third-person sentences about objects are not usted.
-- Speaker: **nosotros** where English says "we" ("No hemos podido calcular su plan").
+- Speaker: **nosotros** where English says "we" ("No hemos podido calcular su ruta").
 - Many existing app to user strings still use tú. Apply the split to new and edited strings, and
   make a group of related strings uniform when you edit it.
 - Turn-by-turn `direction_*` strings are left unchanged.
@@ -23,7 +23,7 @@ Split by direction of address, as agreed in PR 1359:
 | English | Use | Avoid |
 | --- | --- | --- |
 | charger (site) | **cargador**; "estación de carga" only where English says charging station | punto de carga, electrolinera, estación |
-| stall | **puesto** | conector, stall, punto |
+| stall | **poste de recarga** (pl. postes de recarga); **poste** where space is tight | puesto, conector, stall, punto |
 | plug type, connector | **tipo de conector**, **conector** | enchufe, clavija |
 | outlet | **toma** | |
 | charging network | **red de carga** (pl. redes de carga); bare **red** in short labels | red de cargadores, operador |
@@ -34,11 +34,13 @@ Split by direction of address, as agreed in PR 1359:
 | charge stop | **parada de carga** | |
 | stop | **parada** | escala, detención |
 | waypoint | **punto intermedio** | punto de paso, parada |
-| route plan (noun) | **plan** (pl. planes) | ruta, trayecto (ruta = route) |
+| route plan (noun) | **ruta** (pl. rutas); "ver ruta" for viewing the whole plan | plan, trayecto |
+| to plan (a route) | **planificar**, or "calcular ruta" where natural | planear |
+| plan (subscription, payment) | **plan** (pl. planes), only in this sense | |
 | amenity (nearby place) | **servicio** | equipamiento, comodidad |
 | amenity (charger attributes) | **servicios** | equipamiento |
-| vehicle | **vehículo** | coche (unless English says car), auto, carro |
-| car | **coche** | auto, carro |
+| vehicle | **vehículo** where English says vehicle | coche, auto, carro |
+| car | **coche** where English says car | vehículo, auto, carro |
 | car battery | **batería** (phone: "batería del teléfono") | pila |
 | SoC | **SoC**; spelled out: **estado de carga (SoC)** | nivel de carga |
 | battery degradation | **degradación de la batería** | |
@@ -59,30 +61,36 @@ Split by direction of address, as agreed in PR 1359:
 | drive (recorded trip) | **trayecto** | conducción, viaje |
 | driving (activity) | **conducción** | |
 | settings | **ajustes**; "configuración" = configuration, OS settings | configuración for ABRP settings |
-| plan settings, plan options | **ajustes del plan**, **opciones del plan** | ajustes de la ruta |
+| plan settings, plan options | **ajustes de la ruta**, **opciones de la ruta** | ajustes del plan |
 | speed limit | **límite de velocidad** | |
 | maximum speed | **velocidad máxima** | |
 | bookmark | **marcador** | favorito |
 | report (an issue) | **informar de**, **informe** | reportar, reporte |
 | button | **botón** | button |
-| feature | **función** | feature, característica |
+| feature (product capability) | **funcionalidad** (pl. funcionalidades); "función" only for a function or operation, and in "en función de" | función, feature, característica |
+| charger features (charger attributes) | **características de cargadores** | |
+| supported (officially, by ABRP, a vehicle or an integration) | **soportado**, **soportada** ("Vehículos soportados", "Funcionalidades soportadas") | compatible |
+| compatible (physical or electrical fit: plug types, adapters) | **compatible** | soportado |
+| recenter (map) | **centrar** ("Centrar mapa") | recentrar, volver a centrar |
 | app | **app** ("aplicación" in long sentences) | |
 | photo | **foto** | imagen (unless English says image) |
-| unit system labels (`imperial`, `british`) | **US**, **UK**, as in English | EE. UU., R. U., Imperial, Británico |
+| unit system labels (`imperial`, `british`) | **Imperial**, **Británico** | US, UK, EE. UU., R. U. |
 
 ## Conventions
 
 - Quotes: **«…»** (no inner space). Placeholders stay inside.
 - Opening `¿` and `¡` always; no exclamation marks beyond the English.
 - No spaced hyphen or dash as punctuation: use a comma, colon or full stop.
-- Sentence case in titles and buttons ("Editar plan guardado", not "Editar Plan Guardado").
+- Sentence case in titles and buttons ("Editar ruta guardada", not "Editar Ruta Guardada").
 - Percent and units as the file has them: `{{soc}}%`, `5 min`, `30 km/h`.
 - Mirror English terminal punctuation. Ellipsis as `...` where English uses it.
 - Compass letters N, E, S, **O** (oeste).
-- Brand names stay as written; feature names are translated ("función Premium").
+- Brand names stay as written; feature names are translated ("funcionalidad Premium").
 - No English leftovers: Feature, Live data, OBD-adapter, Stalls, Upgrade.
 - `premium_option_payment_desription`: "luego {{price}} cada {{duration}}" (works with año and mes).
 - `amenity_stop`: "Parada de {{category}}".
+- "Real-time live data" is «Datos en tiempo real», not a doubled «datos en directo en tiempo real».
+- A quoted UI label matches that label exactly («Guardar mi actividad»).
 
 ## To be confirmed
 
@@ -90,8 +98,6 @@ Open points. Once agreed, move each into the table or conventions above.
 
 Term choices:
 
-- **puesto** for stall, or the industry term "punto de carga"?
-- **plan** for the route plan, rather than **ruta**?
 - **trayecto** for a recorded drive, rather than conducción or viaje?
 - **servicios** for both amenity concepts, or "instalaciones" for charger attributes?
 - **ajustes** for ABRP settings, keeping "configuración" for configuration and OS settings?
