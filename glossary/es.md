@@ -9,7 +9,7 @@ Split by direction of address, as agreed in PR 1359:
 
 - App to user (descriptions, dialogs, errors, notifications, headings that say "your"): **usted**
   ("Seleccione las opciones que quiera evitar", "Sus vehículos").
-- Buttons, menu items, toggles: **infinitive** ("Añadir punto intermedio", "Conectar datos en
+- Buttons, menu items, toggles: **infinitive** ("Añadir punto de ruta", "Conectar datos en
   directo"). A tú imperative is accepted where the file already has it
   ("Inténtalo de nuevo"). Never usted on a button.
 - Third-person sentences about objects are not usted.
@@ -33,7 +33,7 @@ Split by direction of address, as agreed in PR 1359:
 | charging, to charge | **carga**, **cargar**; status **Cargando** | recargar |
 | charge stop | **parada de carga** | |
 | stop | **parada** | escala, detención |
-| waypoint | **punto intermedio** | punto de paso, parada |
+| waypoint | **punto de ruta** | punto intermedio, punto de paso, parada |
 | route plan (noun) | **ruta** (pl. rutas); "ver ruta" for viewing the whole plan | plan, trayecto |
 | to plan (a route) | **planificar**, or "calcular ruta" where natural | planear |
 | plan (subscription, payment) | **plan** (pl. planes), only in this sense | |
