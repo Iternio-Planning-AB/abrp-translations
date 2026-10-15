@@ -33,11 +33,12 @@ companies carry no pronoun.
 | charge (one session) | **opladning** (pl. opladninger) | ladestop, opkrævning |
 | charging, to charge | **opladning**, **oplade / lade op**; status **Lader** | ladning |
 | charge stop | **ladestop** (pl. ladestop) | opladningsstop |
-| waypoint | **viapunkt** | waypoint, vejpunkt, plads |
+| waypoint | **delmål** (pl. delmål; delmålet, delmålene): "Tilføj delmål" | viapunkt, vejpunkt, waypoint, plads |
+| guidepoint (route-shaping point, `add_guidepoint`) | **rutepunkt** ("Tilføj rutepunkt"), kept apart from delmål | delmål |
 | plan (route plan) | **plan** (planen, planer); **planindstillinger** | rute |
 | route | **rute** | |
-| amenity (nearby place) | **interessepunkt** | faciliteter, bekvemmeligheder |
-| amenity (charger attributes) | **faciliteter** | bekvemmeligheder |
+| amenity (nearby place, amenity search) | **facilitet** (pl. faciliteter; common gender: "din facilitet", "faciliteten") | interessepunkt, bekvemmeligheder, sted |
+| amenity (charger attributes) | **faciliteter**, the same word as amenity search (English also uses one word) | bekvemmeligheder |
 | vehicle | **køretøj** | bil (unless English says car) |
 | car battery | **batteri** | |
 | SoC | **SoC**; spelled out: **ladetilstand (SoC)** | opladningstilstand, State of Charge |
@@ -60,7 +61,7 @@ companies carry no pronoun.
 | drive (recorded trip) | **køretur** (pl. køreture) | drev, strækning |
 | location | **placering**; **position** where English says position | lokation, plads |
 | photo, image | **billede** | foto |
-| notification | **advisering** | notifikation |
+| notification | **notifikation** (pl. notifikationer); compound **Opladningsnotifikationer** | advisering |
 | cancel | **Annuller** | Afbryd |
 | dismiss | **Luk**, **Skjul** | Afbryd |
 | settings, preferences | **indstillinger**, **præferencer** | |
@@ -91,10 +92,7 @@ Proposals not yet checked by a native speaker. Once one is agreed, move it into 
 Term choices:
 
 - **plan** for the route plan, keeping **rute** for routes? The file was split roughly evenly.
-- **viapunkt** for waypoint, and `add_guidepoint` = "Tilføj rutepunkt" kept apart from it?
 - **ladepunkt** for stall (no previous majority among ladestander, ladebås, lader, plads)?
-- **interessepunkt** for amenity search results, or "sted"? Charger attributes (`amenities`,
-  `charger_amenity_*`) stay **faciliteter**.
 - **forbinde** over *tilslutte*, and **tilknytte** over *linke*?
 - **livedata** as one word, including compounds?
 - **ladetilstand (SoC)** and **degradering** over *nedbrydning*?
@@ -114,6 +112,5 @@ Individual strings:
   `eta_arrival` = "Ankomst {{arrival}}"?
 - `obd_pid_map_results` and other mapping keys as "Tilknyt…/Tilknytninger";
   `oauth_error_invalid_scope` keeps "scope"?
-- `amenities_wp_button` = "Oplader med interessepunkter i nærheden"; `charger_stops` = "ladestop"
-  (lower case)?
+- `charger_stops` = "ladestop" (lower case)?
 - `live_data_deauthorized_*`: does "tilknytte" read too stiffly for re-linking?
