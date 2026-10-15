@@ -21,8 +21,8 @@ sicuri") and *Lei* ("Selezioni", "Come giudica") are outliers to fix.
 
 | English | Use | Avoid |
 | --- | --- | --- |
-| charger, charging station (site) | **colonnina** (pl. colonnine) | caricatore, caricabatterie, stazione di ricarica |
-| stall | **stallo** (pl. stalli) | Stall, punto di ricarica |
+| charger, charging station (site) | **stazione di ricarica** (pl. stazioni di ricarica); short **stazione/stazioni** only in tight, unambiguous labels (tabs, chips) | colonnina, caricatore, caricabatterie |
+| stall (one charging point at a site) | **stallo** (pl. stalli) | Stall, punto di ricarica, stazione |
 | plug type, connector | **tipo di connettore**, **connettore** | presa, spina |
 | outlet | **presa** | |
 | charging network | **rete di ricarica**, **rete** | gestore, rete di caricatori, network |
@@ -42,8 +42,10 @@ sicuri") and *Lei* ("Selezioni", "Come giudica") are outliers to fix.
 | phone | **telefono** | smartphone, cellulare |
 | dongle, OBD adapter | **dongle**, **adattatore OBD** | OBD-adapter |
 | subscription | **abbonamento** | iscrizione |
-| live data (feature) | **dati live** | dati in tempo reale, dati dal vivo |
+| live data (feature) | **dati in tempo reale** | dati live, dati dal vivo |
 | real-time (traffic, weather) | **in tempo reale** | live |
+| live data sharing | **condivisione dati in tempo reale** | condivisione dati live |
+| live drive (shared position) | **viaggio in tempo reale** | viaggio live |
 | sign in, log in | **accedi**, **accesso** | login, fai il login |
 | sign up | **registrati** | iscriviti |
 | connect | **collegare**; noun **connessione** | connettere |
@@ -53,7 +55,7 @@ sicuri") and *Lei* ("Selezioni", "Come giudica") are outliers to fix.
 | drive (recorded trip) | **tragitto** | percorso, viaggio |
 | trip, journey | **viaggio** | |
 | plan / to plan | **piano** / **pianificare** | itinerario |
-| bookmark | **segnalibro**; "aggiunto ai segnalibri" | preferito |
+| bookmark | **preferito** (pl. preferiti): "Aggiungi ai preferiti", "Nei preferiti" | segnalibro |
 | button | **pulsante** | tasto, bottone |
 | chart, graph | **grafico** | grafica |
 | delete / remove | **elimina** / **rimuovi** | cancella |
@@ -78,23 +80,11 @@ sicuri") and *Lei* ("Selezioni", "Come giudica") are outliers to fix.
 
 ## To be confirmed
 
-- **colonnina** for the charger site (most used in the file). Or "stazione di ricarica", to keep
-  the site apart from a single post?
-- **tappa** for waypoint: the file mixed tappa intermedia, fermata, punto intermedio and punto di
-  passaggio. OK?
-- **dati live** rather than "dati in tempo reale" for the feature name. OK?
-- **dotazioni** for charger attributes, keeping **servizi** for nearby places. Natural?
-- **associare** for link, so it stays apart from collegare (connect). It reads stiffly in
-  `live_data_deauthorized_*`. Better wording?
-- **tragitto** for a recorded drive (the file mixed viaggio, percorso and guida). OK?
-- **degrado** rather than usura, **segnalibro** rather than preferito. OK?
 - Quotes: the file had no majority ("…", '…', „…“). Is **«…»** right?
-- **US / UK** as unit labels, mirroring English (was "Imperiale" / "Britannico"). OK?
 - `add_guidepoint` = "punto guida", `next_step` = "Prossimo tratto" (a plan leg, not a tappa).
   Natural?
 - `driving_v2_action_itinerary` = "Itinerario" (English says Itinerary), `driving_v2_end_drive` =
-  "Fine", `driving_v2_sheet_label` = "Pannello inferiore", `driving_v2_share_live_drive*` =
-  "Viaggio live". OK?
+  "Fine", `driving_v2_sheet_label` = "Pannello inferiore". OK?
 - `upgrade` = "Passa a Premium", `clear` = "Azzera", `photo_example_bad` = "Non buono",
   `cookies_reject` = "Rifiuta". OK?
 - `charger_amenity_dog_friendly`, `rate_charger_dog_question` = "Cani ammessi"; `toilet` stays
