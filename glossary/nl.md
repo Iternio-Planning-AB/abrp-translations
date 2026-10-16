@@ -39,7 +39,7 @@ or flow.
 | amenity | **voorziening** | faciliteit, Food |
 | vehicle | **voertuig** | auto (unless English says car) |
 | car battery | **accu** (accucapaciteit, accudegradatie) | batterij (phone only: Batterijbesparing) |
-| SoC | **SoC**; spelled out: **laadtoestand (SoC)** | accuniveau, batterijniveau, State of Charge |
+| SoC | **SoC**; spelled out: **accuniveau (SoC)** | laadtoestand, batterijniveau, State of Charge |
 | phone | **telefoon** | smartphone, toestel |
 | device | **apparaat** | toestel |
 | dongle, OBD adapter | mirror English: **dongle**, **adapter** ("OBD-adapter") | |
@@ -52,11 +52,11 @@ or flow.
 | connect | **verbinden** | connecten, Connect |
 | link (account, token, vehicle) | **koppelen** | |
 | connection (live data source) | **verbinding** | connectie |
-| plan (noun) | **plan** (pl. plannen) | plans |
-| plan settings, plan options | **planinstellingen**, **planopties** | "Route instellingen" |
+| plan (noun) | **route** (pl. routes); the verb stays **plannen** | plan, plans |
+| plan settings, plan options | **route-instellingen**, **route-opties** | planinstellingen, "Route instellingen" |
 | odometer | **kilometerstand** | "totale afstand meter" |
 | speed limit | **snelheidslimiet** | |
-| maximum speed (setting) | **maximale snelheid** | maximumsnelheid |
+| maximum speed (setting) | **maximumsnelheid** | maximale snelheid |
 | trip, journey | **reis** | |
 | drive (recorded trip) | **rit** (pl. ritten) | |
 | button | **knop** | button |
@@ -89,14 +89,11 @@ or flow.
   be more natural?
 - **laadpunt** for stall: the file mixed plek, plaats and oplaadpunt. OK?
 - **laadpas** instead of oplaadpas or laadkaart. OK?
-- **laadtoestand (SoC)** when SoC is spelled out, instead of accuniveau. OK?
-- **plan** or **route** for a saved or calculated plan? The file uses both.
 - **live data** written open ("live data-verbinding"), or the spelling-rule form "livedata"?
 - Quotes: the file had no majority („…“, '…', "…"). Is **“…”** right?
 - `charge` = "Laadsessie" in the calendar legend next to "Rijden". Would "Laden" pair better?
 - `driving_v2_end_drive` = "Stoppen", `driving_v2_sheet_label` = "Onderpaneel",
-  `driving_v2_charge_rate_prompt` = "Beoordelen". Natural?
-- `preferred_min_arrival_battery` uses laadtoestand (battery read as SoC). Correct?
+  `driving_v2_charge_rate_prompt` = "Beoordelen" (the label above the star rating of a charge). Natural?
 - `request` = "Aanvragen", `upgrade` = "Upgraden" (live data buttons). OK?
 - `access_token`: "refresh token" kept as a token type; `choose_referral_code` =
   "Verwijzingscode kiezen". OK?
