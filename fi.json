@@ -1193,7 +1193,7 @@
   "amenity_form_timing": "Pysähdy",
   "send": "Lähetä",
   "destination_arrival_soc_description_detailed": "Akun varauksen (Akun varaus/SoC) pienin sallittu taso saavuttaessa lopulliseen päämäärään.",
-  "charger_arrival_soc_description_detailed": "Akun varauksen (Akun varaus/SoC) pienin sallittu taso saavuttaessa mille tahansa latauspisteelle matkan aikana."
+  "charger_arrival_soc_description_detailed": "Akun varaus (SoC) pienin sallittu taso saavuttaessa mille tahansa latauspisteelle matkan aikana.",
   "amenity_add_plan": "Lisää suunnitelmaan",
   "amenity_options": "Palveluvaihtoehdot",
   "add_amentity": "Lisää palvelu",
