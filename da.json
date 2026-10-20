@@ -18,7 +18,7 @@
   "device_serial_number_needed": "For at begynde, så behøver vi dit {{deviceName}}s serienummer",
   "connect_device_to_ABRP": "Kobler din {{deviceName}} til A Better Routeplanner",
   "register_device": "Registrer enhed",
-  "initial_device_configuration": "Når din enhed er registreret, tag din bil og kør en kortere strækning, ca. 5 minuter, så du {{deviceName}} kan lære din bil at kende. Du vil snart kunne se, at data tilføjes. Hvis data ikke vises efter den første køretur, sluk {{deviceName}}, lad den være slukket i 30 sekunder, tænd igen og prøv at køre endnu en kort tur.",
+  "initial_device_configuration": "Når din enhed er registreret, tag din bil og kør en kortere strækning, ca. 5 minutter, så du {{deviceName}} kan lære din bil at kende. Du vil snart kunne se, at data tilføjes. Hvis data ikke vises efter den første køretur, sluk {{deviceName}}, lad den være slukket i 30 sekunder, tænd igen og prøv at køre endnu en kort tur.",
   "device_registration_successful": "Din {{deviceName}} er registreret!",
   "order_device_here": "Bestil her!",
   "no_device": "Har du ikke en {{deviceName}} endnu?",
