@@ -2011,7 +2011,7 @@
   "driving_v2_action_itinerary": "Itinerari",
   "driving_v2_action_battery": "Bateria",
   "driving_v2_action_live_data": "Dades en temps real",
-  "driving_v2_charge_rate_prompt": "Valoració",
+  "driving_v2_charge_rate_prompt": "Taxa de càrrega",
   "driving_v2_modal_sound_off": "So desactivat",
   "driving_v2_modal_sound_alerts_only": "Només alertes",
   "driving_v2_modal_sound_on": "So activat",
