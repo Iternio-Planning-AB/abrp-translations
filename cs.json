@@ -2038,7 +2038,7 @@
   "picker_set_time": "Nastavit čas",
   "picker_hours": "Hodiny",
   "picker_minutes": "Minuty",
-  "picker_period": "Dopoledne/odpoledne",
+  "picker_period": "Dopoledne/Odpoledne",
   "picker_hours_unit_one": "hodina",
   "picker_hours_unit_other": "hodin",
   "waypoint_settings_discard_title": "Zahodit změny?",
@@ -2058,9 +2058,9 @@
   "waypoint_settings_power_kw": "{{power}} kW",
   "waypoint_settings_power_kw_accessibility": "{{power}} kilowattů",
   "waypoint_settings_power_needed": "Pro uložení nabíjení na této zastávce je nutné nastavit výkon",
-  "selected_vehicle": "Selected vehicle",
-  "recents": "Recents",
-  "more_stops_one": "1 more stop",
-  "more_stops_other": "{{count}} more stops",
-  "apply": "Apply"
+  "selected_vehicle": "Vybrané vozidlo",
+  "recents": "Poslední",
+  "more_stops_one": "1 další zastávka",
+  "more_stops_other": "{{count}} dalších zastávek",
+  "apply": "Použít"
 }
