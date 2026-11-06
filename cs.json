@@ -1125,7 +1125,7 @@
   "subscription_move_error": "Chyba při přesunu předplatného",
   "subscription_move_error_description": "Omlouváme se, ale aktuálně nemůžeme zpracovat přesun Vašeho předplatného.",
   "subscription_connected_to_other_account_description": "Už máte aktivní předplatné z {{platform}}, ale to je propojeno s jiným účtem ABRP. Místo toho byste se měli přihlásit do tohoto účtu.",
-  "subscription_connected_to_other_account_associated_hint": "Pro přístup k tomuto účtu ABRP musíte také použít tyto metody přihlášení",
+  "subscription_connected_to_other_account_associated_hint": "Pro přístup k tomuto účtu ABRP můžete také použít tyto metody přihlášení",
   "subscription_connected_to_other_account_email_hint": "Je to identifikováno podle",
   "move_subscription_button_text": "Přesunout předplatné do tohoto účtu ABRP",
   "live_data_share_create_group": "Vytvořit skupinu",
