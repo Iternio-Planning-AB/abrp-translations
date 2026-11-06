@@ -9,7 +9,7 @@ language they review and flag new translations that contradict it.
 | [`concepts.md`](concepts.md) | What the English terms mean (charger vs. stall vs. plug, …). Shared by every language. |
 | `<language>.md` | The chosen terms, register and style rules for one language, named like the translation file: `de.md` for `de.json`, `pt-br.md` for `pt-br.json`. |
 
-Available languages: [Danish](da.md), [Dutch](nl.md), [French](fr.md), [German](de.md),
+Available languages: [Croatian](hr.md), [Danish](da.md), [Dutch](nl.md), [French](fr.md), [German](de.md),
 [Italian](it.md), [Spanish](es.md), [Turkish](tr.md).
 
 ## Using a glossary
