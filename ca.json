@@ -2096,8 +2096,8 @@
   "better_route_replace_next_charger_to_arrive_with": "Voleu canviar el carregador següent per a arribar amb {{charge}}%?",
   "better_route_view_all_changes": "Mostra tots els canvis",
   "better_route_view_next_change": "Mostra el canvi següent",
-  "better_route_proposed": "Proposed",
-  "better_route_update_plan_question": "Update plan?",
+  "better_route_proposed": "Proposat",
+  "better_route_update_plan_question": "Voleu actualitzar el pla?",
   "direction_arrival_inline": "la destinació és {{direction_variant}}",
   "direction_arrival_straight": "La destinació és recte endavant",
   "direction_arrival_straight_inline": "la destinació és recte endavant",
@@ -2121,5 +2121,6 @@
   "direction_arrival_at_ferry_no_dir": "Heu arribat a la terminal del ferri",
   "direction_arrival_at_ferry_no_dir_inline": "arribareu a la terminal del ferri",
   "carmirror_android_auto_soc_in_tenths": "Bateria AA ÷ 10",
-  "carmirror_android_auto_soc_in_tenths_description": "Per a vehicles que envien l'estat de càrrega 10× massa alt"
+  "carmirror_android_auto_soc_in_tenths_description": "Per a vehicles que envien l'estat de càrrega 10× massa alt",
+  "eventlog": "Registre d'esdeveniments"
 }
