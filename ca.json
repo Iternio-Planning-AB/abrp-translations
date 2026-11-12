@@ -2129,7 +2129,7 @@
   "better_route_replace_next_charger_to_arrive_with": "Voleu canviar el carregador següent per a arribar amb {{charge}}%?",
   "better_route_view_all_changes": "Mostra tots els canvis",
   "better_route_view_next_change": "Mostra el canvi següent",
-  "better_route_proposed": "Proposed",
-  "eventlog": "Eventlog",
-  "vehicle_selector_year_other": "Other"
+  "better_route_proposed": "Proposat",
+  "eventlog": "Registre d'esdeveniments",
+  "vehicle_selector_year_other": "Altres"
 }
