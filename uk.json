@@ -2130,7 +2130,7 @@
   "better_route_replace_next_charger_to_arrive_with": "Замінити наступну зарядну станцію, щоб прибути із зарядом {{charge}}%?",
   "better_route_view_all_changes": "Переглянути всі зміни",
   "better_route_view_next_change": "Переглянути наступну зміну",
-  "better_route_proposed": "Proposed",
+  "better_route_proposed": "Запропоновано",
   "eventlog": "Eventlog",
   "vehicle_selector_year_other": "Other"
 }
