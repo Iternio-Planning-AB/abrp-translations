@@ -2110,7 +2110,7 @@
   "apply": "Uporabi",
   "better_route_avoid_traffic_question": "Spremenim pot, da se izognem prometu?",
   "better_route_skip_charger_question": "Preskočim polnilnico?",
-  "better_route_replace_charger_to_arrive_with": "Zamenjam polnilnico, da bo ob prihodu napolnjenost {{charge}} %?",
+  "better_route_replace_charger_to_arrive_with": "Zamenjam polnilnico, da bo ob prihodu napolnjenost {{charge}}%?",
   "better_route_add_charger_to_arrive_with": "Dodam polnilnico, da bo ob prihodu napolnjenost {{charge}} %?",
   "better_route_avoid_busy_charger_question": "Se izognem zasedeni polnilnici?",
   "better_route_replace_charger_fewer_stops_question": "Zamenjam polnilnico, da bo postankov manj?",
