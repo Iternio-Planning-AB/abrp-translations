@@ -2127,7 +2127,7 @@
   "better_route_replace_chargers_to_arrive_with": "Zamenjam polnilnice, da bo ob prihodu napolnjenost {{charge}}%?",
   "better_route_add_chargers_to_arrive_with": "Dodam polnilnice, da bo ob prihodu napolnjenost {{charge}}%?",
   "better_route_more_chargers": "+ še {{count}}",
-  "better_route_replace_next_charger_to_arrive_with": "Zamenjam naslednjo polnilnico, da bo ob prihodu napolnjenost {{charge}} %?",
+  "better_route_replace_next_charger_to_arrive_with": "Zamenjam naslednjo polnilnico, da bo ob prihodu napolnjenost {{charge}}%?",
   "better_route_view_all_changes": "Prikaži vse spremembe",
   "better_route_view_next_change": "Prikaži naslednjo spremembo",
   "better_route_proposed": "Predlagano",
