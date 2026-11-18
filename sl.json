@@ -2113,7 +2113,7 @@
   "better_route_replace_charger_to_arrive_with": "Zamenjam polnilnico, da bo ob prihodu napolnjenost {{charge}}%?",
   "better_route_add_charger_to_arrive_with": "Dodam polnilnico, da bo ob prihodu napolnjenost {{charge}}%?",
   "better_route_avoid_busy_charger_question": "Se izognem zasedeni polnilnici?",
-  "better_route_replace_charger_fewer_stops_question": "Zamenjam polnilnico, da bo postankov manj?",
+  "better_route_replace_charger_fewer_stops_question": "Zamenjam polnilnico, da bo manj postankov?",
   "voice_stream_error_unknown": "Glasovni vnos trenutno ni na voljo. Poskusite znova.",
   "voice_stream_error_session_cap": "Čas glasovne seje je potekel. Tapnite mikrofon za začetek nove seje.",
   "voice_stream_error_stt_failure": "Oprostite, nisem razumel. Poskusite znova.",
