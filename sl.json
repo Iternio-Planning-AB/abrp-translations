@@ -493,7 +493,7 @@
   "direction_arrival_at_ferry_straight_inline": "trajektni terminal je naravnost naprej",
   "direction_arrival_at_ferry_no_dir": "Prispeli ste do trajektnega terminala",
   "direction_arrival_at_ferry_no_dir_inline": "boste prispeli do trajektnega terminala",
-  "direction_arrival_charger": "Polnite {{duration}}, da dosežete {{to_soc}} % napolnjenosti.",
+  "direction_arrival_charger": "Polnite {{duration}}, da dosežete {{to_soc}}% napolnjenosti.",
   "direction_offramp": "Pojdite na klančino {{direction}}",
   "direction_offramp_ref_destination": "Pojdite na klančino {{direction}} na {{ref}} proti {{destination}}",
   "direction_offramp_destination": "Pojdite na klančino {{direction}} proti {{destination}}",
