@@ -2124,7 +2124,7 @@
   "better_route_replace_chargers_question": "Zamenjam polnilnice?",
   "better_route_add_chargers_question": "Dodam polnilnice?",
   "better_route_skip_chargers_question": "Preskočim polnilnice?",
-  "better_route_replace_chargers_to_arrive_with": "Zamenjam polnilnice, da bo ob prihodu napolnjenost {{charge}} %?",
+  "better_route_replace_chargers_to_arrive_with": "Zamenjam polnilnice, da bo ob prihodu napolnjenost {{charge}}%?",
   "better_route_add_chargers_to_arrive_with": "Dodam polnilnice, da bo ob prihodu napolnjenost {{charge}} %?",
   "better_route_more_chargers": "+ še {{count}}",
   "better_route_replace_next_charger_to_arrive_with": "Zamenjam naslednjo polnilnico, da bo ob prihodu napolnjenost {{charge}} %?",
