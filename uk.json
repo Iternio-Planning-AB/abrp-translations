@@ -2026,14 +2026,14 @@
   "driving_v2_modal_sound_on": "Звук увімкнено",
   "driving_v2_soc_decrease": "Зменшити рівень заряду батареї",
   "driving_v2_soc_increase": "Збільшити рівень заряду батареї",
-  "driving_v2_map_compass_n": "П",
-  "driving_v2_map_compass_ne": "NE",
+  "driving_v2_map_compass_n": "Пн",
+  "driving_v2_map_compass_ne": "ПнС",
   "driving_v2_map_compass_e": "С",
-  "driving_v2_map_compass_se": "SE",
+  "driving_v2_map_compass_se": "ПдС",
   "driving_v2_map_compass_s": "Пд",
-  "driving_v2_map_compass_sw": "SW",
+  "driving_v2_map_compass_sw": "ПдЗ",
   "driving_v2_map_compass_w": "З",
-  "driving_v2_map_compass_nw": "NW",
+  "driving_v2_map_compass_nw": "ПнЗ",
   "driving_v2_map_overview_north_up": "Північ завжди вгорі",
   "driving_v2_map_overview_follow_heading": "Повертати карту за напрямком руху",
   "driving_v2_map_recenter": "Повернути карту до поточного місцезнаходження",
@@ -2131,6 +2131,6 @@
   "better_route_view_all_changes": "Переглянути всі зміни",
   "better_route_view_next_change": "Переглянути наступну зміну",
   "better_route_proposed": "Запропоновано",
-  "eventlog": "Eventlog",
-  "vehicle_selector_year_other": "Other"
+  "eventlog": "Журнал подій",
+  "vehicle_selector_year_other": "Інший"
 }
