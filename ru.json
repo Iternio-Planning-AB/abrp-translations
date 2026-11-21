@@ -2027,13 +2027,13 @@
   "driving_v2_soc_decrease": "Уменьшить уровень заряда батареи",
   "driving_v2_soc_increase": "Увеличить уровень заряда батареи",
   "driving_v2_map_compass_n": "С",
-  "driving_v2_map_compass_ne": "NE",
+  "driving_v2_map_compass_ne": "СВ",
   "driving_v2_map_compass_e": "В",
-  "driving_v2_map_compass_se": "SE",
+  "driving_v2_map_compass_se": "ЮВ",
   "driving_v2_map_compass_s": "Ю",
-  "driving_v2_map_compass_sw": "SW",
+  "driving_v2_map_compass_sw": "ЮЗ",
   "driving_v2_map_compass_w": "З",
-  "driving_v2_map_compass_nw": "NW",
+  "driving_v2_map_compass_nw": "СЗ",
   "driving_v2_map_overview_north_up": "Север всегда вверху",
   "driving_v2_map_overview_follow_heading": "Поворачивать карту по направлению движения",
   "driving_v2_map_recenter": "Вернуть карту к текущему местоположению",
@@ -2131,6 +2131,6 @@
   "better_route_view_all_changes": "Посмотреть все изменения",
   "better_route_view_next_change": "Посмотреть следующее изменение",
   "better_route_proposed": "Предложено",
-  "eventlog": "Eventlog",
-  "vehicle_selector_year_other": "Other"
+  "eventlog": "Журнал событий",
+  "vehicle_selector_year_other": "Другой"
 }
